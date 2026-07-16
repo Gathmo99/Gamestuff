@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Steam Sale Watcher</title>
+<link rel="stylesheet" href="style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎮</text></svg>">
+</head>
+<body>
+<div class="wrap">
+  <header class="hero">
+    <div>
+      <h1>🎮 Steam Sale Watcher</h1>
+      <div class="subtitle" id="last-updated">Lade Daten...</div>
+    </div>
+    <button id="theme-toggle" title="Theme umschalten">🌙</button>
+  </header>
+
+  <div class="stats">
+    <div class="stat-card">
+      <div class="value"><span id="stat-discounts">–</span></div>
+      <div class="label">Rabatte geladen <span id="stat-discounts-total"></span></div>
+    </div>
+    <div class="stat-card">
+      <div class="value" id="stat-free">–</div>
+      <div class="label">aktuell kostenlos</div>
+    </div>
+    <div class="stat-card">
+      <div class="value" id="stat-wishlist">–</div>
+      <div class="label">auf der Wunschliste</div>
+    </div>
+  </div>
+
+  <nav class="tabs">
+    <button class="tab-btn active" data-tab="discounts">Rabatte</button>
+    <button class="tab-btn" data-tab="free">Aktuell kostenlos</button>
+    <button class="tab-btn" data-tab="wishlist">Wunschliste</button>
+  </nav>
+
+  <div class="wishlist-help" id="wishlist-help" style="display:none">
+    Spiele zur Wunschliste hinzufügen: <code>wishlist.json</code> im Repository bearbeiten
+    (Format: <code>[{"appid": 1091500, "name": "Cyberpunk 2077"}]</code>) und pushen.
+    Die Preise werden beim nächsten automatischen Update übernommen.
+  </div>
+
+  <div class="toolbar">
+    <input type="search" id="search-input" placeholder="Suchen...">
+    <span class="count" id="result-count"></span>
+  </div>
+
+  <div class="table-scroll">
+    <table>
+      <thead>
+        <tr id="table-head"></tr>
+      </thead>
+      <tbody id="table-body">
+        <tr class="loading-row"><td>Lade Daten...</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <footer>
+    Daten von der öffentlichen Steam-Store-API und dem Xbox-Game-Pass-Katalog.
+    Automatisch aktualisiert per GitHub Actions.
+  </footer>
+</div>
+<script src="app.js"></script>
+</body>
+</html>

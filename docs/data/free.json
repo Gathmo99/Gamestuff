@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "appid": "1741160",
+      "name": "Catch Me!",
+      "discount": 100,
+      "orig_price_str": "9,99€",
+      "final_price_str": "0,00€",
+      "orig_cents": 999,
+      "final_cents": 0,
+      "gamepass": ""
+    }
+  ]
+}
