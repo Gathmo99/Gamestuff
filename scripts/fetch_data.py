@@ -7,9 +7,7 @@ import json
 import os
 import re
 import sys
-import time
 import urllib.error
-import urllib.parse
 import urllib.request
 from datetime import datetime, timezone
 
@@ -30,7 +28,6 @@ GAMEPASS_SIGL_IDS = {
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 REPO_ROOT = os.path.dirname(SCRIPT_DIR)
 DATA_DIR = os.path.join(REPO_ROOT, "docs", "data")
-WISHLIST_CONFIG = os.path.join(REPO_ROOT, "wishlist.json")
 
 RE_APPID = re.compile(r'data-ds-appid="(\d+)"')
 RE_TITLE = re.compile(r'<span class="title">(.*?)</span>', re.S)
@@ -143,59 +140,6 @@ def fetch_free_games(max_pages=30):
     return items
 
 
-def fetch_appdetails_price(appid):
-    url = (
-        "https://store.steampowered.com/api/appdetails"
-        f"?appids={appid}&cc={STEAM_CC}&l={STEAM_LANG}&filters=price_overview"
-    )
-    data = http_get_json(url)
-    entry = data.get(str(appid)) or {}
-    if not entry.get("success"):
-        return None
-    entry_data = entry.get("data")
-    price = entry_data.get("price_overview") if isinstance(entry_data, dict) else None
-    if not price:
-        return {
-            "discount": 0, "orig_cents": 0, "final_cents": 0,
-            "orig_price_str": "Kostenlos/F2P", "final_price_str": "Kostenlos/F2P",
-        }
-    orig_cents = price.get("initial", price.get("final", 0))
-    final_cents = price.get("final", 0)
-    return {
-        "discount": price.get("discount_percent", 0),
-        "orig_cents": orig_cents,
-        "final_cents": final_cents,
-        "orig_price_str": format_cents(orig_cents),
-        "final_price_str": format_cents(final_cents),
-    }
-
-
-def fetch_wishlist():
-    if not os.path.exists(WISHLIST_CONFIG):
-        return []
-    with open(WISHLIST_CONFIG, "r", encoding="utf-8") as f:
-        entries = json.load(f)
-    items = []
-    for entry in entries:
-        appid = entry["appid"]
-        name = entry["name"]
-        try:
-            price = fetch_appdetails_price(appid)
-        except (urllib.error.URLError, TimeoutError, json.JSONDecodeError) as exc:
-            log(f"  Wunschliste: Fehler bei {name} ({appid}): {exc}")
-            price = None
-        if price is None:
-            items.append({
-                "appid": appid, "name": name,
-                "discount": 0, "orig_cents": 0, "final_cents": 0,
-                "orig_price_str": "?", "final_price_str": "nicht gefunden",
-            })
-        else:
-            items.append({"appid": appid, "name": name, **price})
-        time.sleep(0.2)
-    return items
-
-
 def normalize_title(name):
     if not name:
         return ""
@@ -284,13 +228,13 @@ def main():
     free_games = fetch_free_games()
     enrich_with_gamepass(free_games, catalog)
 
-    log("Lade Wunschliste...")
-    wishlist = fetch_wishlist()
-    enrich_with_gamepass(wishlist, catalog)
+    # normalized title -> sorted platform list, used by the website to look up Game Pass
+    # status for wishlist games (those are fetched live client-side, not pre-enriched here)
+    gamepass_export = {title: sorted(platforms) for title, platforms in catalog.items()}
 
     write_json("discounts.json", {"items": discounts, "total": total_discounts})
     write_json("free.json", {"items": free_games})
-    write_json("wishlist.json", {"items": wishlist})
+    write_json("gamepass.json", gamepass_export)
     write_json("meta.json", {"updated": datetime.now(timezone.utc).isoformat()})
 
     log("Fertig.")

@@ -6,7 +6,6 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - "wishlist.json"
       - "scripts/fetch_data.py"
 
 permissions:

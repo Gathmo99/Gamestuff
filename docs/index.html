@@ -38,10 +38,21 @@
     <button class="tab-btn" data-tab="wishlist">Wunschliste</button>
   </nav>
 
-  <div class="wishlist-help" id="wishlist-help" style="display:none">
-    Spiele zur Wunschliste hinzufügen: <code>wishlist.json</code> im Repository bearbeiten
-    (Format: <code>[{"appid": 1091500, "name": "Cyberpunk 2077"}]</code>) und pushen.
-    Die Preise werden beim nächsten automatischen Update übernommen.
+  <div class="add-game-panel" id="add-game-panel" style="display:none">
+    <button id="add-game-toggle" class="add-toggle-btn">+ Spiel zur Wunschliste hinzufügen</button>
+    <div class="add-form" id="add-game-form">
+      <div class="add-form-row">
+        <input type="text" id="add-game-input" placeholder="Spielname suchen...">
+        <button id="add-game-search-btn">Suchen</button>
+      </div>
+      <div class="add-results" id="add-game-results"></div>
+      <p class="add-hint">
+        Deine Wunschliste wird nur lokal in diesem Browser gespeichert (localStorage) –
+        nicht im Repository, nicht auf einem Server. Für die Live-Suche und Preise wird ein
+        öffentlicher CORS-Proxy angefragt, da Steam selbst keine Browser-Anfragen von fremden
+        Seiten erlaubt.
+      </p>
+    </div>
   </div>
 
   <div class="toolbar">
@@ -65,6 +76,17 @@
     Automatisch aktualisiert per GitHub Actions.
   </footer>
 </div>
+
+<div class="consent-banner" id="consent-banner" style="display:none">
+  <p>
+    Diese Seite setzt keine Cookies und lädt kein Tracking. Dein Theme und deine Wunschliste
+    werden nur lokal in deinem Browser gespeichert (localStorage), sonst nirgends. Für die
+    Wunschliste wird bei Bedarf ein externer CORS-Proxy angefragt, um Live-Preise von Steam zu
+    laden.
+  </p>
+  <button id="consent-accept">Verstanden</button>
+</div>
+
 <script src="app.js"></script>
 </body>
 </html>
