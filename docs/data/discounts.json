@@ -3541,16 +3541,6 @@
       "gamepass": ""
     },
     {
-      "appid": "4855760",
-      "name": "Tung Tung Tung Survival",
-      "discount": 40,
-      "orig_price_str": "2,09€",
-      "final_price_str": "1,25€",
-      "orig_cents": 209,
-      "final_cents": 125,
-      "gamepass": ""
-    },
-    {
       "appid": "1975580",
       "name": "Wild Woods",
       "discount": 67,
@@ -3638,6 +3628,16 @@
       "final_price_str": "13,29€",
       "orig_cents": 1899,
       "final_cents": 1329,
+      "gamepass": ""
+    },
+    {
+      "appid": "4855760",
+      "name": "Tung Tung Tung Survival",
+      "discount": 40,
+      "orig_price_str": "2,09€",
+      "final_price_str": "1,25€",
+      "orig_cents": 209,
+      "final_cents": 125,
       "gamepass": ""
     },
     {
@@ -11641,16 +11641,6 @@
       "gamepass": ""
     },
     {
-      "appid": "2685570",
-      "name": "Plus Ultra: Legado",
-      "discount": 80,
-      "orig_price_str": "14,99€",
-      "final_price_str": "2,99€",
-      "orig_cents": 1499,
-      "final_cents": 299,
-      "gamepass": ""
-    },
-    {
       "appid": "2828490",
       "name": "High Seas, High Profits!",
       "discount": 40,
@@ -11658,6 +11648,16 @@
       "final_price_str": "8,87€",
       "orig_cents": 1479,
       "final_cents": 887,
+      "gamepass": ""
+    },
+    {
+      "appid": "2685570",
+      "name": "Plus Ultra: Legado",
+      "discount": 80,
+      "orig_price_str": "14,99€",
+      "final_price_str": "2,99€",
+      "orig_cents": 1499,
+      "final_cents": 299,
       "gamepass": ""
     },
     {
@@ -15358,6 +15358,16 @@
       "final_price_str": "1,03€",
       "orig_cents": 689,
       "final_cents": 103,
+      "gamepass": ""
+    },
+    {
+      "appid": "4856190",
+      "name": "Tech Store & Repair Simulator",
+      "discount": 40,
+      "orig_price_str": "4,15€",
+      "final_price_str": "2,49€",
+      "orig_cents": 415,
+      "final_cents": 249,
       "gamepass": ""
     },
     {
@@ -19989,17 +19999,7 @@
       "orig_cents": 1777,
       "final_cents": 1155,
       "gamepass": ""
-    },
-    {
-      "appid": "1136020",
-      "name": "Cannibal Cuisine",
-      "discount": 90,
-      "orig_price_str": "12,99€",
-      "final_price_str": "1,29€",
-      "orig_cents": 1299,
-      "final_cents": 129,
-      "gamepass": ""
     }
   ],
-  "total": 11450
+  "total": 11451
 }
