@@ -19,7 +19,8 @@ USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
     "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 )
-DISCOUNTS_LIMIT = 500
+DISCOUNTS_LIMIT = 2000
+DISCOUNTS_MIN_PERCENT = 20
 
 GAMEPASS_MARKET = "DE"
 GAMEPASS_LANGUAGE = "de-de"
@@ -153,7 +154,7 @@ def parse_search_html(page_html):
     return items
 
 
-def fetch_discounts(limit):
+def fetch_discounts(limit, min_percent=DISCOUNTS_MIN_PERCENT):
     items = []
     start = 0
     total = 0
@@ -162,7 +163,7 @@ def fetch_discounts(limit):
         page_items = parse_search_html(page_html)
         if not page_items:
             break
-        items.extend(page_items)
+        items.extend(it for it in page_items if it["discount"] >= min_percent)
         start += PAGE_SIZE
         log(f"  Rabatte: {min(len(items), limit)} geladen...")
         if start >= total:
