@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "appid": "EP0002-PPSA02177_00-TH12RTHEGAME0001",
+      "name": "Tony Hawk's™ Pro Skater™ 1 + 2 - Cross-Gen-Deluxe-Bundle",
+      "orig_cents": 5499,
+      "orig_price_str": "€54,99"
+    },
+    {
+      "appid": "EP0177-PPSA02384_00-LIKEADRAGON00000",
+      "name": "Yakuza: Like a Dragon PS4 & PS5",
+      "orig_cents": 1999,
+      "orig_price_str": "€19,99"
+    },
+    {
+      "appid": "EP0700-CUSA05952_00-LITTLENIGHTMARES",
+      "name": "Little Nightmares",
+      "orig_cents": 0,
+      "orig_price_str": "Kostenlos"
+    }
+  ]
+}

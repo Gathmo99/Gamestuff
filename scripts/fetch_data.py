@@ -8,6 +8,7 @@ import os
 import re
 import sys
 import urllib.error
+import urllib.parse
 import urllib.request
 from datetime import datetime, timezone
 
@@ -25,9 +26,25 @@ GAMEPASS_SIGL_IDS = {
     "Xbox": "f6f1f99f-9b49-4ccd-b3bf-4d9767a77f5e",
 }
 
+XBOX_DEALS_URL = "https://www.xbox.com/de-DE/games/browse/game-deals"
+XBOX_FREE_PLAY_DAYS_URL = "https://www.xbox.com/de-DE/promotions/sales/free-play-days"
+XBOX_DEALS_CHANNEL_KEY = "BROWSE_CHANNELID=GAME-DEALS_FILTERS="
+
+PS_GRAPHQL_URL = "https://web.np.playstation.com/api/graphql/v1/op"
+PS_LOCALE = "de-de"
+PS_SHA256 = {
+    "categoryGridRetrieve": "4ce7d410a4db2c8b635a48c1dcec375906ff63b19dadd87e073f8fd0c0481d35",
+    "metGetProductById": "a128042177bd93dd831164103d53b73ef790d56f51dae647064cb8f9d9fc9d1a",
+    "metGetPricingDataByConceptId": "abcb311ea830e679fe2b697a27f755764535d825b24510ab1239a4ca3092bd09",
+}
+PS_CATEGORY_SALES = "803cee19-e5a1-4d59-a463-0b6b2701bf7c"
+PS_CATEGORY_PS_PLUS = "038b4df3-bb4c-48f8-8290-3feb35f0f0fd"
+PS_DISCOUNTS_LIMIT = 300
+
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 REPO_ROOT = os.path.dirname(SCRIPT_DIR)
 DATA_DIR = os.path.join(REPO_ROOT, "docs", "data")
+PS_WISHLIST_CONFIG = os.path.join(REPO_ROOT, "ps-wishlist.json")
 
 RE_APPID = re.compile(r'data-ds-appid="(\d+)"')
 RE_TITLE = re.compile(r'<span class="title">(.*?)</span>', re.S)
@@ -57,10 +74,16 @@ def format_cents(cents):
     return f"{cents / 100:.2f} €".replace(".", ",")
 
 
-def http_get_json(url, timeout=20):
-    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+def http_get_json(url, timeout=20, headers=None):
+    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT, **(headers or {})})
     with urllib.request.urlopen(req, timeout=timeout) as resp:
         return json.loads(resp.read().decode("utf-8"))
+
+
+def http_get_text(url, timeout=20):
+    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+    with urllib.request.urlopen(req, timeout=timeout) as resp:
+        return resp.read().decode("utf-8")
 
 
 def fetch_search_page(start, sort_by):
@@ -208,6 +231,217 @@ def enrich_with_gamepass(items, catalog):
     return items
 
 
+# ---------- Xbox (scrapes the embedded __PRELOADED_STATE__ JSON of xbox.com pages) ----------
+
+def fetch_xbox_state(url):
+    try:
+        page_html = http_get_text(url)
+    except urllib.error.HTTPError as exc:
+        if exc.code == 404:
+            # Xbox 404s pages like Free Play Days entirely when no promotion is currently
+            # running, rather than rendering an empty page - that's a normal state, not an error.
+            return None
+        raise
+    m = re.search(r"window\.__PRELOADED_STATE__\s*=\s*(\{.*?\});", page_html, re.S)
+    if not m:
+        return None
+    return json.loads(m.group(1))
+
+
+def parse_xbox_channel(state, channel_key):
+    items = []
+    channel = state["core2"]["channels"]["channelData"].get(channel_key)
+    if not channel:
+        return items
+    availability = state["core2"]["products"]["availabilitySummaries"]
+    summaries = state["core2"]["products"]["productSummaries"]
+    for entry in channel["data"]["products"]:
+        product_id = entry["productId"]
+        title = (summaries.get(product_id) or {}).get("title")
+        price = None
+        for sku_entries in (availability.get(product_id) or {}).values():
+            for avail_entry in sku_entries.values():
+                price = avail_entry.get("price")
+                if price:
+                    break
+            if price:
+                break
+        if not title or not price:
+            continue
+        discount = round(price.get("discountPercentage") or 0)
+        if discount <= 0:
+            continue
+        final_cents = round((price.get("listPrice") or 0) * 100)
+        orig_cents = round((price.get("msrp") or price.get("listPrice") or 0) * 100)
+        items.append({
+            "appid": product_id,
+            "name": title,
+            "discount": discount,
+            "orig_cents": orig_cents,
+            "final_cents": final_cents,
+            "orig_price_str": format_cents(orig_cents),
+            "final_price_str": format_cents(final_cents),
+        })
+    items.sort(key=lambda x: -x["discount"])
+    return items
+
+
+def fetch_xbox_deals():
+    state = fetch_xbox_state(XBOX_DEALS_URL)
+    if not state:
+        return [], 0
+    items = parse_xbox_channel(state, XBOX_DEALS_CHANNEL_KEY)
+    total = state["core2"]["channels"]["channelData"].get(XBOX_DEALS_CHANNEL_KEY, {}) \
+        .get("data", {}).get("totalItems", len(items))
+    return items, total
+
+
+def fetch_xbox_free_play_days():
+    state = fetch_xbox_state(XBOX_FREE_PLAY_DAYS_URL)
+    if not state:
+        return []
+    items = []
+    for channel_key in state["core2"]["channels"]["channelData"]:
+        items.extend(parse_xbox_channel(state, channel_key))
+    return items
+
+
+# ---------- PlayStation (Sony's storefront GraphQL - server-side only, Sony blocks
+# browser/proxy requests from other origins with bot detection) ----------
+
+def ps_graphql(operation_name, variables):
+    url = (
+        f"{PS_GRAPHQL_URL}?operationName={operation_name}"
+        f"&variables={urllib.parse.quote(json.dumps(variables))}"
+        f"&extensions={urllib.parse.quote(json.dumps({'persistedQuery': {'version': 1, 'sha256Hash': PS_SHA256[operation_name]}}))}"
+    )
+    return http_get_json(url, headers={
+        "Content-Type": "application/json",
+        "apollo-require-preflight": "true",
+        "x-psn-store-locale-override": PS_LOCALE,
+    })
+
+
+def fetch_ps_category(category_id, limit):
+    items = []
+    total = 0
+    offset = 0
+    page_size = 24
+    while len(items) < limit:
+        data = ps_graphql("categoryGridRetrieve", {
+            "id": category_id,
+            "pageArgs": {"size": page_size, "offset": offset},
+            "sortBy": {"name": "productReleaseDate", "isAscending": False},
+            "filterBy": [],
+            "facetOptions": [],
+        })
+        grid = data.get("data", {}).get("categoryGridRetrieve") or {}
+        products = grid.get("products") or []
+        total = (grid.get("pageInfo") or {}).get("totalCount", total)
+        if not products:
+            break
+        for p in products:
+            price = p.get("price") or {}
+            base_cents = parse_price_to_cents(price.get("basePrice"))
+            final_cents = parse_price_to_cents(price.get("discountedPrice"))
+            if base_cents is None or final_cents is None or base_cents == final_cents:
+                continue
+            discount = round((base_cents - final_cents) / base_cents * 100)
+            items.append({
+                "appid": p["id"],
+                "name": p["name"],
+                "discount": discount,
+                "orig_cents": base_cents,
+                "final_cents": final_cents,
+                "orig_price_str": format_cents(base_cents),
+                "final_price_str": format_cents(final_cents),
+            })
+        offset += page_size
+        log(f"  PlayStation: {min(len(items), limit)} geladen...")
+        if offset >= total:
+            break
+    items.sort(key=lambda x: -x["discount"])
+    return items[:limit], total
+
+
+def fetch_ps_plus_monthly():
+    # This category is already scoped to exactly this month's PS Plus games (Essential/Extra/
+    # Premium tiers), no further filtering needed - unlike Steam there's no "discount=100%"
+    # signal, so these are shown with their normal price alongside a "PS Plus" label on the site.
+    items = []
+    data = ps_graphql("categoryGridRetrieve", {
+        "id": PS_CATEGORY_PS_PLUS,
+        "pageArgs": {"size": 24, "offset": 0},
+        "sortBy": {"name": "productReleaseDate", "isAscending": False},
+        "filterBy": [],
+        "facetOptions": [],
+    })
+    grid = data.get("data", {}).get("categoryGridRetrieve") or {}
+    for p in grid.get("products") or []:
+        price = p.get("price") or {}
+        base_cents = parse_price_to_cents(price.get("basePrice"))
+        items.append({
+            "appid": p["id"],
+            "name": p["name"],
+            "orig_cents": base_cents or 0,
+            "orig_price_str": price.get("basePrice") or "?",
+        })
+    return items
+
+
+def fetch_ps_product_price(product_id):
+    data = ps_graphql("metGetProductById", {"productId": product_id})
+    product = (data.get("data") or {}).get("productRetrieve")
+    if not product:
+        return None
+    name = product["name"]
+    concept_id = (product.get("concept") or {}).get("id")
+    if not concept_id:
+        return name, None
+    price_data = ps_graphql("metGetPricingDataByConceptId", {"conceptId": concept_id})
+    default_product = ((price_data.get("data") or {}).get("conceptRetrieve") or {}).get("defaultProduct") or {}
+    price = default_product.get("price")
+    return name, price
+
+
+def fetch_ps_wishlist():
+    if not os.path.exists(PS_WISHLIST_CONFIG):
+        return []
+    with open(PS_WISHLIST_CONFIG, "r", encoding="utf-8") as f:
+        entries = json.load(f)
+    items = []
+    for entry in entries:
+        product_id = entry["appid"]
+        try:
+            name, price = fetch_ps_product_price(product_id)
+        except (urllib.error.URLError, TimeoutError, json.JSONDecodeError, KeyError) as exc:
+            log(f"  PlayStation-Wunschliste: Fehler bei {entry.get('name', product_id)}: {exc}")
+            items.append({
+                "appid": product_id, "name": entry.get("name", product_id),
+                "discount": 0, "orig_cents": 0, "final_cents": 0,
+                "orig_price_str": "?", "final_price_str": "nicht gefunden",
+            })
+            continue
+        if not price:
+            items.append({
+                "appid": product_id, "name": name or entry.get("name", product_id),
+                "discount": 0, "orig_cents": 0, "final_cents": 0,
+                "orig_price_str": "Kostenlos/F2P", "final_price_str": "Kostenlos/F2P",
+            })
+            continue
+        base_cents = price.get("basePriceValue", 0)
+        final_cents = price.get("discountedValue", base_cents)
+        discount = round((base_cents - final_cents) / base_cents * 100) if base_cents else 0
+        items.append({
+            "appid": product_id, "name": name,
+            "discount": discount,
+            "orig_cents": base_cents, "final_cents": final_cents,
+            "orig_price_str": price.get("basePrice") or format_cents(base_cents),
+            "final_price_str": price.get("discountedPrice") or format_cents(final_cents),
+        })
+    return items
+
+
 def write_json(filename, payload):
     os.makedirs(DATA_DIR, exist_ok=True)
     path = os.path.join(DATA_DIR, filename)
@@ -216,24 +450,68 @@ def write_json(filename, payload):
     log(f"Geschrieben: {path}")
 
 
+PLATFORM_ERRORS = (urllib.error.URLError, TimeoutError, json.JSONDecodeError, KeyError, ValueError)
+
+
+def run_platform(label, fn, *args):
+    # Each platform is independent (and PlayStation's persisted-query hash in particular can
+    # break if Sony changes it) - one platform failing shouldn't blank out the others' data.
+    try:
+        return fn(*args)
+    except PLATFORM_ERRORS as exc:
+        log(f"  Fehler bei {label}: {exc}")
+        return None
+
+
 def main():
     log("Lade Game Pass Katalog...")
     catalog = fetch_gamepass_catalog()
 
-    log("Lade Rabatte...")
-    discounts, total_discounts = fetch_discounts(DISCOUNTS_LIMIT)
-    enrich_with_gamepass(discounts, catalog)
+    log("Lade Steam-Rabatte...")
+    steam_discounts_result = run_platform("Steam-Rabatte", fetch_discounts, DISCOUNTS_LIMIT)
+    if steam_discounts_result:
+        discounts, total_discounts = steam_discounts_result
+        enrich_with_gamepass(discounts, catalog)
+        write_json("discounts.json", {"items": discounts, "total": total_discounts})
 
-    log("Lade aktuell kostenlose Spiele...")
-    free_games = fetch_free_games()
-    enrich_with_gamepass(free_games, catalog)
+    log("Lade Steam Aktuell-kostenlos...")
+    free_games = run_platform("Steam Aktuell-kostenlos", fetch_free_games)
+    if free_games is not None:
+        enrich_with_gamepass(free_games, catalog)
+        write_json("free.json", {"items": free_games})
+
+    log("Lade Xbox-Rabatte...")
+    xbox_result = run_platform("Xbox-Rabatte", fetch_xbox_deals)
+    if xbox_result:
+        xbox_discounts, xbox_total = xbox_result
+        enrich_with_gamepass(xbox_discounts, catalog)
+        write_json("xbox_discounts.json", {"items": xbox_discounts, "total": xbox_total})
+
+    log("Lade Xbox Free Play Days...")
+    xbox_free = run_platform("Xbox Free Play Days", fetch_xbox_free_play_days)
+    if xbox_free is not None:
+        enrich_with_gamepass(xbox_free, catalog)
+        write_json("xbox_free.json", {"items": xbox_free})
+
+    log("Lade PlayStation-Rabatte...")
+    ps_result = run_platform("PlayStation-Rabatte", fetch_ps_category, PS_CATEGORY_SALES, PS_DISCOUNTS_LIMIT)
+    if ps_result:
+        ps_discounts, ps_total = ps_result
+        write_json("ps_discounts.json", {"items": ps_discounts, "total": ps_total})
+
+    log("Lade PlayStation Plus Monatsspiele...")
+    ps_plus = run_platform("PlayStation Plus Monatsspiele", fetch_ps_plus_monthly)
+    if ps_plus is not None:
+        write_json("ps_free.json", {"items": ps_plus})
+
+    log("Lade PlayStation-Wunschliste...")
+    ps_wishlist = run_platform("PlayStation-Wunschliste", fetch_ps_wishlist)
+    if ps_wishlist is not None:
+        write_json("ps_wishlist.json", {"items": ps_wishlist})
 
     # normalized title -> sorted platform list, used by the website to look up Game Pass
     # status for wishlist games (those are fetched live client-side, not pre-enriched here)
     gamepass_export = {title: sorted(platforms) for title, platforms in catalog.items()}
-
-    write_json("discounts.json", {"items": discounts, "total": total_discounts})
-    write_json("free.json", {"items": free_games})
     write_json("gamepass.json", gamepass_export)
     write_json("meta.json", {"updated": datetime.now(timezone.utc).isoformat()})
 

@@ -11,14 +11,14 @@ import urllib.request
 import webbrowser
 from tkinter import messagebox, ttk
 
-APP_TITLE = "Steam Sale Watcher"
-STEAM_CC = "de"
-STEAM_LANG = "german"
-PAGE_SIZE = 100
+APP_TITLE = "Sale Watcher"
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 
+STEAM_CC = "de"
+STEAM_LANG = "german"
+STEAM_PAGE_SIZE = 100
+
 APP_DIR = os.path.join(os.environ.get("APPDATA", os.path.expanduser("~")), "SteamSaleWatcher")
-WISHLIST_FILE = os.path.join(APP_DIR, "wunschliste.json")
 
 GAMEPASS_MARKET = "DE"
 GAMEPASS_LANGUAGE = "de-de"
@@ -28,12 +28,24 @@ GAMEPASS_SIGL_IDS = {
     "Xbox": "f6f1f99f-9b49-4ccd-b3bf-4d9767a77f5e",
 }
 
-RE_APPID = re.compile(r'data-ds-appid="(\d+)"')
-RE_TITLE = re.compile(r'<span class="title">(.*?)</span>', re.S)
-RE_DISCOUNT = re.compile(r'data-discount="(\d+)"')
-RE_ORIG_PRICE = re.compile(r'discount_original_price">([^<]*)</div>')
-RE_FINAL_PRICE = re.compile(r'discount_final_price">([^<]*)</div>')
+XBOX_MARKET = "DE"
+XBOX_LOCALE = "de-DE"
+XBOX_DEALS_URL = f"https://www.xbox.com/{XBOX_LOCALE}/games/browse/game-deals"
+XBOX_FREE_PLAY_DAYS_URL = f"https://www.xbox.com/{XBOX_LOCALE}/promotions/sales/free-play-days"
+XBOX_DEALS_CHANNEL_KEY = "BROWSE_CHANNELID=GAME-DEALS_FILTERS="
 
+PS_GRAPHQL_URL = "https://web.np.playstation.com/api/graphql/v1/op"
+PS_LOCALE = "de-de"
+PS_SHA256 = {
+    "categoryGridRetrieve": "4ce7d410a4db2c8b635a48c1dcec375906ff63b19dadd87e073f8fd0c0481d35",
+    "metGetProductById": "a128042177bd93dd831164103d53b73ef790d56f51dae647064cb8f9d9fc9d1a",
+    "metGetPricingDataByConceptId": "abcb311ea830e679fe2b697a27f755764535d825b24510ab1239a4ca3092bd09",
+}
+PS_CATEGORY_SALES = "803cee19-e5a1-4d59-a463-0b6b2701bf7c"
+PS_CATEGORY_PS_PLUS = "038b4df3-bb4c-48f8-8290-3feb35f0f0fd"
+
+
+# ---------- Shared helpers ----------
 
 class SortableTreeMixin:
     """Adds click-to-sort headings. Requires self.tree, self.row_data (iid -> dict),
@@ -91,20 +103,59 @@ def format_cents(cents):
     return f"{cents / 100:.2f} €".replace(".", ",")
 
 
-def fetch_search_page(start, sort_by):
+def http_get_json(url, timeout=20, headers=None):
+    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT, **(headers or {})})
+    with urllib.request.urlopen(req, timeout=timeout) as resp:
+        return json.loads(resp.read().decode("utf-8"))
+
+
+def http_get_text(url, timeout=20):
+    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+    with urllib.request.urlopen(req, timeout=timeout) as resp:
+        return resp.read().decode("utf-8")
+
+
+def load_wishlist(filename):
+    path = os.path.join(APP_DIR, filename)
+    if not os.path.exists(path):
+        return []
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except (OSError, json.JSONDecodeError):
+        return []
+
+
+def save_wishlist(filename, entries):
+    os.makedirs(APP_DIR, exist_ok=True)
+    with open(os.path.join(APP_DIR, filename), "w", encoding="utf-8") as f:
+        json.dump(entries, f, ensure_ascii=False, indent=2)
+
+
+NETWORK_ERRORS = (urllib.error.URLError, TimeoutError, json.JSONDecodeError, KeyError, ValueError)
+
+
+# ---------- Steam ----------
+
+RE_APPID = re.compile(r'data-ds-appid="(\d+)"')
+RE_TITLE = re.compile(r'<span class="title">(.*?)</span>', re.S)
+RE_DISCOUNT = re.compile(r'data-discount="(\d+)"')
+RE_ORIG_PRICE = re.compile(r'discount_original_price">([^<]*)</div>')
+RE_FINAL_PRICE = re.compile(r'discount_final_price">([^<]*)</div>')
+
+
+def steam_search_page(start, sort_by):
     url = (
         "https://store.steampowered.com/search/results/"
-        f"?query&start={start}&count={PAGE_SIZE}&dynamic_data="
+        f"?query&start={start}&count={STEAM_PAGE_SIZE}&dynamic_data="
         f"&sort_by={sort_by}&specials=1&category1=998"
         f"&cc={STEAM_CC}&l={STEAM_LANG}&infinite=1"
     )
-    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-    with urllib.request.urlopen(req, timeout=15) as resp:
-        data = json.loads(resp.read().decode("utf-8"))
+    data = http_get_json(url)
     return data.get("results_html", ""), data.get("total_count", 0)
 
 
-def parse_search_html(page_html):
+def parse_steam_search_html(page_html):
     items = []
     # Split right before each item's own data-ds-appid attribute so appid stays paired with
     # that item's title/price (the item's own <a href> appid appears in the *previous* chunk).
@@ -132,26 +183,124 @@ def parse_search_html(page_html):
     return items
 
 
-def fetch_discounted_games(limit, progress_queue):
+def steam_discounts_worker(progress_queue, limit):
     items = []
     start = 0
     total = 0
     while len(items) < limit:
         try:
-            page_html, total = fetch_search_page(start, "_ASC")
-        except (urllib.error.URLError, TimeoutError, json.JSONDecodeError) as exc:
+            page_html, total = steam_search_page(start, "_ASC")
+        except NETWORK_ERRORS as exc:
             progress_queue.put(("error", str(exc)))
             return
-        page_items = parse_search_html(page_html)
+        page_items = parse_steam_search_html(page_html)
         if not page_items:
             break
         items.extend(page_items)
-        start += PAGE_SIZE
+        start += STEAM_PAGE_SIZE
         progress_queue.put(("progress", min(len(items), limit), min(total, limit) or limit))
         if start >= total:
             break
     progress_queue.put(("done", items[:limit], total))
 
+
+def steam_free_worker(progress_queue, _limit=None, max_pages=30):
+    items = []
+    start = 0
+    for _ in range(max_pages):
+        try:
+            page_html, _total = steam_search_page(start, "Price_ASC")
+        except NETWORK_ERRORS as exc:
+            progress_queue.put(("error", str(exc)))
+            return
+        page_items = parse_steam_search_html(page_html)
+        if not page_items:
+            break
+        reached_end = False
+        for it in page_items:
+            if it["discount"] >= 100 and it["final_cents"] == 0:
+                items.append(it)
+            else:
+                reached_end = True
+                break
+        progress_queue.put(("progress", len(items), None))
+        if reached_end:
+            break
+        start += STEAM_PAGE_SIZE
+    progress_queue.put(("done", items, len(items)))
+
+
+def steam_search(term):
+    url = (
+        "https://store.steampowered.com/api/storesearch/"
+        f"?term={urllib.parse.quote(term)}&cc={STEAM_CC}&l={STEAM_LANG}"
+    )
+    data = http_get_json(url)
+    results = []
+    for item in data.get("items", []):
+        if item.get("type") != "app":
+            continue
+        price = item.get("price") or {}
+        results.append({
+            "appid": item["id"],
+            "name": item["name"],
+            "final_cents": price.get("final"),
+        })
+    return results
+
+
+def steam_appdetails_price(appid):
+    url = (
+        f"https://store.steampowered.com/api/appdetails"
+        f"?appids={appid}&cc={STEAM_CC}&l={STEAM_LANG}&filters=price_overview"
+    )
+    data = http_get_json(url)
+    entry = data.get(str(appid)) or {}
+    if not entry.get("success"):
+        return None
+    entry_data = entry.get("data")
+    price = entry_data.get("price_overview") if isinstance(entry_data, dict) else None
+    if not price:
+        return {
+            "discount": 0, "orig_cents": 0, "final_cents": 0,
+            "orig_price_str": "Kostenlos/F2P", "final_price_str": "Kostenlos/F2P",
+        }
+    orig_cents = price.get("initial", price.get("final", 0))
+    final_cents = price.get("final", 0)
+    return {
+        "discount": price.get("discount_percent", 0),
+        "orig_cents": orig_cents,
+        "final_cents": final_cents,
+        "orig_price_str": format_cents(orig_cents),
+        "final_price_str": format_cents(final_cents),
+    }
+
+
+def steam_wishlist_prices_worker(entries, progress_queue):
+    items = []
+    for entry in entries:
+        try:
+            price = steam_appdetails_price(entry["appid"])
+        except NETWORK_ERRORS as exc:
+            progress_queue.put(("error", str(exc)))
+            return
+        if price is None:
+            items.append({
+                "appid": entry["appid"], "name": entry["name"],
+                "discount": 0, "orig_cents": 0, "final_cents": 0,
+                "orig_price_str": "?", "final_price_str": "nicht gefunden",
+            })
+        else:
+            items.append({"appid": entry["appid"], "name": entry["name"], **price})
+        progress_queue.put(("progress", len(items), len(entries)))
+    progress_queue.put(("done", items, len(items)))
+
+
+def steam_store_url(appid):
+    return f"https://store.steampowered.com/app/{appid}/"
+
+
+# ---------- Game Pass catalog (used to cross-reference Steam and Xbox listings) ----------
 
 def normalize_title(name):
     if not name:
@@ -166,10 +315,8 @@ def normalize_title(name):
 
 def fetch_gamepass_ids(sigl_id):
     url = f"https://catalog.gamepass.com/sigls/v2?id={sigl_id}&language={GAMEPASS_LANGUAGE}&market={GAMEPASS_MARKET}"
-    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
     try:
-        with urllib.request.urlopen(req, timeout=15) as resp:
-            data = json.loads(resp.read().decode("utf-8"))
+        data = http_get_json(url, timeout=15)
     except urllib.error.HTTPError as exc:
         if exc.code == 404:
             return []
@@ -182,9 +329,7 @@ def fetch_gamepass_titles(ids_batch):
         "https://displaycatalog.mp.microsoft.com/v7.0/products"
         f"?bigIds={','.join(ids_batch)}&market={GAMEPASS_MARKET}&languages={GAMEPASS_LANGUAGE}"
     )
-    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-    with urllib.request.urlopen(req, timeout=20) as resp:
-        data = json.loads(resp.read().decode("utf-8"))
+    data = http_get_json(url, timeout=20)
     titles = []
     for product in data.get("Products", []):
         localized = product.get("LocalizedProperties") or [{}]
@@ -217,7 +362,7 @@ class GamePassCatalog:
                         norm = normalize_title(title)
                         if norm:
                             catalog.setdefault(norm, set()).add(platform)
-        except (urllib.error.URLError, TimeoutError, json.JSONDecodeError, KeyError, ValueError):
+        except NETWORK_ERRORS:
             pass
         with self._lock:
             self._catalog = catalog
@@ -252,78 +397,144 @@ class GamePassCatalog:
 GAMEPASS = GamePassCatalog()
 
 
-def load_wishlist():
-    if not os.path.exists(WISHLIST_FILE):
-        return []
+# ---------- Xbox ----------
+
+def fetch_xbox_state(url):
     try:
-        with open(WISHLIST_FILE, "r", encoding="utf-8") as f:
-            return json.load(f)
-    except (OSError, json.JSONDecodeError):
-        return []
+        page_html = http_get_text(url)
+    except urllib.error.HTTPError as exc:
+        if exc.code == 404:
+            # Xbox 404s pages like Free Play Days entirely when no promotion is currently
+            # running, rather than rendering an empty page - a normal state, not an error.
+            return None
+        raise
+    m = re.search(r"window\.__PRELOADED_STATE__\s*=\s*(\{.*?\});", page_html, re.S)
+    if not m:
+        return None
+    return json.loads(m.group(1))
 
 
-def save_wishlist(entries):
-    os.makedirs(APP_DIR, exist_ok=True)
-    with open(WISHLIST_FILE, "w", encoding="utf-8") as f:
-        json.dump(entries, f, ensure_ascii=False, indent=2)
-
-
-def steam_search(term):
-    url = (
-        "https://store.steampowered.com/api/storesearch/"
-        f"?term={urllib.parse.quote(term)}&cc={STEAM_CC}&l={STEAM_LANG}"
-    )
-    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-    with urllib.request.urlopen(req, timeout=15) as resp:
-        data = json.loads(resp.read().decode("utf-8"))
-    results = []
-    for item in data.get("items", []):
-        if item.get("type") != "app":
+def parse_xbox_channel(state, channel_key, require_discount):
+    items = []
+    channel = state["core2"]["channels"]["channelData"].get(channel_key)
+    if not channel:
+        return items
+    availability = state["core2"]["products"]["availabilitySummaries"]
+    summaries = state["core2"]["products"]["productSummaries"]
+    for entry in channel["data"]["products"]:
+        product_id = entry["productId"]
+        title = (summaries.get(product_id) or {}).get("title")
+        price = None
+        for sku_entries in (availability.get(product_id) or {}).values():
+            for avail_entry in sku_entries.values():
+                price = avail_entry.get("price")
+                if price:
+                    break
+            if price:
+                break
+        if not title:
             continue
-        price = item.get("price") or {}
+        discount = round((price or {}).get("discountPercentage") or 0)
+        if require_discount and discount <= 0:
+            continue
+        final_cents = round(((price or {}).get("listPrice") or 0) * 100)
+        orig_cents = round(((price or {}).get("msrp") or (price or {}).get("listPrice") or 0) * 100)
+        items.append({
+            "appid": product_id,
+            "name": title,
+            "discount": discount,
+            "orig_cents": orig_cents,
+            "final_cents": final_cents,
+            "orig_price_str": format_cents(orig_cents) if orig_cents else "?",
+            "final_price_str": format_cents(final_cents) if final_cents else "?",
+        })
+    items.sort(key=lambda x: -x["discount"])
+    return items
+
+
+def xbox_discounts_worker(progress_queue, _limit=None):
+    try:
+        state = fetch_xbox_state(XBOX_DEALS_URL)
+    except NETWORK_ERRORS as exc:
+        progress_queue.put(("error", str(exc)))
+        return
+    if not state:
+        progress_queue.put(("done", [], 0))
+        return
+    items = parse_xbox_channel(state, XBOX_DEALS_CHANNEL_KEY, require_discount=True)
+    total = state["core2"]["channels"]["channelData"].get(XBOX_DEALS_CHANNEL_KEY, {}) \
+        .get("data", {}).get("totalItems", len(items))
+    progress_queue.put(("done", items, total))
+
+
+def xbox_free_worker(progress_queue, _limit=None):
+    try:
+        state = fetch_xbox_state(XBOX_FREE_PLAY_DAYS_URL)
+    except NETWORK_ERRORS as exc:
+        progress_queue.put(("error", str(exc)))
+        return
+    if not state:
+        progress_queue.put(("done", [], 0))
+        return
+    items = []
+    for channel_key in state["core2"]["channels"]["channelData"]:
+        items.extend(parse_xbox_channel(state, channel_key, require_discount=False))
+    progress_queue.put(("done", items, len(items)))
+
+
+def xbox_search(term):
+    url = (
+        "https://storeedgefd.dsx.mp.microsoft.com/v9.0/pages/searchResults"
+        f"?appVersion=22203.1401.0.0&market={XBOX_MARKET}&locale={XBOX_LOCALE}"
+        f"&deviceFamily=windows.xbox&query={urllib.parse.quote(term)}&mediaType=games"
+    )
+    data = http_get_json(url)
+    payload = data[1]["Payload"] if len(data) > 1 else {}
+    results = []
+    for item in payload.get("SearchResults", []):
         results.append({
-            "appid": item["id"],
-            "name": item["name"],
-            "final_cents": price.get("final"),
+            "appid": item["ProductId"],
+            "name": item["Title"],
+            "final_cents": None,
         })
     return results
 
 
-def fetch_appdetails_price(appid):
+def xbox_product_price(product_id):
     url = (
-        f"https://store.steampowered.com/api/appdetails"
-        f"?appids={appid}&cc={STEAM_CC}&l={STEAM_LANG}&filters=price_overview"
+        "https://displaycatalog.mp.microsoft.com/v7.0/products"
+        f"?bigIds={product_id}&market={GAMEPASS_MARKET}&languages={GAMEPASS_LANGUAGE}"
     )
-    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-    with urllib.request.urlopen(req, timeout=15) as resp:
-        data = json.loads(resp.read().decode("utf-8"))
-    entry = data.get(str(appid)) or {}
-    if not entry.get("success"):
+    data = http_get_json(url)
+    products = data.get("Products") or []
+    if not products:
         return None
-    entry_data = entry.get("data")
-    price = entry_data.get("price_overview") if isinstance(entry_data, dict) else None
+    product = products[0]
+    localized = (product.get("LocalizedProperties") or [{}])[0]
+    name = localized.get("ProductTitle")
+    price = ((product.get("DisplaySkuAvailabilities") or [{}])[0]
+             .get("Availabilities", [{}])[0]
+             .get("OrderManagementData", {})
+             .get("Price"))
     if not price:
-        return {
-            "discount": 0, "orig_cents": 0, "final_cents": 0,
-            "orig_price_str": "Kostenlos/F2P", "final_price_str": "Kostenlos/F2P",
-        }
-    orig_cents = price.get("initial", price.get("final", 0))
-    final_cents = price.get("final", 0)
+        return {"name": name, "discount": 0, "orig_cents": 0, "final_cents": 0,
+                "orig_price_str": "Kostenlos/F2P", "final_price_str": "Kostenlos/F2P"}
+    orig_cents = round((price.get("MSRP") or price.get("ListPrice") or 0) * 100)
+    final_cents = round((price.get("ListPrice") or 0) * 100)
+    discount = round((1 - final_cents / orig_cents) * 100) if orig_cents else 0
     return {
-        "discount": price.get("discount_percent", 0),
-        "orig_cents": orig_cents,
-        "final_cents": final_cents,
-        "orig_price_str": format_cents(orig_cents),
-        "final_price_str": format_cents(final_cents),
+        "name": name, "discount": discount,
+        "orig_cents": orig_cents, "final_cents": final_cents,
+        "orig_price_str": format_cents(orig_cents), "final_price_str": format_cents(final_cents),
     }
 
 
-def fetch_wishlist_prices(entries, progress_queue):
+def xbox_wishlist_prices_worker(entries, progress_queue):
     items = []
     for entry in entries:
         try:
-            price = fetch_appdetails_price(entry["appid"])
-        except (urllib.error.URLError, TimeoutError, json.JSONDecodeError) as exc:
+            price = xbox_product_price(entry["appid"])
+        except NETWORK_ERRORS as exc:
             progress_queue.put(("error", str(exc)))
             return
         if price is None:
@@ -333,89 +544,228 @@ def fetch_wishlist_prices(entries, progress_queue):
                 "orig_price_str": "?", "final_price_str": "nicht gefunden",
             })
         else:
-            items.append({"appid": entry["appid"], "name": entry["name"], **price})
+            items.append({"appid": entry["appid"], "name": price.get("name") or entry["name"], **{
+                k: v for k, v in price.items() if k != "name"
+            }})
         progress_queue.put(("progress", len(items), len(entries)))
     progress_queue.put(("done", items, len(items)))
 
 
-def fetch_free_games(progress_queue, max_pages=30):
+def xbox_store_url(appid):
+    return f"https://www.microsoft.com/store/productId/{appid}"
+
+
+# ---------- PlayStation ----------
+
+def ps_graphql(operation_name, variables):
+    url = (
+        f"{PS_GRAPHQL_URL}?operationName={operation_name}"
+        f"&variables={urllib.parse.quote(json.dumps(variables))}"
+        f"&extensions={urllib.parse.quote(json.dumps({'persistedQuery': {'version': 1, 'sha256Hash': PS_SHA256[operation_name]}}))}"
+    )
+    return http_get_json(url, headers={
+        "Content-Type": "application/json",
+        "apollo-require-preflight": "true",
+        "x-psn-store-locale-override": PS_LOCALE,
+    })
+
+
+def ps_category_page(category_id, offset, page_size=24):
+    data = ps_graphql("categoryGridRetrieve", {
+        "id": category_id,
+        "pageArgs": {"size": page_size, "offset": offset},
+        "sortBy": {"name": "productReleaseDate", "isAscending": False},
+        "filterBy": [],
+        "facetOptions": [],
+    })
+    grid = data.get("data", {}).get("categoryGridRetrieve") or {}
+    return grid.get("products") or [], (grid.get("pageInfo") or {}).get("totalCount", 0)
+
+
+def ps_discounts_worker(progress_queue, limit):
     items = []
-    start = 0
-    for _ in range(max_pages):
+    offset = 0
+    total = 0
+    page_size = 24
+    while len(items) < limit:
         try:
-            page_html, _total = fetch_search_page(start, "Price_ASC")
-        except (urllib.error.URLError, TimeoutError, json.JSONDecodeError) as exc:
+            products, total = ps_category_page(PS_CATEGORY_SALES, offset, page_size)
+        except NETWORK_ERRORS as exc:
             progress_queue.put(("error", str(exc)))
             return
-        page_items = parse_search_html(page_html)
-        if not page_items:
+        if not products:
             break
-        reached_end = False
-        for it in page_items:
-            if it["discount"] >= 100 and it["final_cents"] == 0:
-                items.append(it)
-            else:
-                reached_end = True
-                break
-        progress_queue.put(("progress", len(items), None))
-        if reached_end:
+        for p in products:
+            price = p.get("price") or {}
+            base_cents = parse_price_to_cents(price.get("basePrice"))
+            final_cents = parse_price_to_cents(price.get("discountedPrice"))
+            if base_cents is None or final_cents is None or base_cents == final_cents:
+                continue
+            discount = round((base_cents - final_cents) / base_cents * 100)
+            items.append({
+                "appid": p["id"], "name": p["name"], "discount": discount,
+                "orig_cents": base_cents, "final_cents": final_cents,
+                "orig_price_str": format_cents(base_cents), "final_price_str": format_cents(final_cents),
+            })
+        offset += page_size
+        progress_queue.put(("progress", min(len(items), limit), min(total, limit) or limit))
+        if offset >= total:
             break
-        start += PAGE_SIZE
+    items.sort(key=lambda x: -x["discount"])
+    progress_queue.put(("done", items[:limit], total))
+
+
+def ps_plus_worker(progress_queue, _limit=None):
+    try:
+        products, _total = ps_category_page(PS_CATEGORY_PS_PLUS, 0)
+    except NETWORK_ERRORS as exc:
+        progress_queue.put(("error", str(exc)))
+        return
+    items = []
+    for p in products:
+        price = p.get("price") or {}
+        base_cents = parse_price_to_cents(price.get("basePrice"))
+        items.append({
+            "appid": p["id"], "name": p["name"],
+            "orig_cents": base_cents or 0,
+            "orig_price_str": price.get("basePrice") or "?",
+        })
     progress_queue.put(("done", items, len(items)))
 
 
-class DiscountsTab(SortableTreeMixin, ttk.Frame):
-    def __init__(self, master):
+def ps_product_price(product_id):
+    data = ps_graphql("metGetProductById", {"productId": product_id})
+    product = (data.get("data") or {}).get("productRetrieve")
+    if not product:
+        return None
+    name = product["name"]
+    concept_id = (product.get("concept") or {}).get("id")
+    if not concept_id:
+        return {"name": name, "discount": 0, "orig_cents": 0, "final_cents": 0,
+                "orig_price_str": "?", "final_price_str": "?"}
+    price_data = ps_graphql("metGetPricingDataByConceptId", {"conceptId": concept_id})
+    default_product = ((price_data.get("data") or {}).get("conceptRetrieve") or {}).get("defaultProduct") or {}
+    price = default_product.get("price")
+    if not price:
+        return {"name": name, "discount": 0, "orig_cents": 0, "final_cents": 0,
+                "orig_price_str": "Kostenlos/F2P", "final_price_str": "Kostenlos/F2P"}
+    base_cents = price.get("basePriceValue", 0)
+    final_cents = price.get("discountedValue", base_cents)
+    discount = round((base_cents - final_cents) / base_cents * 100) if base_cents else 0
+    return {
+        "name": name, "discount": discount,
+        "orig_cents": base_cents, "final_cents": final_cents,
+        "orig_price_str": price.get("basePrice") or format_cents(base_cents),
+        "final_price_str": price.get("discountedPrice") or format_cents(final_cents),
+    }
+
+
+PS_PRODUCT_ID_RE = re.compile(r"/product/([A-Za-z0-9_-]+)")
+
+
+def parse_ps_product_id(text):
+    text = text.strip()
+    m = PS_PRODUCT_ID_RE.search(text)
+    if m:
+        return m.group(1)
+    return text or None
+
+
+def ps_wishlist_prices_worker(entries, progress_queue):
+    items = []
+    for entry in entries:
+        try:
+            price = ps_product_price(entry["appid"])
+        except NETWORK_ERRORS as exc:
+            progress_queue.put(("error", str(exc)))
+            return
+        if price is None:
+            items.append({
+                "appid": entry["appid"], "name": entry["name"],
+                "discount": 0, "orig_cents": 0, "final_cents": 0,
+                "orig_price_str": "?", "final_price_str": "nicht gefunden",
+            })
+        else:
+            items.append({"appid": entry["appid"], "name": price.get("name") or entry["name"], **{
+                k: v for k, v in price.items() if k != "name"
+            }})
+        progress_queue.put(("progress", len(items), len(entries)))
+    progress_queue.put(("done", items, len(items)))
+
+
+def ps_store_url(appid):
+    return f"https://store.playstation.com/{PS_LOCALE}/product/{appid}"
+
+
+# ---------- Generic UI: discounts-style tab (sortable table + optional limit selector) ----------
+
+class GenericDiscountsTab(SortableTreeMixin, ttk.Frame):
+    def __init__(self, master, platform_name, worker_fn, store_url_fn,
+                 show_limit=True, limit_options=("100", "300", "500"), default_limit="300",
+                 show_gamepass=True, show_savings=True, hint_text="Doppelklick öffnet die Store-Seite im Browser."):
         super().__init__(master)
+        self.platform_name = platform_name
+        self.worker_fn = worker_fn
+        self.store_url_fn = store_url_fn
+        self.show_limit = show_limit
+        self.show_gamepass = show_gamepass
+        self.show_savings = show_savings
+        self.hint_text = hint_text
         self.result_queue = queue.Queue()
         self.row_data = {}
-        self._build_ui()
-        GAMEPASS.on_ready(lambda: self.after(0, self._refresh_gamepass_column))
+        self._build_ui(limit_options, default_limit)
+        if show_gamepass:
+            GAMEPASS.on_ready(lambda: self.after(0, self._refresh_gamepass_column))
 
-    def _build_ui(self):
+    def _build_ui(self, limit_options, default_limit):
         top = ttk.Frame(self)
         top.pack(fill="x", padx=8, pady=8)
 
         ttk.Button(top, text="Aktualisieren", command=self.start_fetch).pack(side="left")
 
-        ttk.Label(top, text="Anzahl:").pack(side="left", padx=(12, 4))
-        self.limit_var = tk.StringVar(value="300")
-        ttk.Combobox(
-            top, textvariable=self.limit_var, values=("100", "300", "500", "1000", "2000"),
-            width=6, state="readonly",
-        ).pack(side="left")
+        if self.show_limit:
+            ttk.Label(top, text="Anzahl:").pack(side="left", padx=(12, 4))
+            self.limit_var = tk.StringVar(value=default_limit)
+            ttk.Combobox(
+                top, textvariable=self.limit_var, values=limit_options, width=6, state="readonly",
+            ).pack(side="left")
 
-        self.progress = ttk.Progressbar(top, mode="determinate", length=160)
+        self.progress = ttk.Progressbar(top, mode="determinate" if self.show_limit else "indeterminate", length=160)
 
         self.summary_label = ttk.Label(self, text="Noch nicht geladen.")
         self.summary_label.pack(fill="x", padx=8)
 
-        columns = ("name", "discount", "orig", "final", "savings", "gamepass")
-        self.tree = ttk.Treeview(self, columns=columns, show="headings", selectmode="browse")
+        columns = ["name", "discount", "orig", "final"]
         self._column_labels = {
-            "name": "Name",
-            "discount": "Rabatt",
-            "orig": "Originalpreis",
-            "final": "Preis jetzt",
-            "savings": "Ersparnis",
-            "gamepass": "Game Pass",
+            "name": "Name", "discount": "Rabatt", "orig": "Originalpreis", "final": "Preis jetzt",
         }
-        for col, label in self._column_labels.items():
-            self.tree.heading(col, text=label)
-        self.tree.column("name", width=340)
-        self.tree.column("discount", width=70, anchor="e")
-        self.tree.column("orig", width=100, anchor="e")
-        self.tree.column("final", width=100, anchor="e")
-        self.tree.column("savings", width=100, anchor="e")
-        self.tree.column("gamepass", width=90, anchor="center")
-        self._init_sorting({
+        sort_keys = {
             "name": lambda d: d["name"].lower(),
             "discount": lambda d: d["discount"],
             "orig": lambda d: d["orig_cents"],
             "final": lambda d: d["final_cents"],
-            "savings": lambda d: d["orig_cents"] - d["final_cents"],
-            "gamepass": lambda d: d.get("gamepass", ""),
-        })
+        }
+        if self.show_savings:
+            columns.append("savings")
+            self._column_labels["savings"] = "Ersparnis"
+            sort_keys["savings"] = lambda d: d["orig_cents"] - d["final_cents"]
+        if self.show_gamepass:
+            columns.append("gamepass")
+            self._column_labels["gamepass"] = "Game Pass"
+            sort_keys["gamepass"] = lambda d: d.get("gamepass", "")
+
+        self.tree = ttk.Treeview(self, columns=tuple(columns), show="headings", selectmode="browse")
+        for col, label in self._column_labels.items():
+            self.tree.heading(col, text=label)
+        self.tree.column("name", width=320)
+        self.tree.column("discount", width=70, anchor="e")
+        self.tree.column("orig", width=100, anchor="e")
+        self.tree.column("final", width=100, anchor="e")
+        if self.show_savings:
+            self.tree.column("savings", width=100, anchor="e")
+        if self.show_gamepass:
+            self.tree.column("gamepass", width=90, anchor="center")
+        self._init_sorting(sort_keys)
         self.tree.bind("<Double-1>", self.open_store_page)
 
         vsb = ttk.Scrollbar(self, orient="vertical", command=self.tree.yview)
@@ -423,24 +773,24 @@ class DiscountsTab(SortableTreeMixin, ttk.Frame):
         self.tree.pack(side="left", fill="both", expand=True, padx=(8, 0), pady=(0, 8))
         vsb.pack(side="right", fill="y", pady=(0, 8))
 
-        ttk.Label(
-            self, text="Doppelklick öffnet die Store-Seite im Browser.", foreground="#666"
-        ).pack(fill="x", padx=8, pady=(0, 4))
+        ttk.Label(self, text=self.hint_text, foreground="#666").pack(fill="x", padx=8, pady=(0, 4))
 
     def start_fetch(self):
-        try:
-            limit = int(self.limit_var.get())
-        except ValueError:
-            limit = 300
         self.tree.delete(*self.tree.get_children())
         self.row_data.clear()
         self.summary_label.config(text="Lade Angebote...")
-        self.progress["value"] = 0
-        self.progress["maximum"] = limit
+        if self.show_limit:
+            try:
+                limit = int(self.limit_var.get())
+            except ValueError:
+                limit = 300
+            self.progress["value"] = 0
+            self.progress["maximum"] = limit
+        else:
+            limit = None
+            self.progress.start(10)
         self.progress.pack(side="left", padx=8)
-        threading.Thread(
-            target=fetch_discounted_games, args=(limit, self.result_queue), daemon=True
-        ).start()
+        threading.Thread(target=self.worker_fn, args=(self.result_queue, limit), daemon=True).start()
         self.after(100, self._poll)
 
     def _poll(self):
@@ -449,16 +799,25 @@ class DiscountsTab(SortableTreeMixin, ttk.Frame):
                 kind, *payload = self.result_queue.get_nowait()
                 if kind == "progress":
                     loaded, target = payload
-                    self.progress["value"] = loaded
-                    self.summary_label.config(text=f"Lade Angebote... {loaded}/{target}")
+                    if self.show_limit:
+                        self.progress["value"] = loaded
+                    self.summary_label.config(text=f"Lade Angebote... {loaded}/{target}" if target else f"Lade Angebote... {loaded}")
                 elif kind == "error":
-                    self.progress.pack_forget()
+                    if self.show_limit:
+                        self.progress.pack_forget()
+                    else:
+                        self.progress.stop()
+                        self.progress.pack_forget()
                     messagebox.showerror(APP_TITLE, f"Fehler beim Laden:\n{payload[0]}")
                     self.summary_label.config(text="Fehler beim Laden.")
                     return
                 elif kind == "done":
                     items, total = payload
-                    self.progress.pack_forget()
+                    if self.show_limit:
+                        self.progress.pack_forget()
+                    else:
+                        self.progress.stop()
+                        self.progress.pack_forget()
                     self._show_items(items, total)
                     return
         except queue.Empty:
@@ -467,23 +826,21 @@ class DiscountsTab(SortableTreeMixin, ttk.Frame):
 
     def _show_items(self, items, total):
         for item in items:
-            savings = item["orig_cents"] - item["final_cents"]
-            item["gamepass"] = GAMEPASS.lookup(item["name"])
-            iid = self.tree.insert(
-                "", "end",
-                values=(
-                    item["name"],
-                    f"-{item['discount']}%",
-                    item["orig_price_str"],
-                    item["final_price_str"],
-                    format_cents(savings),
-                    item["gamepass"] or "-",
-                ),
-            )
+            if self.show_gamepass:
+                item["gamepass"] = GAMEPASS.lookup(item["name"])
+            values = [item["name"], f"-{item['discount']}%", item["orig_price_str"], item["final_price_str"]]
+            if self.show_savings:
+                values.append(format_cents(item["orig_cents"] - item["final_cents"]))
+            if self.show_gamepass:
+                values.append(item["gamepass"] or "-")
+            iid = self.tree.insert("", "end", values=tuple(values))
             self.row_data[iid] = item
-        self.summary_label.config(
-            text=f"{len(items)} reduzierte Spiele geladen (insgesamt {total} auf Steam im Angebot)."
-        )
+        if total and total > len(items):
+            self.summary_label.config(
+                text=f"{len(items)} reduzierte Spiele geladen (insgesamt {total} bei {self.platform_name} im Angebot)."
+            )
+        else:
+            self.summary_label.config(text=f"{len(items)} reduzierte Spiele geladen.")
 
     def _refresh_gamepass_column(self):
         for iid, item in self.row_data.items():
@@ -496,18 +853,27 @@ class DiscountsTab(SortableTreeMixin, ttk.Frame):
             return
         item = self.row_data.get(selection[0])
         if item:
-            webbrowser.open(f"https://store.steampowered.com/app/{item['appid']}/")
+            webbrowser.open(self.store_url_fn(item["appid"]))
 
 
-class FreeGamesTab(SortableTreeMixin, ttk.Frame):
-    def __init__(self, master):
+# ---------- Generic UI: "currently free" style tab (name + regular price, no discount%) ----------
+
+class GenericFreeTab(SortableTreeMixin, ttk.Frame):
+    def __init__(self, master, worker_fn, store_url_fn, show_gamepass=True,
+                 hint_text="Doppelklick öffnet die Store-Seite.",
+                 empty_text="Gerade keine Angebote gefunden."):
         super().__init__(master)
+        self.worker_fn = worker_fn
+        self.store_url_fn = store_url_fn
+        self.show_gamepass = show_gamepass
+        self.empty_text = empty_text
         self.result_queue = queue.Queue()
         self.row_data = {}
-        self._build_ui()
-        GAMEPASS.on_ready(lambda: self.after(0, self._refresh_gamepass_column))
+        self._build_ui(hint_text)
+        if show_gamepass:
+            GAMEPASS.on_ready(lambda: self.after(0, self._refresh_gamepass_column))
 
-    def _build_ui(self):
+    def _build_ui(self, hint_text):
         top = ttk.Frame(self)
         top.pack(fill="x", padx=8, pady=8)
 
@@ -517,23 +883,20 @@ class FreeGamesTab(SortableTreeMixin, ttk.Frame):
         self.summary_label = ttk.Label(self, text="Noch nicht geladen.")
         self.summary_label.pack(fill="x", padx=8)
 
-        columns = ("name", "orig", "gamepass")
-        self.tree = ttk.Treeview(self, columns=columns, show="headings", selectmode="browse")
-        self._column_labels = {
-            "name": "Name",
-            "orig": "Regulärer Preis",
-            "gamepass": "Game Pass",
-        }
+        columns = ["name", "orig"] + (["gamepass"] if self.show_gamepass else [])
+        self.tree = ttk.Treeview(self, columns=tuple(columns), show="headings", selectmode="browse")
+        self._column_labels = {"name": "Name", "orig": "Regulärer Preis"}
+        sort_keys = {"name": lambda d: d["name"].lower(), "orig": lambda d: d["orig_cents"]}
+        if self.show_gamepass:
+            self._column_labels["gamepass"] = "Game Pass"
+            sort_keys["gamepass"] = lambda d: d.get("gamepass", "")
         for col, label in self._column_labels.items():
             self.tree.heading(col, text=label)
         self.tree.column("name", width=350)
         self.tree.column("orig", width=120, anchor="e")
-        self.tree.column("gamepass", width=90, anchor="center")
-        self._init_sorting({
-            "name": lambda d: d["name"].lower(),
-            "orig": lambda d: d["orig_cents"],
-            "gamepass": lambda d: d.get("gamepass", ""),
-        })
+        if self.show_gamepass:
+            self.tree.column("gamepass", width=90, anchor="center")
+        self._init_sorting(sort_keys)
         self.tree.bind("<Double-1>", self.open_store_page)
 
         vsb = ttk.Scrollbar(self, orient="vertical", command=self.tree.yview)
@@ -541,22 +904,15 @@ class FreeGamesTab(SortableTreeMixin, ttk.Frame):
         self.tree.pack(side="left", fill="both", expand=True, padx=(8, 0), pady=(0, 8))
         vsb.pack(side="right", fill="y", pady=(0, 8))
 
-        ttk.Label(
-            self,
-            text="Nur Spiele, die zeitlich begrenzt kostenlos sind (nicht dauerhaft Free-to-Play). "
-                 "Doppelklick öffnet die Store-Seite.",
-            foreground="#666",
-        ).pack(fill="x", padx=8, pady=(0, 4))
+        ttk.Label(self, text=hint_text, foreground="#666").pack(fill="x", padx=8, pady=(0, 4))
 
     def start_fetch(self):
         self.tree.delete(*self.tree.get_children())
         self.row_data.clear()
-        self.summary_label.config(text="Suche aktuell kostenlose Spiele...")
+        self.summary_label.config(text="Lade...")
         self.progress.pack(side="left", padx=8)
         self.progress.start(10)
-        threading.Thread(
-            target=fetch_free_games, args=(self.result_queue,), daemon=True
-        ).start()
+        threading.Thread(target=self.worker_fn, args=(self.result_queue, None), daemon=True).start()
         self.after(100, self._poll)
 
     def _poll(self):
@@ -565,7 +921,7 @@ class FreeGamesTab(SortableTreeMixin, ttk.Frame):
                 kind, *payload = self.result_queue.get_nowait()
                 if kind == "progress":
                     loaded = payload[0]
-                    self.summary_label.config(text=f"Suche aktuell kostenlose Spiele... ({loaded} gefunden)")
+                    self.summary_label.config(text=f"Lade... ({loaded} gefunden)")
                 elif kind == "error":
                     self.progress.stop()
                     self.progress.pack_forget()
@@ -584,16 +940,17 @@ class FreeGamesTab(SortableTreeMixin, ttk.Frame):
 
     def _show_items(self, items):
         for item in items:
-            item["gamepass"] = GAMEPASS.lookup(item["name"])
-            iid = self.tree.insert(
-                "", "end",
-                values=(item["name"], item["orig_price_str"], item["gamepass"] or "-"),
-            )
+            if self.show_gamepass:
+                item["gamepass"] = GAMEPASS.lookup(item["name"])
+            values = [item["name"], item["orig_price_str"]]
+            if self.show_gamepass:
+                values.append(item["gamepass"] or "-")
+            iid = self.tree.insert("", "end", values=tuple(values))
             self.row_data[iid] = item
         if items:
-            self.summary_label.config(text=f"{len(items)} aktuell kostenlose Spiele gefunden.")
+            self.summary_label.config(text=f"{len(items)} Spiele gefunden.")
         else:
-            self.summary_label.config(text="Gerade keine zeitlich begrenzten Gratis-Spiele gefunden.")
+            self.summary_label.config(text=self.empty_text)
 
     def _refresh_gamepass_column(self):
         for iid, item in self.row_data.items():
@@ -606,15 +963,18 @@ class FreeGamesTab(SortableTreeMixin, ttk.Frame):
             return
         item = self.row_data.get(selection[0])
         if item:
-            webbrowser.open(f"https://store.steampowered.com/app/{item['appid']}/")
+            webbrowser.open(self.store_url_fn(item["appid"]))
 
+
+# ---------- Generic UI: wishlist tab (search-to-add, used by Steam and Xbox) ----------
 
 class SearchDialog(tk.Toplevel):
-    def __init__(self, master, on_add):
+    def __init__(self, master, search_fn, on_add):
         super().__init__(master)
         self.title("Spiel zur Wunschliste hinzufügen")
         self.geometry("420x360")
         self.transient(master)
+        self.search_fn = search_fn
         self.on_add = on_add
         self.result_queue = queue.Queue()
         self.results = []
@@ -651,8 +1011,8 @@ class SearchDialog(tk.Toplevel):
 
     def _search_worker(self, term):
         try:
-            results = steam_search(term)
-        except (urllib.error.URLError, TimeoutError, json.JSONDecodeError) as exc:
+            results = self.search_fn(term)
+        except NETWORK_ERRORS as exc:
             self.result_queue.put(("error", str(exc)))
             return
         self.result_queue.put(("done", results))
@@ -672,7 +1032,7 @@ class SearchDialog(tk.Toplevel):
             self.listbox.insert("end", "Keine Treffer.")
             return
         for r in self.results:
-            price = format_cents(r["final_cents"]) if r["final_cents"] is not None else "Kostenlos/F2P"
+            price = format_cents(r["final_cents"]) if r["final_cents"] is not None else "?"
             self.listbox.insert("end", f"{r['name']} — {price}")
 
     def add_selected(self):
@@ -687,20 +1047,95 @@ class SearchDialog(tk.Toplevel):
         self.destroy()
 
 
-class WishlistTab(SortableTreeMixin, ttk.Frame):
-    def __init__(self, master):
+class PasteIdDialog(tk.Toplevel):
+    """Add-by-URL/ID dialog, used for PlayStation (no confirmed live search API)."""
+
+    def __init__(self, master, parse_fn, resolve_fn, on_add):
         super().__init__(master)
+        self.title("Spiel zur Wunschliste hinzufügen")
+        self.geometry("420x160")
+        self.transient(master)
+        self.parse_fn = parse_fn
+        self.resolve_fn = resolve_fn
+        self.on_add = on_add
+        self.result_queue = queue.Queue()
+        self._build_ui()
+
+    def _build_ui(self):
+        ttk.Label(
+            self, text="Store-Link oder Produkt-ID einfügen\n(z. B. store.playstation.com/.../product/EP...)",
+            justify="left",
+        ).pack(fill="x", padx=8, pady=(8, 4))
+        self.entry_var = tk.StringVar()
+        entry = ttk.Entry(self, textvariable=self.entry_var)
+        entry.pack(fill="x", padx=8)
+        entry.bind("<Return>", lambda _e: self.resolve())
+        entry.focus_set()
+
+        self.status_label = ttk.Label(self, text="")
+        self.status_label.pack(fill="x", padx=8, pady=4)
+
+        bottom = ttk.Frame(self)
+        bottom.pack(fill="x", padx=8, pady=8)
+        ttk.Button(bottom, text="Hinzufügen", command=self.resolve).pack(side="left")
+        ttk.Button(bottom, text="Abbrechen", command=self.destroy).pack(side="right")
+
+    def resolve(self):
+        product_id = self.parse_fn(self.entry_var.get())
+        if not product_id:
+            self.status_label.config(text="Keine gültige ID/URL erkannt.")
+            return
+        self.status_label.config(text="Suche...")
+        threading.Thread(target=self._worker, args=(product_id,), daemon=True).start()
+        self.after(100, self._poll)
+
+    def _worker(self, product_id):
+        try:
+            price = self.resolve_fn(product_id)
+        except NETWORK_ERRORS as exc:
+            self.result_queue.put(("error", str(exc)))
+            return
+        self.result_queue.put(("done", product_id, price))
+
+    def _poll(self):
+        try:
+            payload = self.result_queue.get_nowait()
+        except queue.Empty:
+            self.after(100, self._poll)
+            return
+        kind = payload[0]
+        if kind == "error":
+            self.status_label.config(text=f"Fehler: {payload[1]}")
+            return
+        _kind, product_id, price = payload
+        if not price or not price.get("name"):
+            self.status_label.config(text="Spiel nicht gefunden.")
+            return
+        self.on_add(product_id, price["name"])
+        self.destroy()
+
+
+class WishlistTab(SortableTreeMixin, ttk.Frame):
+    def __init__(self, master, wishlist_file, price_worker_fn, store_url_fn,
+                 open_add_dialog, show_gamepass=True):
+        super().__init__(master)
+        self.wishlist_file = wishlist_file
+        self.price_worker_fn = price_worker_fn
+        self.store_url_fn = store_url_fn
+        self.open_add_dialog = open_add_dialog
+        self.show_gamepass = show_gamepass
         self.result_queue = queue.Queue()
         self.row_data = {}
-        self.entries = load_wishlist()
+        self.entries = load_wishlist(wishlist_file)
         self._build_ui()
-        GAMEPASS.on_ready(lambda: self.after(0, self._refresh_gamepass_column))
+        if show_gamepass:
+            GAMEPASS.on_ready(lambda: self.after(0, self._refresh_gamepass_column))
 
     def _build_ui(self):
         top = ttk.Frame(self)
         top.pack(fill="x", padx=8, pady=8)
 
-        ttk.Button(top, text="Spiel hinzufügen...", command=self.open_search_dialog).pack(side="left")
+        ttk.Button(top, text="Spiel hinzufügen...", command=lambda: self.open_add_dialog(self.add_game)).pack(side="left")
         ttk.Button(top, text="Entfernen", command=self.remove_selected).pack(side="left", padx=(8, 0))
         ttk.Button(top, text="Aktualisieren", command=self.start_fetch).pack(side="left", padx=(8, 0))
         self.progress = ttk.Progressbar(top, mode="determinate", length=160)
@@ -708,29 +1143,27 @@ class WishlistTab(SortableTreeMixin, ttk.Frame):
         self.summary_label = ttk.Label(self, text="Noch nicht geladen.")
         self.summary_label.pack(fill="x", padx=8)
 
-        columns = ("name", "discount", "orig", "final", "gamepass")
-        self.tree = ttk.Treeview(self, columns=columns, show="headings", selectmode="browse")
-        self._column_labels = {
-            "name": "Name",
-            "discount": "Rabatt",
-            "orig": "Originalpreis",
-            "final": "Preis jetzt",
-            "gamepass": "Game Pass",
-        }
-        for col, label in self._column_labels.items():
-            self.tree.heading(col, text=label)
-        self.tree.column("name", width=340)
-        self.tree.column("discount", width=70, anchor="e")
-        self.tree.column("orig", width=110, anchor="e")
-        self.tree.column("final", width=110, anchor="e")
-        self.tree.column("gamepass", width=90, anchor="center")
-        self._init_sorting({
+        columns = ["name", "discount", "orig", "final"] + (["gamepass"] if self.show_gamepass else [])
+        self.tree = ttk.Treeview(self, columns=tuple(columns), show="headings", selectmode="browse")
+        self._column_labels = {"name": "Name", "discount": "Rabatt", "orig": "Originalpreis", "final": "Preis jetzt"}
+        sort_keys = {
             "name": lambda d: d["name"].lower(),
             "discount": lambda d: d["discount"],
             "orig": lambda d: d["orig_cents"],
             "final": lambda d: d["final_cents"],
-            "gamepass": lambda d: d.get("gamepass", ""),
-        })
+        }
+        if self.show_gamepass:
+            self._column_labels["gamepass"] = "Game Pass"
+            sort_keys["gamepass"] = lambda d: d.get("gamepass", "")
+        for col, label in self._column_labels.items():
+            self.tree.heading(col, text=label)
+        self.tree.column("name", width=320)
+        self.tree.column("discount", width=70, anchor="e")
+        self.tree.column("orig", width=110, anchor="e")
+        self.tree.column("final", width=110, anchor="e")
+        if self.show_gamepass:
+            self.tree.column("gamepass", width=90, anchor="center")
+        self._init_sorting(sort_keys)
         self.tree.bind("<Double-1>", self.open_store_page)
 
         vsb = ttk.Scrollbar(self, orient="vertical", command=self.tree.yview)
@@ -739,19 +1172,15 @@ class WishlistTab(SortableTreeMixin, ttk.Frame):
         vsb.pack(side="right", fill="y", pady=(0, 8))
 
         ttk.Label(
-            self, text="Deine getrackten Spiele. Doppelklick öffnet die Store-Seite.",
-            foreground="#666",
+            self, text="Deine getrackten Spiele. Doppelklick öffnet die Store-Seite.", foreground="#666",
         ).pack(fill="x", padx=8, pady=(0, 4))
-
-    def open_search_dialog(self):
-        SearchDialog(self.winfo_toplevel(), self.add_game)
 
     def add_game(self, appid, name):
         if any(e["appid"] == appid for e in self.entries):
             messagebox.showinfo(APP_TITLE, f"'{name}' ist bereits auf der Wunschliste.")
             return
         self.entries.append({"appid": appid, "name": name})
-        save_wishlist(self.entries)
+        save_wishlist(self.wishlist_file, self.entries)
         self.start_fetch()
 
     def remove_selected(self):
@@ -763,7 +1192,7 @@ class WishlistTab(SortableTreeMixin, ttk.Frame):
         if not item:
             return
         self.entries = [e for e in self.entries if e["appid"] != item["appid"]]
-        save_wishlist(self.entries)
+        save_wishlist(self.wishlist_file, self.entries)
         self.tree.delete(selection[0])
         del self.row_data[selection[0]]
         if self.entries:
@@ -782,7 +1211,7 @@ class WishlistTab(SortableTreeMixin, ttk.Frame):
         self.progress["maximum"] = len(self.entries)
         self.progress.pack(side="left", padx=8)
         threading.Thread(
-            target=fetch_wishlist_prices, args=(self.entries, self.result_queue), daemon=True
+            target=self.price_worker_fn, args=(self.entries, self.result_queue), daemon=True
         ).start()
         self.after(100, self._poll)
 
@@ -800,7 +1229,7 @@ class WishlistTab(SortableTreeMixin, ttk.Frame):
                     self.summary_label.config(text="Fehler beim Laden.")
                     return
                 elif kind == "done":
-                    items, total = payload
+                    items, _total = payload
                     self.progress.pack_forget()
                     self._show_items(items)
                     return
@@ -810,17 +1239,13 @@ class WishlistTab(SortableTreeMixin, ttk.Frame):
 
     def _show_items(self, items):
         for item in items:
-            item["gamepass"] = GAMEPASS.lookup(item["name"])
-            iid = self.tree.insert(
-                "", "end",
-                values=(
-                    item["name"],
-                    f"-{item['discount']}%" if item["discount"] else "-",
-                    item["orig_price_str"],
-                    item["final_price_str"],
-                    item["gamepass"] or "-",
-                ),
-            )
+            if self.show_gamepass:
+                item["gamepass"] = GAMEPASS.lookup(item["name"])
+            values = [item["name"], f"-{item['discount']}%" if item["discount"] else "-",
+                      item["orig_price_str"], item["final_price_str"]]
+            if self.show_gamepass:
+                values.append(item["gamepass"] or "-")
+            iid = self.tree.insert("", "end", values=tuple(values))
             self.row_data[iid] = item
         self.summary_label.config(text=f"{len(items)} Spiele auf der Wunschliste.")
 
@@ -835,7 +1260,7 @@ class WishlistTab(SortableTreeMixin, ttk.Frame):
             return
         item = self.row_data.get(selection[0])
         if item:
-            webbrowser.open(f"https://store.steampowered.com/app/{item['appid']}/")
+            webbrowser.open(self.store_url_fn(item["appid"]))
 
 
 def main():
@@ -843,7 +1268,7 @@ def main():
 
     root = tk.Tk()
     root.title(APP_TITLE)
-    root.geometry("820x560")
+    root.geometry("880x600")
 
     try:
         style = ttk.Style()
@@ -851,19 +1276,83 @@ def main():
     except tk.TclError:
         pass
 
-    notebook = ttk.Notebook(root)
-    notebook.pack(fill="both", expand=True)
+    platforms_notebook = ttk.Notebook(root)
+    platforms_notebook.pack(fill="both", expand=True)
 
-    discounts_tab = DiscountsTab(notebook)
-    free_tab = FreeGamesTab(notebook)
-    wishlist_tab = WishlistTab(notebook)
-    notebook.add(discounts_tab, text="Rabatte")
-    notebook.add(free_tab, text="Aktuell kostenlos")
-    notebook.add(wishlist_tab, text="Wunschliste")
+    to_start = []
 
-    root.after(200, discounts_tab.start_fetch)
-    root.after(200, free_tab.start_fetch)
-    root.after(200, wishlist_tab.start_fetch)
+    # --- Steam ---
+    steam_frame = ttk.Frame(platforms_notebook)
+    steam_notebook = ttk.Notebook(steam_frame)
+    steam_notebook.pack(fill="both", expand=True)
+    steam_discounts = GenericDiscountsTab(
+        steam_notebook, "Steam", steam_discounts_worker, steam_store_url,
+        limit_options=("100", "300", "500", "1000", "2000"), default_limit="300",
+    )
+    steam_free = GenericFreeTab(
+        steam_notebook, steam_free_worker, steam_store_url,
+        hint_text="Nur Spiele, die zeitlich begrenzt kostenlos sind (nicht dauerhaft Free-to-Play). Doppelklick öffnet die Store-Seite.",
+        empty_text="Gerade keine zeitlich begrenzten Gratis-Spiele gefunden.",
+    )
+    steam_wishlist = WishlistTab(
+        steam_notebook, "wunschliste.json", steam_wishlist_prices_worker, steam_store_url,
+        open_add_dialog=lambda on_add: SearchDialog(root, steam_search, on_add),
+    )
+    steam_notebook.add(steam_discounts, text="Rabatte")
+    steam_notebook.add(steam_free, text="Aktuell kostenlos")
+    steam_notebook.add(steam_wishlist, text="Wunschliste")
+    platforms_notebook.add(steam_frame, text="Steam")
+    to_start += [steam_discounts.start_fetch, steam_free.start_fetch, steam_wishlist.start_fetch]
+
+    # --- Xbox ---
+    xbox_frame = ttk.Frame(platforms_notebook)
+    xbox_notebook = ttk.Notebook(xbox_frame)
+    xbox_notebook.pack(fill="both", expand=True)
+    xbox_discounts = GenericDiscountsTab(
+        xbox_notebook, "Xbox", xbox_discounts_worker, xbox_store_url, show_limit=False,
+        hint_text="Zeigt eine Momentaufnahme der aktuellen Top-Deals (keine vollständige Liste). Doppelklick öffnet die Store-Seite.",
+    )
+    xbox_free = GenericFreeTab(
+        xbox_notebook, xbox_free_worker, xbox_store_url,
+        hint_text="Xbox Free Play Days (zeitlich begrenzte Gratis-Testphasen für Gold/Game-Pass-Mitglieder). Doppelklick öffnet die Store-Seite.",
+        empty_text="Gerade keine aktiven Free Play Days.",
+    )
+    xbox_wishlist = WishlistTab(
+        xbox_notebook, "xbox_wunschliste.json", xbox_wishlist_prices_worker, xbox_store_url,
+        open_add_dialog=lambda on_add: SearchDialog(root, xbox_search, on_add),
+    )
+    xbox_notebook.add(xbox_discounts, text="Rabatte")
+    xbox_notebook.add(xbox_free, text="Free Play Days")
+    xbox_notebook.add(xbox_wishlist, text="Wunschliste")
+    platforms_notebook.add(xbox_frame, text="Xbox")
+    to_start += [xbox_discounts.start_fetch, xbox_free.start_fetch, xbox_wishlist.start_fetch]
+
+    # --- PlayStation ---
+    ps_frame = ttk.Frame(platforms_notebook)
+    ps_notebook = ttk.Notebook(ps_frame)
+    ps_notebook.pack(fill="both", expand=True)
+    ps_discounts = GenericDiscountsTab(
+        ps_notebook, "PlayStation", ps_discounts_worker, ps_store_url,
+        limit_options=("100", "300", "500"), default_limit="300", show_gamepass=False,
+    )
+    ps_free = GenericFreeTab(
+        ps_notebook, ps_plus_worker, ps_store_url, show_gamepass=False,
+        hint_text="PlayStation Plus Spiele des Monats (benötigt aktives PS-Plus-Abo). Doppelklick öffnet die Store-Seite.",
+        empty_text="Keine PS-Plus-Monatsspiele gefunden.",
+    )
+    ps_wishlist = WishlistTab(
+        ps_notebook, "ps_wunschliste.json", ps_wishlist_prices_worker, ps_store_url,
+        open_add_dialog=lambda on_add: PasteIdDialog(root, parse_ps_product_id, ps_product_price, on_add),
+        show_gamepass=False,
+    )
+    ps_notebook.add(ps_discounts, text="Rabatte")
+    ps_notebook.add(ps_free, text="PS Plus Monatsspiele")
+    ps_notebook.add(ps_wishlist, text="Wunschliste")
+    platforms_notebook.add(ps_frame, text="PlayStation")
+    to_start += [ps_discounts.start_fetch, ps_free.start_fetch, ps_wishlist.start_fetch]
+
+    for i, fn in enumerate(to_start):
+        root.after(200 + i * 50, fn)
 
     root.mainloop()
 

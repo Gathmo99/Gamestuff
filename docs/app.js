@@ -1,87 +1,148 @@
-const STEAM_CC = "de";
-const STEAM_LANG = "german";
-const WISHLIST_KEY = "steamSaleWatcher.wishlist";
 const CONSENT_KEY = "steamSaleWatcher.consent";
 
-// Public CORS proxies used only for the Wunschliste tab (live per-game lookups on a static
-// site can't call store.steampowered.com directly - it sends no CORS headers). Tried in
-// order; if the first is down/rate-limited, the next is used.
+// Public CORS proxies used only for live wishlist lookups (Steam/Xbox) - a static site can't
+// call store.steampowered.com or storeedgefd.dsx.mp.microsoft.com directly, neither sends CORS
+// headers. Tried in order; if the first is down/rate-limited, the next is used.
 const PROXY_TEMPLATES = [
   (url) => "https://corsproxy.io/?url=" + encodeURIComponent(url),
   (url) => "https://api.allorigins.win/raw?url=" + encodeURIComponent(url),
 ];
 
-const state = {
-  tab: "discounts",
-  data: { discounts: [], free: [], wishlist: [] },
-  gamepassCatalog: {},
-  wishlistStatus: "idle", // idle | loading | error
-  sort: {
-    discounts: { col: "discount", dir: -1 },
-    free: { col: "name", dir: 1 },
-    wishlist: { col: "name", dir: 1 },
+const PLATFORMS = {
+  steam: {
+    label: "Steam",
+    storeUrl: (id) => `https://store.steampowered.com/app/${id}/`,
+    tabs: {
+      discounts: {
+        label: "Rabatte", style: "discount", file: "data/discounts.json",
+        showGamepass: true, showSavings: true,
+      },
+      free: {
+        label: "Aktuell kostenlos", style: "free", file: "data/free.json",
+        showGamepass: true, priceLabel: "Regulärer Preis",
+        note: "Nur Spiele, die zeitlich begrenzt kostenlos sind (nicht dauerhaft Free-to-Play).",
+        emptyText: "Gerade keine zeitlich begrenzten Gratis-Spiele gefunden.",
+      },
+      wishlist: { label: "Wunschliste", style: "wishlist-live", provider: "steam", showGamepass: true },
+    },
   },
-  search: { discounts: "", free: "", wishlist: "" },
+  xbox: {
+    label: "Xbox",
+    storeUrl: (id) => `https://www.microsoft.com/store/productId/${id}`,
+    tabs: {
+      discounts: {
+        label: "Rabatte", style: "discount", file: "data/xbox_discounts.json",
+        showGamepass: true, showSavings: true,
+        note: "Momentaufnahme der aktuellen Top-Deals (keine vollständige Liste wie bei Steam).",
+      },
+      free: {
+        label: "Free Play Days", style: "free", file: "data/xbox_free.json",
+        showGamepass: true, priceLabel: "Regulärer Preis",
+        note: "Zeitlich begrenzte Gratis-Testphasen für Gold-/Game-Pass-Mitglieder.",
+        emptyText: "Gerade keine aktiven Free Play Days.",
+      },
+      wishlist: { label: "Wunschliste", style: "wishlist-live", provider: "xbox", showGamepass: true },
+    },
+  },
+  playstation: {
+    label: "PlayStation",
+    storeUrl: (id) => `https://store.playstation.com/de-de/product/${id}`,
+    tabs: {
+      discounts: {
+        label: "Rabatte", style: "discount", file: "data/ps_discounts.json",
+        showGamepass: false, showSavings: true,
+      },
+      free: {
+        label: "PS Plus Monatsspiele", style: "free", file: "data/ps_free.json",
+        showGamepass: false, priceLabel: "Regulärer Preis",
+        note: "Benötigt aktives PS-Plus-Abo.",
+        emptyText: "Keine PS-Plus-Monatsspiele gefunden.",
+      },
+      wishlist: {
+        label: "Wunschliste", style: "wishlist-static", file: "data/ps_wishlist.json",
+        showGamepass: false,
+      },
+    },
+  },
+};
+
+const WISHLIST_PROVIDERS = {
+  steam: { storageKey: "steamSaleWatcher.wishlist", search: steamSearch, livePrice: steamLivePrice },
+  xbox: { storageKey: "steamSaleWatcher.xboxWishlist", search: xboxSearch, livePrice: xboxLivePrice },
+};
+
+const state = {
+  platform: "steam",
+  tab: "discounts",
+  data: {},
+  gamepassCatalog: {},
+  wishlistStatus: {},
+  sort: {},
+  search: {},
   addSearch: { term: "", status: "idle", results: [] },
 };
 
-const COLUMNS = {
-  discounts: [
-    { key: "name", label: "Name", type: "text" },
-    { key: "discount", label: "Rabatt", type: "discount" },
-    { key: "orig_cents", label: "Originalpreis", type: "price", priceKey: "orig_price_str" },
-    { key: "final_cents", label: "Preis jetzt", type: "price", priceKey: "final_price_str" },
-    { key: "savings", label: "Ersparnis", type: "savings" },
-    { key: "gamepass", label: "Game Pass", type: "gamepass" },
-  ],
-  free: [
-    { key: "name", label: "Name", type: "text" },
-    { key: "orig_cents", label: "Regulärer Preis", type: "price", priceKey: "orig_price_str" },
-    { key: "gamepass", label: "Game Pass", type: "gamepass" },
-  ],
-  wishlist: [
-    { key: "name", label: "Name", type: "text" },
-    { key: "discount", label: "Rabatt", type: "discount" },
-    { key: "orig_cents", label: "Originalpreis", type: "price", priceKey: "orig_price_str" },
-    { key: "final_cents", label: "Preis jetzt", type: "price", priceKey: "final_price_str" },
-    { key: "gamepass", label: "Game Pass", type: "gamepass" },
-    { key: "remove", label: "", type: "remove" },
-  ],
-};
+function dataKey(platform, tab) {
+  return `${platform}.${tab}`;
+}
+
+function currentTabConfig() {
+  return PLATFORMS[state.platform].tabs[state.tab];
+}
+
+function ensureSortSearch(key, defaultSortCol) {
+  if (!state.sort[key]) state.sort[key] = { col: defaultSortCol, dir: defaultSortCol === "discount" ? -1 : 1 };
+  if (state.search[key] === undefined) state.search[key] = "";
+}
+
+function columnsFor(tabConfig) {
+  const cols = [{ key: "name", label: "Name", type: "text" }];
+  const isDiscountStyle = tabConfig.style === "discount" || tabConfig.style.startsWith("wishlist");
+  if (isDiscountStyle) {
+    cols.push({ key: "discount", label: "Rabatt", type: "discount" });
+    cols.push({ key: "orig_cents", label: "Originalpreis", type: "price", priceKey: "orig_price_str" });
+    cols.push({ key: "final_cents", label: "Preis jetzt", type: "price", priceKey: "final_price_str" });
+    if (tabConfig.showSavings) cols.push({ key: "savings", label: "Ersparnis", type: "savings" });
+  } else {
+    cols.push({ key: "orig_cents", label: tabConfig.priceLabel || "Preis", type: "price", priceKey: "orig_price_str" });
+  }
+  if (tabConfig.showGamepass) cols.push({ key: "gamepass", label: "Game Pass", type: "gamepass" });
+  if (tabConfig.style === "wishlist-live") cols.push({ key: "remove", label: "", type: "remove" });
+  return cols;
+}
 
 // ---------- Wishlist storage (local to this browser only) ----------
 
-function loadWishlistEntries() {
+function loadWishlistEntries(providerKey) {
   try {
-    const raw = localStorage.getItem(WISHLIST_KEY);
+    const raw = localStorage.getItem(WISHLIST_PROVIDERS[providerKey].storageKey);
     return raw ? JSON.parse(raw) : [];
   } catch (err) {
     return [];
   }
 }
 
-function saveWishlistEntries(entries) {
-  localStorage.setItem(WISHLIST_KEY, JSON.stringify(entries));
+function saveWishlistEntries(providerKey, entries) {
+  localStorage.setItem(WISHLIST_PROVIDERS[providerKey].storageKey, JSON.stringify(entries));
 }
 
-function addToWishlist(appid, name) {
-  appid = Number(appid);
-  const entries = loadWishlistEntries();
-  if (entries.some((e) => Number(e.appid) === appid)) return;
+function addToWishlist(providerKey, appid, name) {
+  const entries = loadWishlistEntries(providerKey);
+  if (entries.some((e) => String(e.appid) === String(appid))) return;
   entries.push({ appid, name });
-  saveWishlistEntries(entries);
-  refreshWishlist();
+  saveWishlistEntries(providerKey, entries);
+  refreshWishlist(providerKey);
 }
 
-function removeFromWishlist(appid) {
-  appid = Number(appid);
-  const entries = loadWishlistEntries().filter((e) => Number(e.appid) !== appid);
-  saveWishlistEntries(entries);
-  state.data.wishlist = state.data.wishlist.filter((i) => Number(i.appid) !== appid);
+function removeFromWishlist(providerKey, appid) {
+  const entries = loadWishlistEntries(providerKey).filter((e) => String(e.appid) !== String(appid));
+  saveWishlistEntries(providerKey, entries);
+  state.data[dataKey(providerKey, "wishlist")] =
+    (state.data[dataKey(providerKey, "wishlist")] || []).filter((i) => String(i.appid) !== String(appid));
   render();
 }
 
-// ---------- Proxied Steam requests (search + live price, wishlist only) ----------
+// ---------- Proxied requests (live wishlist search + price for Steam/Xbox only) ----------
 
 async function proxiedFetchJson(targetUrl) {
   let lastError;
@@ -98,72 +159,104 @@ async function proxiedFetchJson(targetUrl) {
 }
 
 async function steamSearch(term) {
-  const url = `https://store.steampowered.com/api/storesearch/?term=${encodeURIComponent(term)}&cc=${STEAM_CC}&l=${STEAM_LANG}`;
+  const url = `https://store.steampowered.com/api/storesearch/?term=${encodeURIComponent(term)}&cc=de&l=german`;
   const data = await proxiedFetchJson(url);
   return (data.items || [])
     .filter((it) => it.type === "app")
-    .map((it) => ({
-      appid: it.id,
-      name: it.name,
-      final_cents: it.price ? it.price.final : null,
-    }));
+    .map((it) => ({ appid: it.id, name: it.name, final_cents: it.price ? it.price.final : null }));
 }
 
-async function fetchLivePrice(appid) {
-  const url = `https://store.steampowered.com/api/appdetails?appids=${appid}&cc=${STEAM_CC}&l=${STEAM_LANG}&filters=price_overview`;
+async function steamLivePrice(appid) {
+  const url = `https://store.steampowered.com/api/appdetails?appids=${appid}&cc=de&l=german&filters=price_overview`;
   const data = await proxiedFetchJson(url);
   const entry = data[String(appid)];
   if (!entry || !entry.success) return null;
   const price = entry.data && !Array.isArray(entry.data) ? entry.data.price_overview : null;
   if (!price) {
-    return {
-      discount: 0, orig_cents: 0, final_cents: 0,
-      orig_price_str: "Kostenlos/F2P", final_price_str: "Kostenlos/F2P",
-    };
+    return { discount: 0, orig_cents: 0, final_cents: 0, orig_price_str: "Kostenlos/F2P", final_price_str: "Kostenlos/F2P" };
   }
   const origCents = price.initial ?? price.final ?? 0;
   const finalCents = price.final ?? 0;
   return {
-    discount: price.discount_percent || 0,
-    orig_cents: origCents,
-    final_cents: finalCents,
-    orig_price_str: formatCents(origCents),
-    final_price_str: formatCents(finalCents),
+    discount: price.discount_percent || 0, orig_cents: origCents, final_cents: finalCents,
+    orig_price_str: formatCents(origCents), final_price_str: formatCents(finalCents),
   };
 }
 
-async function refreshWishlist() {
-  const entries = loadWishlistEntries();
-  document.getElementById("stat-wishlist").textContent = entries.length;
+async function xboxSearch(term) {
+  const url = (
+    "https://storeedgefd.dsx.mp.microsoft.com/v9.0/pages/searchResults"
+    + `?appVersion=22203.1401.0.0&market=DE&locale=de-DE&deviceFamily=windows.xbox`
+    + `&query=${encodeURIComponent(term)}&mediaType=games`
+  );
+  const data = await proxiedFetchJson(url);
+  const payload = (data[1] && data[1].Payload) || {};
+  return (payload.SearchResults || []).map((item) => ({
+    appid: item.ProductId, name: item.Title, final_cents: null,
+  }));
+}
+
+async function xboxLivePrice(appid) {
+  // displaycatalog.mp.microsoft.com sends real CORS headers - no proxy needed here.
+  const url = `https://displaycatalog.mp.microsoft.com/v7.0/products?bigIds=${appid}&market=DE&languages=de-de`;
+  const res = await fetch(url);
+  if (!res.ok) return null;
+  const data = await res.json();
+  const product = (data.Products || [])[0];
+  if (!product) return null;
+  const localized = (product.LocalizedProperties || [{}])[0];
+  const name = localized.ProductTitle;
+  const price = (((product.DisplaySkuAvailabilities || [])[0] || {}).Availabilities || [])[0];
+  const priceInfo = price && price.OrderManagementData && price.OrderManagementData.Price;
+  if (!priceInfo || (!priceInfo.MSRP && !priceInfo.ListPrice)) {
+    return { name, discount: 0, orig_cents: 0, final_cents: 0, orig_price_str: "Kostenlos/F2P", final_price_str: "Kostenlos/F2P" };
+  }
+  const origCents = Math.round((priceInfo.MSRP || priceInfo.ListPrice || 0) * 100);
+  const finalCents = Math.round((priceInfo.ListPrice || 0) * 100);
+  const discount = origCents ? Math.round((1 - finalCents / origCents) * 100) : 0;
+  return {
+    name, discount, orig_cents: origCents, final_cents: finalCents,
+    orig_price_str: formatCents(origCents), final_price_str: formatCents(finalCents),
+  };
+}
+
+async function refreshWishlist(providerKey) {
+  const provider = WISHLIST_PROVIDERS[providerKey];
+  const entries = loadWishlistEntries(providerKey);
+  const key = dataKey(providerKey, "wishlist");
   if (entries.length === 0) {
-    state.data.wishlist = [];
-    state.wishlistStatus = "idle";
+    state.data[key] = [];
+    state.wishlistStatus[providerKey] = "idle";
     render();
     return;
   }
-  state.wishlistStatus = "loading";
+  state.wishlistStatus[providerKey] = "loading";
   render();
 
-  const items = await Promise.all(
-    entries.map(async (entry) => {
-      try {
-        const price = await fetchLivePrice(entry.appid);
-        const base = price || {
-          discount: 0, orig_cents: 0, final_cents: 0,
-          orig_price_str: "?", final_price_str: "nicht gefunden",
-        };
-        return { appid: entry.appid, name: entry.name, gamepass: gamepassLookup(entry.name), ...base };
-      } catch (err) {
+  const items = await Promise.all(entries.map(async (entry) => {
+    try {
+      const price = await provider.livePrice(entry.appid);
+      if (!price) {
         return {
           appid: entry.appid, name: entry.name, gamepass: gamepassLookup(entry.name),
-          discount: 0, orig_cents: 0, final_cents: 0,
-          orig_price_str: "?", final_price_str: "Fehler beim Laden",
+          discount: 0, orig_cents: 0, final_cents: 0, orig_price_str: "?", final_price_str: "nicht gefunden",
         };
       }
-    })
-  );
-  state.data.wishlist = items;
-  state.wishlistStatus = "idle";
+      const name = price.name || entry.name;
+      return {
+        appid: entry.appid, name, gamepass: gamepassLookup(name),
+        discount: price.discount, orig_cents: price.orig_cents, final_cents: price.final_cents,
+        orig_price_str: price.orig_price_str, final_price_str: price.final_price_str,
+      };
+    } catch (err) {
+      return {
+        appid: entry.appid, name: entry.name, gamepass: gamepassLookup(entry.name),
+        discount: 0, orig_cents: 0, final_cents: 0, orig_price_str: "?", final_price_str: "Fehler beim Laden",
+      };
+    }
+  }));
+  state.data[key] = items;
+  state.wishlistStatus[providerKey] = "idle";
   render();
 }
 
@@ -189,31 +282,38 @@ function gamepassLookup(name) {
 // ---------- Data loading (static, refreshed every 6h by GitHub Actions) ----------
 
 async function loadData() {
-  const [discounts, free, gamepass, meta] = await Promise.all([
-    fetchJson("data/discounts.json"),
-    fetchJson("data/free.json"),
+  const fileFetches = [];
+  for (const [platformKey, platform] of Object.entries(PLATFORMS)) {
+    for (const [tabKey, tabConfig] of Object.entries(platform.tabs)) {
+      if (!tabConfig.file) continue;
+      fileFetches.push(
+        fetchJson(tabConfig.file).then((json) => {
+          state.data[dataKey(platformKey, tabKey)] = (json && json.items) || [];
+          if (json && typeof json.total === "number") {
+            state.data[dataKey(platformKey, tabKey) + ".total"] = json.total;
+          }
+        })
+      );
+    }
+  }
+
+  const [gamepass, meta] = await Promise.all([
     fetchJson("data/gamepass.json"),
     fetchJson("data/meta.json"),
+    ...fileFetches,
   ]);
-
-  state.data.discounts = (discounts && discounts.items) || [];
-  state.data.free = (free && free.items) || [];
   state.gamepassCatalog = gamepass || {};
-
-  document.getElementById("stat-discounts").textContent = state.data.discounts.length;
-  document.getElementById("stat-discounts-total").textContent =
-    discounts && discounts.total ? `von ${discounts.total} insgesamt` : "";
-  document.getElementById("stat-free").textContent = state.data.free.length;
 
   if (meta && meta.updated) {
     const updated = new Date(meta.updated);
     document.getElementById("last-updated").textContent =
-      "Rabatte & Gratis-Spiele zuletzt aktualisiert: " + updated.toLocaleString("de-DE") +
-      " (automatisch alle 6h) · Wunschliste lädt live bei jedem Besuch";
+      "Rabatte & Kostenlos-Tabs zuletzt aktualisiert: " + updated.toLocaleString("de-DE") +
+      " (automatisch alle 6h) · Steam-/Xbox-Wunschliste lädt live bei jedem Besuch";
   }
 
   render();
-  refreshWishlist();
+  refreshWishlist("steam");
+  refreshWishlist("xbox");
 }
 
 async function fetchJson(path) {
@@ -279,28 +379,33 @@ function escapeHtml(str) {
   return div.innerHTML;
 }
 
-function filteredSorted(tab) {
-  const cols = COLUMNS[tab];
-  const sortCol = cols.find((c) => c.key === state.sort[tab].col) || cols[0];
-  const term = state.search[tab].trim().toLowerCase();
+function filteredSorted() {
+  const key = dataKey(state.platform, state.tab);
+  const tabConfig = currentTabConfig();
+  const cols = columnsFor(tabConfig);
+  ensureSortSearch(key, tabConfig.style === "discount" ? "discount" : "name");
+  const sortCol = cols.find((c) => c.key === state.sort[key].col) || cols[0];
+  const term = (state.search[key] || "").trim().toLowerCase();
 
-  let items = state.data[tab];
+  let items = state.data[key] || [];
   if (term) {
     items = items.filter((it) => it.name.toLowerCase().includes(term));
   }
+  const dir = state.sort[key].dir;
   items = [...items].sort((a, b) => {
     const va = sortValue(a, sortCol);
     const vb = sortValue(b, sortCol);
-    if (va < vb) return -1 * state.sort[tab].dir;
-    if (va > vb) return 1 * state.sort[tab].dir;
+    if (va < vb) return -1 * dir;
+    if (va > vb) return 1 * dir;
     return 0;
   });
   return items;
 }
 
-function renderTableHead(tab) {
-  const cols = COLUMNS[tab];
-  const sort = state.sort[tab];
+function renderTableHead() {
+  const key = dataKey(state.platform, state.tab);
+  const cols = columnsFor(currentTabConfig());
+  const sort = state.sort[key] || {};
   return cols
     .map((c) => {
       if (c.type === "remove") return `<th></th>`;
@@ -312,17 +417,19 @@ function renderTableHead(tab) {
     .join("");
 }
 
-function renderTableBody(tab) {
-  const cols = COLUMNS[tab];
-  const items = filteredSorted(tab);
+function renderTableBody() {
+  const tabConfig = currentTabConfig();
+  const cols = columnsFor(tabConfig);
+  const items = filteredSorted();
+  const providerKey = tabConfig.provider;
 
-  if (tab === "wishlist" && items.length === 0 && state.wishlistStatus === "loading") {
+  if (tabConfig.style === "wishlist-live" && items.length === 0 && state.wishlistStatus[providerKey] === "loading") {
     return `<tr class="loading-row"><td colspan="${cols.length}">Lade Preise...</td></tr>`;
   }
   if (items.length === 0) {
-    const msg = tab === "wishlist"
+    const msg = tabConfig.style === "wishlist-live"
       ? "Noch keine Spiele auf der Wunschliste."
-      : "Keine Einträge gefunden.";
+      : (tabConfig.emptyText || "Keine Einträge gefunden.");
     return `<tr class="loading-row"><td colspan="${cols.length}">${msg}</td></tr>`;
   }
   return items
@@ -340,8 +447,18 @@ function renderTableBody(tab) {
 }
 
 function renderAddPanel() {
+  const tabConfig = currentTabConfig();
   const panel = document.getElementById("add-game-panel");
-  if (state.tab !== "wishlist") {
+  const psHelp = document.getElementById("ps-wishlist-help");
+
+  if (tabConfig.style === "wishlist-static") {
+    panel.style.display = "none";
+    psHelp.style.display = "block";
+    return;
+  }
+  psHelp.style.display = "none";
+
+  if (tabConfig.style !== "wishlist-live") {
     panel.style.display = "none";
     return;
   }
@@ -368,23 +485,60 @@ function renderAddPanel() {
   }
 }
 
+function updateStats() {
+  const discountsKey = dataKey(state.platform, "discounts");
+  const freeKey = dataKey(state.platform, "free");
+  const wishlistKey = dataKey(state.platform, "wishlist");
+  const freeTabConfig = PLATFORMS[state.platform].tabs.free;
+
+  document.getElementById("stat-discounts").textContent = (state.data[discountsKey] || []).length;
+  const total = state.data[discountsKey + ".total"];
+  document.getElementById("stat-discounts-total").textContent = total ? `von ${total} insgesamt` : "";
+  document.getElementById("stat-free").textContent = (state.data[freeKey] || []).length;
+  document.getElementById("stat-free-label").textContent = freeTabConfig.label.toLowerCase();
+  document.getElementById("stat-wishlist").textContent = (state.data[wishlistKey] || []).length;
+}
+
 function render() {
-  const tab = state.tab;
-  document.getElementById("table-head").innerHTML = renderTableHead(tab);
-  document.getElementById("table-body").innerHTML = renderTableBody(tab);
-  document.getElementById("result-count").textContent = `${filteredSorted(tab).length} Einträge`;
+  const tabConfig = currentTabConfig();
+
+  document.getElementById("table-head").innerHTML = renderTableHead();
+  document.getElementById("table-body").innerHTML = renderTableBody();
+  document.getElementById("result-count").textContent = `${filteredSorted().length} Einträge`;
+
+  const noteEl = document.getElementById("tab-note");
+  if (tabConfig.note) {
+    noteEl.textContent = tabConfig.note;
+    noteEl.style.display = "block";
+  } else {
+    noteEl.style.display = "none";
+  }
 
   renderAddPanel();
+  updateStats();
 
-  document.querySelectorAll(".tab-btn").forEach((btn) => {
-    btn.classList.toggle("active", btn.dataset.tab === tab);
+  document.querySelectorAll(".platform-btn").forEach((btn) => {
+    btn.classList.toggle("active", btn.dataset.platform === state.platform);
   });
-  document.getElementById("search-input").value = state.search[tab];
+  document.querySelectorAll(".tab-btn").forEach((btn) => {
+    const key = btn.dataset.tab;
+    btn.textContent = PLATFORMS[state.platform].tabs[key].label;
+    btn.classList.toggle("active", key === state.tab);
+  });
+  const key = dataKey(state.platform, state.tab);
+  document.getElementById("search-input").value = state.search[key] || "";
 }
 
 // ---------- Events ----------
 
 function setupEvents() {
+  document.querySelectorAll(".platform-btn").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      state.platform = btn.dataset.platform;
+      render();
+    });
+  });
+
   document.querySelectorAll(".tab-btn").forEach((btn) => {
     btn.addEventListener("click", () => {
       state.tab = btn.dataset.tab;
@@ -393,20 +547,23 @@ function setupEvents() {
   });
 
   document.getElementById("search-input").addEventListener("input", (e) => {
-    state.search[state.tab] = e.target.value;
+    const key = dataKey(state.platform, state.tab);
+    ensureSortSearch(key, currentTabConfig().style === "discount" ? "discount" : "name");
+    state.search[key] = e.target.value;
     render();
   });
 
   document.getElementById("table-head").addEventListener("click", (e) => {
     const th = e.target.closest("th");
     if (!th || !th.dataset.col) return;
+    const key = dataKey(state.platform, state.tab);
     const col = th.dataset.col;
-    const sort = state.sort[state.tab];
+    const sort = state.sort[key];
     if (sort.col === col) {
       sort.dir *= -1;
     } else {
       sort.col = col;
-      sort.dir = col === "discount" || col === "orig_cents" || col === "final_cents" || col === "savings" ? -1 : 1;
+      sort.dir = ["discount", "orig_cents", "final_cents", "savings"].includes(col) ? -1 : 1;
     }
     render();
   });
@@ -414,12 +571,12 @@ function setupEvents() {
   document.getElementById("table-body").addEventListener("click", (e) => {
     const removeBtn = e.target.closest("[data-remove]");
     if (removeBtn) {
-      removeFromWishlist(removeBtn.dataset.remove);
+      removeFromWishlist(state.platform, removeBtn.dataset.remove);
       return;
     }
     const row = e.target.closest("tr[data-appid]");
     if (!row) return;
-    window.open(`https://store.steampowered.com/app/${row.dataset.appid}/`, "_blank", "noopener");
+    window.open(PLATFORMS[state.platform].storeUrl(row.dataset.appid), "_blank", "noopener");
   });
 
   const addToggle = document.getElementById("add-game-toggle");
@@ -435,10 +592,11 @@ function setupEvents() {
   const runSearch = async () => {
     const term = addInput.value.trim();
     if (!term) return;
+    const provider = WISHLIST_PROVIDERS[currentTabConfig().provider];
     state.addSearch = { term, status: "loading", results: [] };
     renderAddPanel();
     try {
-      const results = await steamSearch(term);
+      const results = await provider.search(term);
       state.addSearch = { term, status: "done", results };
     } catch (err) {
       state.addSearch = { term, status: "error", results: [] };
@@ -453,7 +611,7 @@ function setupEvents() {
   document.getElementById("add-game-results").addEventListener("click", (e) => {
     const el = e.target.closest("[data-add-appid]");
     if (!el) return;
-    addToWishlist(Number(el.dataset.addAppid), el.dataset.addName);
+    addToWishlist(currentTabConfig().provider, el.dataset.addAppid, el.dataset.addName);
     addInput.value = "";
     state.addSearch = { term: "", status: "idle", results: [] };
     addForm.classList.remove("open");

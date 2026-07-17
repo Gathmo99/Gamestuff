@@ -1,0 +1,255 @@
+{
+  "items": [
+    {
+      "appid": "9PJ2RVRC0L1X",
+      "name": "NBA 2K26 Standard Edition",
+      "discount": 90,
+      "orig_cents": 7999,
+      "final_cents": 799,
+      "orig_price_str": "79,99 €",
+      "final_price_str": "7,99 €",
+      "gamepass": "PC"
+    },
+    {
+      "appid": "9N14G09PWG74",
+      "name": "Golf With Your Friends",
+      "discount": 90,
+      "orig_cents": 1999,
+      "final_cents": 199,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "1,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "BPPTRQZRJ341",
+      "name": "Metro 2033 Redux",
+      "discount": 85,
+      "orig_cents": 1999,
+      "final_cents": 299,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "2,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9P6HKH56D3DH",
+      "name": "DRAGON BALL FighterZ (Xbox Series X|S & Xbox One)",
+      "discount": 85,
+      "orig_cents": 6999,
+      "final_cents": 1049,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "10,49 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9MXZBTLG26VX",
+      "name": "EA SPORTS FC™ 26 Standard Edition Xbox One & Xbox Series X|S",
+      "discount": 80,
+      "orig_cents": 7999,
+      "final_cents": 1599,
+      "orig_price_str": "79,99 €",
+      "final_price_str": "15,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9PH339L3Z99C",
+      "name": "Red Dead Redemption 2: Ultimate Edition",
+      "discount": 80,
+      "orig_cents": 9999,
+      "final_cents": 1999,
+      "orig_price_str": "99,99 €",
+      "final_price_str": "19,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NHL478CM00Z",
+      "name": "EA SPORTS FC™ 26 The World's Game Edition Xbox One & Xbox Series X|S",
+      "discount": 75,
+      "orig_cents": 9999,
+      "final_cents": 2499,
+      "orig_price_str": "99,99 €",
+      "final_price_str": "24,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9N2ZDN7NWQKV",
+      "name": "Red Dead Redemption 2",
+      "discount": 75,
+      "orig_cents": 5999,
+      "final_cents": 1499,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "14,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "BX03760D0QGN",
+      "name": "DRAGON BALL XENOVERSE 2",
+      "discount": 75,
+      "orig_cents": 1999,
+      "final_cents": 499,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "4,99 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "BWVBNCMF22ZK",
+      "name": "A Way Out",
+      "discount": 70,
+      "orig_cents": 2999,
+      "final_cents": 899,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "8,99 €",
+      "gamepass": "Xbox"
+    },
+    {
+      "appid": "C492DG1TQQ09",
+      "name": "Call of Duty®: Black Ops III - Zombies Chronicles Edition",
+      "discount": 67,
+      "orig_cents": 6999,
+      "final_cents": 2309,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "23,09 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9MXMJFNZMVWD",
+      "name": "Grand Theft Auto: The Trilogy – The Definitive Edition",
+      "discount": 67,
+      "orig_cents": 5999,
+      "final_cents": 1979,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "19,79 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "BRQ2SCZCTXF2",
+      "name": "Grand Theft Auto IV",
+      "discount": 65,
+      "orig_cents": 2499,
+      "final_cents": 874,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "8,74 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9P42LWGMC7K4",
+      "name": "Assassin's Creed Shadows",
+      "discount": 55,
+      "orig_cents": 7999,
+      "final_cents": 3599,
+      "orig_price_str": "79,99 €",
+      "final_price_str": "35,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9N8KMNW6942X",
+      "name": "Call of Duty®: Black Ops 7 - Cross-Gen-Bundle",
+      "discount": 50,
+      "orig_cents": 7999,
+      "final_cents": 3999,
+      "orig_price_str": "79,99 €",
+      "final_price_str": "39,99 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "9NKC1Z4Z92VN",
+      "name": "Grand Theft Auto Online",
+      "discount": 50,
+      "orig_cents": 1999,
+      "final_cents": 999,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "9,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "C1QJM5XT9SXV",
+      "name": "Call of Duty®: Black Ops II",
+      "discount": 50,
+      "orig_cents": 3999,
+      "final_cents": 1999,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "19,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NRLSFM01XTP",
+      "name": "MLB® The Show™ 26 Standard Edition",
+      "discount": 50,
+      "orig_cents": 6999,
+      "final_cents": 3499,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "34,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9P5B3ZVDK19D",
+      "name": "Red Dead Redemption",
+      "discount": 50,
+      "orig_cents": 4999,
+      "final_cents": 2499,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "24,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9P2FF14JZLL3",
+      "name": "Battlefield™ 6",
+      "discount": 50,
+      "orig_cents": 7999,
+      "final_cents": 3999,
+      "orig_price_str": "79,99 €",
+      "final_price_str": "39,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "BVMGCSX6XPC9",
+      "name": "Call of Duty®: Black Ops",
+      "discount": 50,
+      "orig_cents": 3999,
+      "final_cents": 1999,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "19,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9MVBJ3NX67DS",
+      "name": "Little Nightmares III",
+      "discount": 50,
+      "orig_cents": 3999,
+      "final_cents": 1999,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "19,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9N1WXXD1RL8D",
+      "name": "Split Fiction",
+      "discount": 35,
+      "orig_cents": 4999,
+      "final_cents": 3249,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "32,49 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NBR63PT4FZC",
+      "name": "Ready or Not",
+      "discount": 25,
+      "orig_cents": 4999,
+      "final_cents": 3749,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "37,49 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9P3PT7PQJD0M",
+      "name": "HELLDIVERS™ 2",
+      "discount": 25,
+      "orig_cents": 3999,
+      "final_cents": 2999,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "29,99 €",
+      "gamepass": ""
+    }
+  ],
+  "total": 2751
+}

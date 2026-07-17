@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Steam Sale Watcher</title>
+<title>Sale Watcher</title>
 <link rel="stylesheet" href="style.css">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎮</text></svg>">
 </head>
@@ -11,11 +11,17 @@
 <div class="wrap">
   <header class="hero">
     <div>
-      <h1>🎮 Steam Sale Watcher</h1>
+      <h1>🎮 Sale Watcher</h1>
       <div class="subtitle" id="last-updated">Lade Daten...</div>
     </div>
     <button id="theme-toggle" title="Theme umschalten">🌙</button>
   </header>
+
+  <nav class="platform-tabs">
+    <button class="platform-btn active" data-platform="steam">Steam</button>
+    <button class="platform-btn" data-platform="xbox">Xbox</button>
+    <button class="platform-btn" data-platform="playstation">PlayStation</button>
+  </nav>
 
   <div class="stats">
     <div class="stat-card">
@@ -24,7 +30,7 @@
     </div>
     <div class="stat-card">
       <div class="value" id="stat-free">–</div>
-      <div class="label">aktuell kostenlos</div>
+      <div class="label" id="stat-free-label">aktuell kostenlos</div>
     </div>
     <div class="stat-card">
       <div class="value" id="stat-wishlist">–</div>
@@ -38,6 +44,8 @@
     <button class="tab-btn" data-tab="wishlist">Wunschliste</button>
   </nav>
 
+  <div class="tab-note" id="tab-note" style="display:none"></div>
+
   <div class="add-game-panel" id="add-game-panel" style="display:none">
     <button id="add-game-toggle" class="add-toggle-btn">+ Spiel zur Wunschliste hinzufügen</button>
     <div class="add-form" id="add-game-form">
@@ -49,10 +57,20 @@
       <p class="add-hint">
         Deine Wunschliste wird nur lokal in diesem Browser gespeichert (localStorage) –
         nicht im Repository, nicht auf einem Server. Für die Live-Suche und Preise wird ein
-        öffentlicher CORS-Proxy angefragt, da Steam selbst keine Browser-Anfragen von fremden
-        Seiten erlaubt.
+        öffentlicher CORS-Proxy angefragt, da die Stores selbst keine Browser-Anfragen von
+        fremden Seiten erlauben.
       </p>
     </div>
+  </div>
+
+  <div class="wishlist-help" id="ps-wishlist-help" style="display:none">
+    PlayStations Store-API blockiert Anfragen von fremden Websites strikt (auch über Proxys) –
+    eine Live-Suche direkt im Browser ist hier technisch nicht möglich. Um ein Spiel zu tracken,
+    <code>ps-wishlist.json</code> im Repository bearbeiten
+    (Format: <code>[{"appid": "EP4295-CUSA17368_00-...", "name": "Spielname"}]</code>, die
+    App-ID steht in der PS-Store-URL) und pushen – die Preise werden beim nächsten
+    automatischen Update übernommen. Die Desktop-App hat dafür ein "Spiel hinzufügen"-Fenster,
+    in das du einfach den Store-Link einfügen kannst.
   </div>
 
   <div class="toolbar">
@@ -72,17 +90,16 @@
   </div>
 
   <footer>
-    Daten von der öffentlichen Steam-Store-API und dem Xbox-Game-Pass-Katalog.
-    Automatisch aktualisiert per GitHub Actions.
+    Daten von den öffentlichen Store-APIs von Steam, Xbox und PlayStation.
+    Rabatte/Kostenlos-Tabs automatisch aktualisiert per GitHub Actions, alle 6 Stunden.
   </footer>
 </div>
 
 <div class="consent-banner" id="consent-banner" style="display:none">
   <p>
-    Diese Seite setzt keine Cookies und lädt kein Tracking. Dein Theme und deine Wunschliste
-    werden nur lokal in deinem Browser gespeichert (localStorage), sonst nirgends. Für die
-    Wunschliste wird bei Bedarf ein externer CORS-Proxy angefragt, um Live-Preise von Steam zu
-    laden.
+    Diese Seite setzt keine Cookies und lädt kein Tracking. Dein Theme und deine Steam-/Xbox-
+    Wunschliste werden nur lokal in deinem Browser gespeichert (localStorage), sonst nirgends.
+    Für die Wunschliste wird bei Bedarf ein externer CORS-Proxy angefragt, um Live-Preise zu laden.
   </p>
   <button id="consent-accept">Verstanden</button>
 </div>
