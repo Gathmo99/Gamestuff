@@ -151,16 +151,6 @@
       "gamepass": ""
     },
     {
-      "appid": "3914860",
-      "name": "Moss: The Forgotten Relic",
-      "discount": 10,
-      "orig_price_str": "18,99€",
-      "final_price_str": "17,09€",
-      "orig_cents": 1899,
-      "final_cents": 1709,
-      "gamepass": ""
-    },
-    {
       "appid": "3159330",
       "name": "Assassin’s Creed Shadows",
       "discount": 55,
@@ -168,6 +158,16 @@
       "final_price_str": "31,49€",
       "orig_cents": 6999,
       "final_cents": 3149,
+      "gamepass": ""
+    },
+    {
+      "appid": "3914860",
+      "name": "Moss: The Forgotten Relic",
+      "discount": 10,
+      "orig_price_str": "18,99€",
+      "final_price_str": "17,09€",
+      "orig_cents": 1899,
+      "final_cents": 1709,
       "gamepass": ""
     },
     {
@@ -181,6 +181,16 @@
       "gamepass": ""
     },
     {
+      "appid": "1696770",
+      "name": "The Mermaid Mask",
+      "discount": 10,
+      "orig_price_str": "20,49€",
+      "final_price_str": "18,44€",
+      "orig_cents": 2049,
+      "final_cents": 1844,
+      "gamepass": ""
+    },
+    {
       "appid": "2524850",
       "name": "Denshattack!",
       "discount": 10,
@@ -189,16 +199,6 @@
       "orig_cents": 1999,
       "final_cents": 1799,
       "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "3932890",
-      "name": "Escape from Tarkov",
-      "discount": 25,
-      "orig_price_str": "49,99€",
-      "final_price_str": "37,49€",
-      "orig_cents": 4999,
-      "final_cents": 3749,
-      "gamepass": ""
     },
     {
       "appid": "1805110",
@@ -221,13 +221,13 @@
       "gamepass": ""
     },
     {
-      "appid": "1696770",
-      "name": "The Mermaid Mask",
-      "discount": 10,
-      "orig_price_str": "20,49€",
-      "final_price_str": "18,44€",
-      "orig_cents": 2049,
-      "final_cents": 1844,
+      "appid": "3932890",
+      "name": "Escape from Tarkov",
+      "discount": 25,
+      "orig_price_str": "49,99€",
+      "final_price_str": "37,49€",
+      "orig_cents": 4999,
+      "final_cents": 3749,
       "gamepass": ""
     },
     {
@@ -238,6 +238,16 @@
       "final_price_str": "11,69€",
       "orig_cents": 3899,
       "final_cents": 1169,
+      "gamepass": ""
+    },
+    {
+      "appid": "447040",
+      "name": "Watch_Dogs® 2",
+      "discount": 95,
+      "orig_price_str": "59,99€",
+      "final_price_str": "2,99€",
+      "orig_cents": 5999,
+      "final_cents": 299,
       "gamepass": ""
     },
     {
@@ -258,16 +268,6 @@
       "final_price_str": "34,99€",
       "orig_cents": 6999,
       "final_cents": 3499,
-      "gamepass": ""
-    },
-    {
-      "appid": "447040",
-      "name": "Watch_Dogs® 2",
-      "discount": 95,
-      "orig_price_str": "59,99€",
-      "final_price_str": "2,99€",
-      "orig_cents": 5999,
-      "final_cents": 299,
       "gamepass": ""
     },
     {
@@ -331,16 +331,6 @@
       "gamepass": ""
     },
     {
-      "appid": "3059520",
-      "name": "F1® 25",
-      "discount": 20,
-      "orig_price_str": "49,99€",
-      "final_price_str": "39,99€",
-      "orig_cents": 4999,
-      "final_cents": 3999,
-      "gamepass": "Xbox"
-    },
-    {
       "appid": "2124490",
       "name": "SILENT HILL 2",
       "discount": 60,
@@ -351,14 +341,14 @@
       "gamepass": ""
     },
     {
-      "appid": "892970",
-      "name": "Valheim",
-      "discount": 50,
-      "orig_price_str": "19,99€",
-      "final_price_str": "9,99€",
-      "orig_cents": 1999,
-      "final_cents": 999,
-      "gamepass": ""
+      "appid": "3059520",
+      "name": "F1® 25",
+      "discount": 20,
+      "orig_price_str": "49,99€",
+      "final_price_str": "39,99€",
+      "orig_cents": 4999,
+      "final_cents": 3999,
+      "gamepass": "Xbox"
     },
     {
       "appid": "1671210",
@@ -368,6 +358,16 @@
       "final_price_str": "19,19€",
       "orig_cents": 2399,
       "final_cents": 1919,
+      "gamepass": ""
+    },
+    {
+      "appid": "892970",
+      "name": "Valheim",
+      "discount": 50,
+      "orig_price_str": "19,99€",
+      "final_price_str": "9,99€",
+      "orig_cents": 1999,
+      "final_cents": 999,
       "gamepass": ""
     },
     {
@@ -391,16 +391,6 @@
       "gamepass": "PC + Xbox"
     },
     {
-      "appid": "1547000",
-      "name": "Grand Theft Auto: San Andreas – The Definitive Edition",
-      "discount": 67,
-      "orig_price_str": "59,99€",
-      "final_price_str": "19,79€",
-      "orig_cents": 5999,
-      "final_cents": 1979,
-      "gamepass": ""
-    },
-    {
       "appid": "739630",
       "name": "Phasmophobia",
       "discount": 30,
@@ -411,13 +401,13 @@
       "gamepass": ""
     },
     {
-      "appid": "2195120",
-      "name": "Go-Go Town!",
-      "discount": 25,
-      "orig_price_str": "25,99€",
-      "final_price_str": "19,49€",
-      "orig_cents": 2599,
-      "final_cents": 1949,
+      "appid": "1547000",
+      "name": "Grand Theft Auto: San Andreas – The Definitive Edition",
+      "discount": 67,
+      "orig_price_str": "59,99€",
+      "final_price_str": "19,79€",
+      "orig_cents": 5999,
+      "final_cents": 1979,
       "gamepass": ""
     },
     {
@@ -438,6 +428,16 @@
       "final_price_str": "9,79€",
       "orig_cents": 6999,
       "final_cents": 979,
+      "gamepass": ""
+    },
+    {
+      "appid": "2195120",
+      "name": "Go-Go Town!",
+      "discount": 25,
+      "orig_price_str": "25,99€",
+      "final_price_str": "19,49€",
+      "orig_cents": 2599,
+      "final_cents": 1949,
       "gamepass": ""
     },
     {
@@ -491,16 +491,6 @@
       "gamepass": ""
     },
     {
-      "appid": "367270",
-      "name": "Angels Fall First",
-      "discount": 10,
-      "orig_price_str": "17,99€",
-      "final_price_str": "16,19€",
-      "orig_cents": 1799,
-      "final_cents": 1619,
-      "gamepass": ""
-    },
-    {
       "appid": "2646720",
       "name": "Dead Weight",
       "discount": 25,
@@ -511,13 +501,13 @@
       "gamepass": ""
     },
     {
-      "appid": "668580",
-      "name": "Atomic Heart",
-      "discount": 75,
-      "orig_price_str": "59,99€",
-      "final_price_str": "14,99€",
-      "orig_cents": 5999,
-      "final_cents": 1499,
+      "appid": "367270",
+      "name": "Angels Fall First",
+      "discount": 10,
+      "orig_price_str": "17,99€",
+      "final_price_str": "16,19€",
+      "orig_cents": 1799,
+      "final_cents": 1619,
       "gamepass": ""
     },
     {
@@ -531,6 +521,16 @@
       "gamepass": ""
     },
     {
+      "appid": "668580",
+      "name": "Atomic Heart",
+      "discount": 75,
+      "orig_price_str": "59,99€",
+      "final_price_str": "14,99€",
+      "orig_cents": 5999,
+      "final_cents": 1499,
+      "gamepass": ""
+    },
+    {
       "appid": "3672400",
       "name": "Farever",
       "discount": 20,
@@ -539,26 +539,6 @@
       "orig_cents": 1999,
       "final_cents": 1599,
       "gamepass": ""
-    },
-    {
-      "appid": "1363080",
-      "name": "Manor Lords",
-      "discount": 35,
-      "orig_price_str": "39,99€",
-      "final_price_str": "25,99€",
-      "orig_cents": 3999,
-      "final_cents": 2599,
-      "gamepass": "PC"
-    },
-    {
-      "appid": "934700",
-      "name": "Dead Island 2",
-      "discount": 90,
-      "orig_price_str": "49,99€",
-      "final_price_str": "4,99€",
-      "orig_cents": 4999,
-      "final_cents": 499,
-      "gamepass": "PC + Xbox"
     },
     {
       "appid": "1273400",
@@ -571,6 +551,26 @@
       "gamepass": "PC + Xbox"
     },
     {
+      "appid": "1363080",
+      "name": "Manor Lords",
+      "discount": 35,
+      "orig_price_str": "39,99€",
+      "final_price_str": "25,99€",
+      "orig_cents": 3999,
+      "final_cents": 2599,
+      "gamepass": "PC"
+    },
+    {
+      "appid": "2104890",
+      "name": "RoadCraft",
+      "discount": 40,
+      "orig_price_str": "39,99€",
+      "final_price_str": "23,99€",
+      "orig_cents": 3999,
+      "final_cents": 2399,
+      "gamepass": "PC + Xbox"
+    },
+    {
       "appid": "997010",
       "name": "Police Simulator: Patrol Officers",
       "discount": 80,
@@ -578,6 +578,16 @@
       "final_price_str": "5,99€",
       "orig_cents": 2999,
       "final_cents": 599,
+      "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "934700",
+      "name": "Dead Island 2",
+      "discount": 90,
+      "orig_price_str": "49,99€",
+      "final_price_str": "4,99€",
+      "orig_cents": 4999,
+      "final_cents": 499,
       "gamepass": "PC + Xbox"
     },
     {
@@ -601,33 +611,13 @@
       "gamepass": ""
     },
     {
-      "appid": "2947440",
-      "name": "SILENT HILL f",
-      "discount": 50,
-      "orig_price_str": "79,99€",
-      "final_price_str": "39,99€",
-      "orig_cents": 7999,
-      "final_cents": 3999,
-      "gamepass": ""
-    },
-    {
-      "appid": "2104890",
-      "name": "RoadCraft",
-      "discount": 40,
-      "orig_price_str": "39,99€",
-      "final_price_str": "23,99€",
-      "orig_cents": 3999,
-      "final_cents": 2399,
-      "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "12210",
-      "name": "Grand Theft Auto IV: The Complete Edition",
-      "discount": 70,
+      "appid": "1662160",
+      "name": "K-pop Idol Stories: Road to Debut",
+      "discount": 20,
       "orig_price_str": "19,99€",
-      "final_price_str": "5,99€",
+      "final_price_str": "15,99€",
       "orig_cents": 1999,
-      "final_cents": 599,
+      "final_cents": 1599,
       "gamepass": ""
     },
     {
@@ -641,16 +631,6 @@
       "gamepass": ""
     },
     {
-      "appid": "1662160",
-      "name": "K-pop Idol Stories: Road to Debut",
-      "discount": 20,
-      "orig_price_str": "19,99€",
-      "final_price_str": "15,99€",
-      "orig_cents": 1999,
-      "final_cents": 1599,
-      "gamepass": ""
-    },
-    {
       "appid": "4668220",
       "name": "Farm Factory Simulator",
       "discount": 20,
@@ -658,26 +638,6 @@
       "final_price_str": "10,79€",
       "orig_cents": 1349,
       "final_cents": 1079,
-      "gamepass": ""
-    },
-    {
-      "appid": "454650",
-      "name": "DRAGON BALL XENOVERSE 2",
-      "discount": 75,
-      "orig_price_str": "19,99€",
-      "final_price_str": "4,99€",
-      "orig_cents": 1999,
-      "final_cents": 499,
-      "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "2828860",
-      "name": "The Forever Winter",
-      "discount": 50,
-      "orig_price_str": "28,99€",
-      "final_price_str": "14,49€",
-      "orig_cents": 2899,
-      "final_cents": 1449,
       "gamepass": ""
     },
     {
@@ -691,13 +651,83 @@
       "gamepass": ""
     },
     {
-      "appid": "3765010",
-      "name": "Forensics: Crime Scene Detective",
+      "appid": "2947440",
+      "name": "SILENT HILL f",
+      "discount": 50,
+      "orig_price_str": "79,99€",
+      "final_price_str": "39,99€",
+      "orig_cents": 7999,
+      "final_cents": 3999,
+      "gamepass": ""
+    },
+    {
+      "appid": "12210",
+      "name": "Grand Theft Auto IV: The Complete Edition",
+      "discount": 70,
+      "orig_price_str": "19,99€",
+      "final_price_str": "5,99€",
+      "orig_cents": 1999,
+      "final_cents": 599,
+      "gamepass": ""
+    },
+    {
+      "appid": "513710",
+      "name": "SCUM",
+      "discount": 60,
+      "orig_price_str": "44,99€",
+      "final_price_str": "17,99€",
+      "orig_cents": 4499,
+      "final_cents": 1799,
+      "gamepass": ""
+    },
+    {
+      "appid": "2828860",
+      "name": "The Forever Winter",
+      "discount": 50,
+      "orig_price_str": "28,99€",
+      "final_price_str": "14,49€",
+      "orig_cents": 2899,
+      "final_cents": 1449,
+      "gamepass": ""
+    },
+    {
+      "appid": "346110",
+      "name": "ARK: Survival Evolved",
+      "discount": 34,
+      "orig_price_str": "14,79€",
+      "final_price_str": "9,76€",
+      "orig_cents": 1479,
+      "final_cents": 976,
+      "gamepass": ""
+    },
+    {
+      "appid": "454650",
+      "name": "DRAGON BALL XENOVERSE 2",
+      "discount": 75,
+      "orig_price_str": "19,99€",
+      "final_price_str": "4,99€",
+      "orig_cents": 1999,
+      "final_cents": 499,
+      "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "3453910",
+      "name": "Happy's Humble Burger Cult",
       "discount": 20,
-      "orig_price_str": "24,99€",
-      "final_price_str": "19,99€",
-      "orig_cents": 2499,
-      "final_cents": 1999,
+      "orig_price_str": "9,99€",
+      "final_price_str": "7,99€",
+      "orig_cents": 999,
+      "final_cents": 799,
+      "gamepass": ""
+    },
+    {
+      "appid": "378540",
+      "name": "The Surge",
+      "discount": 87,
+      "orig_price_str": "14,99€",
+      "final_price_str": "1,94€",
+      "orig_cents": 1499,
+      "final_cents": 194,
       "gamepass": ""
     },
     {
@@ -721,23 +751,13 @@
       "gamepass": ""
     },
     {
-      "appid": "346110",
-      "name": "ARK: Survival Evolved",
-      "discount": 34,
-      "orig_price_str": "14,79€",
-      "final_price_str": "9,76€",
-      "orig_cents": 1479,
-      "final_cents": 976,
-      "gamepass": ""
-    },
-    {
-      "appid": "3453910",
-      "name": "Happy's Humble Burger Cult",
+      "appid": "3765010",
+      "name": "Forensics: Crime Scene Detective",
       "discount": 20,
-      "orig_price_str": "9,99€",
-      "final_price_str": "7,99€",
-      "orig_cents": 999,
-      "final_cents": 799,
+      "orig_price_str": "24,99€",
+      "final_price_str": "19,99€",
+      "orig_cents": 2499,
+      "final_cents": 1999,
       "gamepass": ""
     },
     {
@@ -748,16 +768,6 @@
       "final_price_str": "20,99€",
       "orig_cents": 3499,
       "final_cents": 2099,
-      "gamepass": ""
-    },
-    {
-      "appid": "4731620",
-      "name": "Fortune Mill",
-      "discount": 20,
-      "orig_price_str": "8,15€",
-      "final_price_str": "6,52€",
-      "orig_cents": 815,
-      "final_cents": 652,
       "gamepass": ""
     },
     {
@@ -781,6 +791,16 @@
       "gamepass": "PC + Xbox"
     },
     {
+      "appid": "4731620",
+      "name": "Fortune Mill",
+      "discount": 20,
+      "orig_price_str": "8,15€",
+      "final_price_str": "6,52€",
+      "orig_cents": 815,
+      "final_cents": 652,
+      "gamepass": ""
+    },
+    {
       "appid": "1604030",
       "name": "V Rising",
       "discount": 55,
@@ -788,36 +808,6 @@
       "final_price_str": "15,74€",
       "orig_cents": 3499,
       "final_cents": 1574,
-      "gamepass": ""
-    },
-    {
-      "appid": "378540",
-      "name": "The Surge",
-      "discount": 87,
-      "orig_price_str": "14,99€",
-      "final_price_str": "1,94€",
-      "orig_cents": 1499,
-      "final_cents": 194,
-      "gamepass": ""
-    },
-    {
-      "appid": "513710",
-      "name": "SCUM",
-      "discount": 60,
-      "orig_price_str": "44,99€",
-      "final_price_str": "17,99€",
-      "orig_cents": 4499,
-      "final_cents": 1799,
-      "gamepass": ""
-    },
-    {
-      "appid": "1996010",
-      "name": "Crow Country",
-      "discount": 70,
-      "orig_price_str": "19,50€",
-      "final_price_str": "5,85€",
-      "orig_cents": 1950,
-      "final_cents": 585,
       "gamepass": ""
     },
     {
@@ -831,13 +821,13 @@
       "gamepass": ""
     },
     {
-      "appid": "710230",
-      "name": "Urban Strife",
-      "discount": 30,
-      "orig_price_str": "33,99€",
-      "final_price_str": "23,79€",
-      "orig_cents": 3399,
-      "final_cents": 2379,
+      "appid": "1996010",
+      "name": "Crow Country",
+      "discount": 70,
+      "orig_price_str": "19,50€",
+      "final_price_str": "5,85€",
+      "orig_cents": 1950,
+      "final_cents": 585,
       "gamepass": ""
     },
     {
@@ -851,23 +841,23 @@
       "gamepass": "PC + Xbox"
     },
     {
-      "appid": "1182900",
-      "name": "A Plague Tale: Requiem",
+      "appid": "1336490",
+      "name": "Against the Storm",
       "discount": 70,
-      "orig_price_str": "49,99€",
-      "final_price_str": "14,99€",
-      "orig_cents": 4999,
-      "final_cents": 1499,
-      "gamepass": "PC + Xbox"
+      "orig_price_str": "29,99€",
+      "final_price_str": "8,99€",
+      "orig_cents": 2999,
+      "final_cents": 899,
+      "gamepass": ""
     },
     {
-      "appid": "4157430",
-      "name": "Diggin",
+      "appid": "710230",
+      "name": "Urban Strife",
       "discount": 30,
-      "orig_price_str": "7,19€",
-      "final_price_str": "5,03€",
-      "orig_cents": 719,
-      "final_cents": 503,
+      "orig_price_str": "33,99€",
+      "final_price_str": "23,79€",
+      "orig_cents": 3399,
+      "final_cents": 2379,
       "gamepass": ""
     },
     {
@@ -881,14 +871,24 @@
       "gamepass": ""
     },
     {
-      "appid": "1336490",
-      "name": "Against the Storm",
-      "discount": 70,
-      "orig_price_str": "29,99€",
-      "final_price_str": "8,99€",
-      "orig_cents": 2999,
-      "final_cents": 899,
+      "appid": "4157430",
+      "name": "Diggin",
+      "discount": 30,
+      "orig_price_str": "7,19€",
+      "final_price_str": "5,03€",
+      "orig_cents": 719,
+      "final_cents": 503,
       "gamepass": ""
+    },
+    {
+      "appid": "1182900",
+      "name": "A Plague Tale: Requiem",
+      "discount": 70,
+      "orig_price_str": "49,99€",
+      "final_price_str": "14,99€",
+      "orig_cents": 4999,
+      "final_cents": 1499,
+      "gamepass": "PC + Xbox"
     },
     {
       "appid": "945360",
@@ -911,6 +911,16 @@
       "gamepass": "PC + Xbox"
     },
     {
+      "appid": "4163030",
+      "name": "Cat Chess",
+      "discount": 15,
+      "orig_price_str": "6,99€",
+      "final_price_str": "5,94€",
+      "orig_cents": 699,
+      "final_cents": 594,
+      "gamepass": ""
+    },
+    {
       "appid": "2989180",
       "name": "Darwin's Paradox!",
       "discount": 60,
@@ -931,16 +941,6 @@
       "gamepass": ""
     },
     {
-      "appid": "4163030",
-      "name": "Cat Chess",
-      "discount": 15,
-      "orig_price_str": "6,99€",
-      "final_price_str": "5,94€",
-      "orig_cents": 699,
-      "final_cents": 594,
-      "gamepass": ""
-    },
-    {
       "appid": "2124120",
       "name": "SULFUR",
       "discount": 50,
@@ -951,6 +951,16 @@
       "gamepass": ""
     },
     {
+      "appid": "3280350",
+      "name": "DEATH STRANDING 2: ON THE BEACH",
+      "discount": 20,
+      "orig_price_str": "79,99€",
+      "final_price_str": "63,99€",
+      "orig_cents": 7999,
+      "final_cents": 6399,
+      "gamepass": ""
+    },
+    {
       "appid": "644830",
       "name": "The Surge 2",
       "discount": 90,
@@ -958,16 +968,6 @@
       "final_price_str": "2,99€",
       "orig_cents": 2999,
       "final_cents": 299,
-      "gamepass": ""
-    },
-    {
-      "appid": "753640",
-      "name": "Outer Wilds",
-      "discount": 40,
-      "orig_price_str": "22,99€",
-      "final_price_str": "13,79€",
-      "orig_cents": 2299,
-      "final_cents": 1379,
       "gamepass": ""
     },
     {
@@ -991,13 +991,13 @@
       "gamepass": ""
     },
     {
-      "appid": "29720",
-      "name": "Guild Wars® Reforged",
-      "discount": 30,
-      "orig_price_str": "19,99€",
-      "final_price_str": "13,99€",
-      "orig_cents": 1999,
-      "final_cents": 1399,
+      "appid": "753640",
+      "name": "Outer Wilds",
+      "discount": 40,
+      "orig_price_str": "22,99€",
+      "final_price_str": "13,79€",
+      "orig_cents": 2299,
+      "final_cents": 1379,
       "gamepass": ""
     },
     {
@@ -1011,6 +1011,16 @@
       "gamepass": "PC"
     },
     {
+      "appid": "2019620",
+      "name": "GERONIMO",
+      "discount": 10,
+      "orig_price_str": "16,99€",
+      "final_price_str": "15,29€",
+      "orig_cents": 1699,
+      "final_cents": 1529,
+      "gamepass": ""
+    },
+    {
       "appid": "752590",
       "name": "A Plague Tale: Innocence",
       "discount": 90,
@@ -1018,6 +1028,16 @@
       "final_price_str": "3,99€",
       "orig_cents": 3999,
       "final_cents": 399,
+      "gamepass": ""
+    },
+    {
+      "appid": "29720",
+      "name": "Guild Wars® Reforged",
+      "discount": 30,
+      "orig_price_str": "19,99€",
+      "final_price_str": "13,99€",
+      "orig_cents": 1999,
+      "final_cents": 1399,
       "gamepass": ""
     },
     {
@@ -1031,23 +1051,13 @@
       "gamepass": ""
     },
     {
-      "appid": "218620",
-      "name": "PAYDAY 2",
-      "discount": 50,
-      "orig_price_str": "9,49€",
-      "final_price_str": "4,74€",
-      "orig_cents": 949,
-      "final_cents": 474,
-      "gamepass": ""
-    },
-    {
-      "appid": "2567870",
-      "name": "Chained Together",
+      "appid": "1631270",
+      "name": "StarRupture",
       "discount": 20,
-      "orig_price_str": "4,99€",
-      "final_price_str": "3,99€",
-      "orig_cents": 499,
-      "final_cents": 399,
+      "orig_price_str": "19,99€",
+      "final_price_str": "15,99€",
+      "orig_cents": 1999,
+      "final_cents": 1599,
       "gamepass": ""
     },
     {
@@ -1061,12 +1071,112 @@
       "gamepass": ""
     },
     {
+      "appid": "2567870",
+      "name": "Chained Together",
+      "discount": 20,
+      "orig_price_str": "4,99€",
+      "final_price_str": "3,99€",
+      "orig_cents": 499,
+      "final_cents": 399,
+      "gamepass": ""
+    },
+    {
+      "appid": "218620",
+      "name": "PAYDAY 2",
+      "discount": 50,
+      "orig_price_str": "9,49€",
+      "final_price_str": "4,74€",
+      "orig_cents": 949,
+      "final_cents": 474,
+      "gamepass": ""
+    },
+    {
+      "appid": "1569580",
+      "name": "Blue Prince",
+      "discount": 40,
+      "orig_price_str": "29,99€",
+      "final_price_str": "17,99€",
+      "orig_cents": 2999,
+      "final_cents": 1799,
+      "gamepass": "PC + Xbox"
+    },
+    {
       "appid": "2506480",
       "name": "Clue/Cluedo",
       "discount": 70,
       "orig_price_str": "14,99€",
       "final_price_str": "4,49€",
       "orig_cents": 1499,
+      "final_cents": 449,
+      "gamepass": ""
+    },
+    {
+      "appid": "3634520",
+      "name": "Samson",
+      "discount": 33,
+      "orig_price_str": "24,99€",
+      "final_price_str": "16,74€",
+      "orig_cents": 2499,
+      "final_cents": 1674,
+      "gamepass": ""
+    },
+    {
+      "appid": "979110",
+      "name": "Space Haven",
+      "discount": 40,
+      "orig_price_str": "24,99€",
+      "final_price_str": "14,99€",
+      "orig_cents": 2499,
+      "final_cents": 1499,
+      "gamepass": ""
+    },
+    {
+      "appid": "1919470",
+      "name": "Atari 50: The Anniversary Celebration",
+      "discount": 60,
+      "orig_price_str": "33,99€",
+      "final_price_str": "13,59€",
+      "orig_cents": 3399,
+      "final_cents": 1359,
+      "gamepass": ""
+    },
+    {
+      "appid": "1644320",
+      "name": "Railway Empire 2",
+      "discount": 50,
+      "orig_price_str": "49,99€",
+      "final_price_str": "24,99€",
+      "orig_cents": 4999,
+      "final_cents": 2499,
+      "gamepass": ""
+    },
+    {
+      "appid": "1455840",
+      "name": "Dorfromantik",
+      "discount": 35,
+      "orig_price_str": "12,99€",
+      "final_price_str": "8,44€",
+      "orig_cents": 1299,
+      "final_cents": 844,
+      "gamepass": ""
+    },
+    {
+      "appid": "552500",
+      "name": "Warhammer: Vermintide 2",
+      "discount": 90,
+      "orig_price_str": "27,99€",
+      "final_price_str": "2,79€",
+      "orig_cents": 2799,
+      "final_cents": 279,
+      "gamepass": "Xbox"
+    },
+    {
+      "appid": "601150",
+      "name": "Devil May Cry 5",
+      "discount": 85,
+      "orig_price_str": "29,99€",
+      "final_price_str": "4,49€",
+      "orig_cents": 2999,
       "final_cents": 449,
       "gamepass": ""
     },
@@ -1081,113 +1191,13 @@
       "gamepass": ""
     },
     {
-      "appid": "1631270",
-      "name": "StarRupture",
-      "discount": 20,
-      "orig_price_str": "19,99€",
-      "final_price_str": "15,99€",
-      "orig_cents": 1999,
-      "final_cents": 1599,
-      "gamepass": ""
-    },
-    {
-      "appid": "2019620",
-      "name": "GERONIMO",
-      "discount": 10,
-      "orig_price_str": "16,99€",
-      "final_price_str": "15,29€",
-      "orig_cents": 1699,
-      "final_cents": 1529,
-      "gamepass": ""
-    },
-    {
-      "appid": "3634520",
-      "name": "Samson",
-      "discount": 33,
-      "orig_price_str": "24,99€",
-      "final_price_str": "16,74€",
-      "orig_cents": 2499,
-      "final_cents": 1674,
-      "gamepass": ""
-    },
-    {
-      "appid": "1569580",
-      "name": "Blue Prince",
-      "discount": 40,
-      "orig_price_str": "29,99€",
-      "final_price_str": "17,99€",
-      "orig_cents": 2999,
-      "final_cents": 1799,
-      "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "1919470",
-      "name": "Atari 50: The Anniversary Celebration",
-      "discount": 60,
-      "orig_price_str": "33,99€",
-      "final_price_str": "13,59€",
-      "orig_cents": 3399,
-      "final_cents": 1359,
-      "gamepass": ""
-    },
-    {
-      "appid": "601150",
-      "name": "Devil May Cry 5",
-      "discount": 85,
-      "orig_price_str": "29,99€",
-      "final_price_str": "4,49€",
-      "orig_cents": 2999,
-      "final_cents": 449,
-      "gamepass": ""
-    },
-    {
-      "appid": "979110",
-      "name": "Space Haven",
-      "discount": 40,
-      "orig_price_str": "24,99€",
-      "final_price_str": "14,99€",
-      "orig_cents": 2499,
-      "final_cents": 1499,
-      "gamepass": ""
-    },
-    {
-      "appid": "552500",
-      "name": "Warhammer: Vermintide 2",
-      "discount": 90,
-      "orig_price_str": "27,99€",
-      "final_price_str": "2,79€",
-      "orig_cents": 2799,
-      "final_cents": 279,
-      "gamepass": "Xbox"
-    },
-    {
-      "appid": "1455840",
-      "name": "Dorfromantik",
-      "discount": 35,
-      "orig_price_str": "12,99€",
-      "final_price_str": "8,44€",
-      "orig_cents": 1299,
-      "final_cents": 844,
-      "gamepass": ""
-    },
-    {
-      "appid": "1272080",
-      "name": "PAYDAY 3",
-      "discount": 50,
-      "orig_price_str": "28,49€",
-      "final_price_str": "14,24€",
-      "orig_cents": 2849,
-      "final_cents": 1424,
-      "gamepass": ""
-    },
-    {
-      "appid": "492720",
-      "name": "Tropico 6",
+      "appid": "1343670",
+      "name": "Dealer's Life 2",
       "discount": 70,
-      "orig_price_str": "39,99€",
-      "final_price_str": "11,99€",
-      "orig_cents": 3999,
-      "final_cents": 1199,
+      "orig_price_str": "14,99€",
+      "final_price_str": "4,49€",
+      "orig_cents": 1499,
+      "final_cents": 449,
       "gamepass": ""
     },
     {
@@ -1201,23 +1211,23 @@
       "gamepass": ""
     },
     {
-      "appid": "1757300",
-      "name": "Jump Space",
-      "discount": 20,
-      "orig_price_str": "19,50€",
-      "final_price_str": "15,60€",
-      "orig_cents": 1950,
-      "final_cents": 1560,
+      "appid": "492720",
+      "name": "Tropico 6",
+      "discount": 70,
+      "orig_price_str": "39,99€",
+      "final_price_str": "11,99€",
+      "orig_cents": 3999,
+      "final_cents": 1199,
       "gamepass": ""
     },
     {
-      "appid": "1343670",
-      "name": "Dealer's Life 2",
-      "discount": 70,
-      "orig_price_str": "14,99€",
-      "final_price_str": "4,49€",
-      "orig_cents": 1499,
-      "final_cents": 449,
+      "appid": "1272080",
+      "name": "PAYDAY 3",
+      "discount": 50,
+      "orig_price_str": "28,49€",
+      "final_price_str": "14,24€",
+      "orig_cents": 2849,
+      "final_cents": 1424,
       "gamepass": ""
     },
     {
@@ -1231,6 +1241,16 @@
       "gamepass": ""
     },
     {
+      "appid": "1575940",
+      "name": "Sins of a Solar Empire II",
+      "discount": 50,
+      "orig_price_str": "50,99€",
+      "final_price_str": "25,49€",
+      "orig_cents": 5099,
+      "final_cents": 2549,
+      "gamepass": ""
+    },
+    {
       "appid": "2138720",
       "name": "REMATCH",
       "discount": 50,
@@ -1241,6 +1261,16 @@
       "gamepass": "PC + Xbox"
     },
     {
+      "appid": "1757300",
+      "name": "Jump Space",
+      "discount": 20,
+      "orig_price_str": "19,50€",
+      "final_price_str": "15,60€",
+      "orig_cents": 1950,
+      "final_cents": 1560,
+      "gamepass": ""
+    },
+    {
       "appid": "4069520",
       "name": "Super Battle Golf",
       "discount": 30,
@@ -1248,36 +1278,6 @@
       "final_price_str": "5,59€",
       "orig_cents": 799,
       "final_cents": 559,
-      "gamepass": ""
-    },
-    {
-      "appid": "2495100",
-      "name": "Hello Kitty Island Adventure",
-      "discount": 40,
-      "orig_price_str": "39,99€",
-      "final_price_str": "23,99€",
-      "orig_cents": 3999,
-      "final_cents": 2399,
-      "gamepass": ""
-    },
-    {
-      "appid": "2071280",
-      "name": "Ravenswatch",
-      "discount": 50,
-      "orig_price_str": "24,99€",
-      "final_price_str": "12,49€",
-      "orig_cents": 2499,
-      "final_cents": 1249,
-      "gamepass": ""
-    },
-    {
-      "appid": "1575940",
-      "name": "Sins of a Solar Empire II",
-      "discount": 50,
-      "orig_price_str": "50,99€",
-      "final_price_str": "25,49€",
-      "orig_cents": 5099,
-      "final_cents": 2549,
       "gamepass": ""
     },
     {
@@ -1291,13 +1291,43 @@
       "gamepass": ""
     },
     {
-      "appid": "436780",
-      "name": "Tavern Keeper 🍻",
-      "discount": 20,
-      "orig_price_str": "27,99€",
-      "final_price_str": "22,39€",
-      "orig_cents": 2799,
-      "final_cents": 2239,
+      "appid": "2071280",
+      "name": "Ravenswatch",
+      "discount": 50,
+      "orig_price_str": "24,99€",
+      "final_price_str": "12,49€",
+      "orig_cents": 2499,
+      "final_cents": 1249,
+      "gamepass": ""
+    },
+    {
+      "appid": "365360",
+      "name": "Battle Brothers",
+      "discount": 70,
+      "orig_price_str": "29,99€",
+      "final_price_str": "8,99€",
+      "orig_cents": 2999,
+      "final_cents": 899,
+      "gamepass": ""
+    },
+    {
+      "appid": "285900",
+      "name": "Gang Beasts",
+      "discount": 60,
+      "orig_price_str": "18,99€",
+      "final_price_str": "7,59€",
+      "orig_cents": 1899,
+      "final_cents": 759,
+      "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "1368820",
+      "name": "RollerCoaster Tycoon® 3: Complete Edition",
+      "discount": 75,
+      "orig_price_str": "19,99€",
+      "final_price_str": "4,99€",
+      "orig_cents": 1999,
+      "final_cents": 499,
       "gamepass": ""
     },
     {
@@ -1311,6 +1341,26 @@
       "gamepass": ""
     },
     {
+      "appid": "2719750",
+      "name": "Star Birds",
+      "discount": 25,
+      "orig_price_str": "19,99€",
+      "final_price_str": "14,99€",
+      "orig_cents": 1999,
+      "final_cents": 1499,
+      "gamepass": ""
+    },
+    {
+      "appid": "436780",
+      "name": "Tavern Keeper 🍻",
+      "discount": 20,
+      "orig_price_str": "27,99€",
+      "final_price_str": "22,39€",
+      "orig_cents": 2799,
+      "final_cents": 2239,
+      "gamepass": ""
+    },
+    {
       "appid": "466560",
       "name": "Northgard: Definitive Edition",
       "discount": 72,
@@ -1321,63 +1371,13 @@
       "gamepass": ""
     },
     {
-      "appid": "1368820",
-      "name": "RollerCoaster Tycoon® 3: Complete Edition",
-      "discount": 75,
-      "orig_price_str": "19,99€",
-      "final_price_str": "4,99€",
-      "orig_cents": 1999,
-      "final_cents": 499,
-      "gamepass": ""
-    },
-    {
-      "appid": "3280350",
-      "name": "DEATH STRANDING 2: ON THE BEACH",
-      "discount": 20,
-      "orig_price_str": "79,99€",
-      "final_price_str": "63,99€",
-      "orig_cents": 7999,
-      "final_cents": 6399,
-      "gamepass": ""
-    },
-    {
-      "appid": "1150440",
-      "name": "Aliens: Dark Descent",
-      "discount": 70,
-      "orig_price_str": "39,99€",
-      "final_price_str": "11,99€",
-      "orig_cents": 3999,
-      "final_cents": 1199,
-      "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "285900",
-      "name": "Gang Beasts",
-      "discount": 60,
-      "orig_price_str": "18,99€",
-      "final_price_str": "7,59€",
-      "orig_cents": 1899,
-      "final_cents": 759,
-      "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "1583230",
-      "name": "High On Life",
-      "discount": 75,
-      "orig_price_str": "36,49€",
-      "final_price_str": "9,12€",
-      "orig_cents": 3649,
-      "final_cents": 912,
-      "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "365360",
-      "name": "Battle Brothers",
-      "discount": 70,
-      "orig_price_str": "29,99€",
-      "final_price_str": "8,99€",
-      "orig_cents": 2999,
-      "final_cents": 899,
+      "appid": "3834090",
+      "name": "YAPYAP",
+      "discount": 25,
+      "orig_price_str": "9,75€",
+      "final_price_str": "7,31€",
+      "orig_cents": 975,
+      "final_cents": 731,
       "gamepass": ""
     },
     {
@@ -1391,33 +1391,63 @@
       "gamepass": "PC + Xbox"
     },
     {
-      "appid": "3834090",
-      "name": "YAPYAP",
-      "discount": 25,
-      "orig_price_str": "9,75€",
-      "final_price_str": "7,31€",
-      "orig_cents": 975,
-      "final_cents": 731,
-      "gamepass": ""
+      "appid": "1150440",
+      "name": "Aliens: Dark Descent",
+      "discount": 70,
+      "orig_price_str": "39,99€",
+      "final_price_str": "11,99€",
+      "orig_cents": 3999,
+      "final_cents": 1199,
+      "gamepass": "PC + Xbox"
     },
     {
-      "appid": "2719750",
-      "name": "Star Birds",
-      "discount": 25,
-      "orig_price_str": "19,99€",
-      "final_price_str": "14,99€",
-      "orig_cents": 1999,
-      "final_cents": 1499,
-      "gamepass": ""
+      "appid": "1583230",
+      "name": "High On Life",
+      "discount": 75,
+      "orig_price_str": "36,49€",
+      "final_price_str": "9,12€",
+      "orig_cents": 3649,
+      "final_cents": 912,
+      "gamepass": "PC + Xbox"
     },
     {
-      "appid": "1932640",
-      "name": "Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars",
-      "discount": 50,
+      "appid": "1643310",
+      "name": "Dungeons 4",
+      "discount": 45,
       "orig_price_str": "49,99€",
-      "final_price_str": "24,99€",
+      "final_price_str": "27,49€",
       "orig_cents": 4999,
-      "final_cents": 2499,
+      "final_cents": 2749,
+      "gamepass": ""
+    },
+    {
+      "appid": "850190",
+      "name": "Goat Simulator 3",
+      "discount": 60,
+      "orig_price_str": "29,99€",
+      "final_price_str": "11,99€",
+      "orig_cents": 2999,
+      "final_cents": 1199,
+      "gamepass": "Xbox"
+    },
+    {
+      "appid": "2495100",
+      "name": "Hello Kitty Island Adventure",
+      "discount": 40,
+      "orig_price_str": "39,99€",
+      "final_price_str": "23,99€",
+      "orig_cents": 3999,
+      "final_cents": 2399,
+      "gamepass": ""
+    },
+    {
+      "appid": "493520",
+      "name": "GTFO",
+      "discount": 71,
+      "orig_price_str": "39,99€",
+      "final_price_str": "11,59€",
+      "orig_cents": 3999,
+      "final_cents": 1159,
       "gamepass": ""
     },
     {
@@ -1431,13 +1461,23 @@
       "gamepass": "PC + Xbox"
     },
     {
-      "appid": "4634560",
-      "name": "絨毯を洗うゲーム",
-      "discount": 20,
-      "orig_price_str": "6,50€",
-      "final_price_str": "5,20€",
-      "orig_cents": 650,
-      "final_cents": 520,
+      "appid": "8870",
+      "name": "BioShock Infinite",
+      "discount": 75,
+      "orig_price_str": "29,99€",
+      "final_price_str": "7,49€",
+      "orig_cents": 2999,
+      "final_cents": 749,
+      "gamepass": ""
+    },
+    {
+      "appid": "1932640",
+      "name": "Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars",
+      "discount": 50,
+      "orig_price_str": "49,99€",
+      "final_price_str": "24,99€",
+      "orig_cents": 4999,
+      "final_cents": 2499,
       "gamepass": ""
     },
     {
@@ -1461,34 +1501,44 @@
       "gamepass": ""
     },
     {
-      "appid": "493520",
-      "name": "GTFO",
-      "discount": 71,
-      "orig_price_str": "39,99€",
-      "final_price_str": "11,59€",
-      "orig_cents": 3999,
-      "final_cents": 1159,
+      "appid": "4634560",
+      "name": "絨毯を洗うゲーム",
+      "discount": 20,
+      "orig_price_str": "6,50€",
+      "final_price_str": "5,20€",
+      "orig_cents": 650,
+      "final_cents": 520,
       "gamepass": ""
     },
     {
-      "appid": "850190",
-      "name": "Goat Simulator 3",
-      "discount": 60,
-      "orig_price_str": "29,99€",
-      "final_price_str": "11,99€",
-      "orig_cents": 2999,
-      "final_cents": 1199,
-      "gamepass": "Xbox"
+      "appid": "4643090",
+      "name": "The NOexistenceN of Lilith",
+      "discount": 10,
+      "orig_price_str": "2,09€",
+      "final_price_str": "1,88€",
+      "orig_cents": 209,
+      "final_cents": 188,
+      "gamepass": ""
     },
     {
-      "appid": "8870",
-      "name": "BioShock Infinite",
-      "discount": 75,
-      "orig_price_str": "29,99€",
-      "final_price_str": "7,49€",
-      "orig_cents": 2999,
-      "final_cents": 749,
+      "appid": "1944430",
+      "name": "Amnesia: The Bunker",
+      "discount": 80,
+      "orig_price_str": "24,50€",
+      "final_price_str": "4,90€",
+      "orig_cents": 2450,
+      "final_cents": 490,
       "gamepass": ""
+    },
+    {
+      "appid": "2784470",
+      "name": "9 Kings",
+      "discount": 50,
+      "orig_price_str": "19,99€",
+      "final_price_str": "9,99€",
+      "orig_cents": 1999,
+      "final_cents": 999,
+      "gamepass": "PC"
     },
     {
       "appid": "585450",
@@ -1498,16 +1548,6 @@
       "final_price_str": "2,99€",
       "orig_cents": 2999,
       "final_cents": 299,
-      "gamepass": ""
-    },
-    {
-      "appid": "1643310",
-      "name": "Dungeons 4",
-      "discount": 45,
-      "orig_price_str": "49,99€",
-      "final_price_str": "27,49€",
-      "orig_cents": 4999,
-      "final_cents": 2749,
       "gamepass": ""
     },
     {
@@ -1531,16 +1571,6 @@
       "gamepass": ""
     },
     {
-      "appid": "2784470",
-      "name": "9 Kings",
-      "discount": 50,
-      "orig_price_str": "19,99€",
-      "final_price_str": "9,99€",
-      "orig_cents": 1999,
-      "final_cents": 999,
-      "gamepass": "PC"
-    },
-    {
       "appid": "3596700",
       "name": "TerraTech Legion",
       "discount": 20,
@@ -1551,26 +1581,6 @@
       "gamepass": "PC + Xbox"
     },
     {
-      "appid": "4643090",
-      "name": "The NOexistenceN of Lilith",
-      "discount": 10,
-      "orig_price_str": "2,09€",
-      "final_price_str": "1,88€",
-      "orig_cents": 209,
-      "final_cents": 188,
-      "gamepass": ""
-    },
-    {
-      "appid": "2582140",
-      "name": "Seafarer: The Ship Sim",
-      "discount": 40,
-      "orig_price_str": "24,99€",
-      "final_price_str": "14,99€",
-      "orig_cents": 2499,
-      "final_cents": 1499,
-      "gamepass": ""
-    },
-    {
       "appid": "383120",
       "name": "Empyrion - Galactic Survival",
       "discount": 60,
@@ -1578,16 +1588,6 @@
       "final_price_str": "7,99€",
       "orig_cents": 1999,
       "final_cents": 799,
-      "gamepass": ""
-    },
-    {
-      "appid": "2852190",
-      "name": "Monster Hunter Stories 3: Twisted Reflection",
-      "discount": 20,
-      "orig_price_str": "69,99€",
-      "final_price_str": "55,99€",
-      "orig_cents": 6999,
-      "final_cents": 5599,
       "gamepass": ""
     },
     {
@@ -1601,16 +1601,6 @@
       "gamepass": ""
     },
     {
-      "appid": "1949030",
-      "name": "Sherlock Holmes The Awakened",
-      "discount": 90,
-      "orig_price_str": "39,99€",
-      "final_price_str": "3,99€",
-      "orig_cents": 3999,
-      "final_cents": 399,
-      "gamepass": ""
-    },
-    {
       "appid": "2385530",
       "name": "PGA TOUR 2K25",
       "discount": 34,
@@ -1621,24 +1611,24 @@
       "gamepass": ""
     },
     {
-      "appid": "1944430",
-      "name": "Amnesia: The Bunker",
-      "discount": 80,
-      "orig_price_str": "24,50€",
-      "final_price_str": "4,90€",
-      "orig_cents": 2450,
-      "final_cents": 490,
-      "gamepass": ""
+      "appid": "1493640",
+      "name": "Banishers: Ghosts of New Eden",
+      "discount": 70,
+      "orig_price_str": "49,99€",
+      "final_price_str": "14,99€",
+      "orig_cents": 4999,
+      "final_cents": 1499,
+      "gamepass": "PC + Xbox"
     },
     {
-      "appid": "2489330",
-      "name": "Whiskerwood",
-      "discount": 35,
-      "orig_price_str": "29,99€",
-      "final_price_str": "19,49€",
-      "orig_cents": 2999,
-      "final_cents": 1949,
-      "gamepass": "PC"
+      "appid": "2582140",
+      "name": "Seafarer: The Ship Sim",
+      "discount": 40,
+      "orig_price_str": "24,99€",
+      "final_price_str": "14,99€",
+      "orig_cents": 2499,
+      "final_cents": 1499,
+      "gamepass": ""
     },
     {
       "appid": "4465600",
@@ -1651,23 +1641,23 @@
       "gamepass": ""
     },
     {
-      "appid": "1571100",
-      "name": "Passpartout 2: The Lost Artist",
-      "discount": 50,
-      "orig_price_str": "24,99€",
-      "final_price_str": "12,49€",
-      "orig_cents": 2499,
-      "final_cents": 1249,
+      "appid": "815370",
+      "name": "Green Hell",
+      "discount": 90,
+      "orig_price_str": "23,99€",
+      "final_price_str": "2,39€",
+      "orig_cents": 2399,
+      "final_cents": 239,
       "gamepass": ""
     },
     {
-      "appid": "389730",
-      "name": "TEKKEN 7",
-      "discount": 85,
+      "appid": "1949030",
+      "name": "Sherlock Holmes The Awakened",
+      "discount": 90,
       "orig_price_str": "39,99€",
-      "final_price_str": "5,99€",
+      "final_price_str": "3,99€",
       "orig_cents": 3999,
-      "final_cents": 599,
+      "final_cents": 399,
       "gamepass": ""
     },
     {
@@ -1681,6 +1671,26 @@
       "gamepass": ""
     },
     {
+      "appid": "1729740",
+      "name": "Luto",
+      "discount": 40,
+      "orig_price_str": "19,99€",
+      "final_price_str": "11,99€",
+      "orig_cents": 1999,
+      "final_cents": 1199,
+      "gamepass": ""
+    },
+    {
+      "appid": "2852190",
+      "name": "Monster Hunter Stories 3: Twisted Reflection",
+      "discount": 20,
+      "orig_price_str": "69,99€",
+      "final_price_str": "55,99€",
+      "orig_cents": 6999,
+      "final_cents": 5599,
+      "gamepass": ""
+    },
+    {
       "appid": "2779120",
       "name": "Modulus: Factory Automation",
       "discount": 25,
@@ -1688,6 +1698,56 @@
       "final_price_str": "18,37€",
       "orig_cents": 2450,
       "final_cents": 1837,
+      "gamepass": ""
+    },
+    {
+      "appid": "683900",
+      "name": "RollerCoaster Tycoon® Classic",
+      "discount": 75,
+      "orig_price_str": "19,99€",
+      "final_price_str": "4,99€",
+      "orig_cents": 1999,
+      "final_cents": 499,
+      "gamepass": ""
+    },
+    {
+      "appid": "2683150",
+      "name": "Ale & Tale Tavern",
+      "discount": 60,
+      "orig_price_str": "14,79€",
+      "final_price_str": "5,91€",
+      "orig_cents": 1479,
+      "final_cents": 591,
+      "gamepass": ""
+    },
+    {
+      "appid": "1571100",
+      "name": "Passpartout 2: The Lost Artist",
+      "discount": 50,
+      "orig_price_str": "24,99€",
+      "final_price_str": "12,49€",
+      "orig_cents": 2499,
+      "final_cents": 1249,
+      "gamepass": ""
+    },
+    {
+      "appid": "1455630",
+      "name": "THE GAME OF LIFE 2",
+      "discount": 70,
+      "orig_price_str": "12,49€",
+      "final_price_str": "3,74€",
+      "orig_cents": 1249,
+      "final_cents": 374,
+      "gamepass": ""
+    },
+    {
+      "appid": "389730",
+      "name": "TEKKEN 7",
+      "discount": 85,
+      "orig_price_str": "39,99€",
+      "final_price_str": "5,99€",
+      "orig_cents": 3999,
+      "final_cents": 599,
       "gamepass": ""
     },
     {
@@ -1699,16 +1759,6 @@
       "orig_cents": 2999,
       "final_cents": 2399,
       "gamepass": "PC"
-    },
-    {
-      "appid": "815370",
-      "name": "Green Hell",
-      "discount": 90,
-      "orig_price_str": "23,99€",
-      "final_price_str": "2,39€",
-      "orig_cents": 2399,
-      "final_cents": 239,
-      "gamepass": ""
     },
     {
       "appid": "1621690",
@@ -1731,53 +1781,13 @@
       "gamepass": ""
     },
     {
-      "appid": "2683150",
-      "name": "Ale & Tale Tavern",
-      "discount": 60,
-      "orig_price_str": "14,79€",
-      "final_price_str": "5,91€",
-      "orig_cents": 1479,
-      "final_cents": 591,
-      "gamepass": ""
-    },
-    {
-      "appid": "1493640",
-      "name": "Banishers: Ghosts of New Eden",
-      "discount": 70,
-      "orig_price_str": "49,99€",
-      "final_price_str": "14,99€",
-      "orig_cents": 4999,
-      "final_cents": 1499,
-      "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "3258290",
-      "name": "Equinox: Homecoming",
-      "discount": 20,
-      "orig_price_str": "14,79€",
-      "final_price_str": "11,83€",
-      "orig_cents": 1479,
-      "final_cents": 1183,
-      "gamepass": ""
-    },
-    {
-      "appid": "1729740",
-      "name": "Luto",
-      "discount": 40,
-      "orig_price_str": "19,99€",
-      "final_price_str": "11,99€",
-      "orig_cents": 1999,
-      "final_cents": 1199,
-      "gamepass": ""
-    },
-    {
-      "appid": "2005010",
-      "name": "Warhammer 40,000: Boltgun",
-      "discount": 67,
-      "orig_price_str": "21,99€",
-      "final_price_str": "7,25€",
-      "orig_cents": 2199,
-      "final_cents": 725,
+      "appid": "1940340",
+      "name": "Darkest Dungeon® II",
+      "discount": 69,
+      "orig_price_str": "36,49€",
+      "final_price_str": "11,31€",
+      "orig_cents": 3649,
+      "final_cents": 1131,
       "gamepass": ""
     },
     {
@@ -1791,13 +1801,23 @@
       "gamepass": ""
     },
     {
-      "appid": "1455630",
-      "name": "THE GAME OF LIFE 2",
-      "discount": 70,
-      "orig_price_str": "12,49€",
-      "final_price_str": "3,74€",
-      "orig_cents": 1249,
-      "final_cents": 374,
+      "appid": "2005010",
+      "name": "Warhammer 40,000: Boltgun",
+      "discount": 67,
+      "orig_price_str": "21,99€",
+      "final_price_str": "7,25€",
+      "orig_cents": 2199,
+      "final_cents": 725,
+      "gamepass": ""
+    },
+    {
+      "appid": "3258290",
+      "name": "Equinox: Homecoming",
+      "discount": 20,
+      "orig_price_str": "14,79€",
+      "final_price_str": "11,83€",
+      "orig_cents": 1479,
+      "final_cents": 1183,
       "gamepass": ""
     },
     {
@@ -1821,14 +1841,34 @@
       "gamepass": "PC + Xbox"
     },
     {
-      "appid": "683900",
-      "name": "RollerCoaster Tycoon® Classic",
-      "discount": 75,
-      "orig_price_str": "19,99€",
-      "final_price_str": "4,99€",
-      "orig_cents": 1999,
-      "final_cents": 499,
-      "gamepass": ""
+      "appid": "1479730",
+      "name": "Commandos: Origins",
+      "discount": 30,
+      "orig_price_str": "49,99€",
+      "final_price_str": "34,99€",
+      "orig_cents": 4999,
+      "final_cents": 3499,
+      "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "2489330",
+      "name": "Whiskerwood",
+      "discount": 35,
+      "orig_price_str": "29,99€",
+      "final_price_str": "19,49€",
+      "orig_cents": 2999,
+      "final_cents": 1949,
+      "gamepass": "PC"
+    },
+    {
+      "appid": "3265700",
+      "name": "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors",
+      "discount": 10,
+      "orig_price_str": "9,99€",
+      "final_price_str": "8,99€",
+      "orig_cents": 999,
+      "final_cents": 899,
+      "gamepass": "PC + Xbox"
     },
     {
       "appid": "1382070",
@@ -1841,13 +1881,23 @@
       "gamepass": ""
     },
     {
-      "appid": "1940340",
-      "name": "Darkest Dungeon® II",
-      "discount": 69,
-      "orig_price_str": "36,49€",
-      "final_price_str": "11,31€",
-      "orig_cents": 3649,
-      "final_cents": 1131,
+      "appid": "1672810",
+      "name": "MIO: Memories in Orbit",
+      "discount": 25,
+      "orig_price_str": "19,99€",
+      "final_price_str": "14,99€",
+      "orig_cents": 1999,
+      "final_cents": 1499,
+      "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "1545560",
+      "name": "Shadow Gambit: The Cursed Crew",
+      "discount": 75,
+      "orig_price_str": "39,99€",
+      "final_price_str": "9,99€",
+      "orig_cents": 3999,
+      "final_cents": 999,
       "gamepass": ""
     },
     {
@@ -1861,23 +1911,13 @@
       "gamepass": ""
     },
     {
-      "appid": "3265700",
-      "name": "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors",
-      "discount": 10,
-      "orig_price_str": "9,99€",
-      "final_price_str": "8,99€",
-      "orig_cents": 999,
-      "final_cents": 899,
-      "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "1479730",
-      "name": "Commandos: Origins",
-      "discount": 30,
-      "orig_price_str": "49,99€",
-      "final_price_str": "34,99€",
-      "orig_cents": 4999,
-      "final_cents": 3499,
+      "appid": "1684350",
+      "name": "The Thaumaturge",
+      "discount": 65,
+      "orig_price_str": "34,99€",
+      "final_price_str": "12,24€",
+      "orig_cents": 3499,
+      "final_cents": 1224,
       "gamepass": "PC + Xbox"
     },
     {
@@ -1901,16 +1941,6 @@
       "gamepass": ""
     },
     {
-      "appid": "3167020",
-      "name": "Escape from Duckov 逃离鸭科夫",
-      "discount": 25,
-      "orig_price_str": "17,99€",
-      "final_price_str": "13,49€",
-      "orig_cents": 1799,
-      "final_cents": 1349,
-      "gamepass": ""
-    },
-    {
       "appid": "427290",
       "name": "Vampyr",
       "discount": 90,
@@ -1928,16 +1958,6 @@
       "final_price_str": "4,49€",
       "orig_cents": 1499,
       "final_cents": 449,
-      "gamepass": ""
-    },
-    {
-      "appid": "1313290",
-      "name": "Let Them Trade",
-      "discount": 50,
-      "orig_price_str": "17,99€",
-      "final_price_str": "8,99€",
-      "orig_cents": 1799,
-      "final_cents": 899,
       "gamepass": ""
     },
     {
@@ -1961,24 +1981,14 @@
       "gamepass": ""
     },
     {
-      "appid": "3079210",
-      "name": "Hell Let Loose: Vietnam",
-      "discount": 10,
-      "orig_price_str": "39,99€",
-      "final_price_str": "35,99€",
-      "orig_cents": 3999,
-      "final_cents": 3599,
-      "gamepass": ""
-    },
-    {
-      "appid": "1672810",
-      "name": "MIO: Memories in Orbit",
+      "appid": "3167020",
+      "name": "Escape from Duckov 逃离鸭科夫",
       "discount": 25,
-      "orig_price_str": "19,99€",
-      "final_price_str": "14,99€",
-      "orig_cents": 1999,
-      "final_cents": 1499,
-      "gamepass": "PC + Xbox"
+      "orig_price_str": "17,99€",
+      "final_price_str": "13,49€",
+      "orig_cents": 1799,
+      "final_cents": 1349,
+      "gamepass": ""
     },
     {
       "appid": "3228590",
@@ -1988,6 +1998,16 @@
       "final_price_str": "12,49€",
       "orig_cents": 2499,
       "final_cents": 1249,
+      "gamepass": ""
+    },
+    {
+      "appid": "3214610",
+      "name": "Cinderia",
+      "discount": 20,
+      "orig_price_str": "17,49€",
+      "final_price_str": "13,99€",
+      "orig_cents": 1749,
+      "final_cents": 1399,
       "gamepass": ""
     },
     {
@@ -2001,23 +2021,33 @@
       "gamepass": ""
     },
     {
-      "appid": "1684350",
-      "name": "The Thaumaturge",
-      "discount": 65,
-      "orig_price_str": "34,99€",
-      "final_price_str": "12,24€",
-      "orig_cents": 3499,
-      "final_cents": 1224,
-      "gamepass": "PC + Xbox"
+      "appid": "3079210",
+      "name": "Hell Let Loose: Vietnam",
+      "discount": 10,
+      "orig_price_str": "39,99€",
+      "final_price_str": "35,99€",
+      "orig_cents": 3999,
+      "final_cents": 3599,
+      "gamepass": ""
     },
     {
-      "appid": "3214610",
-      "name": "Cinderia",
-      "discount": 20,
-      "orig_price_str": "17,49€",
-      "final_price_str": "13,99€",
-      "orig_cents": 1749,
-      "final_cents": 1399,
+      "appid": "201870",
+      "name": "Assassin's Creed® Revelations",
+      "discount": 70,
+      "orig_price_str": "14,99€",
+      "final_price_str": "4,49€",
+      "orig_cents": 1499,
+      "final_cents": 449,
+      "gamepass": "PC"
+    },
+    {
+      "appid": "1313290",
+      "name": "Let Them Trade",
+      "discount": 50,
+      "orig_price_str": "17,99€",
+      "final_price_str": "8,99€",
+      "orig_cents": 1799,
+      "final_cents": 899,
       "gamepass": ""
     },
     {
@@ -2031,6 +2061,16 @@
       "gamepass": ""
     },
     {
+      "appid": "3013550",
+      "name": "Yu-Gi-Oh! EARLY DAYS COLLECTION",
+      "discount": 70,
+      "orig_price_str": "59,99€",
+      "final_price_str": "17,99€",
+      "orig_cents": 5999,
+      "final_cents": 1799,
+      "gamepass": ""
+    },
+    {
       "appid": "1272320",
       "name": "Diplomacy is Not an Option",
       "discount": 60,
@@ -2039,16 +2079,6 @@
       "orig_cents": 2899,
       "final_cents": 1159,
       "gamepass": ""
-    },
-    {
-      "appid": "201870",
-      "name": "Assassin's Creed® Revelations",
-      "discount": 70,
-      "orig_price_str": "14,99€",
-      "final_price_str": "4,49€",
-      "orig_cents": 1499,
-      "final_cents": 449,
-      "gamepass": "PC"
     },
     {
       "appid": "1458100",
@@ -2071,26 +2101,6 @@
       "gamepass": ""
     },
     {
-      "appid": "4170200",
-      "name": "Data Center",
-      "discount": 20,
-      "orig_price_str": "9,19€",
-      "final_price_str": "7,35€",
-      "orig_cents": 919,
-      "final_cents": 735,
-      "gamepass": ""
-    },
-    {
-      "appid": "1644320",
-      "name": "Railway Empire 2",
-      "discount": 50,
-      "orig_price_str": "49,99€",
-      "final_price_str": "24,99€",
-      "orig_cents": 4999,
-      "final_cents": 2499,
-      "gamepass": ""
-    },
-    {
       "appid": "233860",
       "name": "Kenshi",
       "discount": 60,
@@ -2098,16 +2108,6 @@
       "final_price_str": "10,79€",
       "orig_cents": 2699,
       "final_cents": 1079,
-      "gamepass": ""
-    },
-    {
-      "appid": "2288470",
-      "name": "Aethermancer",
-      "discount": 30,
-      "orig_price_str": "25,99€",
-      "final_price_str": "18,19€",
-      "orig_cents": 2599,
-      "final_cents": 1819,
       "gamepass": ""
     },
     {
@@ -2121,23 +2121,33 @@
       "gamepass": ""
     },
     {
-      "appid": "262060",
-      "name": "Darkest Dungeon®",
-      "discount": 85,
-      "orig_price_str": "22,99€",
-      "final_price_str": "3,44€",
-      "orig_cents": 2299,
-      "final_cents": 344,
+      "appid": "2289750",
+      "name": "Super Fantasy Kingdom",
+      "discount": 50,
+      "orig_price_str": "19,99€",
+      "final_price_str": "9,99€",
+      "orig_cents": 1999,
+      "final_cents": 999,
       "gamepass": ""
     },
     {
-      "appid": "2290000",
-      "name": "TerraScape",
+      "appid": "2288470",
+      "name": "Aethermancer",
+      "discount": 30,
+      "orig_price_str": "25,99€",
+      "final_price_str": "18,19€",
+      "orig_cents": 2599,
+      "final_cents": 1819,
+      "gamepass": ""
+    },
+    {
+      "appid": "602960",
+      "name": "Barotrauma",
       "discount": 50,
-      "orig_price_str": "14,99€",
-      "final_price_str": "7,49€",
-      "orig_cents": 1499,
-      "final_cents": 749,
+      "orig_price_str": "39,99€",
+      "final_price_str": "19,99€",
+      "orig_cents": 3999,
+      "final_cents": 1999,
       "gamepass": ""
     },
     {
@@ -2151,53 +2161,13 @@
       "gamepass": ""
     },
     {
-      "appid": "1545560",
-      "name": "Shadow Gambit: The Cursed Crew",
-      "discount": 75,
-      "orig_price_str": "39,99€",
-      "final_price_str": "9,99€",
-      "orig_cents": 3999,
-      "final_cents": 999,
-      "gamepass": ""
-    },
-    {
-      "appid": "3690490",
-      "name": "Frostrain 2",
-      "discount": 20,
-      "orig_price_str": "10,79€",
-      "final_price_str": "8,63€",
-      "orig_cents": 1079,
-      "final_cents": 863,
-      "gamepass": ""
-    },
-    {
-      "appid": "2885870",
-      "name": "Strange Antiquities",
-      "discount": 33,
-      "orig_price_str": "17,49€",
-      "final_price_str": "11,71€",
-      "orig_cents": 1749,
-      "final_cents": 1171,
-      "gamepass": ""
-    },
-    {
-      "appid": "611790",
-      "name": "House Party",
-      "discount": 55,
-      "orig_price_str": "24,99€",
-      "final_price_str": "11,24€",
-      "orig_cents": 2499,
-      "final_cents": 1124,
-      "gamepass": ""
-    },
-    {
-      "appid": "1063420",
-      "name": "Void Crew",
+      "appid": "2290000",
+      "name": "TerraScape",
       "discount": 50,
-      "orig_price_str": "24,99€",
-      "final_price_str": "12,49€",
-      "orig_cents": 2499,
-      "final_cents": 1249,
+      "orig_price_str": "14,99€",
+      "final_price_str": "7,49€",
+      "orig_cents": 1499,
+      "final_cents": 749,
       "gamepass": ""
     },
     {
@@ -2211,63 +2181,13 @@
       "gamepass": ""
     },
     {
-      "appid": "631510",
-      "name": "Devil May Cry HD Collection",
+      "appid": "262060",
+      "name": "Darkest Dungeon®",
       "discount": 85,
-      "orig_price_str": "29,99€",
-      "final_price_str": "4,49€",
-      "orig_cents": 2999,
-      "final_cents": 449,
-      "gamepass": ""
-    },
-    {
-      "appid": "1286680",
-      "name": "Tiny Tina's Wonderlands",
-      "discount": 80,
-      "orig_price_str": "59,99€",
-      "final_price_str": "11,99€",
-      "orig_cents": 5999,
-      "final_cents": 1199,
-      "gamepass": ""
-    },
-    {
-      "appid": "232890",
-      "name": "Stronghold Crusader 2",
-      "discount": 90,
-      "orig_price_str": "29,99€",
-      "final_price_str": "2,99€",
-      "orig_cents": 2999,
-      "final_cents": 299,
-      "gamepass": ""
-    },
-    {
-      "appid": "2569670",
-      "name": "Farmer's Dynasty 2",
-      "discount": 49,
-      "orig_price_str": "33,73€",
-      "final_price_str": "17,04€",
-      "orig_cents": 3373,
-      "final_cents": 1704,
-      "gamepass": ""
-    },
-    {
-      "appid": "538030",
-      "name": "Xenonauts 2",
-      "discount": 50,
-      "orig_price_str": "39,99€",
-      "final_price_str": "19,99€",
-      "orig_cents": 3999,
-      "final_cents": 1999,
-      "gamepass": ""
-    },
-    {
-      "appid": "1139980",
-      "name": "Travellers Rest",
-      "discount": 25,
-      "orig_price_str": "17,99€",
-      "final_price_str": "13,49€",
-      "orig_cents": 1799,
-      "final_cents": 1349,
+      "orig_price_str": "22,99€",
+      "final_price_str": "3,44€",
+      "orig_cents": 2299,
+      "final_cents": 344,
       "gamepass": ""
     },
     {
@@ -2281,6 +2201,16 @@
       "gamepass": ""
     },
     {
+      "appid": "3690490",
+      "name": "Frostrain 2",
+      "discount": 20,
+      "orig_price_str": "10,79€",
+      "final_price_str": "8,63€",
+      "orig_cents": 1079,
+      "final_cents": 863,
+      "gamepass": ""
+    },
+    {
       "appid": "463530",
       "name": "Empires of the Undergrowth",
       "discount": 70,
@@ -2291,213 +2221,83 @@
       "gamepass": ""
     },
     {
-      "appid": "482400",
-      "name": "System Shock",
-      "discount": 70,
-      "orig_price_str": "39,99€",
+      "appid": "611790",
+      "name": "House Party",
+      "discount": 55,
+      "orig_price_str": "24,99€",
+      "final_price_str": "11,24€",
+      "orig_cents": 2499,
+      "final_cents": 1124,
+      "gamepass": ""
+    },
+    {
+      "appid": "4170200",
+      "name": "Data Center",
+      "discount": 20,
+      "orig_price_str": "9,19€",
+      "final_price_str": "7,35€",
+      "orig_cents": 919,
+      "final_cents": 735,
+      "gamepass": ""
+    },
+    {
+      "appid": "631510",
+      "name": "Devil May Cry HD Collection",
+      "discount": 85,
+      "orig_price_str": "29,99€",
+      "final_price_str": "4,49€",
+      "orig_cents": 2999,
+      "final_cents": 449,
+      "gamepass": ""
+    },
+    {
+      "appid": "2885870",
+      "name": "Strange Antiquities",
+      "discount": 33,
+      "orig_price_str": "17,49€",
+      "final_price_str": "11,71€",
+      "orig_cents": 1749,
+      "final_cents": 1171,
+      "gamepass": ""
+    },
+    {
+      "appid": "1063420",
+      "name": "Void Crew",
+      "discount": 50,
+      "orig_price_str": "24,99€",
+      "final_price_str": "12,49€",
+      "orig_cents": 2499,
+      "final_cents": 1249,
+      "gamepass": ""
+    },
+    {
+      "appid": "1286680",
+      "name": "Tiny Tina's Wonderlands",
+      "discount": 80,
+      "orig_price_str": "59,99€",
       "final_price_str": "11,99€",
-      "orig_cents": 3999,
+      "orig_cents": 5999,
       "final_cents": 1199,
       "gamepass": ""
     },
     {
-      "appid": "3013550",
-      "name": "Yu-Gi-Oh! EARLY DAYS COLLECTION",
-      "discount": 70,
-      "orig_price_str": "59,99€",
-      "final_price_str": "17,99€",
-      "orig_cents": 5999,
-      "final_cents": 1799,
-      "gamepass": ""
-    },
-    {
-      "appid": "3417410",
-      "name": "Storebound",
-      "discount": 20,
-      "orig_price_str": "7,99€",
-      "final_price_str": "6,39€",
-      "orig_cents": 799,
-      "final_cents": 639,
-      "gamepass": ""
-    },
-    {
-      "appid": "1029780",
-      "name": "Going Medieval",
-      "discount": 20,
-      "orig_price_str": "29,99€",
-      "final_price_str": "23,99€",
-      "orig_cents": 2999,
-      "final_cents": 2399,
-      "gamepass": ""
-    },
-    {
-      "appid": "2738230",
-      "name": "The House of Tesla: Definitive Edition",
-      "discount": 30,
-      "orig_price_str": "24,99€",
-      "final_price_str": "17,49€",
-      "orig_cents": 2499,
-      "final_cents": 1749,
-      "gamepass": ""
-    },
-    {
-      "appid": "1131670",
-      "name": "Justin Wack and the Big Time Hack",
-      "discount": 90,
-      "orig_price_str": "19,99€",
-      "final_price_str": "1,99€",
-      "orig_cents": 1999,
-      "final_cents": 199,
-      "gamepass": ""
-    },
-    {
-      "appid": "2305640",
-      "name": "Bladesong",
-      "discount": 20,
-      "orig_price_str": "19,99€",
-      "final_price_str": "15,99€",
-      "orig_cents": 1999,
-      "final_cents": 1599,
-      "gamepass": ""
-    },
-    {
-      "appid": "3361510",
-      "name": "Coal LLC",
-      "discount": 40,
-      "orig_price_str": "14,79€",
-      "final_price_str": "8,87€",
-      "orig_cents": 1479,
-      "final_cents": 887,
-      "gamepass": ""
-    },
-    {
-      "appid": "1089090",
-      "name": "ONE PIECE: PIRATE WARRIORS 4",
-      "discount": 80,
+      "appid": "538030",
+      "name": "Xenonauts 2",
+      "discount": 50,
       "orig_price_str": "39,99€",
-      "final_price_str": "7,99€",
+      "final_price_str": "19,99€",
       "orig_cents": 3999,
-      "final_cents": 799,
+      "final_cents": 1999,
       "gamepass": ""
     },
     {
-      "appid": "2289750",
-      "name": "Super Fantasy Kingdom",
-      "discount": 50,
-      "orig_price_str": "19,99€",
-      "final_price_str": "9,99€",
-      "orig_cents": 1999,
-      "final_cents": 999,
-      "gamepass": ""
-    },
-    {
-      "appid": "3839250",
-      "name": "Soulforge Lost Path",
-      "discount": 10,
-      "orig_price_str": "9,19€",
-      "final_price_str": "8,27€",
-      "orig_cents": 919,
-      "final_cents": 827,
-      "gamepass": ""
-    },
-    {
-      "appid": "2824490",
-      "name": "He is Coming",
-      "discount": 55,
-      "orig_price_str": "19,99€",
-      "final_price_str": "8,99€",
-      "orig_cents": 1999,
-      "final_cents": 899,
-      "gamepass": ""
-    },
-    {
-      "appid": "1689620",
-      "name": "BLEACH Rebirth of Souls",
-      "discount": 60,
-      "orig_price_str": "59,99€",
-      "final_price_str": "23,99€",
-      "orig_cents": 5999,
-      "final_cents": 2399,
-      "gamepass": ""
-    },
-    {
-      "appid": "1939890",
-      "name": "Simon the Sorcerer Origins",
-      "discount": 28,
-      "orig_price_str": "24,99€",
-      "final_price_str": "17,99€",
-      "orig_cents": 2499,
-      "final_cents": 1799,
-      "gamepass": ""
-    },
-    {
-      "appid": "2890830",
-      "name": "Streamer Life Simulator 2",
-      "discount": 70,
-      "orig_price_str": "31,20€",
-      "final_price_str": "9,36€",
-      "orig_cents": 3120,
-      "final_cents": 936,
-      "gamepass": ""
-    },
-    {
-      "appid": "4090360",
-      "name": "Forest Escape: Last Train",
-      "discount": 20,
-      "orig_price_str": "9,99€",
-      "final_price_str": "7,99€",
-      "orig_cents": 999,
-      "final_cents": 799,
-      "gamepass": ""
-    },
-    {
-      "appid": "1171690",
-      "name": "Wayfinder",
-      "discount": 87,
-      "orig_price_str": "24,50€",
-      "final_price_str": "3,18€",
-      "orig_cents": 2450,
-      "final_cents": 318,
-      "gamepass": ""
-    },
-    {
-      "appid": "2441700",
-      "name": "UNDERDOGS",
-      "discount": 50,
-      "orig_price_str": "28,99€",
-      "final_price_str": "14,49€",
-      "orig_cents": 2899,
-      "final_cents": 1449,
-      "gamepass": ""
-    },
-    {
-      "appid": "799600",
-      "name": "Cosmoteer: Raumschiffarchitekt & Kommandant",
-      "discount": 30,
-      "orig_price_str": "18,99€",
-      "final_price_str": "13,29€",
-      "orig_cents": 1899,
-      "final_cents": 1329,
-      "gamepass": ""
-    },
-    {
-      "appid": "2070270",
-      "name": "Cloudheim",
-      "discount": 34,
-      "orig_price_str": "28,99€",
-      "final_price_str": "19,13€",
-      "orig_cents": 2899,
-      "final_cents": 1913,
-      "gamepass": ""
-    },
-    {
-      "appid": "329050",
-      "name": "Devil May Cry 4 Special Edition",
-      "discount": 80,
-      "orig_price_str": "24,99€",
-      "final_price_str": "4,99€",
-      "orig_cents": 2499,
-      "final_cents": 499,
+      "appid": "232890",
+      "name": "Stronghold Crusader 2",
+      "discount": 90,
+      "orig_price_str": "29,99€",
+      "final_price_str": "2,99€",
+      "orig_cents": 2999,
+      "final_cents": 299,
       "gamepass": ""
     },
     {
@@ -2511,13 +2311,123 @@
       "gamepass": ""
     },
     {
-      "appid": "924750",
-      "name": "Harold Halibut",
-      "discount": 72,
-      "orig_price_str": "34,99€",
-      "final_price_str": "9,79€",
-      "orig_cents": 3499,
-      "final_cents": 979,
+      "appid": "2738230",
+      "name": "The House of Tesla: Definitive Edition",
+      "discount": 30,
+      "orig_price_str": "24,99€",
+      "final_price_str": "17,49€",
+      "orig_cents": 2499,
+      "final_cents": 1749,
+      "gamepass": ""
+    },
+    {
+      "appid": "2890830",
+      "name": "Streamer Life Simulator 2",
+      "discount": 70,
+      "orig_price_str": "31,20€",
+      "final_price_str": "9,36€",
+      "orig_cents": 3120,
+      "final_cents": 936,
+      "gamepass": ""
+    },
+    {
+      "appid": "3361510",
+      "name": "Coal LLC",
+      "discount": 40,
+      "orig_price_str": "14,79€",
+      "final_price_str": "8,87€",
+      "orig_cents": 1479,
+      "final_cents": 887,
+      "gamepass": ""
+    },
+    {
+      "appid": "1689620",
+      "name": "BLEACH Rebirth of Souls",
+      "discount": 60,
+      "orig_price_str": "59,99€",
+      "final_price_str": "23,99€",
+      "orig_cents": 5999,
+      "final_cents": 2399,
+      "gamepass": ""
+    },
+    {
+      "appid": "1139980",
+      "name": "Travellers Rest",
+      "discount": 25,
+      "orig_price_str": "17,99€",
+      "final_price_str": "13,49€",
+      "orig_cents": 1799,
+      "final_cents": 1349,
+      "gamepass": ""
+    },
+    {
+      "appid": "3417410",
+      "name": "Storebound",
+      "discount": 20,
+      "orig_price_str": "7,99€",
+      "final_price_str": "6,39€",
+      "orig_cents": 799,
+      "final_cents": 639,
+      "gamepass": ""
+    },
+    {
+      "appid": "2569670",
+      "name": "Farmer's Dynasty 2",
+      "discount": 49,
+      "orig_price_str": "33,73€",
+      "final_price_str": "17,04€",
+      "orig_cents": 3373,
+      "final_cents": 1704,
+      "gamepass": ""
+    },
+    {
+      "appid": "1131670",
+      "name": "Justin Wack and the Big Time Hack",
+      "discount": 90,
+      "orig_price_str": "19,99€",
+      "final_price_str": "1,99€",
+      "orig_cents": 1999,
+      "final_cents": 199,
+      "gamepass": ""
+    },
+    {
+      "appid": "482400",
+      "name": "System Shock",
+      "discount": 70,
+      "orig_price_str": "39,99€",
+      "final_price_str": "11,99€",
+      "orig_cents": 3999,
+      "final_cents": 1199,
+      "gamepass": ""
+    },
+    {
+      "appid": "1029780",
+      "name": "Going Medieval",
+      "discount": 20,
+      "orig_price_str": "29,99€",
+      "final_price_str": "23,99€",
+      "orig_cents": 2999,
+      "final_cents": 2399,
+      "gamepass": ""
+    },
+    {
+      "appid": "2824490",
+      "name": "He is Coming",
+      "discount": 55,
+      "orig_price_str": "19,99€",
+      "final_price_str": "8,99€",
+      "orig_cents": 1999,
+      "final_cents": 899,
+      "gamepass": ""
+    },
+    {
+      "appid": "1089090",
+      "name": "ONE PIECE: PIRATE WARRIORS 4",
+      "discount": 80,
+      "orig_price_str": "39,99€",
+      "final_price_str": "7,99€",
+      "orig_cents": 3999,
+      "final_cents": 799,
       "gamepass": ""
     },
     {
@@ -2531,6 +2441,76 @@
       "gamepass": ""
     },
     {
+      "appid": "2070270",
+      "name": "Cloudheim",
+      "discount": 34,
+      "orig_price_str": "28,99€",
+      "final_price_str": "19,13€",
+      "orig_cents": 2899,
+      "final_cents": 1913,
+      "gamepass": ""
+    },
+    {
+      "appid": "799600",
+      "name": "Cosmoteer: Raumschiffarchitekt & Kommandant",
+      "discount": 30,
+      "orig_price_str": "18,99€",
+      "final_price_str": "13,29€",
+      "orig_cents": 1899,
+      "final_cents": 1329,
+      "gamepass": ""
+    },
+    {
+      "appid": "4090360",
+      "name": "Forest Escape: Last Train",
+      "discount": 20,
+      "orig_price_str": "9,99€",
+      "final_price_str": "7,99€",
+      "orig_cents": 999,
+      "final_cents": 799,
+      "gamepass": ""
+    },
+    {
+      "appid": "2305640",
+      "name": "Bladesong",
+      "discount": 20,
+      "orig_price_str": "19,99€",
+      "final_price_str": "15,99€",
+      "orig_cents": 1999,
+      "final_cents": 1599,
+      "gamepass": ""
+    },
+    {
+      "appid": "2441700",
+      "name": "UNDERDOGS",
+      "discount": 50,
+      "orig_price_str": "28,99€",
+      "final_price_str": "14,49€",
+      "orig_cents": 2899,
+      "final_cents": 1449,
+      "gamepass": ""
+    },
+    {
+      "appid": "1171690",
+      "name": "Wayfinder",
+      "discount": 87,
+      "orig_price_str": "24,50€",
+      "final_price_str": "3,18€",
+      "orig_cents": 2450,
+      "final_cents": 318,
+      "gamepass": ""
+    },
+    {
+      "appid": "329050",
+      "name": "Devil May Cry 4 Special Edition",
+      "discount": 80,
+      "orig_price_str": "24,99€",
+      "final_price_str": "4,99€",
+      "orig_cents": 2499,
+      "final_cents": 499,
+      "gamepass": ""
+    },
+    {
       "appid": "359510",
       "name": "Tangle Tower",
       "discount": 80,
@@ -2538,16 +2518,6 @@
       "final_price_str": "3,90€",
       "orig_cents": 1950,
       "final_cents": 390,
-      "gamepass": ""
-    },
-    {
-      "appid": "3509230",
-      "name": "Gambonanza",
-      "discount": 35,
-      "orig_price_str": "14,99€",
-      "final_price_str": "9,74€",
-      "orig_cents": 1499,
-      "final_cents": 974,
       "gamepass": ""
     },
     {
@@ -2561,13 +2531,33 @@
       "gamepass": ""
     },
     {
-      "appid": "2131640",
-      "name": "METAL GEAR SOLID 2: Sons of Liberty - Master Collection Version",
-      "discount": 50,
-      "orig_price_str": "19,99€",
-      "final_price_str": "9,99€",
-      "orig_cents": 1999,
-      "final_cents": 999,
+      "appid": "3839250",
+      "name": "Soulforge Lost Path",
+      "discount": 10,
+      "orig_price_str": "9,19€",
+      "final_price_str": "8,27€",
+      "orig_cents": 919,
+      "final_cents": 827,
+      "gamepass": ""
+    },
+    {
+      "appid": "924750",
+      "name": "Harold Halibut",
+      "discount": 72,
+      "orig_price_str": "34,99€",
+      "final_price_str": "9,79€",
+      "orig_cents": 3499,
+      "final_cents": 979,
+      "gamepass": ""
+    },
+    {
+      "appid": "3509230",
+      "name": "Gambonanza",
+      "discount": 35,
+      "orig_price_str": "14,99€",
+      "final_price_str": "9,74€",
+      "orig_cents": 1499,
+      "final_cents": 974,
       "gamepass": ""
     },
     {
@@ -2578,6 +2568,26 @@
       "final_price_str": "9,99€",
       "orig_cents": 4999,
       "final_cents": 999,
+      "gamepass": ""
+    },
+    {
+      "appid": "2131640",
+      "name": "METAL GEAR SOLID 2: Sons of Liberty - Master Collection Version",
+      "discount": 50,
+      "orig_price_str": "19,99€",
+      "final_price_str": "9,99€",
+      "orig_cents": 1999,
+      "final_cents": 999,
+      "gamepass": ""
+    },
+    {
+      "appid": "1939890",
+      "name": "Simon the Sorcerer Origins",
+      "discount": 28,
+      "orig_price_str": "24,99€",
+      "final_price_str": "17,99€",
+      "orig_cents": 2499,
+      "final_cents": 1799,
       "gamepass": ""
     },
     {
@@ -2601,16 +2611,6 @@
       "gamepass": ""
     },
     {
-      "appid": "874390",
-      "name": "The Battle of Polytopia",
-      "discount": 70,
-      "orig_price_str": "12,49€",
-      "final_price_str": "3,74€",
-      "orig_cents": 1249,
-      "final_cents": 374,
-      "gamepass": ""
-    },
-    {
       "appid": "2996040",
       "name": "Teenage Mutant Ninja Turtles: Splintered Fate",
       "discount": 75,
@@ -2618,6 +2618,16 @@
       "final_price_str": "7,12€",
       "orig_cents": 2849,
       "final_cents": 712,
+      "gamepass": ""
+    },
+    {
+      "appid": "874390",
+      "name": "The Battle of Polytopia",
+      "discount": 70,
+      "orig_price_str": "12,49€",
+      "final_price_str": "3,74€",
+      "orig_cents": 1249,
+      "final_cents": 374,
       "gamepass": ""
     },
     {
@@ -2631,13 +2641,13 @@
       "gamepass": ""
     },
     {
-      "appid": "4216650",
-      "name": "Tennis Manager 26",
-      "discount": 25,
-      "orig_price_str": "39,99€",
-      "final_price_str": "29,99€",
-      "orig_cents": 3999,
-      "final_cents": 2999,
+      "appid": "606880",
+      "name": "GreedFall",
+      "discount": 90,
+      "orig_price_str": "34,99€",
+      "final_price_str": "3,49€",
+      "orig_cents": 3499,
+      "final_cents": 349,
       "gamepass": ""
     },
     {
@@ -2648,6 +2658,16 @@
       "final_price_str": "10,53€",
       "orig_cents": 3399,
       "final_cents": 1053,
+      "gamepass": ""
+    },
+    {
+      "appid": "15100",
+      "name": "Assassin's Creed™: Director's Cut Edition",
+      "discount": 75,
+      "orig_price_str": "9,99€",
+      "final_price_str": "2,49€",
+      "orig_cents": 999,
+      "final_cents": 249,
       "gamepass": ""
     },
     {
@@ -2671,36 +2691,6 @@
       "gamepass": ""
     },
     {
-      "appid": "15100",
-      "name": "Assassin's Creed™: Director's Cut Edition",
-      "discount": 75,
-      "orig_price_str": "9,99€",
-      "final_price_str": "2,49€",
-      "orig_cents": 999,
-      "final_cents": 249,
-      "gamepass": ""
-    },
-    {
-      "appid": "606880",
-      "name": "GreedFall",
-      "discount": 90,
-      "orig_price_str": "34,99€",
-      "final_price_str": "3,49€",
-      "orig_cents": 3499,
-      "final_cents": 349,
-      "gamepass": ""
-    },
-    {
-      "appid": "602960",
-      "name": "Barotrauma",
-      "discount": 50,
-      "orig_price_str": "39,99€",
-      "final_price_str": "19,99€",
-      "orig_cents": 3999,
-      "final_cents": 1999,
-      "gamepass": ""
-    },
-    {
       "appid": "3887090",
       "name": "Flughafen-Gepäck-Simulator",
       "discount": 20,
@@ -2711,33 +2701,13 @@
       "gamepass": ""
     },
     {
-      "appid": "3542380",
-      "name": "Rune Dice",
+      "appid": "1700270",
+      "name": "Lucky Tower Ultimate",
       "discount": 20,
-      "orig_price_str": "14,79€",
-      "final_price_str": "11,83€",
-      "orig_cents": 1479,
-      "final_cents": 1183,
-      "gamepass": ""
-    },
-    {
-      "appid": "865360",
-      "name": "We Were Here Together",
-      "discount": 70,
-      "orig_price_str": "12,99€",
-      "final_price_str": "3,89€",
-      "orig_cents": 1299,
-      "final_cents": 389,
-      "gamepass": ""
-    },
-    {
-      "appid": "2695260",
-      "name": "The Crimson Maid",
-      "discount": 10,
-      "orig_price_str": "13,99€",
-      "final_price_str": "12,59€",
-      "orig_cents": 1399,
-      "final_cents": 1259,
+      "orig_price_str": "14,99€",
+      "final_price_str": "11,99€",
+      "orig_cents": 1499,
+      "final_cents": 1199,
       "gamepass": ""
     },
     {
@@ -2751,6 +2721,16 @@
       "gamepass": ""
     },
     {
+      "appid": "865360",
+      "name": "We Were Here Together",
+      "discount": 70,
+      "orig_price_str": "12,99€",
+      "final_price_str": "3,89€",
+      "orig_cents": 1299,
+      "final_cents": 389,
+      "gamepass": ""
+    },
+    {
       "appid": "3152750",
       "name": "Taival",
       "discount": 20,
@@ -2758,6 +2738,26 @@
       "final_price_str": "16,39€",
       "orig_cents": 2049,
       "final_cents": 1639,
+      "gamepass": ""
+    },
+    {
+      "appid": "3542380",
+      "name": "Rune Dice",
+      "discount": 20,
+      "orig_price_str": "14,79€",
+      "final_price_str": "11,83€",
+      "orig_cents": 1479,
+      "final_cents": 1183,
+      "gamepass": ""
+    },
+    {
+      "appid": "2695260",
+      "name": "The Crimson Maid",
+      "discount": 10,
+      "orig_price_str": "13,99€",
+      "final_price_str": "12,59€",
+      "orig_cents": 1399,
+      "final_cents": 1259,
       "gamepass": ""
     },
     {
@@ -2771,13 +2771,13 @@
       "gamepass": ""
     },
     {
-      "appid": "597180",
-      "name": "Old World",
-      "discount": 75,
-      "orig_price_str": "39,99€",
-      "final_price_str": "9,99€",
-      "orig_cents": 3999,
-      "final_cents": 999,
+      "appid": "3615160",
+      "name": "Teddy's Haven",
+      "discount": 20,
+      "orig_price_str": "14,79€",
+      "final_price_str": "11,83€",
+      "orig_cents": 1479,
+      "final_cents": 1183,
       "gamepass": ""
     },
     {
@@ -2801,26 +2801,6 @@
       "gamepass": ""
     },
     {
-      "appid": "2738490",
-      "name": "Sol Cesto",
-      "discount": 30,
-      "orig_price_str": "13,99€",
-      "final_price_str": "9,79€",
-      "orig_cents": 1399,
-      "final_cents": 979,
-      "gamepass": ""
-    },
-    {
-      "appid": "3407390",
-      "name": "ENDLESS Legend™ 2",
-      "discount": 40,
-      "orig_price_str": "49,99€",
-      "final_price_str": "29,99€",
-      "orig_cents": 4999,
-      "final_cents": 2999,
-      "gamepass": ""
-    },
-    {
       "appid": "1207650",
       "name": "Suzerain",
       "discount": 70,
@@ -2831,23 +2811,23 @@
       "gamepass": ""
     },
     {
-      "appid": "2113850",
-      "name": "Spirit City: Lofi Sessions",
-      "discount": 50,
-      "orig_price_str": "11,79€",
-      "final_price_str": "5,89€",
-      "orig_cents": 1179,
-      "final_cents": 589,
+      "appid": "597180",
+      "name": "Old World",
+      "discount": 75,
+      "orig_price_str": "39,99€",
+      "final_price_str": "9,99€",
+      "orig_cents": 3999,
+      "final_cents": 999,
       "gamepass": ""
     },
     {
-      "appid": "3615160",
-      "name": "Teddy's Haven",
-      "discount": 20,
-      "orig_price_str": "14,79€",
-      "final_price_str": "11,83€",
-      "orig_cents": 1479,
-      "final_cents": 1183,
+      "appid": "2738490",
+      "name": "Sol Cesto",
+      "discount": 30,
+      "orig_price_str": "13,99€",
+      "final_price_str": "9,79€",
+      "orig_cents": 1399,
+      "final_cents": 979,
       "gamepass": ""
     },
     {
@@ -2861,13 +2841,23 @@
       "gamepass": ""
     },
     {
-      "appid": "1605220",
-      "name": "Dune: Spice Wars",
-      "discount": 60,
-      "orig_price_str": "34,99€",
-      "final_price_str": "13,99€",
-      "orig_cents": 3499,
-      "final_cents": 1399,
+      "appid": "3407390",
+      "name": "ENDLESS Legend™ 2",
+      "discount": 40,
+      "orig_price_str": "49,99€",
+      "final_price_str": "29,99€",
+      "orig_cents": 4999,
+      "final_cents": 2999,
+      "gamepass": ""
+    },
+    {
+      "appid": "2442380",
+      "name": "SNK VS. CAPCOM SVC CHAOS",
+      "discount": 50,
+      "orig_price_str": "19,99€",
+      "final_price_str": "9,99€",
+      "orig_cents": 1999,
+      "final_cents": 999,
       "gamepass": ""
     },
     {
@@ -2879,6 +2869,26 @@
       "orig_cents": 3096,
       "final_cents": 1064,
       "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "2113850",
+      "name": "Spirit City: Lofi Sessions",
+      "discount": 50,
+      "orig_price_str": "11,79€",
+      "final_price_str": "5,89€",
+      "orig_cents": 1179,
+      "final_cents": 589,
+      "gamepass": ""
+    },
+    {
+      "appid": "1605220",
+      "name": "Dune: Spice Wars",
+      "discount": 60,
+      "orig_price_str": "34,99€",
+      "final_price_str": "13,99€",
+      "orig_cents": 3499,
+      "final_cents": 1399,
+      "gamepass": ""
     },
     {
       "appid": "3244220",
@@ -2901,26 +2911,6 @@
       "gamepass": ""
     },
     {
-      "appid": "3058630",
-      "name": "Assetto Corsa EVO",
-      "discount": 20,
-      "orig_price_str": "39,99€",
-      "final_price_str": "31,99€",
-      "orig_cents": 3999,
-      "final_cents": 3199,
-      "gamepass": ""
-    },
-    {
-      "appid": "1700270",
-      "name": "Lucky Tower Ultimate",
-      "discount": 20,
-      "orig_price_str": "14,99€",
-      "final_price_str": "11,99€",
-      "orig_cents": 1499,
-      "final_cents": 1199,
-      "gamepass": ""
-    },
-    {
       "appid": "2131650",
       "name": "METAL GEAR SOLID 3: Snake Eater - Master Collection Version",
       "discount": 50,
@@ -2928,6 +2918,26 @@
       "final_price_str": "9,99€",
       "orig_cents": 1999,
       "final_cents": 999,
+      "gamepass": ""
+    },
+    {
+      "appid": "2553040",
+      "name": "Nested Lands",
+      "discount": 20,
+      "orig_price_str": "12,99€",
+      "final_price_str": "10,39€",
+      "orig_cents": 1299,
+      "final_cents": 1039,
+      "gamepass": ""
+    },
+    {
+      "appid": "3058630",
+      "name": "Assetto Corsa EVO",
+      "discount": 20,
+      "orig_price_str": "39,99€",
+      "final_price_str": "31,99€",
+      "orig_cents": 3999,
+      "final_cents": 3199,
       "gamepass": ""
     },
     {
@@ -2951,6 +2961,16 @@
       "gamepass": ""
     },
     {
+      "appid": "4216650",
+      "name": "Tennis Manager 26",
+      "discount": 25,
+      "orig_price_str": "39,99€",
+      "final_price_str": "29,99€",
+      "orig_cents": 3999,
+      "final_cents": 2999,
+      "gamepass": ""
+    },
+    {
       "appid": "460790",
       "name": "Bayonetta",
       "discount": 70,
@@ -2971,23 +2991,13 @@
       "gamepass": ""
     },
     {
-      "appid": "2553040",
-      "name": "Nested Lands",
-      "discount": 20,
-      "orig_price_str": "12,99€",
-      "final_price_str": "10,39€",
-      "orig_cents": 1299,
-      "final_cents": 1039,
-      "gamepass": ""
-    },
-    {
-      "appid": "2477010",
-      "name": "Zug um Zug®",
-      "discount": 60,
-      "orig_price_str": "13,99€",
-      "final_price_str": "5,59€",
-      "orig_cents": 1399,
-      "final_cents": 559,
+      "appid": "2521170",
+      "name": "Looking For Fael",
+      "discount": 15,
+      "orig_price_str": "19,99€",
+      "final_price_str": "16,99€",
+      "orig_cents": 1999,
+      "final_cents": 1699,
       "gamepass": ""
     },
     {
@@ -3001,24 +3011,44 @@
       "gamepass": ""
     },
     {
-      "appid": "1712110",
-      "name": "Deep Space Outpost",
-      "discount": 10,
-      "orig_price_str": "15,79€",
-      "final_price_str": "14,21€",
-      "orig_cents": 1579,
-      "final_cents": 1421,
+      "appid": "3125750",
+      "name": "EDENS ZERO",
+      "discount": 40,
+      "orig_price_str": "59,99€",
+      "final_price_str": "35,99€",
+      "orig_cents": 5999,
+      "final_cents": 3599,
       "gamepass": ""
     },
     {
-      "appid": "1933000",
-      "name": "Luna Abyss",
-      "discount": 25,
+      "appid": "2198510",
+      "name": "New Cycle",
+      "discount": 50,
       "orig_price_str": "29,99€",
-      "final_price_str": "22,49€",
+      "final_price_str": "14,99€",
       "orig_cents": 2999,
-      "final_cents": 2249,
-      "gamepass": "PC + Xbox"
+      "final_cents": 1499,
+      "gamepass": ""
+    },
+    {
+      "appid": "2477010",
+      "name": "Zug um Zug®",
+      "discount": 60,
+      "orig_price_str": "13,99€",
+      "final_price_str": "5,59€",
+      "orig_cents": 1399,
+      "final_cents": 559,
+      "gamepass": ""
+    },
+    {
+      "appid": "843430",
+      "name": "Righty Tighty XL",
+      "discount": 51,
+      "orig_price_str": "0,99€",
+      "final_price_str": "0,49€",
+      "orig_cents": 99,
+      "final_cents": 49,
+      "gamepass": ""
     },
     {
       "appid": "235540",
@@ -3028,16 +3058,6 @@
       "final_price_str": "2,89€",
       "orig_cents": 2899,
       "final_cents": 289,
-      "gamepass": ""
-    },
-    {
-      "appid": "1574580",
-      "name": "Strange Horticulture",
-      "discount": 66,
-      "orig_price_str": "15,79€",
-      "final_price_str": "5,36€",
-      "orig_cents": 1579,
-      "final_cents": 536,
       "gamepass": ""
     },
     {
@@ -3051,13 +3071,53 @@
       "gamepass": ""
     },
     {
-      "appid": "843430",
-      "name": "Righty Tighty XL",
-      "discount": 51,
-      "orig_price_str": "0,99€",
-      "final_price_str": "0,49€",
-      "orig_cents": 99,
-      "final_cents": 49,
+      "appid": "675010",
+      "name": "MudRunner",
+      "discount": 80,
+      "orig_price_str": "19,99€",
+      "final_price_str": "3,99€",
+      "orig_cents": 1999,
+      "final_cents": 399,
+      "gamepass": ""
+    },
+    {
+      "appid": "1574580",
+      "name": "Strange Horticulture",
+      "discount": 66,
+      "orig_price_str": "15,79€",
+      "final_price_str": "5,36€",
+      "orig_cents": 1579,
+      "final_cents": 536,
+      "gamepass": ""
+    },
+    {
+      "appid": "1933000",
+      "name": "Luna Abyss",
+      "discount": 25,
+      "orig_price_str": "29,99€",
+      "final_price_str": "22,49€",
+      "orig_cents": 2999,
+      "final_cents": 2249,
+      "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "2369900",
+      "name": "Castlevania Dominus Collection",
+      "discount": 30,
+      "orig_price_str": "24,99€",
+      "final_price_str": "17,49€",
+      "orig_cents": 2499,
+      "final_cents": 1749,
+      "gamepass": ""
+    },
+    {
+      "appid": "1761390",
+      "name": "Hatsune Miku: Project DIVA Mega Mix+",
+      "discount": 60,
+      "orig_price_str": "39,39€",
+      "final_price_str": "15,75€",
+      "orig_cents": 3939,
+      "final_cents": 1575,
       "gamepass": ""
     },
     {
@@ -3081,26 +3141,6 @@
       "gamepass": ""
     },
     {
-      "appid": "2521170",
-      "name": "Looking For Fael",
-      "discount": 15,
-      "orig_price_str": "19,99€",
-      "final_price_str": "16,99€",
-      "orig_cents": 1999,
-      "final_cents": 1699,
-      "gamepass": ""
-    },
-    {
-      "appid": "1761390",
-      "name": "Hatsune Miku: Project DIVA Mega Mix+",
-      "discount": 60,
-      "orig_price_str": "39,39€",
-      "final_price_str": "15,75€",
-      "orig_cents": 3939,
-      "final_cents": 1575,
-      "gamepass": ""
-    },
-    {
       "appid": "2717880",
       "name": "The Rogue Prince of Persia",
       "discount": 70,
@@ -3111,13 +3151,13 @@
       "gamepass": "PC + Xbox"
     },
     {
-      "appid": "675010",
-      "name": "MudRunner",
-      "discount": 80,
-      "orig_price_str": "19,99€",
-      "final_price_str": "3,99€",
-      "orig_cents": 1999,
-      "final_cents": 399,
+      "appid": "2288630",
+      "name": "Taiko no Tatsujin: Rhythm Festival",
+      "discount": 50,
+      "orig_price_str": "49,99€",
+      "final_price_str": "24,99€",
+      "orig_cents": 4999,
+      "final_cents": 2499,
       "gamepass": ""
     },
     {
@@ -3131,33 +3171,13 @@
       "gamepass": ""
     },
     {
-      "appid": "2163330",
-      "name": "Yet Another Zombie Survivors",
-      "discount": 50,
-      "orig_price_str": "14,79€",
-      "final_price_str": "7,39€",
-      "orig_cents": 1479,
-      "final_cents": 739,
-      "gamepass": ""
-    },
-    {
-      "appid": "2442380",
-      "name": "SNK VS. CAPCOM SVC CHAOS",
-      "discount": 50,
-      "orig_price_str": "19,99€",
-      "final_price_str": "9,99€",
-      "orig_cents": 1999,
-      "final_cents": 999,
-      "gamepass": ""
-    },
-    {
-      "appid": "1952520",
-      "name": "PAW Patrol World",
-      "discount": 80,
-      "orig_price_str": "39,99€",
-      "final_price_str": "7,99€",
-      "orig_cents": 3999,
-      "final_cents": 799,
+      "appid": "1712110",
+      "name": "Deep Space Outpost",
+      "discount": 10,
+      "orig_price_str": "15,79€",
+      "final_price_str": "14,21€",
+      "orig_cents": 1579,
+      "final_cents": 1421,
       "gamepass": ""
     },
     {
@@ -3171,43 +3191,23 @@
       "gamepass": ""
     },
     {
-      "appid": "2599690",
-      "name": "Better Than Dead",
-      "discount": 10,
-      "orig_price_str": "15,49€",
-      "final_price_str": "13,94€",
-      "orig_cents": 1549,
-      "final_cents": 1394,
+      "appid": "2163330",
+      "name": "Yet Another Zombie Survivors",
+      "discount": 50,
+      "orig_price_str": "14,79€",
+      "final_price_str": "7,39€",
+      "orig_cents": 1479,
+      "final_cents": 739,
       "gamepass": ""
     },
     {
-      "appid": "638230",
-      "name": "Journey",
-      "discount": 75,
-      "orig_price_str": "13,99€",
-      "final_price_str": "3,49€",
-      "orig_cents": 1399,
-      "final_cents": 349,
-      "gamepass": ""
-    },
-    {
-      "appid": "2999030",
-      "name": "Exploding Kittens® 2",
-      "discount": 65,
-      "orig_price_str": "10,99€",
-      "final_price_str": "3,84€",
-      "orig_cents": 1099,
-      "final_cents": 384,
-      "gamepass": ""
-    },
-    {
-      "appid": "760640",
-      "name": "Tennis Elbow 4",
-      "discount": 20,
+      "appid": "690640",
+      "name": "Trine 4: The Nightmare Prince",
+      "discount": 80,
       "orig_price_str": "29,99€",
-      "final_price_str": "23,99€",
+      "final_price_str": "5,99€",
       "orig_cents": 2999,
-      "final_cents": 2399,
+      "final_cents": 599,
       "gamepass": ""
     },
     {
@@ -3221,13 +3221,23 @@
       "gamepass": ""
     },
     {
-      "appid": "1445790",
-      "name": "Make Way",
-      "discount": 75,
-      "orig_price_str": "14,99€",
-      "final_price_str": "3,74€",
-      "orig_cents": 1499,
-      "final_cents": 374,
+      "appid": "1952520",
+      "name": "PAW Patrol World",
+      "discount": 80,
+      "orig_price_str": "39,99€",
+      "final_price_str": "7,99€",
+      "orig_cents": 3999,
+      "final_cents": 799,
+      "gamepass": ""
+    },
+    {
+      "appid": "272600",
+      "name": "Detective Grimoire",
+      "discount": 80,
+      "orig_price_str": "6,89€",
+      "final_price_str": "1,37€",
+      "orig_cents": 689,
+      "final_cents": 137,
       "gamepass": ""
     },
     {
@@ -3251,23 +3261,53 @@
       "gamepass": ""
     },
     {
-      "appid": "2288630",
-      "name": "Taiko no Tatsujin: Rhythm Festival",
-      "discount": 50,
-      "orig_price_str": "49,99€",
-      "final_price_str": "24,99€",
-      "orig_cents": 4999,
-      "final_cents": 2499,
+      "appid": "3180150",
+      "name": "Mall Simulator",
+      "discount": 35,
+      "orig_price_str": "13,79€",
+      "final_price_str": "8,96€",
+      "orig_cents": 1379,
+      "final_cents": 896,
       "gamepass": ""
     },
     {
-      "appid": "1351240",
-      "name": "Taxi Life: A City Driving Simulator",
-      "discount": 68,
-      "orig_price_str": "34,99€",
-      "final_price_str": "11,19€",
-      "orig_cents": 3499,
-      "final_cents": 1119,
+      "appid": "638230",
+      "name": "Journey",
+      "discount": 75,
+      "orig_price_str": "13,99€",
+      "final_price_str": "3,49€",
+      "orig_cents": 1399,
+      "final_cents": 349,
+      "gamepass": ""
+    },
+    {
+      "appid": "2599690",
+      "name": "Better Than Dead",
+      "discount": 10,
+      "orig_price_str": "15,49€",
+      "final_price_str": "13,94€",
+      "orig_cents": 1549,
+      "final_cents": 1394,
+      "gamepass": ""
+    },
+    {
+      "appid": "2999030",
+      "name": "Exploding Kittens® 2",
+      "discount": 65,
+      "orig_price_str": "10,99€",
+      "final_price_str": "3,84€",
+      "orig_cents": 1099,
+      "final_cents": 384,
+      "gamepass": ""
+    },
+    {
+      "appid": "204100",
+      "name": "Max Payne 3",
+      "discount": 70,
+      "orig_price_str": "19,99€",
+      "final_price_str": "5,99€",
+      "orig_cents": 1999,
+      "final_cents": 599,
       "gamepass": ""
     },
     {
@@ -3281,43 +3321,13 @@
       "gamepass": ""
     },
     {
-      "appid": "860890",
-      "name": "Factory Town",
-      "discount": 75,
-      "orig_price_str": "19,50€",
-      "final_price_str": "4,87€",
-      "orig_cents": 1950,
-      "final_cents": 487,
-      "gamepass": ""
-    },
-    {
-      "appid": "1651560",
-      "name": "Fabledom",
-      "discount": 60,
-      "orig_price_str": "20,99€",
-      "final_price_str": "8,39€",
-      "orig_cents": 2099,
-      "final_cents": 839,
-      "gamepass": ""
-    },
-    {
-      "appid": "1743830",
-      "name": "One Military Camp",
-      "discount": 60,
-      "orig_price_str": "24,99€",
-      "final_price_str": "9,99€",
-      "orig_cents": 2499,
-      "final_cents": 999,
-      "gamepass": ""
-    },
-    {
-      "appid": "1280930",
-      "name": "Astral Ascent",
-      "discount": 60,
-      "orig_price_str": "24,50€",
-      "final_price_str": "9,80€",
-      "orig_cents": 2450,
-      "final_cents": 980,
+      "appid": "760640",
+      "name": "Tennis Elbow 4",
+      "discount": 20,
+      "orig_price_str": "29,99€",
+      "final_price_str": "23,99€",
+      "orig_cents": 2999,
+      "final_cents": 2399,
       "gamepass": ""
     },
     {
@@ -3331,83 +3341,33 @@
       "gamepass": ""
     },
     {
-      "appid": "1065310",
-      "name": "Evil West",
-      "discount": 80,
-      "orig_price_str": "49,99€",
-      "final_price_str": "9,99€",
-      "orig_cents": 4999,
-      "final_cents": 999,
-      "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "110800",
-      "name": "L.A. Noire",
-      "discount": 70,
-      "orig_price_str": "19,99€",
-      "final_price_str": "5,99€",
-      "orig_cents": 1999,
-      "final_cents": 599,
-      "gamepass": ""
-    },
-    {
-      "appid": "3606400",
-      "name": "Dungeon Repeater",
-      "discount": 20,
-      "orig_price_str": "9,25€",
-      "final_price_str": "7,40€",
-      "orig_cents": 925,
-      "final_cents": 740,
-      "gamepass": ""
-    },
-    {
-      "appid": "1658150",
-      "name": "Moonstone Island",
-      "discount": 75,
-      "orig_price_str": "19,50€",
-      "final_price_str": "4,87€",
-      "orig_cents": 1950,
-      "final_cents": 487,
-      "gamepass": ""
-    },
-    {
-      "appid": "715010",
-      "name": "Diamo XL",
-      "discount": 51,
-      "orig_price_str": "0,99€",
-      "final_price_str": "0,49€",
-      "orig_cents": 99,
-      "final_cents": 49,
-      "gamepass": ""
-    },
-    {
-      "appid": "1089980",
-      "name": "The Henry Stickmin Collection",
+      "appid": "1743830",
+      "name": "One Military Camp",
       "discount": 60,
-      "orig_price_str": "13,99€",
-      "final_price_str": "5,59€",
-      "orig_cents": 1399,
-      "final_cents": 559,
+      "orig_price_str": "24,99€",
+      "final_price_str": "9,99€",
+      "orig_cents": 2499,
+      "final_cents": 999,
       "gamepass": ""
     },
     {
-      "appid": "1857090",
-      "name": "Norland",
-      "discount": 50,
-      "orig_price_str": "29,99€",
-      "final_price_str": "14,99€",
-      "orig_cents": 2999,
-      "final_cents": 1499,
+      "appid": "1445790",
+      "name": "Make Way",
+      "discount": 75,
+      "orig_price_str": "14,99€",
+      "final_price_str": "3,74€",
+      "orig_cents": 1499,
+      "final_cents": 374,
       "gamepass": ""
     },
     {
-      "appid": "3314340",
-      "name": "Burgie's Cozy Kitchen",
-      "discount": 30,
-      "orig_price_str": "6,99€",
-      "final_price_str": "4,89€",
-      "orig_cents": 699,
-      "final_cents": 489,
+      "appid": "2994880",
+      "name": "Gimmick! 2",
+      "discount": 90,
+      "orig_price_str": "19,50€",
+      "final_price_str": "1,95€",
+      "orig_cents": 1950,
+      "final_cents": 195,
       "gamepass": ""
     },
     {
@@ -3421,8 +3381,108 @@
       "gamepass": ""
     },
     {
-      "appid": "2198510",
-      "name": "New Cycle",
+      "appid": "110800",
+      "name": "L.A. Noire",
+      "discount": 70,
+      "orig_price_str": "19,99€",
+      "final_price_str": "5,99€",
+      "orig_cents": 1999,
+      "final_cents": 599,
+      "gamepass": ""
+    },
+    {
+      "appid": "1605250",
+      "name": "Moros Protocol",
+      "discount": 50,
+      "orig_price_str": "24,50€",
+      "final_price_str": "12,25€",
+      "orig_cents": 2450,
+      "final_cents": 1225,
+      "gamepass": ""
+    },
+    {
+      "appid": "715010",
+      "name": "Diamo XL",
+      "discount": 51,
+      "orig_price_str": "0,99€",
+      "final_price_str": "0,49€",
+      "orig_cents": 99,
+      "final_cents": 49,
+      "gamepass": ""
+    },
+    {
+      "appid": "1280930",
+      "name": "Astral Ascent",
+      "discount": 60,
+      "orig_price_str": "24,50€",
+      "final_price_str": "9,80€",
+      "orig_cents": 2450,
+      "final_cents": 980,
+      "gamepass": ""
+    },
+    {
+      "appid": "1351240",
+      "name": "Taxi Life: A City Driving Simulator",
+      "discount": 68,
+      "orig_price_str": "34,99€",
+      "final_price_str": "11,19€",
+      "orig_cents": 3499,
+      "final_cents": 1119,
+      "gamepass": ""
+    },
+    {
+      "appid": "1065310",
+      "name": "Evil West",
+      "discount": 80,
+      "orig_price_str": "49,99€",
+      "final_price_str": "9,99€",
+      "orig_cents": 4999,
+      "final_cents": 999,
+      "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "1089980",
+      "name": "The Henry Stickmin Collection",
+      "discount": 60,
+      "orig_price_str": "13,99€",
+      "final_price_str": "5,59€",
+      "orig_cents": 1399,
+      "final_cents": 559,
+      "gamepass": ""
+    },
+    {
+      "appid": "1651560",
+      "name": "Fabledom",
+      "discount": 60,
+      "orig_price_str": "20,99€",
+      "final_price_str": "8,39€",
+      "orig_cents": 2099,
+      "final_cents": 839,
+      "gamepass": ""
+    },
+    {
+      "appid": "1658150",
+      "name": "Moonstone Island",
+      "discount": 75,
+      "orig_price_str": "19,50€",
+      "final_price_str": "4,87€",
+      "orig_cents": 1950,
+      "final_cents": 487,
+      "gamepass": ""
+    },
+    {
+      "appid": "860890",
+      "name": "Factory Town",
+      "discount": 75,
+      "orig_price_str": "19,50€",
+      "final_price_str": "4,87€",
+      "orig_cents": 1950,
+      "final_cents": 487,
+      "gamepass": ""
+    },
+    {
+      "appid": "1857090",
+      "name": "Norland",
       "discount": 50,
       "orig_price_str": "29,99€",
       "final_price_str": "14,99€",
@@ -3431,13 +3491,23 @@
       "gamepass": ""
     },
     {
-      "appid": "2362050",
-      "name": "MY HERO ACADEMIA: All’s Justice",
-      "discount": 40,
-      "orig_price_str": "59,99€",
-      "final_price_str": "35,99€",
-      "orig_cents": 5999,
-      "final_cents": 3599,
+      "appid": "3606400",
+      "name": "Dungeon Repeater",
+      "discount": 20,
+      "orig_price_str": "9,25€",
+      "final_price_str": "7,40€",
+      "orig_cents": 925,
+      "final_cents": 740,
+      "gamepass": ""
+    },
+    {
+      "appid": "862570",
+      "name": "Ding Dong XL",
+      "discount": 51,
+      "orig_price_str": "0,99€",
+      "final_price_str": "0,49€",
+      "orig_cents": 99,
+      "final_cents": 49,
       "gamepass": ""
     },
     {
@@ -3461,33 +3531,13 @@
       "gamepass": ""
     },
     {
-      "appid": "7670",
-      "name": "BioShock™",
-      "discount": 75,
-      "orig_price_str": "19,99€",
-      "final_price_str": "4,99€",
-      "orig_cents": 1999,
-      "final_cents": 499,
-      "gamepass": ""
-    },
-    {
-      "appid": "2994880",
-      "name": "Gimmick! 2",
-      "discount": 90,
-      "orig_price_str": "19,50€",
-      "final_price_str": "1,95€",
-      "orig_cents": 1950,
-      "final_cents": 195,
-      "gamepass": ""
-    },
-    {
-      "appid": "573100",
-      "name": "Battlefleet Gothic: Armada 2",
-      "discount": 80,
-      "orig_price_str": "19,99€",
-      "final_price_str": "3,99€",
-      "orig_cents": 1999,
-      "final_cents": 399,
+      "appid": "2362050",
+      "name": "MY HERO ACADEMIA: All’s Justice",
+      "discount": 40,
+      "orig_price_str": "59,99€",
+      "final_price_str": "35,99€",
+      "orig_cents": 5999,
+      "final_cents": 3599,
       "gamepass": ""
     },
     {
@@ -3501,23 +3551,23 @@
       "gamepass": ""
     },
     {
-      "appid": "690640",
-      "name": "Trine 4: The Nightmare Prince",
-      "discount": 80,
-      "orig_price_str": "29,99€",
-      "final_price_str": "5,99€",
-      "orig_cents": 2999,
-      "final_cents": 599,
+      "appid": "7670",
+      "name": "BioShock™",
+      "discount": 75,
+      "orig_price_str": "19,99€",
+      "final_price_str": "4,99€",
+      "orig_cents": 1999,
+      "final_cents": 499,
       "gamepass": ""
     },
     {
-      "appid": "2001070",
-      "name": "Heart of the Machine",
-      "discount": 60,
-      "orig_price_str": "29,99€",
-      "final_price_str": "11,99€",
-      "orig_cents": 2999,
-      "final_cents": 1199,
+      "appid": "573100",
+      "name": "Battlefleet Gothic: Armada 2",
+      "discount": 80,
+      "orig_price_str": "19,99€",
+      "final_price_str": "3,99€",
+      "orig_cents": 1999,
+      "final_cents": 399,
       "gamepass": ""
     },
     {
@@ -3531,23 +3581,43 @@
       "gamepass": ""
     },
     {
-      "appid": "3180150",
-      "name": "Mall Simulator",
-      "discount": 35,
-      "orig_price_str": "13,79€",
-      "final_price_str": "8,96€",
-      "orig_cents": 1379,
-      "final_cents": 896,
+      "appid": "2431980",
+      "name": "Goblin Camp",
+      "discount": 40,
+      "orig_price_str": "19,50€",
+      "final_price_str": "11,70€",
+      "orig_cents": 1950,
+      "final_cents": 1170,
       "gamepass": ""
     },
     {
-      "appid": "272600",
-      "name": "Detective Grimoire",
-      "discount": 80,
-      "orig_price_str": "6,89€",
-      "final_price_str": "1,37€",
-      "orig_cents": 689,
-      "final_cents": 137,
+      "appid": "3314340",
+      "name": "Burgie's Cozy Kitchen",
+      "discount": 30,
+      "orig_price_str": "6,99€",
+      "final_price_str": "4,89€",
+      "orig_cents": 699,
+      "final_cents": 489,
+      "gamepass": ""
+    },
+    {
+      "appid": "2001070",
+      "name": "Heart of the Machine",
+      "discount": 60,
+      "orig_price_str": "29,99€",
+      "final_price_str": "11,99€",
+      "orig_cents": 2999,
+      "final_cents": 1199,
+      "gamepass": ""
+    },
+    {
+      "appid": "1582650",
+      "name": "Caravan SandWitch",
+      "discount": 60,
+      "orig_price_str": "24,99€",
+      "final_price_str": "9,99€",
+      "orig_cents": 2499,
+      "final_cents": 999,
       "gamepass": ""
     },
     {
@@ -3561,16 +3631,6 @@
       "gamepass": ""
     },
     {
-      "appid": "204100",
-      "name": "Max Payne 3",
-      "discount": 70,
-      "orig_price_str": "19,99€",
-      "final_price_str": "5,99€",
-      "orig_cents": 1999,
-      "final_cents": 599,
-      "gamepass": ""
-    },
-    {
       "appid": "939960",
       "name": "Far Cry® New Dawn",
       "discount": 80,
@@ -3579,6 +3639,16 @@
       "orig_cents": 4499,
       "final_cents": 899,
       "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "2870340",
+      "name": "Decktamer",
+      "discount": 40,
+      "orig_price_str": "15,99€",
+      "final_price_str": "9,59€",
+      "orig_cents": 1599,
+      "final_cents": 959,
+      "gamepass": ""
     },
     {
       "appid": "1042550",
@@ -3601,13 +3671,33 @@
       "gamepass": ""
     },
     {
-      "appid": "4135750",
-      "name": "FEED THE QUEEN",
-      "discount": 20,
-      "orig_price_str": "6,99€",
-      "final_price_str": "5,59€",
-      "orig_cents": 699,
-      "final_cents": 559,
+      "appid": "333420",
+      "name": "Cossacks 3",
+      "discount": 66,
+      "orig_price_str": "19,99€",
+      "final_price_str": "6,79€",
+      "orig_cents": 1999,
+      "final_cents": 679,
+      "gamepass": ""
+    },
+    {
+      "appid": "12200",
+      "name": "Bully: Scholarship Edition",
+      "discount": 65,
+      "orig_price_str": "9,99€",
+      "final_price_str": "3,49€",
+      "orig_cents": 999,
+      "final_cents": 349,
+      "gamepass": ""
+    },
+    {
+      "appid": "1291340",
+      "name": "Townscaper",
+      "discount": 60,
+      "orig_price_str": "5,99€",
+      "final_price_str": "2,39€",
+      "orig_cents": 599,
+      "final_cents": 239,
       "gamepass": ""
     },
     {
@@ -3631,33 +3721,13 @@
       "gamepass": ""
     },
     {
-      "appid": "3570060",
-      "name": "The Ember Guardian",
+      "appid": "4135750",
+      "name": "FEED THE QUEEN",
       "discount": 20,
-      "orig_price_str": "20,49€",
-      "final_price_str": "16,39€",
-      "orig_cents": 2049,
-      "final_cents": 1639,
-      "gamepass": ""
-    },
-    {
-      "appid": "1530160",
-      "name": "Digimon World: Next Order",
-      "discount": 84,
-      "orig_price_str": "49,99€",
-      "final_price_str": "7,99€",
-      "orig_cents": 4999,
-      "final_cents": 799,
-      "gamepass": ""
-    },
-    {
-      "appid": "285920",
-      "name": "TerraTech",
-      "discount": 75,
-      "orig_price_str": "24,99€",
-      "final_price_str": "6,24€",
-      "orig_cents": 2499,
-      "final_cents": 624,
+      "orig_price_str": "6,99€",
+      "final_price_str": "5,59€",
+      "orig_cents": 699,
+      "final_cents": 559,
       "gamepass": ""
     },
     {
@@ -3671,63 +3741,43 @@
       "gamepass": "PC + Xbox"
     },
     {
-      "appid": "1605250",
-      "name": "Moros Protocol",
-      "discount": 50,
-      "orig_price_str": "24,50€",
-      "final_price_str": "12,25€",
-      "orig_cents": 2450,
-      "final_cents": 1225,
+      "appid": "1530160",
+      "name": "Digimon World: Next Order",
+      "discount": 84,
+      "orig_price_str": "49,99€",
+      "final_price_str": "7,99€",
+      "orig_cents": 4999,
+      "final_cents": 799,
       "gamepass": ""
     },
     {
-      "appid": "480650",
-      "name": "Yu-Gi-Oh! Legacy of the Duelist",
+      "appid": "3570060",
+      "name": "The Ember Guardian",
+      "discount": 20,
+      "orig_price_str": "20,49€",
+      "final_price_str": "16,39€",
+      "orig_cents": 2049,
+      "final_cents": 1639,
+      "gamepass": ""
+    },
+    {
+      "appid": "285920",
+      "name": "TerraTech",
       "discount": 75,
-      "orig_price_str": "19,99€",
-      "final_price_str": "4,99€",
-      "orig_cents": 1999,
-      "final_cents": 499,
-      "gamepass": ""
-    },
-    {
-      "appid": "2369900",
-      "name": "Castlevania Dominus Collection",
-      "discount": 30,
       "orig_price_str": "24,99€",
-      "final_price_str": "17,49€",
+      "final_price_str": "6,24€",
       "orig_cents": 2499,
-      "final_cents": 1749,
+      "final_cents": 624,
       "gamepass": ""
     },
     {
-      "appid": "1975580",
-      "name": "Wild Woods",
-      "discount": 67,
-      "orig_price_str": "14,99€",
-      "final_price_str": "4,94€",
-      "orig_cents": 1499,
-      "final_cents": 494,
-      "gamepass": ""
-    },
-    {
-      "appid": "333420",
-      "name": "Cossacks 3",
-      "discount": 66,
-      "orig_price_str": "19,99€",
-      "final_price_str": "6,79€",
-      "orig_cents": 1999,
-      "final_cents": 679,
-      "gamepass": ""
-    },
-    {
-      "appid": "3558400",
-      "name": "Backseat Drivers",
+      "appid": "2185030",
+      "name": "Dealer's Life Legend",
       "discount": 30,
-      "orig_price_str": "9,75€",
-      "final_price_str": "6,82€",
-      "orig_cents": 975,
-      "final_cents": 682,
+      "orig_price_str": "14,99€",
+      "final_price_str": "10,49€",
+      "orig_cents": 1499,
+      "final_cents": 1049,
       "gamepass": ""
     },
     {
@@ -3761,73 +3811,23 @@
       "gamepass": ""
     },
     {
-      "appid": "12200",
-      "name": "Bully: Scholarship Edition",
-      "discount": 65,
-      "orig_price_str": "9,99€",
-      "final_price_str": "3,49€",
-      "orig_cents": 999,
-      "final_cents": 349,
-      "gamepass": ""
-    },
-    {
-      "appid": "2401410",
-      "name": "Cabernet",
-      "discount": 30,
-      "orig_price_str": "18,99€",
-      "final_price_str": "13,29€",
-      "orig_cents": 1899,
-      "final_cents": 1329,
-      "gamepass": ""
-    },
-    {
-      "appid": "3028310",
-      "name": "Nordhold",
-      "discount": 45,
-      "orig_price_str": "19,99€",
-      "final_price_str": "10,99€",
-      "orig_cents": 1999,
-      "final_cents": 1099,
-      "gamepass": ""
-    },
-    {
-      "appid": "3729810",
-      "name": "Yet Another Incremental Game (but this time about coding)",
-      "discount": 12,
-      "orig_price_str": "7,99€",
-      "final_price_str": "7,03€",
-      "orig_cents": 799,
-      "final_cents": 703,
-      "gamepass": ""
-    },
-    {
-      "appid": "1291340",
-      "name": "Townscaper",
-      "discount": 60,
-      "orig_price_str": "5,99€",
-      "final_price_str": "2,39€",
-      "orig_cents": 599,
-      "final_cents": 239,
-      "gamepass": ""
-    },
-    {
-      "appid": "2019810",
-      "name": "Boxes: Lost Fragments",
-      "discount": 40,
+      "appid": "1975580",
+      "name": "Wild Woods",
+      "discount": 67,
       "orig_price_str": "14,99€",
-      "final_price_str": "8,99€",
+      "final_price_str": "4,94€",
       "orig_cents": 1499,
-      "final_cents": 899,
+      "final_cents": 494,
       "gamepass": ""
     },
     {
-      "appid": "862570",
-      "name": "Ding Dong XL",
-      "discount": 51,
-      "orig_price_str": "0,99€",
-      "final_price_str": "0,49€",
-      "orig_cents": 99,
-      "final_cents": 49,
+      "appid": "480650",
+      "name": "Yu-Gi-Oh! Legacy of the Duelist",
+      "discount": 75,
+      "orig_price_str": "19,99€",
+      "final_price_str": "4,99€",
+      "orig_cents": 1999,
+      "final_cents": 499,
       "gamepass": ""
     },
     {
@@ -3841,33 +3841,23 @@
       "gamepass": ""
     },
     {
-      "appid": "3169520",
-      "name": "Warhammer 40,000: Space Marine - Master Crafted Edition",
-      "discount": 75,
-      "orig_price_str": "39,99€",
-      "final_price_str": "9,99€",
-      "orig_cents": 3999,
-      "final_cents": 999,
-      "gamepass": ""
-    },
-    {
-      "appid": "2264340",
-      "name": "TIEBREAK – GRAND SLAM EDITION",
-      "discount": 50,
-      "orig_price_str": "59,99€",
-      "final_price_str": "29,99€",
-      "orig_cents": 5999,
-      "final_cents": 2999,
-      "gamepass": ""
-    },
-    {
-      "appid": "541300",
-      "name": "Survive the Nights",
-      "discount": 75,
+      "appid": "2570210",
+      "name": "Eden Crafters",
+      "discount": 35,
       "orig_price_str": "19,50€",
-      "final_price_str": "4,87€",
+      "final_price_str": "12,67€",
       "orig_cents": 1950,
-      "final_cents": 487,
+      "final_cents": 1267,
+      "gamepass": ""
+    },
+    {
+      "appid": "3756340",
+      "name": "Cheat Death",
+      "discount": 24,
+      "orig_price_str": "12,49€",
+      "final_price_str": "9,49€",
+      "orig_cents": 1249,
+      "final_cents": 949,
       "gamepass": ""
     },
     {
@@ -3881,28 +3871,58 @@
       "gamepass": ""
     },
     {
-      "appid": "1582650",
-      "name": "Caravan SandWitch",
-      "discount": 60,
-      "orig_price_str": "24,99€",
+      "appid": "3729810",
+      "name": "Yet Another Incremental Game (but this time about coding)",
+      "discount": 12,
+      "orig_price_str": "7,99€",
+      "final_price_str": "7,03€",
+      "orig_cents": 799,
+      "final_cents": 703,
+      "gamepass": ""
+    },
+    {
+      "appid": "3558400",
+      "name": "Backseat Drivers",
+      "discount": 30,
+      "orig_price_str": "9,75€",
+      "final_price_str": "6,82€",
+      "orig_cents": 975,
+      "final_cents": 682,
+      "gamepass": ""
+    },
+    {
+      "appid": "3028310",
+      "name": "Nordhold",
+      "discount": 45,
+      "orig_price_str": "19,99€",
+      "final_price_str": "10,99€",
+      "orig_cents": 1999,
+      "final_cents": 1099,
+      "gamepass": ""
+    },
+    {
+      "appid": "2401410",
+      "name": "Cabernet",
+      "discount": 30,
+      "orig_price_str": "18,99€",
+      "final_price_str": "13,29€",
+      "orig_cents": 1899,
+      "final_cents": 1329,
+      "gamepass": ""
+    },
+    {
+      "appid": "3169520",
+      "name": "Warhammer 40,000: Space Marine - Master Crafted Edition",
+      "discount": 75,
+      "orig_price_str": "39,99€",
       "final_price_str": "9,99€",
-      "orig_cents": 2499,
+      "orig_cents": 3999,
       "final_cents": 999,
       "gamepass": ""
     },
     {
-      "appid": "3463400",
-      "name": "Game Store Chronicle",
-      "discount": 20,
-      "orig_price_str": "13,49€",
-      "final_price_str": "10,79€",
-      "orig_cents": 1349,
-      "final_cents": 1079,
-      "gamepass": ""
-    },
-    {
-      "appid": "1359980",
-      "name": "POSTAL: Brain Damaged",
+      "appid": "541300",
+      "name": "Survive the Nights",
       "discount": 75,
       "orig_price_str": "19,50€",
       "final_price_str": "4,87€",
@@ -3911,33 +3931,23 @@
       "gamepass": ""
     },
     {
-      "appid": "349040",
-      "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4",
-      "discount": 25,
-      "orig_price_str": "19,99€",
-      "final_price_str": "14,99€",
-      "orig_cents": 1999,
-      "final_cents": 1499,
+      "appid": "2264340",
+      "name": "TIEBREAK – GRAND SLAM EDITION",
+      "discount": 50,
+      "orig_price_str": "59,99€",
+      "final_price_str": "29,99€",
+      "orig_cents": 5999,
+      "final_cents": 2999,
       "gamepass": ""
     },
     {
-      "appid": "1307550",
-      "name": "Craftopia",
+      "appid": "2019810",
+      "name": "Boxes: Lost Fragments",
       "discount": 40,
-      "orig_price_str": "24,50€",
-      "final_price_str": "14,70€",
-      "orig_cents": 2450,
-      "final_cents": 1470,
-      "gamepass": ""
-    },
-    {
-      "appid": "2068280",
-      "name": "Nordic Ashes: Survivors of Ragnarok",
-      "discount": 40,
-      "orig_price_str": "9,99€",
-      "final_price_str": "5,99€",
-      "orig_cents": 999,
-      "final_cents": 599,
+      "orig_price_str": "14,99€",
+      "final_price_str": "8,99€",
+      "orig_cents": 1499,
+      "final_cents": 899,
       "gamepass": ""
     },
     {
@@ -3951,23 +3961,63 @@
       "gamepass": ""
     },
     {
-      "appid": "2870340",
-      "name": "Decktamer",
-      "discount": 40,
-      "orig_price_str": "15,99€",
-      "final_price_str": "9,59€",
-      "orig_cents": 1599,
-      "final_cents": 959,
+      "appid": "349040",
+      "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4",
+      "discount": 25,
+      "orig_price_str": "19,99€",
+      "final_price_str": "14,99€",
+      "orig_cents": 1999,
+      "final_cents": 1499,
       "gamepass": ""
     },
     {
-      "appid": "1607680",
-      "name": "Bread & Fred",
-      "discount": 55,
-      "orig_price_str": "14,79€",
-      "final_price_str": "6,65€",
-      "orig_cents": 1479,
-      "final_cents": 665,
+      "appid": "4570940",
+      "name": "Monster Flipper",
+      "discount": 20,
+      "orig_price_str": "3,15€",
+      "final_price_str": "2,52€",
+      "orig_cents": 315,
+      "final_cents": 252,
+      "gamepass": ""
+    },
+    {
+      "appid": "1359980",
+      "name": "POSTAL: Brain Damaged",
+      "discount": 75,
+      "orig_price_str": "19,50€",
+      "final_price_str": "4,87€",
+      "orig_cents": 1950,
+      "final_cents": 487,
+      "gamepass": ""
+    },
+    {
+      "appid": "1307550",
+      "name": "Craftopia",
+      "discount": 40,
+      "orig_price_str": "24,50€",
+      "final_price_str": "14,70€",
+      "orig_cents": 2450,
+      "final_cents": 1470,
+      "gamepass": ""
+    },
+    {
+      "appid": "871980",
+      "name": "Digimon Survive",
+      "discount": 84,
+      "orig_price_str": "49,99€",
+      "final_price_str": "7,99€",
+      "orig_cents": 4999,
+      "final_cents": 799,
+      "gamepass": ""
+    },
+    {
+      "appid": "4624560",
+      "name": "Chest Buster",
+      "discount": 15,
+      "orig_price_str": "5,19€",
+      "final_price_str": "4,41€",
+      "orig_cents": 519,
+      "final_cents": 441,
       "gamepass": ""
     },
     {
@@ -3981,13 +4031,63 @@
       "gamepass": "PC + Xbox"
     },
     {
-      "appid": "4570940",
-      "name": "Monster Flipper",
+      "appid": "1016920",
+      "name": "Unrailed!",
+      "discount": 85,
+      "orig_price_str": "19,99€",
+      "final_price_str": "2,99€",
+      "orig_cents": 1999,
+      "final_cents": 299,
+      "gamepass": ""
+    },
+    {
+      "appid": "979070",
+      "name": "Just Die Already",
+      "discount": 85,
+      "orig_price_str": "13,99€",
+      "final_price_str": "2,09€",
+      "orig_cents": 1399,
+      "final_cents": 209,
+      "gamepass": ""
+    },
+    {
+      "appid": "1607680",
+      "name": "Bread & Fred",
+      "discount": 55,
+      "orig_price_str": "14,79€",
+      "final_price_str": "6,65€",
+      "orig_cents": 1479,
+      "final_cents": 665,
+      "gamepass": ""
+    },
+    {
+      "appid": "3463400",
+      "name": "Game Store Chronicle",
       "discount": 20,
-      "orig_price_str": "3,15€",
-      "final_price_str": "2,52€",
-      "orig_cents": 315,
-      "final_cents": 252,
+      "orig_price_str": "13,49€",
+      "final_price_str": "10,79€",
+      "orig_cents": 1349,
+      "final_cents": 1079,
+      "gamepass": ""
+    },
+    {
+      "appid": "2068280",
+      "name": "Nordic Ashes: Survivors of Ragnarok",
+      "discount": 40,
+      "orig_price_str": "9,99€",
+      "final_price_str": "5,99€",
+      "orig_cents": 999,
+      "final_cents": 599,
+      "gamepass": ""
+    },
+    {
+      "appid": "285310",
+      "name": "RollerCoaster Tycoon®: Deluxe",
+      "discount": 75,
+      "orig_price_str": "5,99€",
+      "final_price_str": "1,49€",
+      "orig_cents": 599,
+      "final_cents": 149,
       "gamepass": ""
     },
     {
@@ -4008,56 +4108,6 @@
       "final_price_str": "24,99€",
       "orig_cents": 4999,
       "final_cents": 2499,
-      "gamepass": ""
-    },
-    {
-      "appid": "4613890",
-      "name": "Lazy Kickers",
-      "discount": 25,
-      "orig_price_str": "3,15€",
-      "final_price_str": "2,36€",
-      "orig_cents": 315,
-      "final_cents": 236,
-      "gamepass": ""
-    },
-    {
-      "appid": "979070",
-      "name": "Just Die Already",
-      "discount": 85,
-      "orig_price_str": "13,99€",
-      "final_price_str": "2,09€",
-      "orig_cents": 1399,
-      "final_cents": 209,
-      "gamepass": ""
-    },
-    {
-      "appid": "285310",
-      "name": "RollerCoaster Tycoon®: Deluxe",
-      "discount": 75,
-      "orig_price_str": "5,99€",
-      "final_price_str": "1,49€",
-      "orig_cents": 599,
-      "final_cents": 149,
-      "gamepass": ""
-    },
-    {
-      "appid": "3756340",
-      "name": "Cheat Death",
-      "discount": 24,
-      "orig_price_str": "12,49€",
-      "final_price_str": "9,49€",
-      "orig_cents": 1249,
-      "final_cents": 949,
-      "gamepass": ""
-    },
-    {
-      "appid": "2185030",
-      "name": "Dealer's Life Legend",
-      "discount": 30,
-      "orig_price_str": "14,99€",
-      "final_price_str": "10,49€",
-      "orig_cents": 1499,
-      "final_cents": 1049,
       "gamepass": ""
     },
     {
@@ -4091,43 +4141,23 @@
       "gamepass": ""
     },
     {
-      "appid": "2382520",
-      "name": "Erenshor",
-      "discount": 15,
-      "orig_price_str": "19,50€",
-      "final_price_str": "16,57€",
-      "orig_cents": 1950,
-      "final_cents": 1657,
+      "appid": "2261430",
+      "name": "LumenTale: Memories of Trey",
+      "discount": 10,
+      "orig_price_str": "24,99€",
+      "final_price_str": "22,49€",
+      "orig_cents": 2499,
+      "final_cents": 2249,
       "gamepass": ""
     },
     {
-      "appid": "2695430",
-      "name": "A.I.L.A",
-      "discount": 34,
-      "orig_price_str": "29,99€",
-      "final_price_str": "19,79€",
-      "orig_cents": 2999,
-      "final_cents": 1979,
-      "gamepass": ""
-    },
-    {
-      "appid": "1016920",
-      "name": "Unrailed!",
-      "discount": 85,
-      "orig_price_str": "19,99€",
-      "final_price_str": "2,99€",
-      "orig_cents": 1999,
-      "final_cents": 299,
-      "gamepass": ""
-    },
-    {
-      "appid": "3266090",
-      "name": "IT Specialist Simulator",
-      "discount": 51,
-      "orig_price_str": "21,18€",
-      "final_price_str": "10,45€",
-      "orig_cents": 2118,
-      "final_cents": 1045,
+      "appid": "4613890",
+      "name": "Lazy Kickers",
+      "discount": 25,
+      "orig_price_str": "3,15€",
+      "final_price_str": "2,36€",
+      "orig_cents": 315,
+      "final_cents": 236,
       "gamepass": ""
     },
     {
@@ -4151,43 +4181,33 @@
       "gamepass": "PC + Xbox"
     },
     {
-      "appid": "3988410",
-      "name": "Phantom Tower",
-      "discount": 24,
-      "orig_price_str": "12,99€",
-      "final_price_str": "9,87€",
-      "orig_cents": 1299,
-      "final_cents": 987,
-      "gamepass": ""
-    },
-    {
-      "appid": "4624560",
-      "name": "Chest Buster",
+      "appid": "2382520",
+      "name": "Erenshor",
       "discount": 15,
-      "orig_price_str": "5,19€",
-      "final_price_str": "4,41€",
-      "orig_cents": 519,
-      "final_cents": 441,
+      "orig_price_str": "19,50€",
+      "final_price_str": "16,57€",
+      "orig_cents": 1950,
+      "final_cents": 1657,
       "gamepass": ""
     },
     {
-      "appid": "821250",
-      "name": "Flotsam",
+      "appid": "1623940",
+      "name": "Bramble: The Mountain King",
+      "discount": 80,
+      "orig_price_str": "29,99€",
+      "final_price_str": "5,99€",
+      "orig_cents": 2999,
+      "final_cents": 599,
+      "gamepass": ""
+    },
+    {
+      "appid": "1552550",
+      "name": "Castlevania Advance Collection",
       "discount": 50,
-      "orig_price_str": "22,99€",
-      "final_price_str": "11,49€",
-      "orig_cents": 2299,
-      "final_cents": 1149,
-      "gamepass": ""
-    },
-    {
-      "appid": "3985030",
-      "name": "Air Defender",
-      "discount": 20,
-      "orig_price_str": "17,32€",
-      "final_price_str": "13,85€",
-      "orig_cents": 1732,
-      "final_cents": 1385,
+      "orig_price_str": "19,99€",
+      "final_price_str": "9,99€",
+      "orig_cents": 1999,
+      "final_cents": 999,
       "gamepass": ""
     },
     {
@@ -4211,23 +4231,33 @@
       "gamepass": ""
     },
     {
-      "appid": "399810",
-      "name": "Call of Cthulhu®",
-      "discount": 85,
-      "orig_price_str": "19,99€",
-      "final_price_str": "2,99€",
-      "orig_cents": 1999,
-      "final_cents": 299,
+      "appid": "821250",
+      "name": "Flotsam",
+      "discount": 50,
+      "orig_price_str": "22,99€",
+      "final_price_str": "11,49€",
+      "orig_cents": 2299,
+      "final_cents": 1149,
       "gamepass": ""
     },
     {
-      "appid": "1840080",
-      "name": "Homeworld 3",
-      "discount": 67,
-      "orig_price_str": "59,99€",
-      "final_price_str": "19,79€",
-      "orig_cents": 5999,
-      "final_cents": 1979,
+      "appid": "40960",
+      "name": "Stronghold 2: Steam Edition",
+      "discount": 75,
+      "orig_price_str": "14,99€",
+      "final_price_str": "3,74€",
+      "orig_cents": 1499,
+      "final_cents": 374,
+      "gamepass": ""
+    },
+    {
+      "appid": "3762240",
+      "name": "Rail Estate",
+      "discount": 20,
+      "orig_price_str": "8,15€",
+      "final_price_str": "6,52€",
+      "orig_cents": 815,
+      "final_cents": 652,
       "gamepass": ""
     },
     {
@@ -4241,13 +4271,43 @@
       "gamepass": ""
     },
     {
-      "appid": "1314000",
-      "name": "Achilles: Legends Untold",
-      "discount": 70,
-      "orig_price_str": "22,99€",
-      "final_price_str": "6,89€",
-      "orig_cents": 2299,
-      "final_cents": 689,
+      "appid": "399810",
+      "name": "Call of Cthulhu®",
+      "discount": 85,
+      "orig_price_str": "19,99€",
+      "final_price_str": "2,99€",
+      "orig_cents": 1999,
+      "final_cents": 299,
+      "gamepass": ""
+    },
+    {
+      "appid": "4385270",
+      "name": "Stay: Your Forever Pet!",
+      "discount": 10,
+      "orig_price_str": "13,49€",
+      "final_price_str": "12,14€",
+      "orig_cents": 1349,
+      "final_cents": 1214,
+      "gamepass": ""
+    },
+    {
+      "appid": "2695430",
+      "name": "A.I.L.A",
+      "discount": 34,
+      "orig_price_str": "29,99€",
+      "final_price_str": "19,79€",
+      "orig_cents": 2999,
+      "final_cents": 1979,
+      "gamepass": ""
+    },
+    {
+      "appid": "220740",
+      "name": "Chaos on Deponia",
+      "discount": 90,
+      "orig_price_str": "19,99€",
+      "final_price_str": "1,99€",
+      "orig_cents": 1999,
+      "final_cents": 199,
       "gamepass": ""
     },
     {
@@ -4261,63 +4321,13 @@
       "gamepass": ""
     },
     {
-      "appid": "2187300",
-      "name": "Active Soccer 3",
-      "discount": 10,
-      "orig_price_str": "14,79€",
-      "final_price_str": "13,31€",
-      "orig_cents": 1479,
-      "final_cents": 1331,
-      "gamepass": ""
-    },
-    {
-      "appid": "2608270",
-      "name": "Intravenous 2",
-      "discount": 45,
-      "orig_price_str": "19,90€",
-      "final_price_str": "10,94€",
-      "orig_cents": 1990,
-      "final_cents": 1094,
-      "gamepass": ""
-    },
-    {
-      "appid": "4182480",
-      "name": "Smash Hit Museum",
-      "discount": 45,
-      "orig_price_str": "6,89€",
-      "final_price_str": "3,78€",
-      "orig_cents": 689,
-      "final_cents": 378,
-      "gamepass": ""
-    },
-    {
-      "appid": "1812090",
-      "name": "Escape Academy",
-      "discount": 75,
-      "orig_price_str": "16,79€",
-      "final_price_str": "4,19€",
-      "orig_cents": 1679,
-      "final_cents": 419,
-      "gamepass": ""
-    },
-    {
-      "appid": "3756010",
-      "name": "SUPER BOMBERMAN COLLECTION",
-      "discount": 20,
-      "orig_price_str": "19,99€",
-      "final_price_str": "15,99€",
-      "orig_cents": 1999,
-      "final_cents": 1599,
-      "gamepass": ""
-    },
-    {
-      "appid": "846470",
-      "name": "Moss VR",
-      "discount": 50,
-      "orig_price_str": "19,50€",
-      "final_price_str": "9,75€",
-      "orig_cents": 1950,
-      "final_cents": 975,
+      "appid": "1314000",
+      "name": "Achilles: Legends Untold",
+      "discount": 70,
+      "orig_price_str": "22,99€",
+      "final_price_str": "6,89€",
+      "orig_cents": 2299,
+      "final_cents": 689,
       "gamepass": ""
     },
     {
@@ -4341,13 +4351,83 @@
       "gamepass": ""
     },
     {
-      "appid": "1624540",
-      "name": "Storyteller",
+      "appid": "4182480",
+      "name": "Smash Hit Museum",
+      "discount": 45,
+      "orig_price_str": "6,89€",
+      "final_price_str": "3,78€",
+      "orig_cents": 689,
+      "final_cents": 378,
+      "gamepass": ""
+    },
+    {
+      "appid": "3266090",
+      "name": "IT Specialist Simulator",
+      "discount": 51,
+      "orig_price_str": "21,18€",
+      "final_price_str": "10,45€",
+      "orig_cents": 2118,
+      "final_cents": 1045,
+      "gamepass": ""
+    },
+    {
+      "appid": "2187300",
+      "name": "Active Soccer 3",
+      "discount": 10,
+      "orig_price_str": "14,79€",
+      "final_price_str": "13,31€",
+      "orig_cents": 1479,
+      "final_cents": 1331,
+      "gamepass": ""
+    },
+    {
+      "appid": "544750",
+      "name": "SOULCALIBUR VI",
+      "discount": 90,
+      "orig_price_str": "59,99€",
+      "final_price_str": "5,99€",
+      "orig_cents": 5999,
+      "final_cents": 599,
+      "gamepass": ""
+    },
+    {
+      "appid": "3756010",
+      "name": "SUPER BOMBERMAN COLLECTION",
+      "discount": 20,
+      "orig_price_str": "19,99€",
+      "final_price_str": "15,99€",
+      "orig_cents": 1999,
+      "final_cents": 1599,
+      "gamepass": ""
+    },
+    {
+      "appid": "1812090",
+      "name": "Escape Academy",
+      "discount": 75,
+      "orig_price_str": "16,79€",
+      "final_price_str": "4,19€",
+      "orig_cents": 1679,
+      "final_cents": 419,
+      "gamepass": ""
+    },
+    {
+      "appid": "846470",
+      "name": "Moss VR",
       "discount": 50,
-      "orig_price_str": "13,99€",
-      "final_price_str": "6,99€",
-      "orig_cents": 1399,
-      "final_cents": 699,
+      "orig_price_str": "19,50€",
+      "final_price_str": "9,75€",
+      "orig_cents": 1950,
+      "final_cents": 975,
+      "gamepass": ""
+    },
+    {
+      "appid": "2608270",
+      "name": "Intravenous 2",
+      "discount": 45,
+      "orig_price_str": "19,90€",
+      "final_price_str": "10,94€",
+      "orig_cents": 1990,
+      "final_cents": 1094,
       "gamepass": ""
     },
     {
@@ -4361,26 +4441,6 @@
       "gamepass": ""
     },
     {
-      "appid": "871980",
-      "name": "Digimon Survive",
-      "discount": 84,
-      "orig_price_str": "49,99€",
-      "final_price_str": "7,99€",
-      "orig_cents": 4999,
-      "final_cents": 799,
-      "gamepass": ""
-    },
-    {
-      "appid": "3253530",
-      "name": "PIT OF GOBLIN",
-      "discount": 70,
-      "orig_price_str": "5,89€",
-      "final_price_str": "1,76€",
-      "orig_cents": 589,
-      "final_cents": 176,
-      "gamepass": ""
-    },
-    {
       "appid": "3694480",
       "name": "A Game About Feeding A Black Hole",
       "discount": 40,
@@ -4391,23 +4451,33 @@
       "gamepass": ""
     },
     {
-      "appid": "2922410",
-      "name": "Achilles: Survivor",
-      "discount": 35,
-      "orig_price_str": "6,99€",
-      "final_price_str": "4,54€",
-      "orig_cents": 699,
-      "final_cents": 454,
+      "appid": "1624540",
+      "name": "Storyteller",
+      "discount": 50,
+      "orig_price_str": "13,99€",
+      "final_price_str": "6,99€",
+      "orig_cents": 1399,
+      "final_cents": 699,
       "gamepass": ""
     },
     {
-      "appid": "2570210",
-      "name": "Eden Crafters",
+      "appid": "3017330",
+      "name": "Verho - Curse of Faces",
       "discount": 35,
-      "orig_price_str": "19,50€",
-      "final_price_str": "12,67€",
-      "orig_cents": 1950,
-      "final_cents": 1267,
+      "orig_price_str": "19,99€",
+      "final_price_str": "12,99€",
+      "orig_cents": 1999,
+      "final_cents": 1299,
+      "gamepass": ""
+    },
+    {
+      "appid": "2776780",
+      "name": "Blood Bar Tycoon",
+      "discount": 51,
+      "orig_price_str": "19,99€",
+      "final_price_str": "9,79€",
+      "orig_cents": 1999,
+      "final_cents": 979,
       "gamepass": ""
     },
     {
@@ -4421,6 +4491,26 @@
       "gamepass": ""
     },
     {
+      "appid": "3253530",
+      "name": "PIT OF GOBLIN",
+      "discount": 70,
+      "orig_price_str": "5,89€",
+      "final_price_str": "1,76€",
+      "orig_cents": 589,
+      "final_cents": 176,
+      "gamepass": ""
+    },
+    {
+      "appid": "1411740",
+      "name": "Urbek City Builder",
+      "discount": 85,
+      "orig_price_str": "17,99€",
+      "final_price_str": "2,69€",
+      "orig_cents": 1799,
+      "final_cents": 269,
+      "gamepass": ""
+    },
+    {
       "appid": "1785650",
       "name": "TopSpin 2K25",
       "discount": 25,
@@ -4428,86 +4518,6 @@
       "final_price_str": "14,99€",
       "orig_cents": 1999,
       "final_cents": 1499,
-      "gamepass": ""
-    },
-    {
-      "appid": "3237970",
-      "name": "Bubsy 4D",
-      "discount": 25,
-      "orig_price_str": "19,99€",
-      "final_price_str": "14,99€",
-      "orig_cents": 1999,
-      "final_cents": 1499,
-      "gamepass": ""
-    },
-    {
-      "appid": "3645890",
-      "name": "GONE Fishing",
-      "discount": 20,
-      "orig_price_str": "8,99€",
-      "final_price_str": "7,19€",
-      "orig_cents": 899,
-      "final_cents": 719,
-      "gamepass": ""
-    },
-    {
-      "appid": "40960",
-      "name": "The Stronghold Collection",
-      "discount": 85,
-      "orig_price_str": "24,99€",
-      "final_price_str": "3,74€",
-      "orig_cents": 2499,
-      "final_cents": 374,
-      "gamepass": ""
-    },
-    {
-      "appid": "4033080",
-      "name": "Deep Corp",
-      "discount": 20,
-      "orig_price_str": "9,99€",
-      "final_price_str": "7,99€",
-      "orig_cents": 999,
-      "final_cents": 799,
-      "gamepass": ""
-    },
-    {
-      "appid": "2669410",
-      "name": "Metro Awakening",
-      "discount": 55,
-      "orig_price_str": "39,99€",
-      "final_price_str": "17,99€",
-      "orig_cents": 3999,
-      "final_cents": 1799,
-      "gamepass": ""
-    },
-    {
-      "appid": "798460",
-      "name": "Ni no Kuni Wrath of the White Witch™ Remastered",
-      "discount": 85,
-      "orig_price_str": "49,99€",
-      "final_price_str": "7,49€",
-      "orig_cents": 4999,
-      "final_cents": 749,
-      "gamepass": ""
-    },
-    {
-      "appid": "2431980",
-      "name": "Goblin Camp",
-      "discount": 40,
-      "orig_price_str": "19,50€",
-      "final_price_str": "11,70€",
-      "orig_cents": 1950,
-      "final_cents": 1170,
-      "gamepass": ""
-    },
-    {
-      "appid": "1395520",
-      "name": "The Séance of Blake Manor",
-      "discount": 30,
-      "orig_price_str": "19,50€",
-      "final_price_str": "13,65€",
-      "orig_cents": 1950,
-      "final_cents": 1365,
       "gamepass": ""
     },
     {
@@ -4521,33 +4531,53 @@
       "gamepass": ""
     },
     {
-      "appid": "1623940",
-      "name": "Bramble: The Mountain King",
-      "discount": 80,
-      "orig_price_str": "29,99€",
-      "final_price_str": "5,99€",
-      "orig_cents": 2999,
-      "final_cents": 599,
+      "appid": "2922410",
+      "name": "Achilles: Survivor",
+      "discount": 35,
+      "orig_price_str": "6,99€",
+      "final_price_str": "4,54€",
+      "orig_cents": 699,
+      "final_cents": 454,
       "gamepass": ""
     },
     {
-      "appid": "3454980",
-      "name": "Mortal Kombat: Legacy Kollection",
-      "discount": 45,
-      "orig_price_str": "48,99€",
-      "final_price_str": "26,94€",
-      "orig_cents": 4899,
-      "final_cents": 2694,
+      "appid": "40960",
+      "name": "The Stronghold Collection",
+      "discount": 85,
+      "orig_price_str": "24,99€",
+      "final_price_str": "3,74€",
+      "orig_cents": 2499,
+      "final_cents": 374,
       "gamepass": ""
     },
     {
-      "appid": "1875060",
-      "name": "Reus 2",
-      "discount": 50,
-      "orig_price_str": "24,50€",
-      "final_price_str": "12,25€",
-      "orig_cents": 2450,
-      "final_cents": 1225,
+      "appid": "3645890",
+      "name": "GONE Fishing",
+      "discount": 20,
+      "orig_price_str": "8,99€",
+      "final_price_str": "7,19€",
+      "orig_cents": 899,
+      "final_cents": 719,
+      "gamepass": ""
+    },
+    {
+      "appid": "1395520",
+      "name": "The Séance of Blake Manor",
+      "discount": 30,
+      "orig_price_str": "19,50€",
+      "final_price_str": "13,65€",
+      "orig_cents": 1950,
+      "final_cents": 1365,
+      "gamepass": ""
+    },
+    {
+      "appid": "3237970",
+      "name": "Bubsy 4D",
+      "discount": 25,
+      "orig_price_str": "19,99€",
+      "final_price_str": "14,99€",
+      "orig_cents": 1999,
+      "final_cents": 1499,
       "gamepass": ""
     },
     {
@@ -4571,23 +4601,13 @@
       "gamepass": ""
     },
     {
-      "appid": "3133650",
-      "name": "Gold Gold Adventure Gold",
-      "discount": 37,
-      "orig_price_str": "22,22€",
-      "final_price_str": "13,99€",
-      "orig_cents": 2222,
-      "final_cents": 1399,
-      "gamepass": ""
-    },
-    {
-      "appid": "3125750",
-      "name": "EDENS ZERO",
-      "discount": 40,
-      "orig_price_str": "59,99€",
-      "final_price_str": "35,99€",
-      "orig_cents": 5999,
-      "final_cents": 3599,
+      "appid": "798460",
+      "name": "Ni no Kuni Wrath of the White Witch™ Remastered",
+      "discount": 85,
+      "orig_price_str": "49,99€",
+      "final_price_str": "7,49€",
+      "orig_cents": 4999,
+      "final_cents": 749,
       "gamepass": ""
     },
     {
@@ -4601,13 +4621,33 @@
       "gamepass": ""
     },
     {
-      "appid": "1299460",
-      "name": "Wanderstop",
-      "discount": 40,
-      "orig_price_str": "22,99€",
-      "final_price_str": "13,79€",
-      "orig_cents": 2299,
-      "final_cents": 1379,
+      "appid": "3133650",
+      "name": "Gold Gold Adventure Gold",
+      "discount": 37,
+      "orig_price_str": "22,22€",
+      "final_price_str": "13,99€",
+      "orig_cents": 2222,
+      "final_cents": 1399,
+      "gamepass": ""
+    },
+    {
+      "appid": "4033080",
+      "name": "Deep Corp",
+      "discount": 20,
+      "orig_price_str": "9,99€",
+      "final_price_str": "7,99€",
+      "orig_cents": 999,
+      "final_cents": 799,
+      "gamepass": ""
+    },
+    {
+      "appid": "2669410",
+      "name": "Metro Awakening",
+      "discount": 55,
+      "orig_price_str": "39,99€",
+      "final_price_str": "17,99€",
+      "orig_cents": 3999,
+      "final_cents": 1799,
       "gamepass": ""
     },
     {
@@ -4621,23 +4661,33 @@
       "gamepass": ""
     },
     {
-      "appid": "40960",
-      "name": "Stronghold 2: Steam Edition",
-      "discount": 75,
-      "orig_price_str": "14,99€",
-      "final_price_str": "3,74€",
-      "orig_cents": 1499,
-      "final_cents": 374,
+      "appid": "1875060",
+      "name": "Reus 2",
+      "discount": 50,
+      "orig_price_str": "24,50€",
+      "final_price_str": "12,25€",
+      "orig_cents": 2450,
+      "final_cents": 1225,
       "gamepass": ""
     },
     {
-      "appid": "220740",
-      "name": "Chaos on Deponia",
-      "discount": 90,
-      "orig_price_str": "19,99€",
-      "final_price_str": "1,99€",
-      "orig_cents": 1999,
-      "final_cents": 199,
+      "appid": "1299460",
+      "name": "Wanderstop",
+      "discount": 40,
+      "orig_price_str": "22,99€",
+      "final_price_str": "13,79€",
+      "orig_cents": 2299,
+      "final_cents": 1379,
+      "gamepass": ""
+    },
+    {
+      "appid": "3454980",
+      "name": "Mortal Kombat: Legacy Kollection",
+      "discount": 45,
+      "orig_price_str": "48,99€",
+      "final_price_str": "26,94€",
+      "orig_cents": 4899,
+      "final_cents": 2694,
       "gamepass": ""
     },
     {
@@ -4649,6 +4699,36 @@
       "orig_cents": 1899,
       "final_cents": 1234,
       "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "383150",
+      "name": "Dead Island Definitive Edition",
+      "discount": 90,
+      "orig_price_str": "19,99€",
+      "final_price_str": "1,99€",
+      "orig_cents": 1999,
+      "final_cents": 199,
+      "gamepass": ""
+    },
+    {
+      "appid": "3985030",
+      "name": "Air Defender",
+      "discount": 20,
+      "orig_price_str": "17,32€",
+      "final_price_str": "13,85€",
+      "orig_cents": 1732,
+      "final_cents": 1385,
+      "gamepass": ""
+    },
+    {
+      "appid": "1762930",
+      "name": "Goat Simulator: Remastered",
+      "discount": 66,
+      "orig_price_str": "28,99€",
+      "final_price_str": "9,85€",
+      "orig_cents": 2899,
+      "final_cents": 985,
+      "gamepass": ""
     },
     {
       "appid": "3583210",
@@ -4671,13 +4751,13 @@
       "gamepass": ""
     },
     {
-      "appid": "544750",
-      "name": "SOULCALIBUR VI",
-      "discount": 90,
-      "orig_price_str": "59,99€",
-      "final_price_str": "5,99€",
-      "orig_cents": 5999,
-      "final_cents": 599,
+      "appid": "571260",
+      "name": "THE KING OF FIGHTERS XIV STEAM EDITION",
+      "discount": 85,
+      "orig_price_str": "69,99€",
+      "final_price_str": "10,49€",
+      "orig_cents": 6999,
+      "final_cents": 1049,
       "gamepass": ""
     },
     {
@@ -4691,63 +4771,23 @@
       "gamepass": ""
     },
     {
-      "appid": "383150",
-      "name": "Dead Island Definitive Edition",
-      "discount": 90,
-      "orig_price_str": "19,99€",
-      "final_price_str": "1,99€",
-      "orig_cents": 1999,
-      "final_cents": 199,
+      "appid": "1840080",
+      "name": "Homeworld 3",
+      "discount": 67,
+      "orig_price_str": "59,99€",
+      "final_price_str": "19,79€",
+      "orig_cents": 5999,
+      "final_cents": 1979,
       "gamepass": ""
     },
     {
-      "appid": "571260",
-      "name": "THE KING OF FIGHTERS XIV STEAM EDITION",
-      "discount": 85,
-      "orig_price_str": "69,99€",
-      "final_price_str": "10,49€",
-      "orig_cents": 6999,
-      "final_cents": 1049,
-      "gamepass": ""
-    },
-    {
-      "appid": "1762930",
-      "name": "Goat Simulator: Remastered",
-      "discount": 66,
-      "orig_price_str": "28,99€",
-      "final_price_str": "9,85€",
-      "orig_cents": 2899,
-      "final_cents": 985,
-      "gamepass": ""
-    },
-    {
-      "appid": "3293010",
-      "name": "Easy Delivery Co.",
-      "discount": 30,
-      "orig_price_str": "12,99€",
-      "final_price_str": "9,09€",
-      "orig_cents": 1299,
-      "final_cents": 909,
-      "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "3762240",
-      "name": "Rail Estate",
-      "discount": 20,
-      "orig_price_str": "8,15€",
-      "final_price_str": "6,52€",
-      "orig_cents": 815,
-      "final_cents": 652,
-      "gamepass": ""
-    },
-    {
-      "appid": "2658450",
-      "name": "LOLLIPOP CHAINSAW RePOP",
-      "discount": 40,
-      "orig_price_str": "44,99€",
-      "final_price_str": "26,99€",
-      "orig_cents": 4499,
-      "final_cents": 2699,
+      "appid": "1858650",
+      "name": "In Sink: A Co-op Escape Adventure",
+      "discount": 60,
+      "orig_price_str": "13,79€",
+      "final_price_str": "5,51€",
+      "orig_cents": 1379,
+      "final_cents": 551,
       "gamepass": ""
     },
     {
@@ -4761,6 +4801,46 @@
       "gamepass": ""
     },
     {
+      "appid": "3293010",
+      "name": "Easy Delivery Co.",
+      "discount": 30,
+      "orig_price_str": "12,99€",
+      "final_price_str": "9,09€",
+      "orig_cents": 1299,
+      "final_cents": 909,
+      "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "3988410",
+      "name": "Phantom Tower",
+      "discount": 24,
+      "orig_price_str": "12,99€",
+      "final_price_str": "9,87€",
+      "orig_cents": 1299,
+      "final_cents": 987,
+      "gamepass": ""
+    },
+    {
+      "appid": "2789460",
+      "name": "Ale Abbey - Monastery Brewery Tycoon",
+      "discount": 35,
+      "orig_price_str": "14,99€",
+      "final_price_str": "9,74€",
+      "orig_cents": 1499,
+      "final_cents": 974,
+      "gamepass": ""
+    },
+    {
+      "appid": "3498270",
+      "name": "Better Mart Simulator",
+      "discount": 34,
+      "orig_price_str": "14,79€",
+      "final_price_str": "9,76€",
+      "orig_cents": 1479,
+      "final_cents": 976,
+      "gamepass": ""
+    },
+    {
       "appid": "3265230",
       "name": "Cursed Companions",
       "discount": 30,
@@ -4771,23 +4851,13 @@
       "gamepass": ""
     },
     {
-      "appid": "2144640",
-      "name": "Endzone 2",
-      "discount": 70,
-      "orig_price_str": "29,99€",
-      "final_price_str": "8,99€",
-      "orig_cents": 2999,
-      "final_cents": 899,
-      "gamepass": ""
-    },
-    {
-      "appid": "858810",
-      "name": "Dawn of Man",
-      "discount": 50,
-      "orig_price_str": "24,50€",
-      "final_price_str": "12,25€",
-      "orig_cents": 2450,
-      "final_cents": 1225,
+      "appid": "2658450",
+      "name": "LOLLIPOP CHAINSAW RePOP",
+      "discount": 40,
+      "orig_price_str": "44,99€",
+      "final_price_str": "26,99€",
+      "orig_cents": 4499,
+      "final_cents": 2699,
       "gamepass": ""
     },
     {
@@ -4801,53 +4871,13 @@
       "gamepass": ""
     },
     {
-      "appid": "1675830",
-      "name": "1000xRESIST",
-      "discount": 40,
-      "orig_price_str": "19,50€",
-      "final_price_str": "11,70€",
-      "orig_cents": 1950,
-      "final_cents": 1170,
-      "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "2789460",
-      "name": "Ale Abbey - Monastery Brewery Tycoon",
-      "discount": 35,
-      "orig_price_str": "14,99€",
-      "final_price_str": "9,74€",
-      "orig_cents": 1499,
-      "final_cents": 974,
-      "gamepass": ""
-    },
-    {
-      "appid": "3319120",
-      "name": "Don't Play This",
-      "discount": 25,
-      "orig_price_str": "7,79€",
-      "final_price_str": "5,84€",
-      "orig_cents": 779,
-      "final_cents": 584,
-      "gamepass": ""
-    },
-    {
-      "appid": "3767740",
-      "name": "Outhold",
-      "discount": 30,
-      "orig_price_str": "5,99€",
-      "final_price_str": "4,19€",
-      "orig_cents": 599,
-      "final_cents": 419,
-      "gamepass": ""
-    },
-    {
-      "appid": "1880620",
-      "name": "Once Upon A KATAMARI",
-      "discount": 40,
-      "orig_price_str": "39,99€",
-      "final_price_str": "23,99€",
-      "orig_cents": 3999,
-      "final_cents": 2399,
+      "appid": "858810",
+      "name": "Dawn of Man",
+      "discount": 50,
+      "orig_price_str": "24,50€",
+      "final_price_str": "12,25€",
+      "orig_cents": 2450,
+      "final_cents": 1225,
       "gamepass": ""
     },
     {
@@ -4861,26 +4891,6 @@
       "gamepass": ""
     },
     {
-      "appid": "2174380",
-      "name": "Call of the Elder Gods",
-      "discount": 25,
-      "orig_price_str": "21,99€",
-      "final_price_str": "16,49€",
-      "orig_cents": 2199,
-      "final_cents": 1649,
-      "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "1996770",
-      "name": "Turok 3: Shadow of Oblivion Remastered",
-      "discount": 65,
-      "orig_price_str": "28,99€",
-      "final_price_str": "10,14€",
-      "orig_cents": 2899,
-      "final_cents": 1014,
-      "gamepass": ""
-    },
-    {
       "appid": "1183470",
       "name": "Imperiums: Greek Wars",
       "discount": 75,
@@ -4888,36 +4898,6 @@
       "final_price_str": "7,49€",
       "orig_cents": 2999,
       "final_cents": 749,
-      "gamepass": ""
-    },
-    {
-      "appid": "874260",
-      "name": "The Forgotten City",
-      "discount": 75,
-      "orig_price_str": "24,99€",
-      "final_price_str": "6,24€",
-      "orig_cents": 2499,
-      "final_cents": 624,
-      "gamepass": ""
-    },
-    {
-      "appid": "241260",
-      "name": "Sherlock Holmes: Crimes and Punishments",
-      "discount": 90,
-      "orig_price_str": "29,99€",
-      "final_price_str": "2,99€",
-      "orig_cents": 2999,
-      "final_cents": 299,
-      "gamepass": ""
-    },
-    {
-      "appid": "2561500",
-      "name": "Tears of Adria",
-      "discount": 66,
-      "orig_price_str": "13,79€",
-      "final_price_str": "4,68€",
-      "orig_cents": 1379,
-      "final_cents": 468,
       "gamepass": ""
     },
     {
@@ -4931,33 +4911,53 @@
       "gamepass": ""
     },
     {
-      "appid": "933820",
-      "name": "Endzone - A World Apart",
-      "discount": 90,
-      "orig_price_str": "24,99€",
-      "final_price_str": "2,49€",
-      "orig_cents": 2499,
-      "final_cents": 249,
-      "gamepass": ""
-    },
-    {
-      "appid": "1043260",
-      "name": "Gladiator Guild Manager",
-      "discount": 67,
-      "orig_price_str": "14,79€",
-      "final_price_str": "4,88€",
-      "orig_cents": 1479,
-      "final_cents": 488,
-      "gamepass": ""
-    },
-    {
-      "appid": "1614550",
-      "name": "Astro Colony",
-      "discount": 20,
+      "appid": "1675830",
+      "name": "1000xRESIST",
+      "discount": 40,
       "orig_price_str": "19,50€",
-      "final_price_str": "15,60€",
+      "final_price_str": "11,70€",
       "orig_cents": 1950,
-      "final_cents": 1560,
+      "final_cents": 1170,
+      "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "1880620",
+      "name": "Once Upon A KATAMARI",
+      "discount": 40,
+      "orig_price_str": "39,99€",
+      "final_price_str": "23,99€",
+      "orig_cents": 3999,
+      "final_cents": 2399,
+      "gamepass": ""
+    },
+    {
+      "appid": "241260",
+      "name": "Sherlock Holmes: Crimes and Punishments",
+      "discount": 90,
+      "orig_price_str": "29,99€",
+      "final_price_str": "2,99€",
+      "orig_cents": 2999,
+      "final_cents": 299,
+      "gamepass": ""
+    },
+    {
+      "appid": "3767740",
+      "name": "Outhold",
+      "discount": 30,
+      "orig_price_str": "5,99€",
+      "final_price_str": "4,19€",
+      "orig_cents": 599,
+      "final_cents": 419,
+      "gamepass": ""
+    },
+    {
+      "appid": "874260",
+      "name": "The Forgotten City",
+      "discount": 75,
+      "orig_price_str": "24,99€",
+      "final_price_str": "6,24€",
+      "orig_cents": 2499,
+      "final_cents": 624,
       "gamepass": ""
     },
     {
@@ -4971,13 +4971,23 @@
       "gamepass": ""
     },
     {
-      "appid": "1552550",
-      "name": "Castlevania Advance Collection",
-      "discount": 50,
-      "orig_price_str": "19,99€",
-      "final_price_str": "9,99€",
-      "orig_cents": 1999,
-      "final_cents": 999,
+      "appid": "2174380",
+      "name": "Call of the Elder Gods",
+      "discount": 25,
+      "orig_price_str": "21,99€",
+      "final_price_str": "16,49€",
+      "orig_cents": 2199,
+      "final_cents": 1649,
+      "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "933820",
+      "name": "Endzone - A World Apart",
+      "discount": 90,
+      "orig_price_str": "24,99€",
+      "final_price_str": "2,49€",
+      "orig_cents": 2499,
+      "final_cents": 249,
       "gamepass": ""
     },
     {
@@ -4989,17 +4999,7 @@
       "orig_cents": 1849,
       "final_cents": 647,
       "gamepass": ""
-    },
-    {
-      "appid": "245170",
-      "name": "Skullgirls 2nd Encore",
-      "discount": 75,
-      "orig_price_str": "20,99€",
-      "final_price_str": "5,24€",
-      "orig_cents": 2099,
-      "final_cents": 524,
-      "gamepass": ""
     }
   ],
-  "total": 11447
+  "total": 11449
 }

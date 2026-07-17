@@ -61,6 +61,39 @@ const PLATFORMS = {
       wishlist: {
         label: "Wunschliste", style: "wishlist-static", file: "data/ps_wishlist.json",
         showGamepass: false,
+        configHelp: `PlayStations Store-API blockiert Anfragen von fremden Websites strikt (auch über Proxys) –
+          eine Live-Suche direkt im Browser ist hier technisch nicht möglich. Um ein Spiel zu tracken,
+          <code>ps-wishlist.json</code> im Repository bearbeiten
+          (Format: <code>[{"appid": "EP4295-CUSA17368_00-...", "name": "Spielname"}]</code>, die
+          App-ID steht in der PS-Store-URL) und pushen – die Preise werden beim nächsten
+          automatischen Update übernommen. Die Desktop-App hat dafür ein "Spiel hinzufügen"-Fenster,
+          in das du einfach den Store-Link einfügen kannst.`,
+      },
+    },
+  },
+  epic: {
+    label: "Epic",
+    storeUrl: (id, name) => `https://store.epicgames.com/de/browse?q=${encodeURIComponent(name || "")}&sortBy=relevancy`,
+    tabs: {
+      discounts: {
+        label: "Rabatte", style: "discount", file: "data/epic_discounts.json",
+        showGamepass: false, showSavings: true,
+      },
+      free: {
+        label: "Aktuell kostenlos", style: "free", file: "data/epic_free.json",
+        showGamepass: false, priceLabel: "Regulärer Preis",
+        note: "Epics wöchentliche Gratis-Spiele.",
+        emptyText: "Gerade keine aktiven Gratis-Spiele gefunden.",
+      },
+      wishlist: {
+        label: "Wunschliste", style: "wishlist-static", file: "data/epic_wishlist.json",
+        showGamepass: false,
+        configHelp: `Epics Store-API blockiert Suchanfragen von fremden Websites (Referer-Prüfung,
+          greift auch über Proxys) – eine Live-Suche direkt im Browser ist hier technisch nicht
+          möglich. Um ein Spiel zu tracken, <code>epic-wishlist.json</code> im Repository bearbeiten
+          (Format: <code>[{"appid": "371545146a944478ad5a87f9b581ac29", "name": "Spielname"}]</code>)
+          und pushen – die Preise werden beim nächsten automatischen Update übernommen. Die
+          Desktop-App hat dafür ein eigenes Such-Fenster.`,
       },
     },
   },
@@ -441,7 +474,7 @@ function renderTableBody() {
           return `<td class="${isNum ? "num" : ""} ${nameCell}">${cellValue(item, c)}</td>`;
         })
         .join("");
-      return `<tr data-appid="${item.appid}">${cells}</tr>`;
+      return `<tr data-appid="${item.appid}" data-name="${escapeHtml(item.name)}">${cells}</tr>`;
     })
     .join("");
 }
@@ -449,14 +482,15 @@ function renderTableBody() {
 function renderAddPanel() {
   const tabConfig = currentTabConfig();
   const panel = document.getElementById("add-game-panel");
-  const psHelp = document.getElementById("ps-wishlist-help");
+  const staticHelp = document.getElementById("static-wishlist-help");
 
   if (tabConfig.style === "wishlist-static") {
     panel.style.display = "none";
-    psHelp.style.display = "block";
+    staticHelp.innerHTML = tabConfig.configHelp || "";
+    staticHelp.style.display = "block";
     return;
   }
-  psHelp.style.display = "none";
+  staticHelp.style.display = "none";
 
   if (tabConfig.style !== "wishlist-live") {
     panel.style.display = "none";
@@ -576,7 +610,7 @@ function setupEvents() {
     }
     const row = e.target.closest("tr[data-appid]");
     if (!row) return;
-    window.open(PLATFORMS[state.platform].storeUrl(row.dataset.appid), "_blank", "noopener");
+    window.open(PLATFORMS[state.platform].storeUrl(row.dataset.appid, row.dataset.name), "_blank", "noopener");
   });
 
   const addToggle = document.getElementById("add-game-toggle");

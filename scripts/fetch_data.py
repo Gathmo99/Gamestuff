@@ -15,7 +15,10 @@ from datetime import datetime, timezone
 STEAM_CC = "de"
 STEAM_LANG = "german"
 PAGE_SIZE = 100
-USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+USER_AGENT = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+)
 DISCOUNTS_LIMIT = 500
 
 GAMEPASS_MARKET = "DE"
@@ -41,10 +44,35 @@ PS_CATEGORY_SALES = "803cee19-e5a1-4d59-a463-0b6b2701bf7c"
 PS_CATEGORY_PS_PLUS = "038b4df3-bb4c-48f8-8290-3feb35f0f0fd"
 PS_DISCOUNTS_LIMIT = 300
 
+EPIC_GRAPHQL_URL = "https://store.epicgames.com/graphql"
+EPIC_FREE_URL = "https://store-site-backend-static.ak.epicgames.com/freeGamesPromotions"
+EPIC_COUNTRY = "DE"
+EPIC_LOCALE = "de"
+EPIC_CATEGORY = "games/edition/base"
+EPIC_DISCOUNTS_LIMIT = 300
+EPIC_SEARCH_QUERY = """
+query searchStoreQuery($allowCountries: String, $category: String, $count: Int, $country: String!, $keywords: String, $locale: String, $sortBy: String, $sortDir: String, $start: Int, $withPrice: Boolean = false, $onSale: Boolean) {
+  Catalog {
+    searchStore(allowCountries: $allowCountries, category: $category, count: $count, country: $country, keywords: $keywords, locale: $locale, sortBy: $sortBy, sortDir: $sortDir, start: $start, onSale: $onSale) {
+      paging { count total }
+      elements {
+        title
+        id
+        namespace
+        price(country: $country) @include(if: $withPrice) {
+          totalPrice { discountPrice originalPrice discount currencyCode }
+        }
+      }
+    }
+  }
+}
+"""
+
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 REPO_ROOT = os.path.dirname(SCRIPT_DIR)
 DATA_DIR = os.path.join(REPO_ROOT, "docs", "data")
 PS_WISHLIST_CONFIG = os.path.join(REPO_ROOT, "ps-wishlist.json")
+EPIC_WISHLIST_CONFIG = os.path.join(REPO_ROOT, "epic-wishlist.json")
 
 RE_APPID = re.compile(r'data-ds-appid="(\d+)"')
 RE_TITLE = re.compile(r'<span class="title">(.*?)</span>', re.S)
@@ -442,6 +470,144 @@ def fetch_ps_wishlist():
     return items
 
 
+# ---------- Epic Games Store ----------
+#
+# Epic's graphql endpoint (store.epicgames.com/graphql) sits behind Cloudflare bot detection
+# that rejects generic User-Agents, and separately whitelists the Referer header at the app
+# level - a request with no Referer at all passes, but one with a foreign Referer (e.g. from
+# a CORS proxy) is rejected. Both mean this only works from a real script/backend, never from
+# a browser on another origin (proxied or not) - unlike Steam/Xbox, Epic's wishlist can't be
+# live on the website either, so it uses the same repo-config pattern as PlayStation.
+
+def epic_graphql(query, variables):
+    body = json.dumps({"query": query, "variables": variables}).encode("utf-8")
+    req = urllib.request.Request(
+        EPIC_GRAPHQL_URL, data=body,
+        headers={"User-Agent": USER_AGENT, "Content-Type": "application/json"},
+    )
+    with urllib.request.urlopen(req, timeout=20) as resp:
+        return json.loads(resp.read().decode("utf-8"))
+
+
+def epic_search(keywords=None, on_sale=None, start=0, count=40):
+    variables = {
+        "allowCountries": EPIC_COUNTRY, "category": EPIC_CATEGORY, "count": count,
+        "country": EPIC_COUNTRY, "locale": EPIC_LOCALE, "sortBy": "releaseDate", "sortDir": "DESC",
+        "start": start, "withPrice": True,
+    }
+    if keywords:
+        variables["keywords"] = keywords
+    if on_sale is not None:
+        variables["onSale"] = on_sale
+    data = epic_graphql(EPIC_SEARCH_QUERY, variables)
+    store = ((data.get("data") or {}).get("Catalog") or {}).get("searchStore") or {}
+    total = ((store.get("paging") or {}).get("total")) or 0
+    return store.get("elements") or [], total
+
+
+def epic_item_price_info(element):
+    price = (element.get("price") or {}).get("totalPrice")
+    if not price:
+        return None
+    orig_cents = price.get("originalPrice") or 0
+    final_cents = price.get("discountPrice") or 0
+    if orig_cents == 0:
+        return {
+            "appid": element["id"], "namespace": element.get("namespace"), "name": element["title"],
+            "discount": 0, "orig_cents": 0, "final_cents": 0,
+            "orig_price_str": "Kostenlos/F2P", "final_price_str": "Kostenlos/F2P",
+        }
+    discount = round((orig_cents - final_cents) / orig_cents * 100) if orig_cents != final_cents else 0
+    return {
+        "appid": element["id"], "namespace": element.get("namespace"), "name": element["title"],
+        "discount": discount, "orig_cents": orig_cents, "final_cents": final_cents,
+        "orig_price_str": format_cents(orig_cents), "final_price_str": format_cents(final_cents),
+    }
+
+
+def epic_item_to_discount(element):
+    info = epic_item_price_info(element)
+    if not info or info["discount"] <= 0:
+        return None
+    return info
+
+
+def fetch_epic_discounts(limit):
+    items = []
+    start = 0
+    total = 0
+    page_size = 40
+    while len(items) < limit:
+        elements, total = epic_search(on_sale=True, start=start, count=page_size)
+        if not elements:
+            break
+        for el in elements:
+            item = epic_item_to_discount(el)
+            if item:
+                items.append(item)
+        start += page_size
+        log(f"  Epic: {min(len(items), limit)} geladen...")
+        if start >= total:
+            break
+    items.sort(key=lambda x: -x["discount"])
+    return items[:limit], total
+
+
+def fetch_epic_free():
+    data = http_get_json(f"{EPIC_FREE_URL}?locale={EPIC_LOCALE}&country={EPIC_COUNTRY}&allowCountries={EPIC_COUNTRY}")
+    elements = ((data.get("data") or {}).get("Catalog") or {}).get("searchStore", {}).get("elements") or []
+    now = datetime.now(timezone.utc)
+    items = []
+    for el in elements:
+        price = (el.get("price") or {}).get("totalPrice") or {}
+        if price.get("discountPrice") != 0:
+            continue
+        offers = ((el.get("promotions") or {}).get("promotionalOffers")) or []
+        is_active = False
+        for group in offers:
+            for offer in group.get("promotionalOffers", []):
+                try:
+                    start = datetime.fromisoformat(offer["startDate"].replace("Z", "+00:00"))
+                    end = datetime.fromisoformat(offer["endDate"].replace("Z", "+00:00"))
+                except (KeyError, ValueError):
+                    continue
+                if start <= now <= end:
+                    is_active = True
+        if not is_active:
+            continue
+        orig_cents = price.get("originalPrice") or 0
+        items.append({
+            "appid": el["id"], "name": el["title"],
+            "orig_cents": orig_cents, "orig_price_str": format_cents(orig_cents),
+        })
+    return items
+
+
+def fetch_epic_wishlist():
+    if not os.path.exists(EPIC_WISHLIST_CONFIG):
+        return []
+    with open(EPIC_WISHLIST_CONFIG, "r", encoding="utf-8") as f:
+        entries = json.load(f)
+    items = []
+    for entry in entries:
+        try:
+            elements, _total = epic_search(keywords=entry["name"], count=10)
+        except (urllib.error.URLError, TimeoutError, json.JSONDecodeError) as exc:
+            log(f"  Epic-Wunschliste: Fehler bei {entry.get('name')}: {exc}")
+            elements = []
+        match = next((e for e in elements if e["id"] == entry["appid"]), None)
+        item = epic_item_price_info(match) if match else None
+        if item:
+            items.append(item)
+        else:
+            items.append({
+                "appid": entry["appid"], "name": entry.get("name", entry["appid"]),
+                "discount": 0, "orig_cents": 0, "final_cents": 0,
+                "orig_price_str": "?", "final_price_str": "nicht gefunden",
+            })
+    return items
+
+
 def write_json(filename, payload):
     os.makedirs(DATA_DIR, exist_ok=True)
     path = os.path.join(DATA_DIR, filename)
@@ -508,6 +674,22 @@ def main():
     ps_wishlist = run_platform("PlayStation-Wunschliste", fetch_ps_wishlist)
     if ps_wishlist is not None:
         write_json("ps_wishlist.json", {"items": ps_wishlist})
+
+    log("Lade Epic-Rabatte...")
+    epic_result = run_platform("Epic-Rabatte", fetch_epic_discounts, EPIC_DISCOUNTS_LIMIT)
+    if epic_result:
+        epic_discounts, epic_total = epic_result
+        write_json("epic_discounts.json", {"items": epic_discounts, "total": epic_total})
+
+    log("Lade Epic Aktuell-kostenlos...")
+    epic_free = run_platform("Epic Aktuell-kostenlos", fetch_epic_free)
+    if epic_free is not None:
+        write_json("epic_free.json", {"items": epic_free})
+
+    log("Lade Epic-Wunschliste...")
+    epic_wishlist = run_platform("Epic-Wunschliste", fetch_epic_wishlist)
+    if epic_wishlist is not None:
+        write_json("epic_wishlist.json", {"items": epic_wishlist})
 
     # normalized title -> sorted platform list, used by the website to look up Game Pass
     # status for wishlist games (those are fetched live client-side, not pre-enriched here)

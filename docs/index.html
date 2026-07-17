@@ -21,6 +21,7 @@
     <button class="platform-btn active" data-platform="steam">Steam</button>
     <button class="platform-btn" data-platform="xbox">Xbox</button>
     <button class="platform-btn" data-platform="playstation">PlayStation</button>
+    <button class="platform-btn" data-platform="epic">Epic</button>
   </nav>
 
   <div class="stats">
@@ -63,15 +64,7 @@
     </div>
   </div>
 
-  <div class="wishlist-help" id="ps-wishlist-help" style="display:none">
-    PlayStations Store-API blockiert Anfragen von fremden Websites strikt (auch über Proxys) –
-    eine Live-Suche direkt im Browser ist hier technisch nicht möglich. Um ein Spiel zu tracken,
-    <code>ps-wishlist.json</code> im Repository bearbeiten
-    (Format: <code>[{"appid": "EP4295-CUSA17368_00-...", "name": "Spielname"}]</code>, die
-    App-ID steht in der PS-Store-URL) und pushen – die Preise werden beim nächsten
-    automatischen Update übernommen. Die Desktop-App hat dafür ein "Spiel hinzufügen"-Fenster,
-    in das du einfach den Store-Link einfügen kannst.
-  </div>
+  <div class="wishlist-help" id="static-wishlist-help" style="display:none"></div>
 
   <div class="toolbar">
     <input type="search" id="search-input" placeholder="Suchen...">
@@ -90,7 +83,7 @@
   </div>
 
   <footer>
-    Daten von den öffentlichen Store-APIs von Steam, Xbox und PlayStation.
+    Daten von den öffentlichen Store-APIs von Steam, Xbox, PlayStation und Epic Games.
     Rabatte/Kostenlos-Tabs automatisch aktualisiert per GitHub Actions, alle 6 Stunden.
   </footer>
 </div>

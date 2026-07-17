@@ -9,10 +9,14 @@ import urllib.error
 import urllib.parse
 import urllib.request
 import webbrowser
+from datetime import datetime, timezone
 from tkinter import messagebox, ttk
 
 APP_TITLE = "Sale Watcher"
-USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+USER_AGENT = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+)
 
 STEAM_CC = "de"
 STEAM_LANG = "german"
@@ -43,6 +47,29 @@ PS_SHA256 = {
 }
 PS_CATEGORY_SALES = "803cee19-e5a1-4d59-a463-0b6b2701bf7c"
 PS_CATEGORY_PS_PLUS = "038b4df3-bb4c-48f8-8290-3feb35f0f0fd"
+
+EPIC_GRAPHQL_URL = "https://store.epicgames.com/graphql"
+EPIC_FREE_URL = "https://store-site-backend-static.ak.epicgames.com/freeGamesPromotions"
+EPIC_COUNTRY = "DE"
+EPIC_LOCALE = "de"
+EPIC_CATEGORY = "games/edition/base"
+EPIC_SEARCH_QUERY = """
+query searchStoreQuery($allowCountries: String, $category: String, $count: Int, $country: String!, $keywords: String, $locale: String, $sortBy: String, $sortDir: String, $start: Int, $withPrice: Boolean = false, $onSale: Boolean) {
+  Catalog {
+    searchStore(allowCountries: $allowCountries, category: $category, count: $count, country: $country, keywords: $keywords, locale: $locale, sortBy: $sortBy, sortDir: $sortDir, start: $start, onSale: $onSale) {
+      paging { count total }
+      elements {
+        title
+        id
+        namespace
+        price(country: $country) @include(if: $withPrice) {
+          totalPrice { discountPrice originalPrice discount currencyCode }
+        }
+      }
+    }
+  }
+}
+"""
 
 
 # ---------- Shared helpers ----------
@@ -105,6 +132,15 @@ def format_cents(cents):
 
 def http_get_json(url, timeout=20, headers=None):
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT, **(headers or {})})
+    with urllib.request.urlopen(req, timeout=timeout) as resp:
+        return json.loads(resp.read().decode("utf-8"))
+
+
+def http_post_json(url, body, timeout=20, headers=None):
+    data = json.dumps(body).encode("utf-8")
+    req = urllib.request.Request(url, data=data, headers={
+        "User-Agent": USER_AGENT, "Content-Type": "application/json", **(headers or {})
+    })
     with urllib.request.urlopen(req, timeout=timeout) as resp:
         return json.loads(resp.read().decode("utf-8"))
 
@@ -296,8 +332,8 @@ def steam_wishlist_prices_worker(entries, progress_queue):
     progress_queue.put(("done", items, len(items)))
 
 
-def steam_store_url(appid):
-    return f"https://store.steampowered.com/app/{appid}/"
+def steam_store_url(item):
+    return f"https://store.steampowered.com/app/{item['appid']}/"
 
 
 # ---------- Game Pass catalog (used to cross-reference Steam and Xbox listings) ----------
@@ -551,8 +587,8 @@ def xbox_wishlist_prices_worker(entries, progress_queue):
     progress_queue.put(("done", items, len(items)))
 
 
-def xbox_store_url(appid):
-    return f"https://www.microsoft.com/store/productId/{appid}"
+def xbox_store_url(item):
+    return f"https://www.microsoft.com/store/productId/{item['appid']}"
 
 
 # ---------- PlayStation ----------
@@ -693,8 +729,140 @@ def ps_wishlist_prices_worker(entries, progress_queue):
     progress_queue.put(("done", items, len(items)))
 
 
-def ps_store_url(appid):
-    return f"https://store.playstation.com/{PS_LOCALE}/product/{appid}"
+def ps_store_url(item):
+    return f"https://store.playstation.com/{PS_LOCALE}/product/{item['appid']}"
+
+
+# ---------- Epic Games Store ----------
+
+def epic_search_raw(keywords=None, on_sale=None, start=0, count=40):
+    variables = {
+        "allowCountries": EPIC_COUNTRY, "category": EPIC_CATEGORY, "count": count,
+        "country": EPIC_COUNTRY, "locale": EPIC_LOCALE, "sortBy": "releaseDate", "sortDir": "DESC",
+        "start": start, "withPrice": True,
+    }
+    if keywords:
+        variables["keywords"] = keywords
+    if on_sale is not None:
+        variables["onSale"] = on_sale
+    data = http_post_json(EPIC_GRAPHQL_URL, {"query": EPIC_SEARCH_QUERY, "variables": variables})
+    store = ((data.get("data") or {}).get("Catalog") or {}).get("searchStore") or {}
+    total = (store.get("paging") or {}).get("total") or 0
+    return store.get("elements") or [], total
+
+
+def epic_item_price_info(element):
+    price = (element.get("price") or {}).get("totalPrice")
+    if not price:
+        return None
+    orig_cents = price.get("originalPrice") or 0
+    final_cents = price.get("discountPrice") or 0
+    if orig_cents == 0:
+        return {
+            "discount": 0, "orig_cents": 0, "final_cents": 0,
+            "orig_price_str": "Kostenlos/F2P", "final_price_str": "Kostenlos/F2P",
+        }
+    discount = round((orig_cents - final_cents) / orig_cents * 100) if orig_cents != final_cents else 0
+    return {
+        "discount": discount, "orig_cents": orig_cents, "final_cents": final_cents,
+        "orig_price_str": format_cents(orig_cents), "final_price_str": format_cents(final_cents),
+    }
+
+
+def epic_discounts_worker(progress_queue, limit):
+    items = []
+    start = 0
+    total = 0
+    page_size = 40
+    while len(items) < limit:
+        try:
+            elements, total = epic_search_raw(on_sale=True, start=start, count=page_size)
+        except NETWORK_ERRORS as exc:
+            progress_queue.put(("error", str(exc)))
+            return
+        if not elements:
+            break
+        for el in elements:
+            info = epic_item_price_info(el)
+            if info and info["discount"] > 0:
+                items.append({"appid": el["id"], "name": el["title"], **info})
+        start += page_size
+        progress_queue.put(("progress", min(len(items), limit), min(total, limit) or limit))
+        if start >= total:
+            break
+    items.sort(key=lambda x: -x["discount"])
+    progress_queue.put(("done", items[:limit], total))
+
+
+def epic_free_worker(progress_queue, _limit=None):
+    try:
+        data = http_get_json(
+            f"{EPIC_FREE_URL}?locale={EPIC_LOCALE}&country={EPIC_COUNTRY}&allowCountries={EPIC_COUNTRY}"
+        )
+    except NETWORK_ERRORS as exc:
+        progress_queue.put(("error", str(exc)))
+        return
+    elements = ((data.get("data") or {}).get("Catalog") or {}).get("searchStore", {}).get("elements") or []
+    now = datetime.now(timezone.utc)
+    items = []
+    for el in elements:
+        price = (el.get("price") or {}).get("totalPrice") or {}
+        if price.get("discountPrice") != 0:
+            continue
+        offers = ((el.get("promotions") or {}).get("promotionalOffers")) or []
+        is_active = False
+        for group in offers:
+            for offer in group.get("promotionalOffers", []):
+                try:
+                    offer_start = datetime.fromisoformat(offer["startDate"].replace("Z", "+00:00"))
+                    offer_end = datetime.fromisoformat(offer["endDate"].replace("Z", "+00:00"))
+                except (KeyError, ValueError):
+                    continue
+                if offer_start <= now <= offer_end:
+                    is_active = True
+        if not is_active:
+            continue
+        orig_cents = price.get("originalPrice") or 0
+        items.append({
+            "appid": el["id"], "name": el["title"],
+            "orig_cents": orig_cents, "orig_price_str": format_cents(orig_cents),
+        })
+    progress_queue.put(("done", items, len(items)))
+
+
+def epic_search(term):
+    elements, _total = epic_search_raw(keywords=term, count=15)
+    results = []
+    for el in elements:
+        price = (el.get("price") or {}).get("totalPrice") or {}
+        results.append({"appid": el["id"], "name": el["title"], "final_cents": price.get("discountPrice")})
+    return results
+
+
+def epic_wishlist_prices_worker(entries, progress_queue):
+    items = []
+    for entry in entries:
+        try:
+            elements, _total = epic_search_raw(keywords=entry["name"], count=10)
+        except NETWORK_ERRORS as exc:
+            progress_queue.put(("error", str(exc)))
+            return
+        match = next((e for e in elements if e["id"] == entry["appid"]), None)
+        info = epic_item_price_info(match) if match else None
+        if info:
+            items.append({"appid": entry["appid"], "name": match["title"], **info})
+        else:
+            items.append({
+                "appid": entry["appid"], "name": entry["name"],
+                "discount": 0, "orig_cents": 0, "final_cents": 0,
+                "orig_price_str": "?", "final_price_str": "nicht gefunden",
+            })
+        progress_queue.put(("progress", len(items), len(entries)))
+    progress_queue.put(("done", items, len(items)))
+
+
+def epic_store_url(item):
+    return f"https://store.epicgames.com/{EPIC_LOCALE}/browse?q={urllib.parse.quote(item['name'])}&sortBy=relevancy"
 
 
 # ---------- Generic UI: discounts-style tab (sortable table + optional limit selector) ----------
@@ -853,7 +1021,7 @@ class GenericDiscountsTab(SortableTreeMixin, ttk.Frame):
             return
         item = self.row_data.get(selection[0])
         if item:
-            webbrowser.open(self.store_url_fn(item["appid"]))
+            webbrowser.open(self.store_url_fn(item))
 
 
 # ---------- Generic UI: "currently free" style tab (name + regular price, no discount%) ----------
@@ -963,7 +1131,7 @@ class GenericFreeTab(SortableTreeMixin, ttk.Frame):
             return
         item = self.row_data.get(selection[0])
         if item:
-            webbrowser.open(self.store_url_fn(item["appid"]))
+            webbrowser.open(self.store_url_fn(item))
 
 
 # ---------- Generic UI: wishlist tab (search-to-add, used by Steam and Xbox) ----------
@@ -1260,7 +1428,7 @@ class WishlistTab(SortableTreeMixin, ttk.Frame):
             return
         item = self.row_data.get(selection[0])
         if item:
-            webbrowser.open(self.store_url_fn(item["appid"]))
+            webbrowser.open(self.store_url_fn(item))
 
 
 def main():
@@ -1350,6 +1518,30 @@ def main():
     ps_notebook.add(ps_wishlist, text="Wunschliste")
     platforms_notebook.add(ps_frame, text="PlayStation")
     to_start += [ps_discounts.start_fetch, ps_free.start_fetch, ps_wishlist.start_fetch]
+
+    # --- Epic Games Store ---
+    epic_frame = ttk.Frame(platforms_notebook)
+    epic_notebook = ttk.Notebook(epic_frame)
+    epic_notebook.pack(fill="both", expand=True)
+    epic_discounts = GenericDiscountsTab(
+        epic_notebook, "Epic", epic_discounts_worker, epic_store_url,
+        limit_options=("100", "300", "500"), default_limit="300", show_gamepass=False,
+    )
+    epic_free = GenericFreeTab(
+        epic_notebook, epic_free_worker, epic_store_url, show_gamepass=False,
+        hint_text="Epics wöchentliche Gratis-Spiele. Doppelklick öffnet eine Store-Suche.",
+        empty_text="Gerade keine aktiven Gratis-Spiele gefunden.",
+    )
+    epic_wishlist = WishlistTab(
+        epic_notebook, "epic_wunschliste.json", epic_wishlist_prices_worker, epic_store_url,
+        open_add_dialog=lambda on_add: SearchDialog(root, epic_search, on_add),
+        show_gamepass=False,
+    )
+    epic_notebook.add(epic_discounts, text="Rabatte")
+    epic_notebook.add(epic_free, text="Aktuell kostenlos")
+    epic_notebook.add(epic_wishlist, text="Wunschliste")
+    platforms_notebook.add(epic_frame, text="Epic")
+    to_start += [epic_discounts.start_fetch, epic_free.start_fetch, epic_wishlist.start_fetch]
 
     for i, fn in enumerate(to_start):
         root.after(200 + i * 50, fn)
