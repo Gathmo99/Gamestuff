@@ -1,12 +1,12 @@
 {
   "items": [
     {
-      "appid": "1741160",
-      "name": "Catch Me!",
+      "appid": "1272160",
+      "name": "The Life and Suffering of Sir Brante",
       "discount": 100,
-      "orig_price_str": "1,99€",
+      "orig_price_str": "26,23€",
       "final_price_str": "0,00€",
-      "orig_cents": 199,
+      "orig_cents": 2623,
       "final_cents": 0,
       "gamepass": ""
     }

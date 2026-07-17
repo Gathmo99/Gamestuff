@@ -1631,26 +1631,6 @@
       "final_price_str": "19,99 €"
     },
     {
-      "appid": "ab72e84ba90e47199e4c5ef6e706ecc8",
-      "namespace": "678f87f25a4d4ef79c2d6700800f22ae",
-      "name": "Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars",
-      "discount": 50,
-      "orig_cents": 4999,
-      "final_cents": 2499,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "24,99 €"
-    },
-    {
-      "appid": "331226ba7c944720baa99103cb1fe80c",
-      "namespace": "b0cd075465c44f87be3b505ac04a2e46",
-      "name": "Grand Theft Auto V Enhanced",
-      "discount": 50,
-      "orig_cents": 2999,
-      "final_cents": 1499,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "14,99 €"
-    },
-    {
       "appid": "050a7c9389bc4fc4b16730a6289a762f",
       "namespace": "9bc0690ec6ca4595973337e2cae81273",
       "name": "Biped 2",
@@ -2321,6 +2301,16 @@
       "final_price_str": "13,39 €"
     },
     {
+      "appid": "26769ccdaf9a4ce1a97d91f16c0cb5bf",
+      "namespace": "dae3b680039e4315aeca28d59c081758",
+      "name": "DEADWAVE",
+      "discount": 30,
+      "orig_cents": 899,
+      "final_cents": 629,
+      "orig_price_str": "8,99 €",
+      "final_price_str": "6,29 €"
+    },
+    {
       "appid": "fb65dfddcd5b4c15924fc97ef9dbad0f",
       "namespace": "776f36c1d52a4124bbf9c07b48e6cf1f",
       "name": "Corsairs - Battle of the Caribbean",
@@ -2819,6 +2809,16 @@
       "final_cents": 1091,
       "orig_price_str": "13,99 €",
       "final_price_str": "10,91 €"
+    },
+    {
+      "appid": "1e32356db3884e87a7edcd0058bfd52b",
+      "namespace": "4d52bed5776a4ac48c0b87c7ab87cddf",
+      "name": "Colonies of The Remnant",
+      "discount": 20,
+      "orig_cents": 1259,
+      "final_cents": 1007,
+      "orig_price_str": "12,59 €",
+      "final_price_str": "10,07 €"
     },
     {
       "appid": "37067b8b96a8416a905fe059989d2aef",
