@@ -4121,16 +4121,6 @@
       "gamepass": ""
     },
     {
-      "appid": "4613890",
-      "name": "Lazy Kickers",
-      "discount": 25,
-      "orig_price_str": "3,15€",
-      "final_price_str": "2,36€",
-      "orig_cents": 315,
-      "final_cents": 236,
-      "gamepass": ""
-    },
-    {
       "appid": "1977170",
       "name": "Jusant",
       "discount": 60,
@@ -4218,6 +4208,16 @@
       "final_price_str": "11,49€",
       "orig_cents": 2299,
       "final_cents": 1149,
+      "gamepass": ""
+    },
+    {
+      "appid": "4613890",
+      "name": "Lazy Kickers",
+      "discount": 25,
+      "orig_price_str": "3,15€",
+      "final_price_str": "2,36€",
+      "orig_cents": 315,
+      "final_cents": 236,
       "gamepass": ""
     },
     {
