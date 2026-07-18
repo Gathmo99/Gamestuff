@@ -301,6 +301,16 @@
       "final_price_str": "2,15 €"
     },
     {
+      "appid": "ac057a59b7a841f1a17db4473cf20765",
+      "namespace": "cd053a8104444485ad00ceb98eb4aecd",
+      "name": "X-Morph Defense Complete Edition",
+      "discount": 80,
+      "orig_cents": 2399,
+      "final_cents": 479,
+      "orig_price_str": "23,99 €",
+      "final_price_str": "4,79 €"
+    },
+    {
       "appid": "2380ff7131674e7194f4cd81067ffeba",
       "namespace": "e93b00445c57495b8bec3664fcd679c4",
       "name": "The Artful Escape",
@@ -1651,6 +1661,26 @@
       "final_price_str": "14,99 €"
     },
     {
+      "appid": "293fe836b971480f869366d23f5d89fb",
+      "namespace": "5937a04339514126b7afaa97b9e26670",
+      "name": "Death in the Water 2",
+      "discount": 50,
+      "orig_cents": 1349,
+      "final_cents": 674,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "6,74 €"
+    },
+    {
+      "appid": "ac9d70b5060d4471b5ab6fad076bec1b",
+      "namespace": "7e999b7f8b6a41c0933fdd304e9e7258",
+      "name": "Summer Dates",
+      "discount": 50,
+      "orig_cents": 359,
+      "final_cents": 179,
+      "orig_price_str": "3,59 €",
+      "final_price_str": "1,79 €"
+    },
+    {
       "appid": "050a7c9389bc4fc4b16730a6289a762f",
       "namespace": "9bc0690ec6ca4595973337e2cae81273",
       "name": "Biped 2",
@@ -2279,36 +2309,6 @@
       "final_cents": 602,
       "orig_price_str": "8,99 €",
       "final_price_str": "6,02 €"
-    },
-    {
-      "appid": "4d56fdc376924c4aa7c80515d8d1fc29",
-      "namespace": "b713f7b6b51b405893ad88c00c86faac",
-      "name": "『S.T.A.L.K.E.R.: Shadow of Chornobyl』強化版",
-      "discount": 33,
-      "orig_cents": 1999,
-      "final_cents": 1339,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "13,39 €"
-    },
-    {
-      "appid": "355e78b2f9ce4404bb5682c8cb31ae96",
-      "namespace": "6026e7b108f94dd5a3037317eb9b4fa4",
-      "name": "S.T.A.L.K.E.R.: Call of Prypiat - Enhanced Edition",
-      "discount": 33,
-      "orig_cents": 1999,
-      "final_cents": 1339,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "13,39 €"
-    },
-    {
-      "appid": "91d3ac7558f74838911af27f118da705",
-      "namespace": "4275cb8b5c9f4d7cb4892d793eabebfd",
-      "name": "S.T.A.L.K.E.R.: Clear Sky - Enhanced Edition",
-      "discount": 33,
-      "orig_cents": 1999,
-      "final_cents": 1339,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "13,39 €"
     },
     {
       "appid": "26769ccdaf9a4ce1a97d91f16c0cb5bf",
@@ -3001,5 +3001,5 @@
       "final_price_str": "3,59 €"
     }
   ],
-  "total": 1455
+  "total": 1451
 }
