@@ -771,16 +771,6 @@
       "final_price_str": "9,99 €"
     },
     {
-      "appid": "ed7c822644734c4eae164021513ee73d",
-      "namespace": "44f0f46601994e2b94d3139bf3176759",
-      "name": "Flying Islands",
-      "discount": 60,
-      "orig_cents": 799,
-      "final_cents": 319,
-      "orig_price_str": "7,99 €",
-      "final_price_str": "3,19 €"
-    },
-    {
       "appid": "3077784de89f4873a15f35368f3a79c8",
       "namespace": "c083fb427c1b49efb2a3af523d545469",
       "name": "Spirit of the North 2",
@@ -1641,6 +1631,26 @@
       "final_price_str": "19,99 €"
     },
     {
+      "appid": "ab72e84ba90e47199e4c5ef6e706ecc8",
+      "namespace": "678f87f25a4d4ef79c2d6700800f22ae",
+      "name": "Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars",
+      "discount": 50,
+      "orig_cents": 4999,
+      "final_cents": 2499,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "24,99 €"
+    },
+    {
+      "appid": "331226ba7c944720baa99103cb1fe80c",
+      "namespace": "b0cd075465c44f87be3b505ac04a2e46",
+      "name": "Grand Theft Auto V Enhanced",
+      "discount": 50,
+      "orig_cents": 2999,
+      "final_cents": 1499,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "14,99 €"
+    },
+    {
       "appid": "050a7c9389bc4fc4b16730a6289a762f",
       "namespace": "9bc0690ec6ca4595973337e2cae81273",
       "name": "Biped 2",
@@ -1679,16 +1689,6 @@
       "final_cents": 809,
       "orig_price_str": "13,49 €",
       "final_price_str": "8,09 €"
-    },
-    {
-      "appid": "a5eb6dd1047f487aa9d6b40d9e80e8f3",
-      "namespace": "66d26e5fc4b147f88ed998ce29e5e2de",
-      "name": "Demon of the Time",
-      "discount": 40,
-      "orig_cents": 269,
-      "final_cents": 161,
-      "orig_price_str": "2,69 €",
-      "final_price_str": "1,61 €"
     },
     {
       "appid": "6d87cf7bc4044dee9bf2e39188e9b926",
@@ -3001,5 +3001,5 @@
       "final_price_str": "3,59 €"
     }
   ],
-  "total": 1457
+  "total": 1455
 }

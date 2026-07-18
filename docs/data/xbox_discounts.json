@@ -131,6 +131,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9MX6HKF5647G",
+      "name": "Borderlands®4",
+      "discount": 60,
+      "orig_cents": 7999,
+      "final_cents": 3199,
+      "orig_price_str": "79,99 €",
+      "final_price_str": "31,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9P42LWGMC7K4",
       "name": "Assassin's Creed Shadows",
       "discount": 55,
@@ -168,16 +178,6 @@
       "final_cents": 1999,
       "orig_price_str": "39,99 €",
       "final_price_str": "19,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9NRLSFM01XTP",
-      "name": "MLB® The Show™ 26 Standard Edition",
-      "discount": 50,
-      "orig_cents": 6999,
-      "final_cents": 3499,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "34,99 €",
       "gamepass": ""
     },
     {
@@ -251,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 2743
+  "total": 2740
 }
