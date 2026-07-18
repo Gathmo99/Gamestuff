@@ -181,6 +181,16 @@
       "final_price_str": "8,99 €"
     },
     {
+      "appid": "78b49b31ca3a43cea39b552555deb72b",
+      "namespace": "49746e7a850e4d9d9c7390b9ed032db0",
+      "name": "Backrooms Bodycam 2",
+      "discount": 85,
+      "orig_cents": 269,
+      "final_cents": 40,
+      "orig_price_str": "2,69 €",
+      "final_price_str": "0,40 €"
+    },
+    {
       "appid": "e6ba66595ac44188b69ce5ed15d13b82",
       "namespace": "955298a66e774a858d59e4fb83562c1b",
       "name": "Trine Enchanted Edition",
@@ -2649,16 +2659,6 @@
       "final_cents": 336,
       "orig_price_str": "4,49 €",
       "final_price_str": "3,36 €"
-    },
-    {
-      "appid": "65b780bd13974d3d852173a1122c2789",
-      "namespace": "e8a5536a55294d949df5306fda6410c1",
-      "name": "Typers Combat",
-      "discount": 25,
-      "orig_cents": 539,
-      "final_cents": 404,
-      "orig_price_str": "5,39 €",
-      "final_price_str": "4,04 €"
     },
     {
       "appid": "1c5283d0f7c646829c89f6a5287c8921",
