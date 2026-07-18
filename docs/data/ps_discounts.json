@@ -226,7 +226,7 @@
       "final_price_str": "3,74 €"
     },
     {
-      "appid": "EP6665-CUSA33241_00-VTMS000000000000",
+      "appid": "EP6665-PPSA07302_00-VTMS000000000000",
       "name": "Vampire: The Masquerade - Swansong",
       "discount": 85,
       "orig_cents": 2999,
@@ -235,7 +235,7 @@
       "final_price_str": "4,49 €"
     },
     {
-      "appid": "EP6665-PPSA07302_00-VTMS000000000000",
+      "appid": "EP6665-CUSA33241_00-VTMS000000000000",
       "name": "Vampire: The Masquerade - Swansong",
       "discount": 85,
       "orig_cents": 2999,
@@ -496,7 +496,7 @@
       "final_price_str": "4,99 €"
     },
     {
-      "appid": "EP5938-PPSA07451_00-CLIVENWRENCH0PS5",
+      "appid": "EP5938-CUSA33452_00-CLIVENWRENCH0PS4",
       "name": "Clive 'N' Wrench",
       "discount": 75,
       "orig_cents": 2999,
@@ -505,7 +505,7 @@
       "final_price_str": "7,49 €"
     },
     {
-      "appid": "EP5938-CUSA33452_00-CLIVENWRENCH0PS4",
+      "appid": "EP5938-PPSA07451_00-CLIVENWRENCH0PS5",
       "name": "Clive 'N' Wrench",
       "discount": 75,
       "orig_cents": 2999,
@@ -1261,7 +1261,7 @@
       "final_price_str": "2,79 €"
     },
     {
-      "appid": "EP0290-CUSA26922_00-GODFALLULTIMATE0",
+      "appid": "EP0290-PPSA01349_00-GODFALLULTIMATE0",
       "name": "Godfall Ultimate Edition",
       "discount": 65,
       "orig_cents": 3999,
@@ -1270,7 +1270,7 @@
       "final_price_str": "13,99 €"
     },
     {
-      "appid": "EP0290-PPSA01349_00-GODFALLULTIMATE0",
+      "appid": "EP0290-CUSA26922_00-GODFALLULTIMATE0",
       "name": "Godfall Ultimate Edition",
       "discount": 65,
       "orig_cents": 3999,
@@ -2395,7 +2395,7 @@
       "final_price_str": "1,74 €"
     },
     {
-      "appid": "EP6853-PPSA05425_00-DLCRAVEN00000000",
+      "appid": "EP2609-CUSA13930_00-DLCRAVEN00000000",
       "name": "World War Z - Raven Weapons Skin Pack",
       "discount": 30,
       "orig_cents": 499,
@@ -2404,7 +2404,7 @@
       "final_price_str": "3,49 €"
     },
     {
-      "appid": "EP2609-CUSA13930_00-DLCRAVEN00000000",
+      "appid": "EP6853-PPSA05425_00-DLCRAVEN00000000",
       "name": "World War Z - Raven Weapons Skin Pack",
       "discount": 30,
       "orig_cents": 499,
