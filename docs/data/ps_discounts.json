@@ -208,7 +208,7 @@
       "final_price_str": "3,74 €"
     },
     {
-      "appid": "EP8208-PPSA07519_00-ISUSA00GAMEEUR01",
+      "appid": "EP8208-CUSA33560_00-ISUSA00GAMEEUR01",
       "name": "INSTANT SPORTS All-Stars",
       "discount": 85,
       "orig_cents": 2499,
@@ -217,7 +217,7 @@
       "final_price_str": "3,74 €"
     },
     {
-      "appid": "EP8208-CUSA33560_00-ISUSA00GAMEEUR01",
+      "appid": "EP8208-PPSA07519_00-ISUSA00GAMEEUR01",
       "name": "INSTANT SPORTS All-Stars",
       "discount": 85,
       "orig_cents": 2499,
@@ -2323,7 +2323,7 @@
       "final_price_str": "9,74 €"
     },
     {
-      "appid": "EP6853-PPSA05425_00-DLCMIAMI00000000",
+      "appid": "EP2609-CUSA13930_00-DLCMIAMI00000000",
       "name": "World War Z - Deadly Vice Weapons Skin Pack",
       "discount": 30,
       "orig_cents": 499,
@@ -2332,7 +2332,7 @@
       "final_price_str": "3,49 €"
     },
     {
-      "appid": "EP2609-CUSA13930_00-DLCMIAMI00000000",
+      "appid": "EP6853-PPSA05425_00-DLCMIAMI00000000",
       "name": "World War Z - Deadly Vice Weapons Skin Pack",
       "discount": 30,
       "orig_cents": 499,
@@ -2395,7 +2395,7 @@
       "final_price_str": "1,74 €"
     },
     {
-      "appid": "EP2609-CUSA13930_00-DLCRAVEN00000000",
+      "appid": "EP6853-PPSA05425_00-DLCRAVEN00000000",
       "name": "World War Z - Raven Weapons Skin Pack",
       "discount": 30,
       "orig_cents": 499,
@@ -2404,7 +2404,7 @@
       "final_price_str": "3,49 €"
     },
     {
-      "appid": "EP6853-PPSA05425_00-DLCRAVEN00000000",
+      "appid": "EP2609-CUSA13930_00-DLCRAVEN00000000",
       "name": "World War Z - Raven Weapons Skin Pack",
       "discount": 30,
       "orig_cents": 499,
