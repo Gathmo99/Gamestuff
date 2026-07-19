@@ -11,16 +11,6 @@
       "final_price_str": "0,00 €"
     },
     {
-      "appid": "49f79b03b9b14637b10a1ceb7e17365d",
-      "namespace": "e60e3740ad664323a65ff6d933f3869f",
-      "name": "KeepUp Survival",
-      "discount": 100,
-      "orig_cents": 1349,
-      "final_cents": 0,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "0,00 €"
-    },
-    {
       "appid": "c27f2bb0dd9b4c4ca4973e653ab8a5be",
       "namespace": "9f3ffc77b7264d63859bfd9bc935c9f8",
       "name": "Luto",
@@ -299,6 +289,16 @@
       "final_cents": 479,
       "orig_price_str": "23,99 €",
       "final_price_str": "4,79 €"
+    },
+    {
+      "appid": "eb5454e002764abaa00b741393aa7600",
+      "namespace": "e192ef1dbcce4fdc8cca1afb9adc05db",
+      "name": "Killer Frequency",
+      "discount": 80,
+      "orig_cents": 2499,
+      "final_cents": 499,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "4,99 €"
     },
     {
       "appid": "2380ff7131674e7194f4cd81067ffeba",
@@ -1671,6 +1671,16 @@
       "final_price_str": "1,79 €"
     },
     {
+      "appid": "65afe1bae0f5449191d28d5ef63caa32",
+      "namespace": "eb9cdf6dbe4b47fc8ba474017023476a",
+      "name": "Sid Meier's Civilization® VII",
+      "discount": 50,
+      "orig_cents": 6999,
+      "final_cents": 3499,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "34,99 €"
+    },
+    {
       "appid": "050a7c9389bc4fc4b16730a6289a762f",
       "namespace": "9bc0690ec6ca4595973337e2cae81273",
       "name": "Biped 2",
@@ -2731,16 +2741,6 @@
       "final_price_str": "18,74 €"
     },
     {
-      "appid": "4416296a17d445ea9587adde810f8324",
-      "namespace": "a17543496ad14e79809aa99ca972d478",
-      "name": "Escape from Duckov",
-      "discount": 25,
-      "orig_cents": 1799,
-      "final_cents": 1349,
-      "orig_price_str": "17,99 €",
-      "final_price_str": "13,49 €"
-    },
-    {
       "appid": "0561a4bd0bb941cd8984f6a56c4a9bae",
       "namespace": "b94d2c661d764f5ba8841bbbce185dbd",
       "name": "Ys vs. Trails in the Sky: Alternative Saga",
@@ -3001,5 +3001,5 @@
       "final_price_str": "3,59 €"
     }
   ],
-  "total": 1450
+  "total": 1449
 }
