@@ -1021,16 +1021,6 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "8bb038fda66d4422b7688e0a7621a845",
-      "namespace": "e148152ab40b4bd2872a1090f7fdcb24",
-      "name": "Dead Rush 2",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
       "appid": "6599ccc2869946d7976a184a4a2e8e3f",
       "namespace": "ec2c3935293043c7818a92c139225819",
       "name": "Haunted Forest",
@@ -2641,6 +2631,16 @@
       "final_price_str": "17,88 €"
     },
     {
+      "appid": "359f0e7d08a14b6db656522f016e5ea5",
+      "namespace": "a5a82a0ca371468cb35a9a47e4747082",
+      "name": "Monument Valley 3",
+      "discount": 25,
+      "orig_cents": 1349,
+      "final_cents": 1011,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "10,11 €"
+    },
+    {
       "appid": "a6e32f221fda468f8e6e880dba992015",
       "namespace": "587f053322c943b3bd0c1562b97bf717",
       "name": "Raging Bill",
@@ -3001,5 +3001,5 @@
       "final_price_str": "3,59 €"
     }
   ],
-  "total": 1449
+  "total": 1453
 }
