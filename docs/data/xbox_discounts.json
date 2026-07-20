@@ -21,6 +21,26 @@
       "gamepass": ""
     },
     {
+      "appid": "C3GDK9QKWLRD",
+      "name": "Destiny - The Collection",
+      "discount": 90,
+      "orig_cents": 1999,
+      "final_cents": 199,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "1,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "C4H36B87SVL1",
+      "name": "Batman: Arkham Collection",
+      "discount": 85,
+      "orig_cents": 5999,
+      "final_cents": 899,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "8,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "BPPTRQZRJ341",
       "name": "Metro 2033 Redux",
       "discount": 85,
@@ -28,16 +48,6 @@
       "final_cents": 299,
       "orig_price_str": "19,99 €",
       "final_price_str": "2,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9P6HKH56D3DH",
-      "name": "DRAGON BALL FighterZ (Xbox Series X|S & Xbox One)",
-      "discount": 85,
-      "orig_cents": 6999,
-      "final_cents": 1049,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "10,49 €",
       "gamepass": ""
     },
     {
@@ -91,16 +101,6 @@
       "gamepass": "PC + Xbox"
     },
     {
-      "appid": "BWVBNCMF22ZK",
-      "name": "A Way Out",
-      "discount": 70,
-      "orig_cents": 2999,
-      "final_cents": 899,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "8,99 €",
-      "gamepass": "Xbox"
-    },
-    {
       "appid": "C492DG1TQQ09",
       "name": "Call of Duty®: Black Ops III - Zombies Chronicles Edition",
       "discount": 67,
@@ -131,13 +131,23 @@
       "gamepass": ""
     },
     {
-      "appid": "9MX6HKF5647G",
-      "name": "Borderlands®4",
-      "discount": 60,
-      "orig_cents": 7999,
-      "final_cents": 3199,
-      "orig_price_str": "79,99 €",
-      "final_price_str": "31,99 €",
+      "appid": "9PM4J1VW57XQ",
+      "name": "Destiny 2: The Collection",
+      "discount": 65,
+      "orig_cents": 6999,
+      "final_cents": 2449,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "24,49 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NRQVQ7ZRM7Z",
+      "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "discount": 65,
+      "orig_cents": 4999,
+      "final_cents": 1749,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "17,49 €",
       "gamepass": ""
     },
     {
@@ -161,16 +171,6 @@
       "gamepass": "PC + Xbox"
     },
     {
-      "appid": "9NKC1Z4Z92VN",
-      "name": "Grand Theft Auto Online",
-      "discount": 50,
-      "orig_cents": 1999,
-      "final_cents": 999,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "9,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "C1QJM5XT9SXV",
       "name": "Call of Duty®: Black Ops II",
       "discount": 50,
@@ -178,6 +178,16 @@
       "final_cents": 1999,
       "orig_price_str": "39,99 €",
       "final_price_str": "19,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NKC1Z4Z92VN",
+      "name": "Grand Theft Auto Online",
+      "discount": 50,
+      "orig_cents": 1999,
+      "final_cents": 999,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "9,99 €",
       "gamepass": ""
     },
     {
@@ -211,23 +221,13 @@
       "gamepass": ""
     },
     {
-      "appid": "9MVBJ3NX67DS",
-      "name": "Little Nightmares III",
+      "appid": "9PGRV33VMSL1",
+      "name": "WWE 2K26 Standard Edition",
       "discount": 50,
-      "orig_cents": 3999,
-      "final_cents": 1999,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "19,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9N1WXXD1RL8D",
-      "name": "Split Fiction",
-      "discount": 35,
-      "orig_cents": 4999,
-      "final_cents": 3249,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "32,49 €",
+      "orig_cents": 7999,
+      "final_cents": 3999,
+      "orig_price_str": "79,99 €",
+      "final_price_str": "39,99 €",
       "gamepass": ""
     },
     {
@@ -251,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 2743
+  "total": 2744
 }

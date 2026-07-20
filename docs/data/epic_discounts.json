@@ -281,16 +281,6 @@
       "final_price_str": "2,15 €"
     },
     {
-      "appid": "ac057a59b7a841f1a17db4473cf20765",
-      "namespace": "cd053a8104444485ad00ceb98eb4aecd",
-      "name": "X-Morph Defense Complete Edition",
-      "discount": 80,
-      "orig_cents": 2399,
-      "final_cents": 479,
-      "orig_price_str": "23,99 €",
-      "final_price_str": "4,79 €"
-    },
-    {
       "appid": "2380ff7131674e7194f4cd81067ffeba",
       "namespace": "e93b00445c57495b8bec3664fcd679c4",
       "name": "The Artful Escape",
@@ -521,6 +511,16 @@
       "final_price_str": "2,69 €"
     },
     {
+      "appid": "0505cdaa98014b4e893e0fc05526882f",
+      "namespace": "059e09d0172146f788ad9a9ca6e485a7",
+      "name": "JEF",
+      "discount": 70,
+      "orig_cents": 359,
+      "final_cents": 107,
+      "orig_price_str": "3,59 €",
+      "final_price_str": "1,07 €"
+    },
+    {
       "appid": "436bd24946b34e9792449f1d41989454",
       "namespace": "7d0ad96b326943a599dde07a9503c54c",
       "name": "PlateUp!",
@@ -651,6 +651,16 @@
       "final_price_str": "8,74 €"
     },
     {
+      "appid": "583fbffe721a4359a105b472c30a5f72",
+      "namespace": "adc396c378684a16bd1df5cf4e1bfabb",
+      "name": "Four Last Things",
+      "discount": 65,
+      "orig_cents": 899,
+      "final_cents": 314,
+      "orig_price_str": "8,99 €",
+      "final_price_str": "3,14 €"
+    },
+    {
       "appid": "ff355e78448247178f119592a2524914",
       "namespace": "4ab72c796e154260af981b35a0b27be2",
       "name": "Darwin's Paradox!",
@@ -709,6 +719,16 @@
       "final_cents": 323,
       "orig_price_str": "8,09 €",
       "final_price_str": "3,23 €"
+    },
+    {
+      "appid": "7f17daabd75a4de687033b55099681db",
+      "namespace": "f56d119f5f0042a28996a39676d74b71",
+      "name": "The Procession to Calvary",
+      "discount": 60,
+      "orig_cents": 899,
+      "final_cents": 359,
+      "orig_price_str": "8,99 €",
+      "final_price_str": "3,59 €"
     },
     {
       "appid": "b006dd551d274666941afcd8bea5eb8a",
@@ -841,16 +861,6 @@
       "final_price_str": "5,51 €"
     },
     {
-      "appid": "8606b3f9b5d84eef804a0942ebefe735",
-      "namespace": "ff189482dbd84cd89e224138a23e8411",
-      "name": "Undead Horde 2: Necropolis",
-      "discount": 60,
-      "orig_cents": 1529,
-      "final_cents": 611,
-      "orig_price_str": "15,29 €",
-      "final_price_str": "6,11 €"
-    },
-    {
       "appid": "5e7015b65e174329a90b50fc90194224",
       "namespace": "bd440f08d4d044dbad86cf12f273f744",
       "name": "Krogger Skull Killer",
@@ -939,6 +949,16 @@
       "final_cents": 1349,
       "orig_price_str": "29,99 €",
       "final_price_str": "13,49 €"
+    },
+    {
+      "appid": "d04c66eae0bc4573a3721c0493705fb5",
+      "namespace": "99d5c727aadc4bffb8380074815f3e5e",
+      "name": "The Preposterous Awesomeness of Everything",
+      "discount": 55,
+      "orig_cents": 629,
+      "final_cents": 283,
+      "orig_price_str": "6,29 €",
+      "final_price_str": "2,83 €"
     },
     {
       "appid": "d00f4c29c794458580a0855d3543bfb4",
@@ -1129,6 +1149,26 @@
       "final_cents": 1119,
       "orig_price_str": "22,39 €",
       "final_price_str": "11,19 €"
+    },
+    {
+      "appid": "aeff4bb4f6c9453396fcd92309882d96",
+      "namespace": "3dfc7a71c97c43748cf74e05e460e207",
+      "name": "Fuzz Dungeon",
+      "discount": 50,
+      "orig_cents": 359,
+      "final_cents": 179,
+      "orig_price_str": "3,59 €",
+      "final_price_str": "1,79 €"
+    },
+    {
+      "appid": "f3beddc0b57d4c78becf8c6c2e8a66b1",
+      "namespace": "3744c7c75f9b403a9b1902f531bc64d0",
+      "name": "Escape From Lavender Island",
+      "discount": 50,
+      "orig_cents": 899,
+      "final_cents": 449,
+      "orig_price_str": "8,99 €",
+      "final_price_str": "4,49 €"
     },
     {
       "appid": "75be81396da44701a7d94ba8c15a7b17",
@@ -1609,66 +1649,6 @@
       "final_cents": 124,
       "orig_price_str": "2,49 €",
       "final_price_str": "1,24 €"
-    },
-    {
-      "appid": "77cec11f693843f592f99ca878b90d58",
-      "namespace": "2f7dd9c2f1a4416fbcfed127b9873f65",
-      "name": "Cataclismo",
-      "discount": 50,
-      "orig_cents": 2999,
-      "final_cents": 1499,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "14,99 €"
-    },
-    {
-      "appid": "d68bc5ec23e74c18b82243048282484f",
-      "namespace": "ebd3c2f3fff74d79a87fa48bbf5d1013",
-      "name": "MySims™: Cozy Bundle",
-      "discount": 50,
-      "orig_cents": 3999,
-      "final_cents": 1999,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "19,99 €"
-    },
-    {
-      "appid": "ab72e84ba90e47199e4c5ef6e706ecc8",
-      "namespace": "678f87f25a4d4ef79c2d6700800f22ae",
-      "name": "Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars",
-      "discount": 50,
-      "orig_cents": 4999,
-      "final_cents": 2499,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "24,99 €"
-    },
-    {
-      "appid": "331226ba7c944720baa99103cb1fe80c",
-      "namespace": "b0cd075465c44f87be3b505ac04a2e46",
-      "name": "Grand Theft Auto V Enhanced",
-      "discount": 50,
-      "orig_cents": 2999,
-      "final_cents": 1499,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "14,99 €"
-    },
-    {
-      "appid": "293fe836b971480f869366d23f5d89fb",
-      "namespace": "5937a04339514126b7afaa97b9e26670",
-      "name": "Death in the Water 2",
-      "discount": 50,
-      "orig_cents": 1349,
-      "final_cents": 674,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "6,74 €"
-    },
-    {
-      "appid": "ac9d70b5060d4471b5ab6fad076bec1b",
-      "namespace": "7e999b7f8b6a41c0933fdd304e9e7258",
-      "name": "Summer Dates",
-      "discount": 50,
-      "orig_cents": 359,
-      "final_cents": 179,
-      "orig_price_str": "3,59 €",
-      "final_price_str": "1,79 €"
     },
     {
       "appid": "050a7c9389bc4fc4b16730a6289a762f",
@@ -2201,26 +2181,6 @@
       "final_price_str": "14,55 €"
     },
     {
-      "appid": "7f50db7a31e34fa8b0b031d4c8db6635",
-      "namespace": "5cd0096244ac477f941cf95c1fd33ed2",
-      "name": "Beyond the Ice Palace 2",
-      "discount": 35,
-      "orig_cents": 1999,
-      "final_cents": 1299,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "12,99 €"
-    },
-    {
-      "appid": "da112aa047d84d589228db5161e8091a",
-      "namespace": "578f39d17be846e7a6fa335f757012aa",
-      "name": "Split Fiction",
-      "discount": 35,
-      "orig_cents": 4999,
-      "final_cents": 3249,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "32,49 €"
-    },
-    {
       "appid": "8a290aa51a914c56bb463a171a24d02f",
       "namespace": "033b4e36509a4e9cb32406e341534f52",
       "name": "Cloudheim",
@@ -2751,6 +2711,16 @@
       "final_price_str": "26,24 €"
     },
     {
+      "appid": "275af319dac64050afd0fc1f6e71774e",
+      "namespace": "1f14ffefe12d4bd994020af1e4c64b29",
+      "name": "Death of the Reprobate",
+      "discount": 25,
+      "orig_cents": 1169,
+      "final_cents": 876,
+      "orig_price_str": "11,69 €",
+      "final_price_str": "8,76 €"
+    },
+    {
       "appid": "c7ffff4564b74eb8a2295daabf7d86f1",
       "namespace": "6dab803f1c4c4eea9da0398c431c0ffd",
       "name": "Frosthaven",
@@ -2821,26 +2791,6 @@
       "final_price_str": "10,07 €"
     },
     {
-      "appid": "37067b8b96a8416a905fe059989d2aef",
-      "namespace": "961f185110a942ffa7c56a6abdbe17b4",
-      "name": "Blind Date Plan",
-      "discount": 20,
-      "orig_cents": 1259,
-      "final_cents": 1007,
-      "orig_price_str": "12,59 €",
-      "final_price_str": "10,07 €"
-    },
-    {
-      "appid": "b3d1afc54a98427f8c2bfe8145038292",
-      "namespace": "84379508bebb4c959c7193fa47c5154b",
-      "name": "Teacher Ximen Qing",
-      "discount": 20,
-      "orig_cents": 449,
-      "final_cents": 359,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "3,59 €"
-    },
-    {
       "appid": "690c253e4a6b43f2bd39d07a5e5dce1a",
       "namespace": "bfc8fbfd0bcb4e73847527e71b15ce3a",
       "name": "The Greenening",
@@ -2909,6 +2859,16 @@
       "final_cents": 1599,
       "orig_price_str": "19,99 €",
       "final_price_str": "15,99 €"
+    },
+    {
+      "appid": "055f74a65b6a46c4aedf72866289798d",
+      "namespace": "9b5b4ddebd784046a91c9af7a507513a",
+      "name": "Kumitantei: Old-School Slaughter",
+      "discount": 20,
+      "orig_cents": 1349,
+      "final_cents": 1079,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "10,79 €"
     },
     {
       "appid": "6a4c0140a6db4478a236a8a2b84f4ca2",
@@ -2999,7 +2959,47 @@
       "final_cents": 359,
       "orig_price_str": "4,49 €",
       "final_price_str": "3,59 €"
+    },
+    {
+      "appid": "48392d730c21485ab007fb6e31880383",
+      "namespace": "63e99efaa79e49f2a475e0ff73acb36e",
+      "name": "Bladesong",
+      "discount": 20,
+      "orig_cents": 1999,
+      "final_cents": 1599,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "15,99 €"
+    },
+    {
+      "appid": "b0ecd5f18e054166adba795588c93405",
+      "namespace": "664e97d44f7f49d1b883413d15670071",
+      "name": "Storebound",
+      "discount": 20,
+      "orig_cents": 799,
+      "final_cents": 639,
+      "orig_price_str": "7,99 €",
+      "final_price_str": "6,39 €"
+    },
+    {
+      "appid": "be1f65851eaf4ad098bd6937e7bca09c",
+      "namespace": "01d3594d0bfe4497a15bc81da2c3f017",
+      "name": "Printfarm Simulator",
+      "discount": 20,
+      "orig_cents": 539,
+      "final_cents": 431,
+      "orig_price_str": "5,39 €",
+      "final_price_str": "4,31 €"
+    },
+    {
+      "appid": "d8f371ec6cb4447cb7c6a0bf4ff1ebb3",
+      "namespace": "3c4699b140554fa5ad48a9413b06159a",
+      "name": "Lord Ambermaze",
+      "discount": 20,
+      "orig_cents": 1349,
+      "final_cents": 1079,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "10,79 €"
     }
   ],
-  "total": 1457
+  "total": 1489
 }
