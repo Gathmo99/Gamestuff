@@ -291,16 +291,6 @@
       "final_price_str": "4,79 €"
     },
     {
-      "appid": "eb5454e002764abaa00b741393aa7600",
-      "namespace": "e192ef1dbcce4fdc8cca1afb9adc05db",
-      "name": "Killer Frequency",
-      "discount": 80,
-      "orig_cents": 2499,
-      "final_cents": 499,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "4,99 €"
-    },
-    {
       "appid": "2380ff7131674e7194f4cd81067ffeba",
       "namespace": "e93b00445c57495b8bec3664fcd679c4",
       "name": "The Artful Escape",
@@ -359,6 +349,26 @@
       "final_cents": 89,
       "orig_price_str": "3,59 €",
       "final_price_str": "0,89 €"
+    },
+    {
+      "appid": "d09a24a332c94549b2144f962231c394",
+      "namespace": "e6abebfda00f45e2b3b9ba79970bc511",
+      "name": "Monument Valley II",
+      "discount": 75,
+      "orig_cents": 699,
+      "final_cents": 174,
+      "orig_price_str": "6,99 €",
+      "final_price_str": "1,74 €"
+    },
+    {
+      "appid": "f967cff9761c4198b4e972cfd71e40d7",
+      "namespace": "e236e73a294b462d85715f5ba23a6346",
+      "name": "Monument Valley",
+      "discount": 75,
+      "orig_cents": 699,
+      "final_cents": 174,
+      "orig_price_str": "6,99 €",
+      "final_price_str": "1,74 €"
     },
     {
       "appid": "5e416c7c1444483e828899b0c30ce2cd",
@@ -1661,16 +1671,6 @@
       "final_price_str": "1,79 €"
     },
     {
-      "appid": "65afe1bae0f5449191d28d5ef63caa32",
-      "namespace": "eb9cdf6dbe4b47fc8ba474017023476a",
-      "name": "Sid Meier's Civilization® VII",
-      "discount": 50,
-      "orig_cents": 6999,
-      "final_cents": 3499,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "34,99 €"
-    },
-    {
       "appid": "050a7c9389bc4fc4b16730a6289a762f",
       "namespace": "9bc0690ec6ca4595973337e2cae81273",
       "name": "Biped 2",
@@ -1789,6 +1789,16 @@
       "final_cents": 707,
       "orig_price_str": "11,79 €",
       "final_price_str": "7,07 €"
+    },
+    {
+      "appid": "f02517c3e83341859d40c43f855d8b10",
+      "namespace": "6f54d9c63990451b93584c5f47e6df5a",
+      "name": "Lass mich sehen",
+      "discount": 40,
+      "orig_cents": 629,
+      "final_cents": 377,
+      "orig_price_str": "6,29 €",
+      "final_price_str": "3,77 €"
     },
     {
       "appid": "92ef0dbf85b74aa2acb3c025b87cc4dd",
@@ -2029,16 +2039,6 @@
       "final_cents": 1109,
       "orig_price_str": "18,49 €",
       "final_price_str": "11,09 €"
-    },
-    {
-      "appid": "8984a4a2dbd3477b818769bd4ee994fa",
-      "namespace": "d03854c9d8f54358916514341241f308",
-      "name": "Speedborn: The Parkour Game",
-      "discount": 40,
-      "orig_cents": 249,
-      "final_cents": 149,
-      "orig_price_str": "2,49 €",
-      "final_price_str": "1,49 €"
     },
     {
       "appid": "9302075851314876b2a02b14299a5dd3",
@@ -3001,5 +3001,5 @@
       "final_price_str": "3,59 €"
     }
   ],
-  "total": 1453
+  "total": 1457
 }
