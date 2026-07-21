@@ -1765,7 +1765,7 @@
       "final_price_str": "17,99 €"
     },
     {
-      "appid": "EP4060-PPSA06565_00-DELUXEEDITION000",
+      "appid": "EP4060-CUSA32315_00-DELUXEEDITION000",
       "name": "Dusk Diver 2 Digital Deluxe Edition",
       "discount": 50,
       "orig_cents": 5999,
@@ -1774,7 +1774,7 @@
       "final_price_str": "29,99 €"
     },
     {
-      "appid": "EP4060-CUSA32315_00-DELUXEEDITION000",
+      "appid": "EP4060-PPSA06565_00-DELUXEEDITION000",
       "name": "Dusk Diver 2 Digital Deluxe Edition",
       "discount": 50,
       "orig_cents": 5999,
@@ -2341,7 +2341,7 @@
       "final_price_str": "3,49 €"
     },
     {
-      "appid": "EP2609-CUSA13930_00-DLCRAT0000000000",
+      "appid": "EP6853-PPSA05425_00-DLCRAT0000000000",
       "name": "World War Z - The Rat Packs Weapon Skins Bundle",
       "discount": 30,
       "orig_cents": 499,
@@ -2350,7 +2350,7 @@
       "final_price_str": "3,49 €"
     },
     {
-      "appid": "EP6853-PPSA05425_00-DLCRAT0000000000",
+      "appid": "EP2609-CUSA13930_00-DLCRAT0000000000",
       "name": "World War Z - The Rat Packs Weapon Skins Bundle",
       "discount": 30,
       "orig_cents": 499,
