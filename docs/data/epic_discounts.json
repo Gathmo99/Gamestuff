@@ -281,14 +281,14 @@
       "final_price_str": "0,89 €"
     },
     {
-      "appid": "42ddee26e77e43c8bee2df7ac6e79e87",
-      "namespace": "aa7d37f1f2354cff8a1e1c25765382dc",
-      "name": "Relicbound",
+      "appid": "431ef6a0c3fd4aaab390ceb2f1904bc3",
+      "namespace": "0024d18025a544fd99b2ee8dee87baaf",
+      "name": "Happy Game",
       "discount": 80,
-      "orig_cents": 1079,
-      "final_cents": 215,
-      "orig_price_str": "10,79 €",
-      "final_price_str": "2,15 €"
+      "orig_cents": 1499,
+      "final_cents": 299,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "2,99 €"
     },
     {
       "appid": "2380ff7131674e7194f4cd81067ffeba",
@@ -449,6 +449,16 @@
       "final_cents": 337,
       "orig_price_str": "13,49 €",
       "final_price_str": "3,37 €"
+    },
+    {
+      "appid": "01fc5432d5b04aeeb9d5fbdb68f5643a",
+      "namespace": "eb0ab26d3ef7447baec07084f6b89752",
+      "name": "Survival In The Backrooms",
+      "discount": 75,
+      "orig_cents": 179,
+      "final_cents": 44,
+      "orig_price_str": "1,79 €",
+      "final_price_str": "0,44 €"
     },
     {
       "appid": "843cbe6a2b6a448c8b62f2f4dca06daf",
@@ -1291,16 +1301,6 @@
       "final_price_str": "5,99 €"
     },
     {
-      "appid": "4d4ab0a971004b14b11b922677f6c8eb",
-      "namespace": "ce768a1122ee476585c56f470915e279",
-      "name": "The Trap Remake",
-      "discount": 50,
-      "orig_cents": 1709,
-      "final_cents": 854,
-      "orig_price_str": "17,09 €",
-      "final_price_str": "8,54 €"
-    },
-    {
       "appid": "a0bfa081c4aa4cacb59e6f512c130dc1",
       "namespace": "a14a02aa3c8143729605eaf7c93d7501",
       "name": "Battlefield™ 6",
@@ -1639,6 +1639,36 @@
       "final_cents": 674,
       "orig_price_str": "13,49 €",
       "final_price_str": "6,74 €"
+    },
+    {
+      "appid": "134f08cc143940aca59206549a5ad445",
+      "namespace": "37b92b2c81b24185aa6d1bfa70cef42c",
+      "name": "Beyond Limits: The Parkour Game",
+      "discount": 50,
+      "orig_cents": 249,
+      "final_cents": 124,
+      "orig_price_str": "2,49 €",
+      "final_price_str": "1,24 €"
+    },
+    {
+      "appid": "77cec11f693843f592f99ca878b90d58",
+      "namespace": "2f7dd9c2f1a4416fbcfed127b9873f65",
+      "name": "Cataclismo",
+      "discount": 50,
+      "orig_cents": 2999,
+      "final_cents": 1499,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "14,99 €"
+    },
+    {
+      "appid": "d68bc5ec23e74c18b82243048282484f",
+      "namespace": "ebd3c2f3fff74d79a87fa48bbf5d1013",
+      "name": "MySims™: Cozy Bundle",
+      "discount": 50,
+      "orig_cents": 3999,
+      "final_cents": 1999,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "19,99 €"
     },
     {
       "appid": "050a7c9389bc4fc4b16730a6289a762f",
@@ -2171,16 +2201,6 @@
       "final_price_str": "14,55 €"
     },
     {
-      "appid": "8a290aa51a914c56bb463a171a24d02f",
-      "namespace": "033b4e36509a4e9cb32406e341534f52",
-      "name": "Cloudheim",
-      "discount": 34,
-      "orig_cents": 2699,
-      "final_cents": 1781,
-      "orig_price_str": "26,99 €",
-      "final_price_str": "17,81 €"
-    },
-    {
       "appid": "2f5e315a02564ffd9c6c496c2301615d",
       "namespace": "024e99e2bdbe49a6bd291d6789239561",
       "name": "Dying Light: The Beast",
@@ -2289,16 +2309,6 @@
       "final_cents": 251,
       "orig_price_str": "3,59 €",
       "final_price_str": "2,51 €"
-    },
-    {
-      "appid": "5e93c25f14ad43c39bb10fbc91cf4811",
-      "namespace": "b95ce3820e8f43fca6e6af104c326fd9",
-      "name": "SuperStore Simulator",
-      "discount": 30,
-      "orig_cents": 719,
-      "final_cents": 503,
-      "orig_price_str": "7,19 €",
-      "final_price_str": "5,03 €"
     },
     {
       "appid": "8837ecf6a4ba404d95230a36a55f79d7",
@@ -2421,6 +2431,16 @@
       "final_price_str": "2,79 €"
     },
     {
+      "appid": "f00128eaf1e74447bdf1a44b3c5b9791",
+      "namespace": "6bd2467cefea45f086ceec4c9d90d9bd",
+      "name": "Gnomes Garden 9: Lifeseeds Collector's Edition",
+      "discount": 30,
+      "orig_cents": 1349,
+      "final_cents": 944,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "9,44 €"
+    },
+    {
       "appid": "0500ec35d1bb45dc8813dd87781a26ac",
       "namespace": "b9228be932df4202b462d49bd9dc5949",
       "name": "Elven Rivers 2 New Horizons",
@@ -2499,16 +2519,6 @@
       "final_cents": 1399,
       "orig_price_str": "19,99 €",
       "final_price_str": "13,99 €"
-    },
-    {
-      "appid": "8a21c04f58f2463bad15c4909eb95536",
-      "namespace": "ebeef598c1b945958253e3aa3b65e078",
-      "name": "Football Referee Simulator",
-      "discount": 30,
-      "orig_cents": 89,
-      "final_cents": 62,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,62 €"
     },
     {
       "appid": "504edbcd26ae4320a2d1443a989539fd",
@@ -2821,14 +2831,14 @@
       "final_price_str": "14,39 €"
     },
     {
-      "appid": "ec147e0da41347fe8a559706d7a2acf0",
-      "namespace": "9cbe91d966cc4219b07b68acfaf69a9f",
-      "name": "TerraTech Legion",
+      "appid": "e591ae34a7cf48309102b60e233a2dd5",
+      "namespace": "3a6e14723b4b4cb1a9c0625e368f3dec",
+      "name": "Phonopolis",
       "discount": 20,
-      "orig_cents": 999,
-      "final_cents": 799,
-      "orig_price_str": "9,99 €",
-      "final_price_str": "7,99 €"
+      "orig_cents": 2199,
+      "final_cents": 1759,
+      "orig_price_str": "21,99 €",
+      "final_price_str": "17,59 €"
     },
     {
       "appid": "5ee6b13eb94b4d5eae904f6f5e7d6a95",
@@ -2921,16 +2931,6 @@
       "final_price_str": "63,99 €"
     },
     {
-      "appid": "6d532006fe034eeea84c3953c33f8753",
-      "namespace": "d8f85787b3aa4100892f1a7621cdf1f8",
-      "name": "The Cursed Legacy",
-      "discount": 20,
-      "orig_cents": 629,
-      "final_cents": 503,
-      "orig_price_str": "6,29 €",
-      "final_price_str": "5,03 €"
-    },
-    {
       "appid": "03c9e4679725466891f8d72c832dcc01",
       "namespace": "cdf68ea2cdbd443ca0bd1de2d9cfea68",
       "name": "Resident Evil Requiem",
@@ -3001,5 +3001,5 @@
       "final_price_str": "10,79 €"
     }
   ],
-  "total": 1497
+  "total": 1478
 }
