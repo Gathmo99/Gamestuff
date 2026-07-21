@@ -161,14 +161,14 @@
       "gamepass": ""
     },
     {
-      "appid": "9N8KMNW6942X",
-      "name": "Call of Duty®: Black Ops 7 - Cross-Gen-Bundle",
+      "appid": "9NQ0MVSLV0G7",
+      "name": "Grand Theft Auto V & CashCard „Der Weiße Hai“ im Bundle",
       "discount": 50,
-      "orig_cents": 7999,
-      "final_cents": 3999,
-      "orig_price_str": "79,99 €",
-      "final_price_str": "39,99 €",
-      "gamepass": "PC + Xbox"
+      "orig_cents": 4999,
+      "final_cents": 2499,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "24,99 €",
+      "gamepass": ""
     },
     {
       "appid": "C1QJM5XT9SXV",
@@ -251,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 2744
+  "total": 2863
 }
