@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "appid": "BVH2R2SBWL51",
+      "name": "Need for Speed™ Heat Deluxe Edition",
+      "discount": 95,
+      "orig_cents": 7999,
+      "final_cents": 399,
+      "orig_price_str": "79,99 €",
+      "final_price_str": "3,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9PJ2RVRC0L1X",
       "name": "NBA 2K26 Standard Edition",
       "discount": 90,
@@ -51,13 +61,13 @@
       "gamepass": ""
     },
     {
-      "appid": "9MXZBTLG26VX",
-      "name": "EA SPORTS FC™ 26 Standard Edition Xbox One & Xbox Series X|S",
-      "discount": 80,
-      "orig_cents": 7999,
-      "final_cents": 1599,
-      "orig_price_str": "79,99 €",
-      "final_price_str": "15,99 €",
+      "appid": "9N9Z4S1RD397",
+      "name": "Metro Saga Bundle",
+      "discount": 85,
+      "orig_cents": 5999,
+      "final_cents": 899,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "8,99 €",
       "gamepass": ""
     },
     {
@@ -68,16 +78,6 @@
       "final_cents": 1999,
       "orig_price_str": "99,99 €",
       "final_price_str": "19,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9NHL478CM00Z",
-      "name": "EA SPORTS FC™ 26 The World's Game Edition Xbox One & Xbox Series X|S",
-      "discount": 75,
-      "orig_cents": 9999,
-      "final_cents": 2499,
-      "orig_price_str": "99,99 €",
-      "final_price_str": "24,99 €",
       "gamepass": ""
     },
     {
@@ -251,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 2863
+  "total": 2730
 }
