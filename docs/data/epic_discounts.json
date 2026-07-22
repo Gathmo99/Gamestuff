@@ -301,16 +301,6 @@
       "final_price_str": "4,74 €"
     },
     {
-      "appid": "53e4c1a9bda14e1f84df55dbb012d919",
-      "namespace": "928bfa8173f249e6b79d4629b42a760d",
-      "name": "Backrooms Bodycam 3",
-      "discount": 75,
-      "orig_cents": 179,
-      "final_cents": 44,
-      "orig_price_str": "1,79 €",
-      "final_price_str": "0,44 €"
-    },
-    {
       "appid": "4b4418cd3994431190b76acec613524c",
       "namespace": "e6d61dbe4b434f2bab11109f8f1ab748",
       "name": "Go To Sleep",
@@ -871,6 +861,16 @@
       "final_price_str": "5,51 €"
     },
     {
+      "appid": "8606b3f9b5d84eef804a0942ebefe735",
+      "namespace": "ff189482dbd84cd89e224138a23e8411",
+      "name": "Undead Horde 2: Necropolis",
+      "discount": 60,
+      "orig_cents": 1529,
+      "final_cents": 611,
+      "orig_price_str": "15,29 €",
+      "final_price_str": "6,11 €"
+    },
+    {
       "appid": "5e7015b65e174329a90b50fc90194224",
       "namespace": "bd440f08d4d044dbad86cf12f273f744",
       "name": "Krogger Skull Killer",
@@ -981,6 +981,16 @@
       "final_price_str": "0,40 €"
     },
     {
+      "appid": "b355239267e5445cbd657ccdcaf37a06",
+      "namespace": "59af30a1b70a4775a1ab4773aa3e6b07",
+      "name": "Five Nights In The Backrooms",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
       "appid": "f0b8a5d294ed488a9eafa2d8fc505ecb",
       "namespace": "a1c8150f9d2a47deaaa3caa16a6854b1",
       "name": "My Desktop Girlfriend",
@@ -1011,9 +1021,9 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "95972584e56142828408575485879ae4",
-      "namespace": "bb4a3d81162f46eba9e61df349b2046c",
-      "name": "Steel Shell",
+      "appid": "329161ae07c24f219efe38b35d36378c",
+      "namespace": "4ea2e46d801343d9b5d0a7ce06d24137",
+      "name": "Ice World",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1021,9 +1031,9 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "329161ae07c24f219efe38b35d36378c",
-      "namespace": "4ea2e46d801343d9b5d0a7ce06d24137",
-      "name": "Ice World",
+      "appid": "358807be564e4328a0a40cd12225af74",
+      "namespace": "dfe09240d3794901ba97f6ebeb700c1d",
+      "name": "WINTER SADNESS SIMULATOR",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1054,16 +1064,6 @@
       "appid": "42e09a4bbc104bb5a7331bd390f9c9b6",
       "namespace": "6adb5b729f3f4299a536fda58f6c0c7e",
       "name": "Dinosaur World",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "6599ccc2869946d7976a184a4a2e8e3f",
-      "namespace": "ec2c3935293043c7818a92c139225819",
-      "name": "Haunted Forest",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
