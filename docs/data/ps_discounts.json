@@ -226,7 +226,7 @@
       "final_price_str": "3,74 €"
     },
     {
-      "appid": "EP6665-PPSA07302_00-VTMS000000000000",
+      "appid": "EP6665-CUSA33241_00-VTMS000000000000",
       "name": "Vampire: The Masquerade - Swansong",
       "discount": 85,
       "orig_cents": 2999,
@@ -235,7 +235,7 @@
       "final_price_str": "4,49 €"
     },
     {
-      "appid": "EP6665-CUSA33241_00-VTMS000000000000",
+      "appid": "EP6665-PPSA07302_00-VTMS000000000000",
       "name": "Vampire: The Masquerade - Swansong",
       "discount": 85,
       "orig_cents": 2999,
@@ -640,7 +640,7 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "EP0096-CUSA17801_00-000000000BLUESUN",
+      "appid": "EP0096-PPSA05588_00-000000000BLUESUN",
       "name": "Hellpoint - Blue Sun",
       "discount": 75,
       "orig_cents": 999,
@@ -649,7 +649,7 @@
       "final_price_str": "2,49 €"
     },
     {
-      "appid": "EP0096-PPSA05588_00-000000000BLUESUN",
+      "appid": "EP0096-CUSA17801_00-000000000BLUESUN",
       "name": "Hellpoint - Blue Sun",
       "discount": 75,
       "orig_cents": 999,
@@ -2323,7 +2323,7 @@
       "final_price_str": "9,74 €"
     },
     {
-      "appid": "EP6853-PPSA05425_00-DLCMIAMI00000000",
+      "appid": "EP2609-CUSA13930_00-DLCMIAMI00000000",
       "name": "World War Z - Deadly Vice Weapons Skin Pack",
       "discount": 30,
       "orig_cents": 499,
@@ -2332,7 +2332,7 @@
       "final_price_str": "3,49 €"
     },
     {
-      "appid": "EP2609-CUSA13930_00-DLCMIAMI00000000",
+      "appid": "EP6853-PPSA05425_00-DLCMIAMI00000000",
       "name": "World War Z - Deadly Vice Weapons Skin Pack",
       "discount": 30,
       "orig_cents": 499,
