@@ -1651,16 +1651,6 @@
       "final_price_str": "14,99 €"
     },
     {
-      "appid": "d68bc5ec23e74c18b82243048282484f",
-      "namespace": "ebd3c2f3fff74d79a87fa48bbf5d1013",
-      "name": "MySims™: Cozy Bundle",
-      "discount": 50,
-      "orig_cents": 3999,
-      "final_cents": 1999,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "19,99 €"
-    },
-    {
       "appid": "050a7c9389bc4fc4b16730a6289a762f",
       "namespace": "9bc0690ec6ca4595973337e2cae81273",
       "name": "Biped 2",
@@ -2999,7 +2989,17 @@
       "final_cents": 2399,
       "orig_price_str": "29,99 €",
       "final_price_str": "23,99 €"
+    },
+    {
+      "appid": "78c9f8071de241ae9d4a257af65dd3b7",
+      "namespace": "53a1654e4024470f916e4a0f7e79d99c",
+      "name": "Puzzle Quest - Immortal Edition",
+      "discount": 20,
+      "orig_cents": 1499,
+      "final_cents": 1199,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "11,99 €"
     }
   ],
-  "total": 1478
+  "total": 1477
 }
