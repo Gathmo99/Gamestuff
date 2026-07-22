@@ -861,16 +861,6 @@
       "final_price_str": "5,51 €"
     },
     {
-      "appid": "8606b3f9b5d84eef804a0942ebefe735",
-      "namespace": "ff189482dbd84cd89e224138a23e8411",
-      "name": "Undead Horde 2: Necropolis",
-      "discount": 60,
-      "orig_cents": 1529,
-      "final_cents": 611,
-      "orig_price_str": "15,29 €",
-      "final_price_str": "6,11 €"
-    },
-    {
       "appid": "5e7015b65e174329a90b50fc90194224",
       "namespace": "bd440f08d4d044dbad86cf12f273f744",
       "name": "Krogger Skull Killer",
@@ -2999,7 +2989,17 @@
       "final_cents": 1079,
       "orig_price_str": "13,49 €",
       "final_price_str": "10,79 €"
+    },
+    {
+      "appid": "56b4c7afc20f4a22b1f981a11dffd649",
+      "namespace": "0a7500672c114e13bd4e57ea361bd4d2",
+      "name": "The Jackbox Party Pack 11",
+      "discount": 20,
+      "orig_cents": 2999,
+      "final_cents": 2399,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "23,99 €"
     }
   ],
-  "total": 1477
+  "total": 1478
 }
