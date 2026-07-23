@@ -51,26 +51,6 @@
       "gamepass": ""
     },
     {
-      "appid": "BPPTRQZRJ341",
-      "name": "Metro 2033 Redux",
-      "discount": 85,
-      "orig_cents": 1999,
-      "final_cents": 299,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "2,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9N9Z4S1RD397",
-      "name": "Metro Saga Bundle",
-      "discount": 85,
-      "orig_cents": 5999,
-      "final_cents": 899,
-      "orig_price_str": "59,99 €",
-      "final_price_str": "8,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9PH339L3Z99C",
       "name": "Red Dead Redemption 2: Ultimate Edition",
       "discount": 80,
@@ -91,14 +71,34 @@
       "gamepass": ""
     },
     {
-      "appid": "BX03760D0QGN",
-      "name": "DRAGON BALL XENOVERSE 2",
+      "appid": "BX3S1Q5DVHRD",
+      "name": "Subnautica",
       "discount": 75,
-      "orig_cents": 1999,
-      "final_cents": 499,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "4,99 €",
-      "gamepass": "PC + Xbox"
+      "orig_cents": 2999,
+      "final_cents": 749,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "7,49 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9N7JCPPCPN37",
+      "name": "Resident Evil 4",
+      "discount": 75,
+      "orig_cents": 3999,
+      "final_cents": 999,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "9,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "BX3M8L83BBRW",
+      "name": "Cyberpunk 2077",
+      "discount": 70,
+      "orig_cents": 5999,
+      "final_cents": 1799,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "17,99 €",
+      "gamepass": "Xbox"
     },
     {
       "appid": "C492DG1TQQ09",
@@ -108,16 +108,6 @@
       "final_cents": 2309,
       "orig_price_str": "69,99 €",
       "final_price_str": "23,09 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9MXMJFNZMVWD",
-      "name": "Grand Theft Auto: The Trilogy – The Definitive Edition",
-      "discount": 67,
-      "orig_cents": 5999,
-      "final_cents": 1979,
-      "orig_price_str": "59,99 €",
-      "final_price_str": "19,79 €",
       "gamepass": ""
     },
     {
@@ -149,6 +139,16 @@
       "orig_price_str": "49,99 €",
       "final_price_str": "17,49 €",
       "gamepass": ""
+    },
+    {
+      "appid": "9P2N57MC619K",
+      "name": "Sea of Thieves: 2026 Edition",
+      "discount": 65,
+      "orig_cents": 3999,
+      "final_cents": 1399,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "13,99 €",
+      "gamepass": "PC + Xbox"
     },
     {
       "appid": "9P42LWGMC7K4",
@@ -191,13 +191,13 @@
       "gamepass": ""
     },
     {
-      "appid": "9P5B3ZVDK19D",
-      "name": "Red Dead Redemption",
+      "appid": "BVMGCSX6XPC9",
+      "name": "Call of Duty®: Black Ops",
       "discount": 50,
-      "orig_cents": 4999,
-      "final_cents": 2499,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "24,99 €",
+      "orig_cents": 3999,
+      "final_cents": 1999,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "19,99 €",
       "gamepass": ""
     },
     {
@@ -211,16 +211,6 @@
       "gamepass": ""
     },
     {
-      "appid": "BVMGCSX6XPC9",
-      "name": "Call of Duty®: Black Ops",
-      "discount": 50,
-      "orig_cents": 3999,
-      "final_cents": 1999,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "19,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9PGRV33VMSL1",
       "name": "WWE 2K26 Standard Edition",
       "discount": 50,
@@ -228,6 +218,16 @@
       "final_cents": 3999,
       "orig_price_str": "79,99 €",
       "final_price_str": "39,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9P5B3ZVDK19D",
+      "name": "Red Dead Redemption",
+      "discount": 50,
+      "orig_cents": 4999,
+      "final_cents": 2499,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "24,99 €",
       "gamepass": ""
     },
     {

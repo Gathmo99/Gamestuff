@@ -1,26 +1,6 @@
 {
   "items": [
     {
-      "appid": "371545146a944478ad5a87f9b581ac29",
-      "namespace": "2c198b4055e64df698944727dbb561ea",
-      "name": "Echo Generation: Midnight Edition",
-      "discount": 100,
-      "orig_cents": 2239,
-      "final_cents": 0,
-      "orig_price_str": "22,39 €",
-      "final_price_str": "0,00 €"
-    },
-    {
-      "appid": "c27f2bb0dd9b4c4ca4973e653ab8a5be",
-      "namespace": "9f3ffc77b7264d63859bfd9bc935c9f8",
-      "name": "Luto",
-      "discount": 100,
-      "orig_cents": 1999,
-      "final_cents": 0,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "0,00 €"
-    },
-    {
       "appid": "c2e1cfa7321d4ca4b619e3e1be8de86f",
       "namespace": "335a2061a040402896e62a5a2c8951b2",
       "name": "Together After Dark",
@@ -371,16 +351,6 @@
       "final_price_str": "3,74 €"
     },
     {
-      "appid": "5ea0c80f094c493a9d726a12b482eda8",
-      "namespace": "6952f77c70cf43e6b61e312d7aa60a82",
-      "name": "001 Game Creator",
-      "discount": 75,
-      "orig_cents": 7199,
-      "final_cents": 1799,
-      "orig_price_str": "71,99 €",
-      "final_price_str": "17,99 €"
-    },
-    {
       "appid": "70743bc1d3cc427da8b55e1bc79ca95c",
       "namespace": "4f97805eeaf3401095c8baba3bbfa566",
       "name": "Soulslinger: Envoy of Death",
@@ -439,16 +409,6 @@
       "final_cents": 337,
       "orig_price_str": "13,49 €",
       "final_price_str": "3,37 €"
-    },
-    {
-      "appid": "01fc5432d5b04aeeb9d5fbdb68f5643a",
-      "namespace": "eb0ab26d3ef7447baec07084f6b89752",
-      "name": "Survival In The Backrooms",
-      "discount": 75,
-      "orig_cents": 179,
-      "final_cents": 44,
-      "orig_price_str": "1,79 €",
-      "final_price_str": "0,44 €"
     },
     {
       "appid": "843cbe6a2b6a448c8b62f2f4dca06daf",
@@ -1621,36 +1581,6 @@
       "final_price_str": "8,30 €"
     },
     {
-      "appid": "c00374ac6d9b411dbbadb3567d1757f2",
-      "namespace": "147bb3c2351e4737b808af2b0bc65112",
-      "name": "Breakout Beyond",
-      "discount": 50,
-      "orig_cents": 1349,
-      "final_cents": 674,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "6,74 €"
-    },
-    {
-      "appid": "134f08cc143940aca59206549a5ad445",
-      "namespace": "37b92b2c81b24185aa6d1bfa70cef42c",
-      "name": "Beyond Limits: The Parkour Game",
-      "discount": 50,
-      "orig_cents": 249,
-      "final_cents": 124,
-      "orig_price_str": "2,49 €",
-      "final_price_str": "1,24 €"
-    },
-    {
-      "appid": "77cec11f693843f592f99ca878b90d58",
-      "namespace": "2f7dd9c2f1a4416fbcfed127b9873f65",
-      "name": "Cataclismo",
-      "discount": 50,
-      "orig_cents": 2999,
-      "final_cents": 1499,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "14,99 €"
-    },
-    {
       "appid": "050a7c9389bc4fc4b16730a6289a762f",
       "namespace": "9bc0690ec6ca4595973337e2cae81273",
       "name": "Biped 2",
@@ -2021,6 +1951,16 @@
       "final_price_str": "11,09 €"
     },
     {
+      "appid": "320642f337214e3eaf8d984207ef0a95",
+      "namespace": "9cdcb83442bd412fa8d0c47704e358b7",
+      "name": "Promise Mascot Agency",
+      "discount": 37,
+      "orig_cents": 2239,
+      "final_cents": 1410,
+      "orig_price_str": "22,39 €",
+      "final_price_str": "14,10 €"
+    },
+    {
       "appid": "9302075851314876b2a02b14299a5dd3",
       "namespace": "c75aa92cb8074dc0904736670b93a425",
       "name": "Umpteenth Photo",
@@ -2189,6 +2129,46 @@
       "final_cents": 3959,
       "orig_price_str": "59,99 €",
       "final_price_str": "39,59 €"
+    },
+    {
+      "appid": "165086d4d8ed4b27b411a40b6aa95e47",
+      "namespace": "ccb3c1945ea745188e02585a3f7f07fe",
+      "name": "Dino Run DX",
+      "discount": 33,
+      "orig_cents": 539,
+      "final_cents": 361,
+      "orig_price_str": "5,39 €",
+      "final_price_str": "3,61 €"
+    },
+    {
+      "appid": "2307f3ec0f6846be9ca7597140b348a5",
+      "namespace": "bcdfb35845014b808ef55b9f35960e7e",
+      "name": "Grid Ranger",
+      "discount": 33,
+      "orig_cents": 359,
+      "final_cents": 240,
+      "orig_price_str": "3,59 €",
+      "final_price_str": "2,40 €"
+    },
+    {
+      "appid": "401e24b1fb7d4a35b9cdfb94e0b53cbf",
+      "namespace": "781a0805bc994cd5985fb0e5453aa52e",
+      "name": "Snowball!",
+      "discount": 33,
+      "orig_cents": 359,
+      "final_cents": 240,
+      "orig_price_str": "3,59 €",
+      "final_price_str": "2,40 €"
+    },
+    {
+      "appid": "ccc7447ab7194c9dad1c5a9c8fec9b2d",
+      "namespace": "4751083c0d194540bcd4d55501a07f0b",
+      "name": "Glorkian Warrior: Trials of Glork",
+      "discount": 33,
+      "orig_cents": 449,
+      "final_cents": 300,
+      "orig_price_str": "4,49 €",
+      "final_price_str": "3,00 €"
     },
     {
       "appid": "83cdd033e1dc45829f7eed814b21c6c2",
@@ -2441,6 +2421,16 @@
       "final_price_str": "9,44 €"
     },
     {
+      "appid": "444bdda719ca4f0788ae900ec468fc8b",
+      "namespace": "d20e3f9e78404dbd9ed96ff4c8a5886e",
+      "name": "The teacher fell in love with me 2",
+      "discount": 30,
+      "orig_cents": 809,
+      "final_cents": 566,
+      "orig_price_str": "8,09 €",
+      "final_price_str": "5,66 €"
+    },
+    {
       "appid": "f6752eaa5d30439e91e913356b7bbb09",
       "namespace": "6100865c12fb43d6a8e5825c7d8c0c7b",
       "name": "The Promise Tree of Alden",
@@ -2549,16 +2539,6 @@
       "final_cents": 629,
       "orig_price_str": "8,99 €",
       "final_price_str": "6,29 €"
-    },
-    {
-      "appid": "2e9962f21c314595998c5e6dd8be9f55",
-      "namespace": "2fb538cb267a4d3db252beee84659e97",
-      "name": "AI Limit",
-      "discount": 30,
-      "orig_cents": 3499,
-      "final_cents": 2449,
-      "orig_price_str": "34,99 €",
-      "final_price_str": "24,49 €"
     },
     {
       "appid": "fe35cade7e5d4847b4ddee88f5ffc2c8",
@@ -2741,16 +2721,6 @@
       "final_price_str": "37,49 €"
     },
     {
-      "appid": "0ea3b06d585344d19a7fa81de7606d54",
-      "namespace": "546da52e27c143c2b0addecce29eec55",
-      "name": "Little Comet",
-      "discount": 25,
-      "orig_cents": 359,
-      "final_cents": 269,
-      "orig_price_str": "3,59 €",
-      "final_price_str": "2,69 €"
-    },
-    {
       "appid": "67793b79bf5d49b3b59df0de95fc1a30",
       "namespace": "4512deb976bb43519048c4254e17ebb4",
       "name": "The Last Gas Station",
@@ -2759,6 +2729,16 @@
       "final_cents": 1091,
       "orig_price_str": "13,99 €",
       "final_price_str": "10,91 €"
+    },
+    {
+      "appid": "439c8da488ff4d7288558f000b532659",
+      "namespace": "144f5a0a7b55497eb327f2a90ccf0a15",
+      "name": "Stocking Angel",
+      "discount": 20,
+      "orig_cents": 449,
+      "final_cents": 359,
+      "orig_price_str": "4,49 €",
+      "final_price_str": "3,59 €"
     },
     {
       "appid": "be8ccccd9734406d89b5d6cad9b88990",
@@ -2999,7 +2979,27 @@
       "final_cents": 1199,
       "orig_price_str": "14,99 €",
       "final_price_str": "11,99 €"
+    },
+    {
+      "appid": "c7b717385af44dbb990d9ff1203ec8a4",
+      "namespace": "1bf0d3f6f04e4e778518170f69c5ba78",
+      "name": "Nanomon Virtual Pet",
+      "discount": 20,
+      "orig_cents": 1349,
+      "final_cents": 1079,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "10,79 €"
+    },
+    {
+      "appid": "f9e448554e9c4e38a1c5a1a1f2259f98",
+      "namespace": "f904c9f3296f49d38ca12f0a1f03937f",
+      "name": "Infinite Rails",
+      "discount": 20,
+      "orig_cents": 1529,
+      "final_cents": 1223,
+      "orig_price_str": "15,29 €",
+      "final_price_str": "12,23 €"
     }
   ],
-  "total": 1479
+  "total": 1485
 }

@@ -1,16 +1,10 @@
 {
   "items": [
     {
-      "appid": "c27f2bb0dd9b4c4ca4973e653ab8a5be",
-      "name": "Luto",
+      "appid": "223c59e227e74e079a1bbe5a234b896f",
+      "name": "Foretales",
       "orig_cents": 1999,
       "orig_price_str": "19,99 €"
-    },
-    {
-      "appid": "371545146a944478ad5a87f9b581ac29",
-      "name": "Echo Generation: Midnight Edition",
-      "orig_cents": 2239,
-      "orig_price_str": "22,39 €"
     }
   ]
 }
