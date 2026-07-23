@@ -1027,7 +1027,7 @@
       "final_price_str": "1,49 €"
     },
     {
-      "appid": "EP4389-PPSA03838_00-SPELLFORCE3CE000",
+      "appid": "EP4389-CUSA24277_00-SPELLFORCE3CE000",
       "name": "SpellForce III Reforced: Complete Edition",
       "discount": 70,
       "orig_cents": 5999,
@@ -1036,7 +1036,7 @@
       "final_price_str": "17,99 €"
     },
     {
-      "appid": "EP4389-CUSA24277_00-SPELLFORCE3CE000",
+      "appid": "EP4389-PPSA03838_00-SPELLFORCE3CE000",
       "name": "SpellForce III Reforced: Complete Edition",
       "discount": 70,
       "orig_cents": 5999,
@@ -1612,7 +1612,7 @@
       "final_price_str": "5,99 €"
     },
     {
-      "appid": "EP0122-PPSA05348_00-LODOSSWARDEEDLIT",
+      "appid": "EP0122-CUSA30409_00-LODOSSWARDEEDLIT",
       "name": "Record of Lodoss War: Deedlit in Wonder Labyrinth",
       "discount": 55,
       "orig_cents": 2499,
@@ -1621,7 +1621,7 @@
       "final_price_str": "11,24 €"
     },
     {
-      "appid": "EP0122-CUSA30409_00-LODOSSWARDEEDLIT",
+      "appid": "EP0122-PPSA05348_00-LODOSSWARDEEDLIT",
       "name": "Record of Lodoss War: Deedlit in Wonder Labyrinth",
       "discount": 55,
       "orig_cents": 2499,
@@ -2323,15 +2323,6 @@
       "final_price_str": "9,74 €"
     },
     {
-      "appid": "EP2609-CUSA13930_00-DLCMIAMI00000000",
-      "name": "World War Z - Deadly Vice Weapons Skin Pack",
-      "discount": 30,
-      "orig_cents": 499,
-      "final_cents": 349,
-      "orig_price_str": "4,99 €",
-      "final_price_str": "3,49 €"
-    },
-    {
       "appid": "EP6853-PPSA05425_00-DLCMIAMI00000000",
       "name": "World War Z - Deadly Vice Weapons Skin Pack",
       "discount": 30,
@@ -2341,8 +2332,8 @@
       "final_price_str": "3,49 €"
     },
     {
-      "appid": "EP6853-PPSA05425_00-DLCRAT0000000000",
-      "name": "World War Z - The Rat Packs Weapon Skins Bundle",
+      "appid": "EP2609-CUSA13930_00-DLCMIAMI00000000",
+      "name": "World War Z - Deadly Vice Weapons Skin Pack",
       "discount": 30,
       "orig_cents": 499,
       "final_cents": 349,
@@ -2351,6 +2342,15 @@
     },
     {
       "appid": "EP2609-CUSA13930_00-DLCRAT0000000000",
+      "name": "World War Z - The Rat Packs Weapon Skins Bundle",
+      "discount": 30,
+      "orig_cents": 499,
+      "final_cents": 349,
+      "orig_price_str": "4,99 €",
+      "final_price_str": "3,49 €"
+    },
+    {
+      "appid": "EP6853-PPSA05425_00-DLCRAT0000000000",
       "name": "World War Z - The Rat Packs Weapon Skins Bundle",
       "discount": 30,
       "orig_cents": 499,
