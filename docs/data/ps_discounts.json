@@ -640,7 +640,7 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "EP0096-PPSA05588_00-000000000BLUESUN",
+      "appid": "EP0096-CUSA17801_00-000000000BLUESUN",
       "name": "Hellpoint - Blue Sun",
       "discount": 75,
       "orig_cents": 999,
@@ -649,7 +649,7 @@
       "final_price_str": "2,49 €"
     },
     {
-      "appid": "EP0096-CUSA17801_00-000000000BLUESUN",
+      "appid": "EP0096-PPSA05588_00-000000000BLUESUN",
       "name": "Hellpoint - Blue Sun",
       "discount": 75,
       "orig_cents": 999,
