@@ -391,16 +391,6 @@
       "final_price_str": "0,89 €"
     },
     {
-      "appid": "fed536f1656f4fb5be44976dec56544c",
-      "namespace": "1ed0b11b83a54b8a920f4996a08738f7",
-      "name": "Brigand: Gold",
-      "discount": 75,
-      "orig_cents": 1349,
-      "final_cents": 337,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "3,37 €"
-    },
-    {
       "appid": "843cbe6a2b6a448c8b62f2f4dca06daf",
       "namespace": "4226a003e0f7413081c2f2dfb13a27c1",
       "name": "sqwrk",
@@ -1561,24 +1551,14 @@
       "final_price_str": "6,74 €"
     },
     {
-      "appid": "656c85a55ad54d48a8c76e4481cce9bb",
-      "namespace": "b38a9b64eb734e9db6dcae0f3fb74e42",
-      "name": "Depth Dwellers 1994",
-      "discount": 50,
-      "orig_cents": 179,
-      "final_cents": 89,
-      "orig_price_str": "1,79 €",
-      "final_price_str": "0,89 €"
-    },
-    {
-      "appid": "8f0ae2b4fbe14ac285f0da87c45199ce",
-      "namespace": "d5d29e732694451f98aed53320b29db0",
-      "name": "Inayah - Life after Gods",
-      "discount": 50,
-      "orig_cents": 1660,
-      "final_cents": 830,
-      "orig_price_str": "16,60 €",
-      "final_price_str": "8,30 €"
+      "appid": "1d69c23ae10447f28398e176bbbe1d4f",
+      "namespace": "235adc8977fd4440a1a52396effdc624",
+      "name": "CLAWPUNK",
+      "discount": 45,
+      "orig_cents": 999,
+      "final_cents": 549,
+      "orig_price_str": "9,99 €",
+      "final_price_str": "5,49 €"
     },
     {
       "appid": "050a7c9389bc4fc4b16730a6289a762f",
@@ -1589,6 +1569,16 @@
       "final_cents": 1016,
       "orig_price_str": "18,49 €",
       "final_price_str": "10,16 €"
+    },
+    {
+      "appid": "bda6f0f9ed8047e1a9038199af04d8bd",
+      "namespace": "0ae7da2330914e3293c76e88ad0bcf5d",
+      "name": "Grit and Valor - 1949",
+      "discount": 45,
+      "orig_cents": 1799,
+      "final_cents": 989,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "9,89 €"
     },
     {
       "appid": "7ae00c3e89174012b175cc73b4737723",
@@ -2471,6 +2461,16 @@
       "final_price_str": "17,49 €"
     },
     {
+      "appid": "a3c6e762c73d4b5e9e8637c0c87506c3",
+      "namespace": "b852dd8a3ca34d1caaba0a50c1857e7d",
+      "name": "Plambra Dash: The Parkour Game Part II",
+      "discount": 30,
+      "orig_cents": 199,
+      "final_cents": 139,
+      "orig_price_str": "1,99 €",
+      "final_price_str": "1,39 €"
+    },
+    {
       "appid": "041bba11c58a45cf9a4901b53223ea72",
       "namespace": "58a6801afae641ea836f9f4131eddae5",
       "name": "Discounty",
@@ -3001,5 +3001,5 @@
       "final_price_str": "10,79 €"
     }
   ],
-  "total": 1488
+  "total": 1491
 }
