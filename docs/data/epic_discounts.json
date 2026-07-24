@@ -151,16 +151,6 @@
       "final_price_str": "8,99 €"
     },
     {
-      "appid": "78b49b31ca3a43cea39b552555deb72b",
-      "namespace": "49746e7a850e4d9d9c7390b9ed032db0",
-      "name": "Backrooms Bodycam 2",
-      "discount": 85,
-      "orig_cents": 269,
-      "final_cents": 40,
-      "orig_price_str": "2,69 €",
-      "final_price_str": "0,40 €"
-    },
-    {
       "appid": "e6ba66595ac44188b69ce5ed15d13b82",
       "namespace": "955298a66e774a858d59e4fb83562c1b",
       "name": "Trine Enchanted Edition",
@@ -1001,16 +991,6 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "d10aa9befbd74811a9084de0e3b38951",
-      "namespace": "4b0ef32b54c242ecb15ee55741302041",
-      "name": "Girls In Backrooms",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
       "appid": "42e09a4bbc104bb5a7331bd390f9c9b6",
       "namespace": "6adb5b729f3f4299a536fda58f6c0c7e",
       "name": "Dinosaur World",
@@ -1311,6 +1291,16 @@
       "final_price_str": "12,49 €"
     },
     {
+      "appid": "8547da63b6d4400998556d9dfe03adc0",
+      "namespace": "171e18073bb14614afece915f51b0a25",
+      "name": "Folly of the Wizards",
+      "discount": 50,
+      "orig_cents": 2699,
+      "final_cents": 1349,
+      "orig_price_str": "26,99 €",
+      "final_price_str": "13,49 €"
+    },
+    {
       "appid": "6d7bfc121f4747da81aa5ed1c9303992",
       "namespace": "bce77c3a15d24a188f708445b08bf0f6",
       "name": "Store It!",
@@ -1339,6 +1329,16 @@
       "final_cents": 3499,
       "orig_price_str": "69,99 €",
       "final_price_str": "34,99 €"
+    },
+    {
+      "appid": "d9f11541346e453a9e353c50d250f4e8",
+      "namespace": "7839073b446a4973b6c41efca8b17519",
+      "name": "Neon Apex - Beyond the Limit",
+      "discount": 50,
+      "orig_cents": 2239,
+      "final_cents": 1119,
+      "orig_price_str": "22,39 €",
+      "final_price_str": "11,19 €"
     },
     {
       "appid": "e85acce0bb1142de9d929974c0e0881f",
@@ -2661,6 +2661,16 @@
       "final_price_str": "18,74 €"
     },
     {
+      "appid": "b8575f59d63942a08ce76d9783d4e7b0",
+      "namespace": "97dd3cfc5bc14452918bc641d6b5ee5a",
+      "name": "Lumo 2",
+      "discount": 25,
+      "orig_cents": 2239,
+      "final_cents": 1679,
+      "orig_price_str": "22,39 €",
+      "final_price_str": "16,79 €"
+    },
+    {
       "appid": "0561a4bd0bb941cd8984f6a56c4a9bae",
       "namespace": "b94d2c661d764f5ba8841bbbce185dbd",
       "name": "Ys vs. Trails in the Sky: Alternative Saga",
@@ -2989,17 +2999,7 @@
       "final_cents": 1079,
       "orig_price_str": "13,49 €",
       "final_price_str": "10,79 €"
-    },
-    {
-      "appid": "f9e448554e9c4e38a1c5a1a1f2259f98",
-      "namespace": "f904c9f3296f49d38ca12f0a1f03937f",
-      "name": "Infinite Rails",
-      "discount": 20,
-      "orig_cents": 1529,
-      "final_cents": 1223,
-      "orig_price_str": "15,29 €",
-      "final_price_str": "12,23 €"
     }
   ],
-  "total": 1485
+  "total": 1488
 }
