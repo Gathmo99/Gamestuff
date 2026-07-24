@@ -1441,6 +1441,16 @@
       "final_price_str": "17,49 €"
     },
     {
+      "appid": "226835e6ad724003a0da729d57f3d4e0",
+      "namespace": "9aef8a4b03674ce4b61922d7d13995af",
+      "name": "MindsEye",
+      "discount": 50,
+      "orig_cents": 3549,
+      "final_cents": 1774,
+      "orig_price_str": "35,49 €",
+      "final_price_str": "17,74 €"
+    },
+    {
       "appid": "cff197e3afc54133ad9b54a641d03eb7",
       "namespace": "5989c9eb81cb4d61a3fcfd0b313a8059",
       "name": "Voidsayer",
@@ -2221,16 +2231,6 @@
       "final_price_str": "6,02 €"
     },
     {
-      "appid": "26769ccdaf9a4ce1a97d91f16c0cb5bf",
-      "namespace": "dae3b680039e4315aeca28d59c081758",
-      "name": "DEADWAVE",
-      "discount": 30,
-      "orig_cents": 899,
-      "final_cents": 629,
-      "orig_price_str": "8,99 €",
-      "final_price_str": "6,29 €"
-    },
-    {
       "appid": "fb65dfddcd5b4c15924fc97ef9dbad0f",
       "namespace": "776f36c1d52a4124bbf9c07b48e6cf1f",
       "name": "Corsairs - Battle of the Caribbean",
@@ -3001,5 +3001,5 @@
       "final_price_str": "10,79 €"
     }
   ],
-  "total": 1491
+  "total": 1488
 }
