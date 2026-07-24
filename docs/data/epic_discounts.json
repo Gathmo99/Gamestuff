@@ -1881,16 +1881,6 @@
       "final_price_str": "8,99 €"
     },
     {
-      "appid": "76be7127c0f443b08cf849e892f7b65a",
-      "namespace": "08d6df03616c42388556ce5fc1366d3d",
-      "name": "WUCHANG: Fallen Feathers",
-      "discount": 40,
-      "orig_cents": 4999,
-      "final_cents": 2999,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "29,99 €"
-    },
-    {
       "appid": "66c4e82d2d1d486fa221d24928186302",
       "namespace": "a708d9b8bdd44b5ebebbd2af7ac3d90c",
       "name": "Wheel World",
@@ -2509,6 +2499,16 @@
       "final_cents": 2449,
       "orig_price_str": "34,99 €",
       "final_price_str": "24,49 €"
+    },
+    {
+      "appid": "76be7127c0f443b08cf849e892f7b65a",
+      "namespace": "08d6df03616c42388556ce5fc1366d3d",
+      "name": "WUCHANG: Fallen Feathers",
+      "discount": 30,
+      "orig_cents": 4999,
+      "final_cents": 3499,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "34,99 €"
     },
     {
       "appid": "32e736993b754f3084a01d2bba1be035",

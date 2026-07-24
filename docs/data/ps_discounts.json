@@ -226,7 +226,7 @@
       "final_price_str": "3,74 €"
     },
     {
-      "appid": "EP6665-CUSA33241_00-VTMS000000000000",
+      "appid": "EP6665-PPSA07302_00-VTMS000000000000",
       "name": "Vampire: The Masquerade - Swansong",
       "discount": 85,
       "orig_cents": 2999,
@@ -235,7 +235,7 @@
       "final_price_str": "4,49 €"
     },
     {
-      "appid": "EP6665-PPSA07302_00-VTMS000000000000",
+      "appid": "EP6665-CUSA33241_00-VTMS000000000000",
       "name": "Vampire: The Masquerade - Swansong",
       "discount": 85,
       "orig_cents": 2999,
@@ -496,7 +496,7 @@
       "final_price_str": "4,99 €"
     },
     {
-      "appid": "EP5938-CUSA33452_00-CLIVENWRENCH0PS4",
+      "appid": "EP5938-PPSA07451_00-CLIVENWRENCH0PS5",
       "name": "Clive 'N' Wrench",
       "discount": 75,
       "orig_cents": 2999,
@@ -505,7 +505,7 @@
       "final_price_str": "7,49 €"
     },
     {
-      "appid": "EP5938-PPSA07451_00-CLIVENWRENCH0PS5",
+      "appid": "EP5938-CUSA33452_00-CLIVENWRENCH0PS4",
       "name": "Clive 'N' Wrench",
       "discount": 75,
       "orig_cents": 2999,
@@ -1261,7 +1261,7 @@
       "final_price_str": "2,79 €"
     },
     {
-      "appid": "EP0290-CUSA26922_00-GODFALLULTIMATE0",
+      "appid": "EP0290-PPSA01349_00-GODFALLULTIMATE0",
       "name": "Godfall Ultimate Edition",
       "discount": 65,
       "orig_cents": 3999,
@@ -1270,7 +1270,7 @@
       "final_price_str": "13,99 €"
     },
     {
-      "appid": "EP0290-PPSA01349_00-GODFALLULTIMATE0",
+      "appid": "EP0290-CUSA26922_00-GODFALLULTIMATE0",
       "name": "Godfall Ultimate Edition",
       "discount": 65,
       "orig_cents": 3999,
@@ -1612,7 +1612,7 @@
       "final_price_str": "5,99 €"
     },
     {
-      "appid": "EP0122-CUSA30409_00-LODOSSWARDEEDLIT",
+      "appid": "EP0122-PPSA05348_00-LODOSSWARDEEDLIT",
       "name": "Record of Lodoss War: Deedlit in Wonder Labyrinth",
       "discount": 55,
       "orig_cents": 2499,
@@ -1621,7 +1621,7 @@
       "final_price_str": "11,24 €"
     },
     {
-      "appid": "EP0122-PPSA05348_00-LODOSSWARDEEDLIT",
+      "appid": "EP0122-CUSA30409_00-LODOSSWARDEEDLIT",
       "name": "Record of Lodoss War: Deedlit in Wonder Labyrinth",
       "discount": 55,
       "orig_cents": 2499,
@@ -1765,7 +1765,7 @@
       "final_price_str": "17,99 €"
     },
     {
-      "appid": "EP4060-CUSA32315_00-DELUXEEDITION000",
+      "appid": "EP4060-PPSA06565_00-DELUXEEDITION000",
       "name": "Dusk Diver 2 Digital Deluxe Edition",
       "discount": 50,
       "orig_cents": 5999,
@@ -1774,7 +1774,7 @@
       "final_price_str": "29,99 €"
     },
     {
-      "appid": "EP4060-PPSA06565_00-DELUXEEDITION000",
+      "appid": "EP4060-CUSA32315_00-DELUXEEDITION000",
       "name": "Dusk Diver 2 Digital Deluxe Edition",
       "discount": 50,
       "orig_cents": 5999,
@@ -2395,7 +2395,7 @@
       "final_price_str": "1,74 €"
     },
     {
-      "appid": "EP6853-PPSA05425_00-DLCRAVEN00000000",
+      "appid": "EP2609-CUSA13930_00-DLCRAVEN00000000",
       "name": "World War Z - Raven Weapons Skin Pack",
       "discount": 30,
       "orig_cents": 499,
@@ -2404,7 +2404,7 @@
       "final_price_str": "3,49 €"
     },
     {
-      "appid": "EP2609-CUSA13930_00-DLCRAVEN00000000",
+      "appid": "EP6853-PPSA05425_00-DLCRAVEN00000000",
       "name": "World War Z - Raven Weapons Skin Pack",
       "discount": 30,
       "orig_cents": 499,
