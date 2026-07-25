@@ -381,16 +381,6 @@
       "final_price_str": "14,99 €"
     },
     {
-      "appid": "3121d75591e74dfcbeb95c6fa10d9874",
-      "namespace": "e54d691e36d44ba88e2be4b2e4c16535",
-      "name": "PROJECT_ORIGINS",
-      "discount": 75,
-      "orig_cents": 359,
-      "final_cents": 89,
-      "orig_price_str": "3,59 €",
-      "final_price_str": "0,89 €"
-    },
-    {
       "appid": "843cbe6a2b6a448c8b62f2f4dca06daf",
       "namespace": "4226a003e0f7413081c2f2dfb13a27c1",
       "name": "sqwrk",
@@ -1059,6 +1049,16 @@
       "final_cents": 499,
       "orig_price_str": "9,99 €",
       "final_price_str": "4,99 €"
+    },
+    {
+      "appid": "7f48b836da4d410bb6e4c65beb0280c1",
+      "namespace": "be2c119d693440b58a97ac9aa41cb341",
+      "name": "The last roman village",
+      "discount": 50,
+      "orig_cents": 359,
+      "final_cents": 179,
+      "orig_price_str": "3,59 €",
+      "final_price_str": "1,79 €"
     },
     {
       "appid": "80807913f3274528af425ceef1c5ecbc",
@@ -2711,16 +2711,6 @@
       "final_price_str": "29,99 €"
     },
     {
-      "appid": "daa1e6882a224a2fa913db00747a5e64",
-      "namespace": "7c64b0352fb7449082d7331141b36d97",
-      "name": "Commandos: Origins",
-      "discount": 25,
-      "orig_cents": 4999,
-      "final_cents": 3749,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "37,49 €"
-    },
-    {
       "appid": "67793b79bf5d49b3b59df0de95fc1a30",
       "namespace": "4512deb976bb43519048c4254e17ebb4",
       "name": "The Last Gas Station",
@@ -2729,6 +2719,16 @@
       "final_cents": 1091,
       "orig_price_str": "13,99 €",
       "final_price_str": "10,91 €"
+    },
+    {
+      "appid": "af0bac92ab4c4c0f9ed6b36025916ded",
+      "namespace": "095f6c7801d14240b31e732cc3e87008",
+      "name": "Fell in love with coser 15",
+      "discount": 20,
+      "orig_cents": 359,
+      "final_cents": 287,
+      "orig_price_str": "3,59 €",
+      "final_price_str": "2,87 €"
     },
     {
       "appid": "439c8da488ff4d7288558f000b532659",
