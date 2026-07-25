@@ -1241,16 +1241,6 @@
       "final_price_str": "11,19 €"
     },
     {
-      "appid": "ddc6d70be9a3464895aa64cb5f710a6f",
-      "namespace": "3dfc7c92bb4846b5bfbb0066ba5149e8",
-      "name": "Cafe Maid - Cute Anime Girls",
-      "discount": 50,
-      "orig_cents": 1169,
-      "final_cents": 584,
-      "orig_price_str": "11,69 €",
-      "final_price_str": "5,84 €"
-    },
-    {
       "appid": "d2fde828aafe400686f48b7c79bddeb4",
       "namespace": "a9dd509443cc4b72ac3fc7c3d68131de",
       "name": "Agatha Christie – Tod auf dem Nil",
@@ -2999,7 +2989,17 @@
       "final_cents": 1079,
       "orig_price_str": "13,49 €",
       "final_price_str": "10,79 €"
+    },
+    {
+      "appid": "f9e448554e9c4e38a1c5a1a1f2259f98",
+      "namespace": "f904c9f3296f49d38ca12f0a1f03937f",
+      "name": "Infinite Rails",
+      "discount": 20,
+      "orig_cents": 1529,
+      "final_cents": 1223,
+      "orig_price_str": "15,29 €",
+      "final_price_str": "12,23 €"
     }
   ],
-  "total": 1488
+  "total": 1487
 }
