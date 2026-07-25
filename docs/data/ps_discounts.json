@@ -226,7 +226,7 @@
       "final_price_str": "3,74 €"
     },
     {
-      "appid": "EP6665-PPSA07302_00-VTMS000000000000",
+      "appid": "EP6665-CUSA33241_00-VTMS000000000000",
       "name": "Vampire: The Masquerade - Swansong",
       "discount": 85,
       "orig_cents": 2999,
@@ -235,7 +235,7 @@
       "final_price_str": "4,49 €"
     },
     {
-      "appid": "EP6665-CUSA33241_00-VTMS000000000000",
+      "appid": "EP6665-PPSA07302_00-VTMS000000000000",
       "name": "Vampire: The Masquerade - Swansong",
       "discount": 85,
       "orig_cents": 2999,
@@ -1027,7 +1027,7 @@
       "final_price_str": "1,49 €"
     },
     {
-      "appid": "EP4389-CUSA24277_00-SPELLFORCE3CE000",
+      "appid": "EP4389-PPSA03838_00-SPELLFORCE3CE000",
       "name": "SpellForce III Reforced: Complete Edition",
       "discount": 70,
       "orig_cents": 5999,
@@ -1036,7 +1036,7 @@
       "final_price_str": "17,99 €"
     },
     {
-      "appid": "EP4389-PPSA03838_00-SPELLFORCE3CE000",
+      "appid": "EP4389-CUSA24277_00-SPELLFORCE3CE000",
       "name": "SpellForce III Reforced: Complete Edition",
       "discount": 70,
       "orig_cents": 5999,
@@ -1441,7 +1441,7 @@
       "final_price_str": "11,99 €"
     },
     {
-      "appid": "EP1704-CUSA27399_00-STCOFFROAD000000",
+      "appid": "EP1704-PPSA06126_00-STCOFFROAD000000",
       "name": "Super Toy Cars Offroad",
       "discount": 60,
       "orig_cents": 1999,
@@ -1450,7 +1450,7 @@
       "final_price_str": "7,99 €"
     },
     {
-      "appid": "EP1704-PPSA06126_00-STCOFFROAD000000",
+      "appid": "EP1704-CUSA27399_00-STCOFFROAD000000",
       "name": "Super Toy Cars Offroad",
       "discount": 60,
       "orig_cents": 1999,
@@ -1765,7 +1765,7 @@
       "final_price_str": "17,99 €"
     },
     {
-      "appid": "EP4060-PPSA06565_00-DELUXEEDITION000",
+      "appid": "EP4060-CUSA32315_00-DELUXEEDITION000",
       "name": "Dusk Diver 2 Digital Deluxe Edition",
       "discount": 50,
       "orig_cents": 5999,
@@ -1774,7 +1774,7 @@
       "final_price_str": "29,99 €"
     },
     {
-      "appid": "EP4060-CUSA32315_00-DELUXEEDITION000",
+      "appid": "EP4060-PPSA06565_00-DELUXEEDITION000",
       "name": "Dusk Diver 2 Digital Deluxe Edition",
       "discount": 50,
       "orig_cents": 5999,
@@ -2341,7 +2341,7 @@
       "final_price_str": "3,49 €"
     },
     {
-      "appid": "EP2609-CUSA13930_00-DLCRAT0000000000",
+      "appid": "EP6853-PPSA05425_00-DLCRAT0000000000",
       "name": "World War Z - The Rat Packs Weapon Skins Bundle",
       "discount": 30,
       "orig_cents": 499,
@@ -2350,7 +2350,7 @@
       "final_price_str": "3,49 €"
     },
     {
-      "appid": "EP6853-PPSA05425_00-DLCRAT0000000000",
+      "appid": "EP2609-CUSA13930_00-DLCRAT0000000000",
       "name": "World War Z - The Rat Packs Weapon Skins Bundle",
       "discount": 30,
       "orig_cents": 499,
