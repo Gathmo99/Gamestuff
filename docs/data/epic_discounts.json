@@ -371,16 +371,6 @@
       "final_price_str": "7,49 €"
     },
     {
-      "appid": "7597ecbe85a846a4a0be01b35b587f68",
-      "namespace": "45990201b8d94bb69119bc75b264037c",
-      "name": "Monster Energy Supercross 25 - The Official Video Game",
-      "discount": 75,
-      "orig_cents": 5999,
-      "final_cents": 1499,
-      "orig_price_str": "59,99 €",
-      "final_price_str": "14,99 €"
-    },
-    {
       "appid": "843cbe6a2b6a448c8b62f2f4dca06daf",
       "namespace": "4226a003e0f7413081c2f2dfb13a27c1",
       "name": "sqwrk",
@@ -649,6 +639,16 @@
       "final_cents": 323,
       "orig_price_str": "8,09 €",
       "final_price_str": "3,23 €"
+    },
+    {
+      "appid": "e6d0ec8901fa4b27a37e553fa814c0c3",
+      "namespace": "0053d655ec6d4565b935142a366e763d",
+      "name": "Frozen Skylands",
+      "discount": 60,
+      "orig_cents": 449,
+      "final_cents": 179,
+      "orig_price_str": "4,49 €",
+      "final_price_str": "1,79 €"
     },
     {
       "appid": "7f17daabd75a4de687033b55099681db",
@@ -1841,6 +1841,16 @@
       "final_price_str": "1,73 €"
     },
     {
+      "appid": "e48cf491e5344d358cf314aab4f82082",
+      "namespace": "04efb0d9ac0649fdb509cb2388dcc94b",
+      "name": "Ascendria: The Parkour Game",
+      "discount": 40,
+      "orig_cents": 219,
+      "final_cents": 131,
+      "orig_price_str": "2,19 €",
+      "final_price_str": "1,31 €"
+    },
+    {
       "appid": "d27b87422bc04fd89aaf4b408ff72a52",
       "namespace": "ffcdeab5458448fd9c0a053f5b7821fb",
       "name": "Undying Flower",
@@ -1929,16 +1939,6 @@
       "final_cents": 1109,
       "orig_price_str": "18,49 €",
       "final_price_str": "11,09 €"
-    },
-    {
-      "appid": "320642f337214e3eaf8d984207ef0a95",
-      "namespace": "9cdcb83442bd412fa8d0c47704e358b7",
-      "name": "Promise Mascot Agency",
-      "discount": 37,
-      "orig_cents": 2239,
-      "final_cents": 1410,
-      "orig_price_str": "22,39 €",
-      "final_price_str": "14,10 €"
     },
     {
       "appid": "9302075851314876b2a02b14299a5dd3",
@@ -3001,5 +3001,5 @@
       "final_price_str": "12,23 €"
     }
   ],
-  "total": 1486
+  "total": 1488
 }
