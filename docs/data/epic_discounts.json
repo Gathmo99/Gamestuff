@@ -1161,16 +1161,6 @@
       "final_price_str": "14,99 €"
     },
     {
-      "appid": "0b252197298441ffa1bc91f8f353e443",
-      "namespace": "658d7b77a4d8466a882f0ca7782430fc",
-      "name": "Afterschool: Reel Danger",
-      "discount": 50,
-      "orig_cents": 359,
-      "final_cents": 179,
-      "orig_price_str": "3,59 €",
-      "final_price_str": "1,79 €"
-    },
-    {
       "appid": "adc3f1354b3a45b1bf288a7bea8baf73",
       "namespace": "e2c4ea0bdf3a4ae6b4f80ed8c106ea07",
       "name": "Rue Valley",
@@ -1831,16 +1821,6 @@
       "final_price_str": "35,99 €"
     },
     {
-      "appid": "7d5e0945b6e54678935019a601eded02",
-      "namespace": "d2ddaaf936a949b1947cd0a3383399da",
-      "name": "Evergreen Valley: The Parkour Game",
-      "discount": 40,
-      "orig_cents": 289,
-      "final_cents": 173,
-      "orig_price_str": "2,89 €",
-      "final_price_str": "1,73 €"
-    },
-    {
       "appid": "e48cf491e5344d358cf314aab4f82082",
       "namespace": "04efb0d9ac0649fdb509cb2388dcc94b",
       "name": "Ascendria: The Parkour Game",
@@ -1939,6 +1919,16 @@
       "final_cents": 1109,
       "orig_price_str": "18,49 €",
       "final_price_str": "11,09 €"
+    },
+    {
+      "appid": "320642f337214e3eaf8d984207ef0a95",
+      "namespace": "9cdcb83442bd412fa8d0c47704e358b7",
+      "name": "Promise Mascot Agency",
+      "discount": 37,
+      "orig_cents": 2239,
+      "final_cents": 1410,
+      "orig_price_str": "22,39 €",
+      "final_price_str": "14,10 €"
     },
     {
       "appid": "9302075851314876b2a02b14299a5dd3",
@@ -2999,7 +2989,17 @@
       "final_cents": 1223,
       "orig_price_str": "15,29 €",
       "final_price_str": "12,23 €"
+    },
+    {
+      "appid": "b33de24a515b4df0bfbe230cfda9e8b3",
+      "namespace": "d69dea273a294b47b5774117304ab9f7",
+      "name": "Musician Simulator",
+      "discount": 20,
+      "orig_cents": 449,
+      "final_cents": 359,
+      "orig_price_str": "4,49 €",
+      "final_price_str": "3,59 €"
     }
   ],
-  "total": 1488
+  "total": 1486
 }
