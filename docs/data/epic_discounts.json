@@ -341,16 +341,6 @@
       "final_price_str": "14,99 €"
     },
     {
-      "appid": "3121d75591e74dfcbeb95c6fa10d9874",
-      "namespace": "e54d691e36d44ba88e2be4b2e4c16535",
-      "name": "PROJECT_ORIGINS",
-      "discount": 75,
-      "orig_cents": 359,
-      "final_cents": 89,
-      "orig_price_str": "3,59 €",
-      "final_price_str": "0,89 €"
-    },
-    {
       "appid": "843cbe6a2b6a448c8b62f2f4dca06daf",
       "namespace": "4226a003e0f7413081c2f2dfb13a27c1",
       "name": "sqwrk",
@@ -2691,16 +2681,6 @@
       "final_price_str": "29,99 €"
     },
     {
-      "appid": "daa1e6882a224a2fa913db00747a5e64",
-      "namespace": "7c64b0352fb7449082d7331141b36d97",
-      "name": "Commandos: Origins",
-      "discount": 25,
-      "orig_cents": 4999,
-      "final_cents": 3749,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "37,49 €"
-    },
-    {
       "appid": "67793b79bf5d49b3b59df0de95fc1a30",
       "namespace": "4512deb976bb43519048c4254e17ebb4",
       "name": "The Last Gas Station",
@@ -2709,6 +2689,16 @@
       "final_cents": 1091,
       "orig_price_str": "13,99 €",
       "final_price_str": "10,91 €"
+    },
+    {
+      "appid": "f305df03a52a4f35a097a93b14e35a06",
+      "namespace": "9f91a642cf3e4288929aa3c581c96114",
+      "name": "Sintopia",
+      "discount": 20,
+      "orig_cents": 3499,
+      "final_cents": 2799,
+      "orig_price_str": "34,99 €",
+      "final_price_str": "27,99 €"
     },
     {
       "appid": "af0bac92ab4c4c0f9ed6b36025916ded",
@@ -2769,6 +2759,16 @@
       "final_cents": 503,
       "orig_price_str": "6,29 €",
       "final_price_str": "5,03 €"
+    },
+    {
+      "appid": "d390596334494df993249139dfb980ee",
+      "namespace": "b880f11dc71c4f309ddef026b8d7dbbc",
+      "name": "LEGO® Batman™: Das Vermächtnis des Dunklen Ritters",
+      "discount": 20,
+      "orig_cents": 6999,
+      "final_cents": 5599,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "55,99 €"
     },
     {
       "appid": "210b0b33050644d883f475520327efce",
@@ -3001,5 +3001,5 @@
       "final_price_str": "3,59 €"
     }
   ],
-  "total": 1484
+  "total": 1489
 }

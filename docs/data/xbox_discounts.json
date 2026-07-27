@@ -21,6 +21,16 @@
       "gamepass": "PC"
     },
     {
+      "appid": "C3GDK9QKWLRD",
+      "name": "Destiny - The Collection",
+      "discount": 90,
+      "orig_cents": 1999,
+      "final_cents": 199,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "1,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9N14G09PWG74",
       "name": "Golf With Your Friends",
       "discount": 90,
@@ -31,13 +41,13 @@
       "gamepass": ""
     },
     {
-      "appid": "C3GDK9QKWLRD",
-      "name": "Destiny - The Collection",
+      "appid": "9PG26DBX43L1",
+      "name": "Mortal Kombat 11 Ultimate",
       "discount": 90,
-      "orig_cents": 1999,
-      "final_cents": 199,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "1,99 €",
+      "orig_cents": 5999,
+      "final_cents": 599,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "5,99 €",
       "gamepass": ""
     },
     {
@@ -49,6 +59,16 @@
       "orig_price_str": "59,99 €",
       "final_price_str": "8,99 €",
       "gamepass": ""
+    },
+    {
+      "appid": "BW9TWC8L4JCS",
+      "name": "Assassin's Creed Odyssey",
+      "discount": 85,
+      "orig_cents": 6999,
+      "final_cents": 1049,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "10,49 €",
+      "gamepass": "PC + Xbox"
     },
     {
       "appid": "9PH339L3Z99C",
@@ -121,6 +141,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9P2N57MC619K",
+      "name": "Sea of Thieves: 2026 Edition",
+      "discount": 65,
+      "orig_cents": 3999,
+      "final_cents": 1399,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "13,99 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
       "appid": "9PM4J1VW57XQ",
       "name": "Destiny 2: The Collection",
       "discount": 65,
@@ -139,16 +169,6 @@
       "orig_price_str": "49,99 €",
       "final_price_str": "17,49 €",
       "gamepass": ""
-    },
-    {
-      "appid": "9P2N57MC619K",
-      "name": "Sea of Thieves: 2026 Edition",
-      "discount": 65,
-      "orig_cents": 3999,
-      "final_cents": 1399,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "13,99 €",
-      "gamepass": "PC + Xbox"
     },
     {
       "appid": "9P42LWGMC7K4",
@@ -191,16 +211,6 @@
       "gamepass": ""
     },
     {
-      "appid": "BVMGCSX6XPC9",
-      "name": "Call of Duty®: Black Ops",
-      "discount": 50,
-      "orig_cents": 3999,
-      "final_cents": 1999,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "19,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9P2FF14JZLL3",
       "name": "Battlefield™ 6",
       "discount": 50,
@@ -208,6 +218,16 @@
       "final_cents": 3999,
       "orig_price_str": "79,99 €",
       "final_price_str": "39,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "BVMGCSX6XPC9",
+      "name": "Call of Duty®: Black Ops",
+      "discount": 50,
+      "orig_cents": 3999,
+      "final_cents": 1999,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "19,99 €",
       "gamepass": ""
     },
     {
@@ -221,16 +241,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9P5B3ZVDK19D",
-      "name": "Red Dead Redemption",
-      "discount": 50,
-      "orig_cents": 4999,
-      "final_cents": 2499,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "24,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9NBR63PT4FZC",
       "name": "Ready or Not",
       "discount": 25,
@@ -238,16 +248,6 @@
       "final_cents": 3749,
       "orig_price_str": "49,99 €",
       "final_price_str": "37,49 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9P3PT7PQJD0M",
-      "name": "HELLDIVERS™ 2",
-      "discount": 25,
-      "orig_cents": 3999,
-      "final_cents": 2999,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "29,99 €",
       "gamepass": ""
     }
   ],
