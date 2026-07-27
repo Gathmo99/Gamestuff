@@ -1693,7 +1693,7 @@
       "final_price_str": "5,99 €"
     },
     {
-      "appid": "EP0122-CUSA30409_00-LODOSSWARDEEDLIT",
+      "appid": "EP0122-PPSA05348_00-LODOSSWARDEEDLIT",
       "name": "Record of Lodoss War: Deedlit in Wonder Labyrinth",
       "discount": 55,
       "orig_cents": 2499,
@@ -1702,7 +1702,7 @@
       "final_price_str": "11,24 €"
     },
     {
-      "appid": "EP0122-PPSA05348_00-LODOSSWARDEEDLIT",
+      "appid": "EP0122-CUSA30409_00-LODOSSWARDEEDLIT",
       "name": "Record of Lodoss War: Deedlit in Wonder Labyrinth",
       "discount": 55,
       "orig_cents": 2499,
@@ -2359,7 +2359,7 @@
       "final_price_str": "9,74 €"
     },
     {
-      "appid": "EP2609-CUSA13930_00-DLCMIAMI00000000",
+      "appid": "EP6853-PPSA05425_00-DLCMIAMI00000000",
       "name": "World War Z - Deadly Vice Weapons Skin Pack",
       "discount": 30,
       "orig_cents": 499,
@@ -2368,7 +2368,7 @@
       "final_price_str": "3,49 €"
     },
     {
-      "appid": "EP6853-PPSA05425_00-DLCMIAMI00000000",
+      "appid": "EP2609-CUSA13930_00-DLCMIAMI00000000",
       "name": "World War Z - Deadly Vice Weapons Skin Pack",
       "discount": 30,
       "orig_cents": 499,

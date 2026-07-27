@@ -21,26 +21,6 @@
       "final_price_str": "0,89 €"
     },
     {
-      "appid": "2995505b91094de6bc91c8ceceb936bc",
-      "namespace": "c3228988620e44fcad49451656a3f5de",
-      "name": "Swords Fantasy: Battlefield",
-      "discount": 94,
-      "orig_cents": 1349,
-      "final_cents": 80,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "0,80 €"
-    },
-    {
-      "appid": "bdfa6e449c614ae8a5ffbabb2aac52bf",
-      "namespace": "89d445a56a744535a52ff914d91a3e0e",
-      "name": "Bunny Hopper",
-      "discount": 94,
-      "orig_cents": 1529,
-      "final_cents": 91,
-      "orig_price_str": "15,29 €",
-      "final_price_str": "0,91 €"
-    },
-    {
       "appid": "7245cf96e83e463bb2f692b3274e91cc",
       "namespace": "a8ab156bf9cb44128aed5468f2f1a976",
       "name": "Gold Miner: Return to Glory",
@@ -49,16 +29,6 @@
       "final_cents": 8,
       "orig_price_str": "0,89 €",
       "final_price_str": "0,08 €"
-    },
-    {
-      "appid": "0037f05e110847b787e5c05271b4c41c",
-      "namespace": "39e05f8c5f484fcd999f300f36de7294",
-      "name": "Gangsters way",
-      "discount": 90,
-      "orig_cents": 1709,
-      "final_cents": 170,
-      "orig_price_str": "17,09 €",
-      "final_price_str": "1,70 €"
     },
     {
       "appid": "355125c69cd441e8acb5813e8c00087d",
@@ -371,6 +341,26 @@
       "final_price_str": "14,99 €"
     },
     {
+      "appid": "3121d75591e74dfcbeb95c6fa10d9874",
+      "namespace": "e54d691e36d44ba88e2be4b2e4c16535",
+      "name": "PROJECT_ORIGINS",
+      "discount": 75,
+      "orig_cents": 359,
+      "final_cents": 89,
+      "orig_price_str": "3,59 €",
+      "final_price_str": "0,89 €"
+    },
+    {
+      "appid": "fed536f1656f4fb5be44976dec56544c",
+      "namespace": "1ed0b11b83a54b8a920f4996a08738f7",
+      "name": "Brigand: Gold",
+      "discount": 75,
+      "orig_cents": 1349,
+      "final_cents": 337,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "3,37 €"
+    },
+    {
       "appid": "843cbe6a2b6a448c8b62f2f4dca06daf",
       "namespace": "4226a003e0f7413081c2f2dfb13a27c1",
       "name": "sqwrk",
@@ -509,16 +499,6 @@
       "final_cents": 98,
       "orig_price_str": "2,99 €",
       "final_price_str": "0,98 €"
-    },
-    {
-      "appid": "91beac6ac50a4c6f848153acc6628706",
-      "namespace": "ebdc57c70a3f4c3f96d46e18fa55ebbb",
-      "name": "Interstellar Space: Genesis",
-      "discount": 67,
-      "orig_cents": 2799,
-      "final_cents": 923,
-      "orig_price_str": "27,99 €",
-      "final_price_str": "9,23 €"
     },
     {
       "appid": "e423a2c00d0c4982b08e321500cde91b",
@@ -2211,6 +2191,16 @@
       "final_price_str": "6,02 €"
     },
     {
+      "appid": "4bde004a40ef405ea03904bda31c90db",
+      "namespace": "9d67957d75ab4828af3b506823cfaf52",
+      "name": "Pulse Hunter Matrix",
+      "discount": 30,
+      "orig_cents": 449,
+      "final_cents": 314,
+      "orig_price_str": "4,49 €",
+      "final_price_str": "3,14 €"
+    },
+    {
       "appid": "fb65dfddcd5b4c15924fc97ef9dbad0f",
       "namespace": "776f36c1d52a4124bbf9c07b48e6cf1f",
       "name": "Corsairs - Battle of the Caribbean",
@@ -2699,6 +2689,16 @@
       "final_cents": 2999,
       "orig_price_str": "39,99 €",
       "final_price_str": "29,99 €"
+    },
+    {
+      "appid": "daa1e6882a224a2fa913db00747a5e64",
+      "namespace": "7c64b0352fb7449082d7331141b36d97",
+      "name": "Commandos: Origins",
+      "discount": 25,
+      "orig_cents": 4999,
+      "final_cents": 3749,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "37,49 €"
     },
     {
       "appid": "67793b79bf5d49b3b59df0de95fc1a30",
