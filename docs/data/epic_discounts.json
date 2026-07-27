@@ -351,16 +351,6 @@
       "final_price_str": "0,89 €"
     },
     {
-      "appid": "fed536f1656f4fb5be44976dec56544c",
-      "namespace": "1ed0b11b83a54b8a920f4996a08738f7",
-      "name": "Brigand: Gold",
-      "discount": 75,
-      "orig_cents": 1349,
-      "final_cents": 337,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "3,37 €"
-    },
-    {
       "appid": "843cbe6a2b6a448c8b62f2f4dca06daf",
       "namespace": "4226a003e0f7413081c2f2dfb13a27c1",
       "name": "sqwrk",
@@ -1299,6 +1289,16 @@
       "final_cents": 1249,
       "orig_price_str": "24,99 €",
       "final_price_str": "12,49 €"
+    },
+    {
+      "appid": "9fbfe885acdd4f8cbd4826cd265f36cb",
+      "namespace": "26568e976ac2418095a3a079ca7b0276",
+      "name": "Skybreak Canyon: The Parkour Game",
+      "discount": 50,
+      "orig_cents": 289,
+      "final_cents": 144,
+      "orig_price_str": "2,89 €",
+      "final_price_str": "1,44 €"
     },
     {
       "appid": "32bcc9f82c4e4d6ea1c35c7ed7de12e2",
