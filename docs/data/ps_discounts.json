@@ -541,7 +541,7 @@
       "final_price_str": "11,24 €"
     },
     {
-      "appid": "EP5036-PPSA08160_00-2389216319224902",
+      "appid": "EP5036-CUSA33467_00-4068623506349627",
       "name": "Blind Fate: Edo no Yami",
       "discount": 75,
       "orig_cents": 2499,
@@ -550,7 +550,7 @@
       "final_price_str": "6,24 €"
     },
     {
-      "appid": "EP5036-CUSA33467_00-4068623506349627",
+      "appid": "EP5036-PPSA08160_00-2389216319224902",
       "name": "Blind Fate: Edo no Yami",
       "discount": 75,
       "orig_cents": 2499,
@@ -604,7 +604,7 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "EP0096-CUSA17801_00-000000000BLUESUN",
+      "appid": "EP0096-PPSA05588_00-000000000BLUESUN",
       "name": "Hellpoint - Blue Sun",
       "discount": 75,
       "orig_cents": 999,
@@ -613,7 +613,7 @@
       "final_price_str": "2,49 €"
     },
     {
-      "appid": "EP0096-PPSA05588_00-000000000BLUESUN",
+      "appid": "EP0096-CUSA17801_00-000000000BLUESUN",
       "name": "Hellpoint - Blue Sun",
       "discount": 75,
       "orig_cents": 999,
@@ -1207,7 +1207,7 @@
       "final_price_str": "6,64 €"
     },
     {
-      "appid": "EP0290-PPSA01349_00-GODFALLULTIMATE0",
+      "appid": "EP0290-CUSA26922_00-GODFALLULTIMATE0",
       "name": "Godfall Ultimate Edition",
       "discount": 65,
       "orig_cents": 3999,
@@ -1216,7 +1216,7 @@
       "final_price_str": "13,99 €"
     },
     {
-      "appid": "EP0290-CUSA26922_00-GODFALLULTIMATE0",
+      "appid": "EP0290-PPSA01349_00-GODFALLULTIMATE0",
       "name": "Godfall Ultimate Edition",
       "discount": 65,
       "orig_cents": 3999,
@@ -2377,7 +2377,7 @@
       "final_price_str": "3,49 €"
     },
     {
-      "appid": "EP6853-PPSA05425_00-DLCRAT0000000000",
+      "appid": "EP2609-CUSA13930_00-DLCRAT0000000000",
       "name": "World War Z - The Rat Packs Weapon Skins Bundle",
       "discount": 30,
       "orig_cents": 499,
@@ -2386,7 +2386,7 @@
       "final_price_str": "3,49 €"
     },
     {
-      "appid": "EP2609-CUSA13930_00-DLCRAT0000000000",
+      "appid": "EP6853-PPSA05425_00-DLCRAT0000000000",
       "name": "World War Z - The Rat Packs Weapon Skins Bundle",
       "discount": 30,
       "orig_cents": 499,
@@ -2431,7 +2431,7 @@
       "final_price_str": "1,74 €"
     },
     {
-      "appid": "EP6853-PPSA05425_00-DLCRAVEN00000000",
+      "appid": "EP2609-CUSA13930_00-DLCRAVEN00000000",
       "name": "World War Z - Raven Weapons Skin Pack",
       "discount": 30,
       "orig_cents": 499,
@@ -2440,7 +2440,7 @@
       "final_price_str": "3,49 €"
     },
     {
-      "appid": "EP2609-CUSA13930_00-DLCRAVEN00000000",
+      "appid": "EP6853-PPSA05425_00-DLCRAVEN00000000",
       "name": "World War Z - Raven Weapons Skin Pack",
       "discount": 30,
       "orig_cents": 499,
