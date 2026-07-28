@@ -881,9 +881,9 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "664dce5999484f8e8009a077aa509c53",
-      "namespace": "b5f163f90f364380a7fbdbba19fd5554",
-      "name": "No I'm not a Voenkom",
+      "appid": "af9e9f907f4e43c1a4abbef2c83a9e72",
+      "namespace": "87b89e47fc574d6bb6e717e539ef055d",
+      "name": "Kill The Dead",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -3001,5 +3001,5 @@
       "final_price_str": "3,59 €"
     }
   ],
-  "total": 1489
+  "total": 1487
 }
