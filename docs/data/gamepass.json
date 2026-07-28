@@ -670,6 +670,10 @@
     "PC",
     "Xbox"
   ],
+  "fixforce": [
+    "PC",
+    "Xbox"
+  ],
   "fogpiercer": [
     "PC"
   ],
@@ -805,6 +809,10 @@
     "Xbox"
   ],
   "halo wars definitive edition": [
+    "PC",
+    "Xbox"
+  ],
+  "halo campaign evolved standard edition": [
     "PC",
     "Xbox"
   ],
