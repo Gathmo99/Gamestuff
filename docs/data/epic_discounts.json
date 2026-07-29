@@ -1571,16 +1571,6 @@
       "final_price_str": "5,39 €"
     },
     {
-      "appid": "56629cd744f442de8119fde2eee4bda8",
-      "namespace": "67bde25488f649cc9edcfe1623d1373b",
-      "name": "Deepest Trench",
-      "discount": 40,
-      "orig_cents": 1349,
-      "final_cents": 809,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "8,09 €"
-    },
-    {
       "appid": "6d87cf7bc4044dee9bf2e39188e9b926",
       "namespace": "03c58a85bafd41ff85707c01dc78d2cd",
       "name": "Cubin",
@@ -1929,6 +1919,16 @@
       "final_cents": 1109,
       "orig_price_str": "18,49 €",
       "final_price_str": "11,09 €"
+    },
+    {
+      "appid": "4d36c431c7ad4b0fa692a95a5c30ff55",
+      "namespace": "8cdc2ba3cc134e4cb3f77c22f9a32a78",
+      "name": "Chains of Freedom",
+      "discount": 40,
+      "orig_cents": 2499,
+      "final_cents": 1499,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "14,99 €"
     },
     {
       "appid": "9302075851314876b2a02b14299a5dd3",
@@ -3001,5 +3001,5 @@
       "final_price_str": "23,99 €"
     }
   ],
-  "total": 1505
+  "total": 1504
 }
