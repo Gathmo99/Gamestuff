@@ -1291,6 +1291,16 @@
       "final_price_str": "12,49 €"
     },
     {
+      "appid": "6028827a1b9a4154aab7945f65523e8c",
+      "namespace": "4df2036fd0e949f3b93b60a2997610f5",
+      "name": "Skyward Tales: The Parkour Game",
+      "discount": 50,
+      "orig_cents": 219,
+      "final_cents": 109,
+      "orig_price_str": "2,19 €",
+      "final_price_str": "1,09 €"
+    },
+    {
       "appid": "9fbfe885acdd4f8cbd4826cd265f36cb",
       "namespace": "26568e976ac2418095a3a079ca7b0276",
       "name": "Skybreak Canyon: The Parkour Game",
@@ -2989,17 +2999,7 @@
       "final_cents": 1079,
       "orig_price_str": "13,49 €",
       "final_price_str": "10,79 €"
-    },
-    {
-      "appid": "56b4c7afc20f4a22b1f981a11dffd649",
-      "namespace": "0a7500672c114e13bd4e57ea361bd4d2",
-      "name": "The Jackbox Party Pack 11",
-      "discount": 20,
-      "orig_cents": 2999,
-      "final_cents": 2399,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "23,99 €"
     }
   ],
-  "total": 1499
+  "total": 1500
 }
