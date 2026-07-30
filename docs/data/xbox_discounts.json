@@ -1,48 +1,28 @@
 {
   "items": [
     {
-      "appid": "BVH2R2SBWL51",
-      "name": "Need for Speed™ Heat Deluxe Edition",
-      "discount": 95,
-      "orig_cents": 7999,
-      "final_cents": 399,
-      "orig_price_str": "79,99 €",
-      "final_price_str": "3,99 €",
+      "appid": "9NP83DTS8T4W",
+      "name": "Golf With Your Friends - Ultimate Edition",
+      "discount": 90,
+      "orig_cents": 5499,
+      "final_cents": 549,
+      "orig_price_str": "54,99 €",
+      "final_price_str": "5,49 €",
       "gamepass": ""
     },
     {
-      "appid": "9PJ2RVRC0L1X",
-      "name": "NBA 2K26 Standard Edition",
-      "discount": 90,
-      "orig_cents": 7999,
-      "final_cents": 799,
-      "orig_price_str": "79,99 €",
-      "final_price_str": "7,99 €",
-      "gamepass": "PC"
+      "appid": "9N3DWR830CVN",
+      "name": "FOR HONOR - Standard Edition",
+      "discount": 85,
+      "orig_cents": 2999,
+      "final_cents": 449,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "4,49 €",
+      "gamepass": "Xbox"
     },
     {
-      "appid": "C3GDK9QKWLRD",
-      "name": "Destiny - The Collection",
-      "discount": 90,
-      "orig_cents": 1999,
-      "final_cents": 199,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "1,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9N14G09PWG74",
-      "name": "Golf With Your Friends",
-      "discount": 90,
-      "orig_cents": 1999,
-      "final_cents": 199,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "1,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "C4H36B87SVL1",
-      "name": "Batman: Arkham Collection",
+      "appid": "9P1GVKM7MWJC",
+      "name": "FOR HONOR – Gold Edition",
       "discount": 85,
       "orig_cents": 5999,
       "final_cents": 899,
@@ -51,183 +31,73 @@
       "gamepass": ""
     },
     {
-      "appid": "BW9TWC8L4JCS",
-      "name": "Assassin's Creed Odyssey",
-      "discount": 85,
-      "orig_cents": 6999,
-      "final_cents": 1049,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "10,49 €",
-      "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "9PH339L3Z99C",
-      "name": "Red Dead Redemption 2: Ultimate Edition",
-      "discount": 80,
-      "orig_cents": 9999,
-      "final_cents": 1999,
-      "orig_price_str": "99,99 €",
-      "final_price_str": "19,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9N2ZDN7NWQKV",
-      "name": "Red Dead Redemption 2",
-      "discount": 75,
-      "orig_cents": 5999,
-      "final_cents": 1499,
-      "orig_price_str": "59,99 €",
-      "final_price_str": "14,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "BX3S1Q5DVHRD",
-      "name": "Subnautica",
-      "discount": 75,
-      "orig_cents": 2999,
-      "final_cents": 749,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "7,49 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9N7JCPPCPN37",
-      "name": "Resident Evil 4",
+      "appid": "9NKGNMNK3K3Z",
+      "name": "Fallout 76 (PC)",
       "discount": 75,
       "orig_cents": 3999,
       "final_cents": 999,
       "orig_price_str": "39,99 €",
       "final_price_str": "9,99 €",
-      "gamepass": ""
+      "gamepass": "PC + Xbox"
     },
     {
-      "appid": "BX3M8L83BBRW",
-      "name": "Cyberpunk 2077",
-      "discount": 70,
-      "orig_cents": 5999,
-      "final_cents": 1799,
-      "orig_price_str": "59,99 €",
-      "final_price_str": "17,99 €",
+      "appid": "C29HQ887KH4B",
+      "name": "Fallout 3",
+      "discount": 75,
+      "orig_cents": 999,
+      "final_cents": 249,
+      "orig_price_str": "9,99 €",
+      "final_price_str": "2,49 €",
       "gamepass": "Xbox"
     },
     {
-      "appid": "C492DG1TQQ09",
-      "name": "Call of Duty®: Black Ops III - Zombies Chronicles Edition",
-      "discount": 67,
-      "orig_cents": 6999,
-      "final_cents": 2309,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "23,09 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "BRQ2SCZCTXF2",
-      "name": "Grand Theft Auto IV",
-      "discount": 65,
-      "orig_cents": 2499,
-      "final_cents": 874,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "8,74 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9P2N57MC619K",
-      "name": "Sea of Thieves: 2026 Edition",
-      "discount": 65,
+      "appid": "BS6WJ2L56B10",
+      "name": "Fallout 76",
+      "discount": 75,
       "orig_cents": 3999,
-      "final_cents": 1399,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "13,99 €",
-      "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "9PM4J1VW57XQ",
-      "name": "Destiny 2: The Collection",
-      "discount": 65,
-      "orig_cents": 6999,
-      "final_cents": 2449,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "24,49 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9NRQVQ7ZRM7Z",
-      "name": "FINAL FANTASY VII REMAKE INTERGRADE",
-      "discount": 65,
-      "orig_cents": 4999,
-      "final_cents": 1749,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "17,49 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9P42LWGMC7K4",
-      "name": "Assassin's Creed Shadows",
-      "discount": 55,
-      "orig_cents": 7999,
-      "final_cents": 3599,
-      "orig_price_str": "79,99 €",
-      "final_price_str": "35,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9N8KMNW6942X",
-      "name": "Call of Duty®: Black Ops 7 - Cross-Gen-Bundle",
-      "discount": 50,
-      "orig_cents": 7999,
-      "final_cents": 3999,
-      "orig_price_str": "79,99 €",
-      "final_price_str": "39,99 €",
-      "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "C1QJM5XT9SXV",
-      "name": "Call of Duty®: Black Ops II",
-      "discount": 50,
-      "orig_cents": 3999,
-      "final_cents": 1999,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "19,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9NKC1Z4Z92VN",
-      "name": "Grand Theft Auto Online",
-      "discount": 50,
-      "orig_cents": 1999,
       "final_cents": 999,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "9,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9P2FF14JZLL3",
-      "name": "Battlefield™ 6",
-      "discount": 50,
-      "orig_cents": 7999,
-      "final_cents": 3999,
-      "orig_price_str": "79,99 €",
-      "final_price_str": "39,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9NQ0MVSLV0G7",
-      "name": "Grand Theft Auto V & CashCard „Der Weiße Hai“ im Bundle",
-      "discount": 50,
-      "orig_cents": 4999,
-      "final_cents": 2499,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "24,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "BVMGCSX6XPC9",
-      "name": "Call of Duty®: Black Ops",
-      "discount": 50,
-      "orig_cents": 3999,
-      "final_cents": 1999,
       "orig_price_str": "39,99 €",
-      "final_price_str": "19,99 €",
+      "final_price_str": "9,99 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "9NLJKM3MDXQX",
+      "name": "Mortal Kombat™ 1: Definitive Edition",
+      "discount": 70,
+      "orig_cents": 6999,
+      "final_cents": 2099,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "20,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9N0102B834ZM",
+      "name": "Fantasy Dash",
+      "discount": 68,
+      "orig_cents": 309,
+      "final_cents": 99,
+      "orig_price_str": "3,09 €",
+      "final_price_str": "0,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9PH9X0760B0T",
+      "name": "DOOM: The Dark Ages",
+      "discount": 67,
+      "orig_cents": 7999,
+      "final_cents": 2639,
+      "orig_price_str": "79,99 €",
+      "final_price_str": "26,39 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "9P6M51TD914L",
+      "name": "Borderlands®4 Deluxe Edition",
+      "discount": 60,
+      "orig_cents": 9999,
+      "final_cents": 3999,
+      "orig_price_str": "99,99 €",
+      "final_price_str": "39,99 €",
       "gamepass": ""
     },
     {
@@ -241,15 +111,135 @@
       "gamepass": ""
     },
     {
-      "appid": "9NBR63PT4FZC",
-      "name": "Ready or Not",
-      "discount": 25,
-      "orig_cents": 4999,
-      "final_cents": 3749,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "37,49 €",
+      "appid": "9P8RQH67TTT1",
+      "name": "Grand Theft Auto V (Xbox One & Xbox Series X|S)",
+      "discount": 50,
+      "orig_cents": 3999,
+      "final_cents": 1999,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "19,99 €",
       "gamepass": ""
+    },
+    {
+      "appid": "C2WKJJ9F5936",
+      "name": "Fable II",
+      "discount": 50,
+      "orig_cents": 1999,
+      "final_cents": 999,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "9,99 €",
+      "gamepass": "Xbox"
+    },
+    {
+      "appid": "BR46KM4D5B9L",
+      "name": "Fable III",
+      "discount": 50,
+      "orig_cents": 1999,
+      "final_cents": 999,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "9,99 €",
+      "gamepass": "Xbox"
+    },
+    {
+      "appid": "BX3JNK07Z6QK",
+      "name": "Fallout: New Vegas",
+      "discount": 50,
+      "orig_cents": 999,
+      "final_cents": 499,
+      "orig_price_str": "9,99 €",
+      "final_price_str": "4,99 €",
+      "gamepass": "Xbox"
+    },
+    {
+      "appid": "9NXFX68ZNKK0",
+      "name": "Grand Theft Auto V Enhanced (PC)",
+      "discount": 50,
+      "orig_cents": 2999,
+      "final_cents": 1499,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "14,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9N3L5FF8M6SW",
+      "name": "Red Dead Online",
+      "discount": 50,
+      "orig_cents": 1999,
+      "final_cents": 999,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "9,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9P6DWL7R6NTL",
+      "name": "7 Days to Die - Console Edition (Game Preview)",
+      "discount": 45,
+      "orig_cents": 4499,
+      "final_cents": 2474,
+      "orig_price_str": "44,99 €",
+      "final_price_str": "24,74 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9N598NRT0XMX",
+      "name": "WWE 2K26 Monday Night War Edition",
+      "discount": 40,
+      "orig_cents": 14999,
+      "final_cents": 8999,
+      "orig_price_str": "149,99 €",
+      "final_price_str": "89,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9PFKP8Z66G1J",
+      "name": "LEGO® Batman™: Das Vermächtnis des Dunklen Ritters",
+      "discount": 20,
+      "orig_cents": 6999,
+      "final_cents": 5599,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "55,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9PM8J14QJ4DR",
+      "name": "LEGO® Batman™: Das Vermächtnis des Dunklen Ritters Deluxe Edition",
+      "discount": 20,
+      "orig_cents": 8999,
+      "final_cents": 7199,
+      "orig_price_str": "89,99 €",
+      "final_price_str": "71,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9PNXH6JL288Z",
+      "name": "Pure Pool Pro",
+      "discount": 20,
+      "orig_cents": 2499,
+      "final_cents": 1999,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "19,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NVKXP16H8TJ",
+      "name": "Wrap House Simulator",
+      "discount": 10,
+      "orig_cents": 1499,
+      "final_cents": 1349,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "13,49 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9N072VV7MFK7",
+      "name": "The Planet Crafter",
+      "discount": 10,
+      "orig_cents": 2399,
+      "final_cents": 2159,
+      "orig_price_str": "23,99 €",
+      "final_price_str": "21,59 €",
+      "gamepass": "PC + Xbox"
     }
   ],
-  "total": 2844
+  "total": 411
 }

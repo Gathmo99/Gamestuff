@@ -11,6 +11,16 @@
       "final_price_str": "0,89 €"
     },
     {
+      "appid": "7df6c82dff564d8eb04fc20687e2c6ad",
+      "namespace": "36e5e8e78ef04e63b204a224ee3a780f",
+      "name": "Firelight Fantasy: Phoenix Crew",
+      "discount": 94,
+      "orig_cents": 1349,
+      "final_cents": 80,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "0,80 €"
+    },
+    {
       "appid": "7245cf96e83e463bb2f692b3274e91cc",
       "namespace": "a8ab156bf9cb44128aed5468f2f1a976",
       "name": "Gold Miner: Return to Glory",
@@ -99,16 +109,6 @@
       "final_cents": 899,
       "orig_price_str": "59,99 €",
       "final_price_str": "8,99 €"
-    },
-    {
-      "appid": "78b49b31ca3a43cea39b552555deb72b",
-      "namespace": "49746e7a850e4d9d9c7390b9ed032db0",
-      "name": "Backrooms Bodycam 2",
-      "discount": 85,
-      "orig_cents": 269,
-      "final_cents": 40,
-      "orig_price_str": "2,69 €",
-      "final_price_str": "0,40 €"
     },
     {
       "appid": "e6ba66595ac44188b69ce5ed15d13b82",
@@ -1289,6 +1289,16 @@
       "final_cents": 109,
       "orig_price_str": "2,19 €",
       "final_price_str": "1,09 €"
+    },
+    {
+      "appid": "f7f3578282a145dc98de6036c201c115",
+      "namespace": "4cca948a5ae2401588bd3d3c5b1b3b50",
+      "name": "Truck Life Simulator",
+      "discount": 50,
+      "orig_cents": 249,
+      "final_cents": 124,
+      "orig_price_str": "2,49 €",
+      "final_price_str": "1,24 €"
     },
     {
       "appid": "9fbfe885acdd4f8cbd4826cd265f36cb",
@@ -2989,16 +2999,6 @@
       "final_cents": 1199,
       "orig_price_str": "14,99 €",
       "final_price_str": "11,99 €"
-    },
-    {
-      "appid": "c7b717385af44dbb990d9ff1203ec8a4",
-      "namespace": "1bf0d3f6f04e4e778518170f69c5ba78",
-      "name": "Nanomon Virtual Pet",
-      "discount": 20,
-      "orig_cents": 1349,
-      "final_cents": 1079,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "10,79 €"
     }
   ],
   "total": 1483
