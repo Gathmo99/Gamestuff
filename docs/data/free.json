@@ -1,14 +1,3 @@
 {
-  "items": [
-    {
-      "appid": "674750",
-      "name": "Yet Another Zombie Defense HD",
-      "discount": 100,
-      "orig_price_str": "3,99€",
-      "final_price_str": "0,00€",
-      "orig_cents": 399,
-      "final_cents": 0,
-      "gamepass": ""
-    }
-  ]
+  "items": []
 }

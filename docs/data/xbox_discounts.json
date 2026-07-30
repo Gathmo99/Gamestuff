@@ -21,6 +21,16 @@
       "gamepass": "Xbox"
     },
     {
+      "appid": "9P49M8J94DQM",
+      "name": "FOR HONOR – Ultimate Edition",
+      "discount": 85,
+      "orig_cents": 8999,
+      "final_cents": 1349,
+      "orig_price_str": "89,99 €",
+      "final_price_str": "13,49 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9P1GVKM7MWJC",
       "name": "FOR HONOR – Gold Edition",
       "discount": 85,
@@ -33,26 +43,6 @@
     {
       "appid": "9NKGNMNK3K3Z",
       "name": "Fallout 76 (PC)",
-      "discount": 75,
-      "orig_cents": 3999,
-      "final_cents": 999,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "9,99 €",
-      "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "C29HQ887KH4B",
-      "name": "Fallout 3",
-      "discount": 75,
-      "orig_cents": 999,
-      "final_cents": 249,
-      "orig_price_str": "9,99 €",
-      "final_price_str": "2,49 €",
-      "gamepass": "Xbox"
-    },
-    {
-      "appid": "BS6WJ2L56B10",
-      "name": "Fallout 76",
       "discount": 75,
       "orig_cents": 3999,
       "final_cents": 999,
@@ -79,16 +69,6 @@
       "orig_price_str": "3,09 €",
       "final_price_str": "0,99 €",
       "gamepass": ""
-    },
-    {
-      "appid": "9PH9X0760B0T",
-      "name": "DOOM: The Dark Ages",
-      "discount": 67,
-      "orig_cents": 7999,
-      "final_cents": 2639,
-      "orig_price_str": "79,99 €",
-      "final_price_str": "26,39 €",
-      "gamepass": "PC + Xbox"
     },
     {
       "appid": "9P6M51TD914L",
@@ -191,6 +171,26 @@
       "gamepass": ""
     },
     {
+      "appid": "9NTPB0C2028V",
+      "name": "LOLLIPOP CHAINSAW RePOP",
+      "discount": 40,
+      "orig_cents": 4499,
+      "final_cents": 2699,
+      "orig_price_str": "44,99 €",
+      "final_price_str": "26,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NGG3143XJ73",
+      "name": "KLETKA",
+      "discount": 30,
+      "orig_cents": 1499,
+      "final_cents": 1049,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "10,49 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9PFKP8Z66G1J",
       "name": "LEGO® Batman™: Das Vermächtnis des Dunklen Ritters",
       "discount": 20,
@@ -221,16 +221,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9NVKXP16H8TJ",
-      "name": "Wrap House Simulator",
-      "discount": 10,
-      "orig_cents": 1499,
-      "final_cents": 1349,
-      "orig_price_str": "14,99 €",
-      "final_price_str": "13,49 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9N072VV7MFK7",
       "name": "The Planet Crafter",
       "discount": 10,
@@ -239,7 +229,17 @@
       "orig_price_str": "23,99 €",
       "final_price_str": "21,59 €",
       "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "9NVKXP16H8TJ",
+      "name": "Wrap House Simulator",
+      "discount": 10,
+      "orig_cents": 1499,
+      "final_cents": 1349,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "13,49 €",
+      "gamepass": ""
     }
   ],
-  "total": 411
+  "total": 414
 }
