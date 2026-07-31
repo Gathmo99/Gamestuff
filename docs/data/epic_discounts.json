@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "appid": "c71375f1ac9444fcae1ca584a53ba6f0",
+      "namespace": "ce5d3cf74f36450cb7136952dc5b520f",
+      "name": "Sol Cesto",
+      "discount": 100,
+      "orig_cents": 1399,
+      "final_cents": 0,
+      "orig_price_str": "13,99 €",
+      "final_price_str": "0,00 €"
+    },
+    {
       "appid": "fb86769d4908427986ca9f7d94b581c2",
       "namespace": "dfe95c9009f548b0b167b3d65cc91979",
       "name": "OTXO",
@@ -719,16 +729,6 @@
       "final_cents": 799,
       "orig_price_str": "19,99 €",
       "final_price_str": "7,99 €"
-    },
-    {
-      "appid": "ca2c47204e9a46488bbdc860664edee4",
-      "namespace": "a05f85d8403843319c4b943de4106eb3",
-      "name": "Island Paradise",
-      "discount": 60,
-      "orig_cents": 1349,
-      "final_cents": 539,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "5,39 €"
     },
     {
       "appid": "5adb1d0f4e674ca2b3eb102c4f37b5e8",
@@ -1561,6 +1561,16 @@
       "final_price_str": "27,99 €"
     },
     {
+      "appid": "6f3bedcd3be64dfb862a3508b182108c",
+      "namespace": "44b4312f660440909669494451497c93",
+      "name": "Werde Kaiser! Mein Planetenimperium der Billionen Schönheiten",
+      "discount": 25,
+      "orig_cents": 3599,
+      "final_cents": 2699,
+      "orig_price_str": "35,99 €",
+      "final_price_str": "26,99 €"
+    },
+    {
       "appid": "b8575f59d63942a08ce76d9783d4e7b0",
       "namespace": "97dd3cfc5bc14452918bc641d6b5ee5a",
       "name": "Lumo 2",
@@ -1731,5 +1741,5 @@
       "final_price_str": "17,99 €"
     }
   ],
-  "total": 173
+  "total": 174
 }

@@ -5,6 +5,12 @@
       "name": "OTXO",
       "orig_cents": 1349,
       "orig_price_str": "13,49 €"
+    },
+    {
+      "appid": "c71375f1ac9444fcae1ca584a53ba6f0",
+      "name": "Sol Cesto",
+      "orig_cents": 1399,
+      "orig_price_str": "13,99 €"
     }
   ]
 }
