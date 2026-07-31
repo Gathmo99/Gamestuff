@@ -121,16 +121,6 @@
       "final_price_str": "0,86 €"
     },
     {
-      "appid": "7245cf96e83e463bb2f692b3274e91cc",
-      "namespace": "a8ab156bf9cb44128aed5468f2f1a976",
-      "name": "Gold Miner: Return to Glory",
-      "discount": 91,
-      "orig_cents": 89,
-      "final_cents": 8,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,08 €"
-    },
-    {
       "appid": "92884a5b760d4c5faaa5fe912cd5a116",
       "namespace": "1d8b0901c1794bb3a136a2877b569c5b",
       "name": "PolyClassic: Wild",
@@ -629,16 +619,6 @@
       "final_cents": 242,
       "orig_price_str": "8,09 €",
       "final_price_str": "2,42 €"
-    },
-    {
-      "appid": "ebde1ff75b644396ab5cbc739bc138b8",
-      "namespace": "8c472e469d214ae19a4a1fdd189c6732",
-      "name": "Real Drift Multiplayer",
-      "discount": 70,
-      "orig_cents": 179,
-      "final_cents": 53,
-      "orig_price_str": "1,79 €",
-      "final_price_str": "0,53 €"
     },
     {
       "appid": "db122f42b41f4dec927e0f280cf653bd",
@@ -1181,16 +1161,6 @@
       "final_price_str": "6,29 €"
     },
     {
-      "appid": "c01b7201a5364312aab064ed07b48c7c",
-      "namespace": "a97e7bb7363e48a58a9502f73f2ff99b",
-      "name": "Pax Dei",
-      "discount": 50,
-      "orig_cents": 2999,
-      "final_cents": 1499,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "14,99 €"
-    },
-    {
       "appid": "3a45040e46604d3ba63a8f89ffb33e12",
       "namespace": "9fb0adc767184d57ae4d6f4dc47235ba",
       "name": "Unholy Village",
@@ -1291,16 +1261,6 @@
       "final_price_str": "8,09 €"
     },
     {
-      "appid": "c248fcb3aea741fd81c25cc26412f63d",
-      "namespace": "32b9eb5136424fe0bb3185be3050f4a7",
-      "name": "Bubble Hook Mania",
-      "discount": 40,
-      "orig_cents": 89,
-      "final_cents": 53,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,53 €"
-    },
-    {
       "appid": "7720aece26f54bff91ee36516c2548f4",
       "namespace": "12764805de7d48f793dad643ffb82611",
       "name": "Battle for Ercaton: Robot Uprising",
@@ -1374,36 +1334,6 @@
       "appid": "52b6e69a165c4e10ba306f3b29a5579a",
       "namespace": "ce37450ae2f9431cacb23244a0d8ac76",
       "name": "PROTOBOT",
-      "discount": 40,
-      "orig_cents": 89,
-      "final_cents": 53,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,53 €"
-    },
-    {
-      "appid": "570c23e5b3224674a3a0a082644ffb14",
-      "namespace": "81965a5531ee48309b6da807d7fed155",
-      "name": "City Car Parking Simulator",
-      "discount": 40,
-      "orig_cents": 89,
-      "final_cents": 53,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,53 €"
-    },
-    {
-      "appid": "d612327f0d2c46f6ab1b4082876bba0f",
-      "namespace": "36669b93a631455abfc52bbed2c84f8d",
-      "name": "Police Car Escape Simulator",
-      "discount": 40,
-      "orig_cents": 89,
-      "final_cents": 53,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,53 €"
-    },
-    {
-      "appid": "e9b1073e4f5d4fb8a4bf3b3004ed2b1f",
-      "namespace": "ee72cd979c3c4fa99c162e8cd7a03f28",
-      "name": "Garbage Truck Driving Simulator",
       "discount": 40,
       "orig_cents": 89,
       "final_cents": 53,
@@ -1541,16 +1471,6 @@
       "final_price_str": "1,74 €"
     },
     {
-      "appid": "32e736993b754f3084a01d2bba1be035",
-      "namespace": "cb4efbcc8be94ff7b99785902e9ca8a1",
-      "name": "Giantess Playground",
-      "discount": 30,
-      "orig_cents": 1799,
-      "final_cents": 1259,
-      "orig_price_str": "17,99 €",
-      "final_price_str": "12,59 €"
-    },
-    {
       "appid": "99938c7aad1b44d7a446ae57e2839ece",
       "namespace": "7e2ec8a47b8d41528eb6dd2efd2b1abc",
       "name": "Disney Dreamlight Valley",
@@ -1559,6 +1479,16 @@
       "final_cents": 2799,
       "orig_price_str": "39,99 €",
       "final_price_str": "27,99 €"
+    },
+    {
+      "appid": "6f30193ac6e243d480efb13bbe37f99b",
+      "namespace": "7cf055894d4548e0838051e8ba946e51",
+      "name": "Corsair Cove",
+      "discount": 25,
+      "orig_cents": 3999,
+      "final_cents": 2999,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "29,99 €"
     },
     {
       "appid": "6f3bedcd3be64dfb862a3508b182108c",
@@ -1629,16 +1559,6 @@
       "final_cents": 1439,
       "orig_price_str": "17,99 €",
       "final_price_str": "14,39 €"
-    },
-    {
-      "appid": "1e32356db3884e87a7edcd0058bfd52b",
-      "namespace": "4d52bed5776a4ac48c0b87c7ab87cddf",
-      "name": "Colonies of The Remnant",
-      "discount": 20,
-      "orig_cents": 1259,
-      "final_cents": 1007,
-      "orig_price_str": "12,59 €",
-      "final_price_str": "10,07 €"
     },
     {
       "appid": "d390596334494df993249139dfb980ee",
@@ -1741,5 +1661,5 @@
       "final_price_str": "17,99 €"
     }
   ],
-  "total": 174
+  "total": 166
 }
