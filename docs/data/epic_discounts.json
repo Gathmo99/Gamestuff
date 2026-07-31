@@ -491,16 +491,6 @@
       "final_price_str": "4,99 €"
     },
     {
-      "appid": "031d44fe68f14970950f8d888a8b485a",
-      "namespace": "b9cad2ee3e58423ca7c46a5f8ffee059",
-      "name": "SCARY AND DOT",
-      "discount": 75,
-      "orig_cents": 179,
-      "final_cents": 44,
-      "orig_price_str": "1,79 €",
-      "final_price_str": "0,44 €"
-    },
-    {
       "appid": "3d9e98f0fe6a42488d5b3ee6360f4ef1",
       "namespace": "511ba0dc05dd4a3caa39708bcc806cb8",
       "name": "Wolfenstein: The Old Blood - Worldwide",
@@ -594,16 +584,6 @@
       "appid": "52a32a3469dd4a2ca20bfff0c6a66486",
       "namespace": "0bd3e505924240adb702295fa08c1eff",
       "name": "Wolfenstein: The New Order",
-      "discount": 75,
-      "orig_cents": 1999,
-      "final_cents": 499,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "4,99 €"
-    },
-    {
-      "appid": "cd44981c3cea431a9a203ff94b132994",
-      "namespace": "corydalis",
-      "name": "Slime Rancher",
       "discount": 75,
       "orig_cents": 1999,
       "final_cents": 499,
@@ -1021,16 +1001,6 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "f79a0bf682e94c2d99c37ce9499c55ec",
-      "namespace": "2511759c928046e6b5f1ffe962ad4b39",
-      "name": "My Anime Girlfriend",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
       "appid": "ec12e20bde414f088a4695dd3db7f7cc",
       "namespace": "a588422986774a3c9b71f0ed66d6d0d0",
       "name": "Dead Rush",
@@ -1051,29 +1021,9 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "bb09d785bd084b3cb606343b9b47ad17",
-      "namespace": "c41d2880cc784e3ab5744177cf90a603",
-      "name": "Lizard Slayer",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
       "appid": "489755d403ba4e8b9298bdfa96f1b125",
       "namespace": "a4c3c3f2087744a8b43ba268837bd6f2",
       "name": "Exit: Left or Right",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "572ed388c62244cbbb62801d755737b8",
-      "namespace": "03aba521977a4c4d9c550a15ffcb35cc",
-      "name": "In The Gym",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1104,16 +1054,6 @@
       "appid": "b094d09fcb024a97be5db4c1972527dc",
       "namespace": "ee30a29b65554c92a720ad1c8d3e4b18",
       "name": "Nextbots In The Backrooms",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "0faf8d84bd2746379dba79b413bb0ed1",
-      "namespace": "8e08d47a6dcd46b4904b9d6e9e043130",
-      "name": "Backrooms Doors",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1249,16 +1189,6 @@
       "final_cents": 1499,
       "orig_price_str": "29,99 €",
       "final_price_str": "14,99 €"
-    },
-    {
-      "appid": "7477bbf88bae4827879e3e0ce89bf008",
-      "namespace": "67bd9edaa00e4166aecdaebba247b457",
-      "name": "Fxxkbar Kim",
-      "discount": 50,
-      "orig_cents": 179,
-      "final_cents": 89,
-      "orig_price_str": "1,79 €",
-      "final_price_str": "0,89 €"
     },
     {
       "appid": "3a45040e46604d3ba63a8f89ffb33e12",
@@ -1479,26 +1409,6 @@
       "final_cents": 53,
       "orig_price_str": "0,89 €",
       "final_price_str": "0,53 €"
-    },
-    {
-      "appid": "99be6871b5ef4d6db42736c6562decc4",
-      "namespace": "4f09ede568514ca6ad487f9c22a66b81",
-      "name": "Slime Rancher 2",
-      "discount": 40,
-      "orig_cents": 2399,
-      "final_cents": 1439,
-      "orig_price_str": "23,99 €",
-      "final_price_str": "14,39 €"
-    },
-    {
-      "appid": "63e07f28b89445ba80f06657ef0b68a7",
-      "namespace": "33956bcb55d4452d8c47e16b94e294bd",
-      "name": "Among Us",
-      "discount": 40,
-      "orig_cents": 399,
-      "final_cents": 239,
-      "orig_price_str": "3,99 €",
-      "final_price_str": "2,39 €"
     },
     {
       "appid": "b4549b0a846e4fa289f87b48007fc42e",
@@ -1821,5 +1731,5 @@
       "final_price_str": "17,99 €"
     }
   ],
-  "total": 182
+  "total": 173
 }
