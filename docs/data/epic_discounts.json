@@ -211,6 +211,26 @@
       "final_price_str": "7,49 €"
     },
     {
+      "appid": "3d10f32b87b94b769524cd44a12e634a",
+      "namespace": "aca2ee0619aa482791f0a71dbf3eeac0",
+      "name": "Rustler - Grand Theft Horse",
+      "discount": 80,
+      "orig_cents": 2239,
+      "final_cents": 447,
+      "orig_price_str": "22,39 €",
+      "final_price_str": "4,47 €"
+    },
+    {
+      "appid": "913af1ed18e24007ab5fd2bc2092c175",
+      "namespace": "9f981e2c861e4a8fbd0eab89541ac8e6",
+      "name": "112 Operator",
+      "discount": 80,
+      "orig_cents": 2239,
+      "final_cents": 447,
+      "orig_price_str": "22,39 €",
+      "final_price_str": "4,47 €"
+    },
+    {
       "appid": "431ef6a0c3fd4aaab390ceb2f1904bc3",
       "namespace": "0024d18025a544fd99b2ee8dee87baaf",
       "name": "Happy Game",
@@ -319,6 +339,16 @@
       "final_cents": 299,
       "orig_price_str": "14,99 €",
       "final_price_str": "2,99 €"
+    },
+    {
+      "appid": "268fd6ea355740d6ba4c76c3ffd4cbe0",
+      "namespace": "d923c737f0d243ccab407605ea40d39e",
+      "name": "911 Operator",
+      "discount": 80,
+      "orig_cents": 1349,
+      "final_cents": 269,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "2,69 €"
     },
     {
       "appid": "b6f70c962b324322adfddee06fd16037",
@@ -1651,16 +1681,6 @@
       "final_price_str": "3,23 €"
     },
     {
-      "appid": "5e655b83c63c4f84a40395608e66c070",
-      "namespace": "cff5bf1a2d3247158e828b996a11bc3b",
-      "name": "Dino Jump Deluxe",
-      "discount": 10,
-      "orig_cents": 449,
-      "final_cents": 404,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "4,04 €"
-    },
-    {
       "appid": "cf0d0b4eef5f486ca8f8e1973e908b82",
       "namespace": "ba61f233b6214140b0257841fd640c94",
       "name": "Fading Echo",
@@ -1671,5 +1691,5 @@
       "final_price_str": "17,99 €"
     }
   ],
-  "total": 167
+  "total": 170
 }
