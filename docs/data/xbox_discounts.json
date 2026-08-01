@@ -181,6 +181,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9NGG3143XJ73",
+      "name": "KLETKA",
+      "discount": 30,
+      "orig_cents": 1499,
+      "final_cents": 1049,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "10,49 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9PFKP8Z66G1J",
       "name": "LEGO® Batman™: Das Vermächtnis des Dunklen Ritters",
       "discount": 20,
@@ -229,17 +239,7 @@
       "orig_price_str": "23,99 €",
       "final_price_str": "21,59 €",
       "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "9NVKXP16H8TJ",
-      "name": "Wrap House Simulator",
-      "discount": 10,
-      "orig_cents": 1499,
-      "final_cents": 1349,
-      "orig_price_str": "14,99 €",
-      "final_price_str": "13,49 €",
-      "gamepass": ""
     }
   ],
-  "total": 402
+  "total": 397
 }

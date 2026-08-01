@@ -131,6 +131,16 @@
       "final_price_str": "0,80 €"
     },
     {
+      "appid": "cdab83484ebe44609fc8fe95ad5ec99d",
+      "namespace": "090ac4b263f44ea79418069fddfb0d9b",
+      "name": "Devil's Island",
+      "discount": 90,
+      "orig_cents": 1079,
+      "final_cents": 107,
+      "orig_price_str": "10,79 €",
+      "final_price_str": "1,07 €"
+    },
+    {
       "appid": "dd98ea5250204ae2b03b3befbdcbb561",
       "namespace": "9d56883e7b1a45bca132db9427cf4a22",
       "name": "Arctico",
@@ -1079,16 +1089,6 @@
       "final_cents": 1499,
       "orig_price_str": "29,99 €",
       "final_price_str": "14,99 €"
-    },
-    {
-      "appid": "7f48b836da4d410bb6e4c65beb0280c1",
-      "namespace": "be2c119d693440b58a97ac9aa41cb341",
-      "name": "The last roman village",
-      "discount": 50,
-      "orig_cents": 359,
-      "final_cents": 179,
-      "orig_price_str": "3,59 €",
-      "final_price_str": "1,79 €"
     },
     {
       "appid": "f86d6f01b51742859feb22b71d6800e1",
