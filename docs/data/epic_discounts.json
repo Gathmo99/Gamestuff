@@ -441,6 +441,16 @@
       "final_price_str": "0,44 €"
     },
     {
+      "appid": "8fd0a802ed5748119282bd1bb2a5be34",
+      "namespace": "5da4301570a24f5b866aeae92569e5e4",
+      "name": "MUSHROOMAN",
+      "discount": 75,
+      "orig_cents": 179,
+      "final_cents": 44,
+      "orig_price_str": "1,79 €",
+      "final_price_str": "0,44 €"
+    },
+    {
       "appid": "8880d2adbd27498883f0a3265dc66473",
       "namespace": "915b00759eab42f2a0d8859dd2ca3d89",
       "name": "Backrooms Hide And Seek",
@@ -691,6 +701,16 @@
       "final_price_str": "3,59 €"
     },
     {
+      "appid": "f4550b821c34409b8b3ceb0414881d1f",
+      "namespace": "1409385ad20c4ba48849a6cc0973db4a",
+      "name": "Boti - Byteland Overclocked",
+      "discount": 60,
+      "orig_cents": 1799,
+      "final_cents": 719,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "7,19 €"
+    },
+    {
       "appid": "63d6f25b815749e6b912b3fe8fd2078c",
       "namespace": "2b04b1a83647411e956695342f1d14b6",
       "name": "Die Elder Scrolls III: Morrowind® Game of the Year Edition",
@@ -924,6 +944,16 @@
       "appid": "2db823f45cb54bb4befffa676ce7b10a",
       "namespace": "9f0fa810ec4c4378af102f379810f1e8",
       "name": "Animatronics Playtime",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "a1ef8a92dd8b450ba4472b3cbf424b0c",
+      "namespace": "5ca95d21db94459293b04fe3799945e6",
+      "name": "100 Nights In The Forest",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1249,16 +1279,6 @@
       "final_cents": 539,
       "orig_price_str": "8,99 €",
       "final_price_str": "5,39 €"
-    },
-    {
-      "appid": "e4253f47bcb64fd0a2dada5036e63f48",
-      "namespace": "22944fe6683d417cb87b6d1fba4fbb91",
-      "name": "Better Mart Simulator",
-      "discount": 40,
-      "orig_cents": 1349,
-      "final_cents": 809,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "8,09 €"
     },
     {
       "appid": "7720aece26f54bff91ee36516c2548f4",
@@ -1661,5 +1681,5 @@
       "final_price_str": "17,99 €"
     }
   ],
-  "total": 166
+  "total": 168
 }
