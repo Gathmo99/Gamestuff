@@ -891,16 +891,6 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "5e7015b65e174329a90b50fc90194224",
-      "namespace": "bd440f08d4d044dbad86cf12f273f744",
-      "name": "Krogger Skull Killer",
-      "discount": 55,
-      "orig_cents": 89,
-      "final_cents": 40,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,40 €"
-    },
-    {
       "appid": "a0a4e6460d4548b38f100b31764dcacf",
       "namespace": "46abcd0cbb8d49929e8cadd50d666547",
       "name": "Commando:  Hell's Target 3D",
@@ -1681,5 +1671,5 @@
       "final_price_str": "17,99 €"
     }
   ],
-  "total": 168
+  "total": 167
 }
