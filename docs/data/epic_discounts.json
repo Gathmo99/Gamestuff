@@ -951,16 +951,6 @@
       "final_price_str": "0,40 €"
     },
     {
-      "appid": "d00f4c29c794458580a0855d3543bfb4",
-      "namespace": "4435a2c4b1224ce6b91e4cb182c52f4c",
-      "name": "Commando:  Heart Of Terror",
-      "discount": 55,
-      "orig_cents": 89,
-      "final_cents": 40,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,40 €"
-    },
-    {
       "appid": "122977c9ea594b789e9eaba2e7d35bba",
       "namespace": "641612914ff541fcb0e4813ee144777d",
       "name": "The Nightmare Of Arrival Chapter1",
@@ -1401,16 +1391,6 @@
       "final_price_str": "0,53 €"
     },
     {
-      "appid": "b4549b0a846e4fa289f87b48007fc42e",
-      "namespace": "orchid",
-      "name": "Jackbox Party Pack 3",
-      "discount": 40,
-      "orig_cents": 2299,
-      "final_cents": 1379,
-      "orig_price_str": "22,99 €",
-      "final_price_str": "13,79 €"
-    },
-    {
       "appid": "320642f337214e3eaf8d984207ef0a95",
       "namespace": "9cdcb83442bd412fa8d0c47704e358b7",
       "name": "Promise Mascot Agency",
@@ -1419,46 +1399,6 @@
       "final_cents": 1410,
       "orig_price_str": "22,39 €",
       "final_price_str": "14,10 €"
-    },
-    {
-      "appid": "165086d4d8ed4b27b411a40b6aa95e47",
-      "namespace": "ccb3c1945ea745188e02585a3f7f07fe",
-      "name": "Dino Run DX",
-      "discount": 33,
-      "orig_cents": 539,
-      "final_cents": 361,
-      "orig_price_str": "5,39 €",
-      "final_price_str": "3,61 €"
-    },
-    {
-      "appid": "2307f3ec0f6846be9ca7597140b348a5",
-      "namespace": "bcdfb35845014b808ef55b9f35960e7e",
-      "name": "Grid Ranger",
-      "discount": 33,
-      "orig_cents": 359,
-      "final_cents": 240,
-      "orig_price_str": "3,59 €",
-      "final_price_str": "2,40 €"
-    },
-    {
-      "appid": "401e24b1fb7d4a35b9cdfb94e0b53cbf",
-      "namespace": "781a0805bc994cd5985fb0e5453aa52e",
-      "name": "Snowball!",
-      "discount": 33,
-      "orig_cents": 359,
-      "final_cents": 240,
-      "orig_price_str": "3,59 €",
-      "final_price_str": "2,40 €"
-    },
-    {
-      "appid": "ccc7447ab7194c9dad1c5a9c8fec9b2d",
-      "namespace": "4751083c0d194540bcd4d55501a07f0b",
-      "name": "Glorkian Warrior: Trials of Glork",
-      "discount": 33,
-      "orig_cents": 449,
-      "final_cents": 300,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "3,00 €"
     },
     {
       "appid": "5143c451be9b4e1ab9f3a0296d0bf5e7",
@@ -1689,27 +1629,7 @@
       "final_cents": 3599,
       "orig_price_str": "39,99 €",
       "final_price_str": "35,99 €"
-    },
-    {
-      "appid": "45a342f3f20a4891bfe54e78edbabec0",
-      "namespace": "e0bb3c3ed0004feba79e747589a57f36",
-      "name": "Cornhole Hero",
-      "discount": 10,
-      "orig_cents": 359,
-      "final_cents": 323,
-      "orig_price_str": "3,59 €",
-      "final_price_str": "3,23 €"
-    },
-    {
-      "appid": "cf0d0b4eef5f486ca8f8e1973e908b82",
-      "namespace": "ba61f233b6214140b0257841fd640c94",
-      "name": "Fading Echo",
-      "discount": 10,
-      "orig_cents": 1999,
-      "final_cents": 1799,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "17,99 €"
     }
   ],
-  "total": 171
+  "total": 163
 }
