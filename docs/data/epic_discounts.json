@@ -61,6 +61,16 @@
       "final_price_str": "0,89 €"
     },
     {
+      "appid": "34d960ae4b224b1f9a45766db362e530",
+      "namespace": "daed3ae775ab4986a0ce9ec1c3daab83",
+      "name": "The Wraith of the Galaxy",
+      "discount": 95,
+      "orig_cents": 1799,
+      "final_cents": 89,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "0,89 €"
+    },
+    {
       "appid": "7df6c82dff564d8eb04fc20687e2c6ad",
       "namespace": "36e5e8e78ef04e63b204a224ee3a780f",
       "name": "Firelight Fantasy: Phoenix Crew",
@@ -69,6 +79,16 @@
       "final_cents": 80,
       "orig_price_str": "13,49 €",
       "final_price_str": "0,80 €"
+    },
+    {
+      "appid": "45861d4e4fa34cf391c00c1d7ce02db3",
+      "namespace": "473c212b6d2e41d48fceb2d705ca04fa",
+      "name": "The Divine Invasion",
+      "discount": 93,
+      "orig_cents": 1349,
+      "final_cents": 94,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "0,94 €"
     },
     {
       "appid": "ec10c2c159514f649be9536b8dd2c86d",
@@ -439,16 +459,6 @@
       "final_cents": 1199,
       "orig_price_str": "59,99 €",
       "final_price_str": "11,99 €"
-    },
-    {
-      "appid": "023dcbb382b24927a32a5fdafd723dfd",
-      "namespace": "64f6e25cee7441e9967524a50b08dddd",
-      "name": "FAR: Lone Sails",
-      "discount": 80,
-      "orig_cents": 1499,
-      "final_cents": 299,
-      "orig_price_str": "14,99 €",
-      "final_price_str": "2,99 €"
     },
     {
       "appid": "ed17077691c541c19dc95e47fdd1cfd5",
@@ -1631,5 +1641,5 @@
       "final_price_str": "35,99 €"
     }
   ],
-  "total": 163
+  "total": 164
 }
