@@ -711,6 +711,16 @@
       "final_price_str": "6,59 €"
     },
     {
+      "appid": "1dd7c19f45cc4e919e64662763817771",
+      "namespace": "e406b39e8d4e48ccaaa8873961d51717",
+      "name": "The Lost On The Street: Gold Edition",
+      "discount": 60,
+      "orig_cents": 899,
+      "final_cents": 359,
+      "orig_price_str": "8,99 €",
+      "final_price_str": "3,59 €"
+    },
+    {
       "appid": "ebc2f3afc8164f44b3017577577be084",
       "namespace": "6e274057d3704624a1270cf7be81966a",
       "name": "Revolt Invasion",
@@ -1054,6 +1064,16 @@
       "appid": "12a5c382f26c4b68b53854f12329bc82",
       "namespace": "7440c35de8d9421b83d639eb80ec1040",
       "name": "Ninja Fighter",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "3a8c63f9271f4f07a186ee4f51896978",
+      "namespace": "42671f8f7f0d4810b1e4674f881824b5",
+      "name": "One Night With Kawaii",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1691,5 +1711,5 @@
       "final_price_str": "17,99 €"
     }
   ],
-  "total": 170
+  "total": 171
 }
