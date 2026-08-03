@@ -181,13 +181,23 @@
       "gamepass": ""
     },
     {
-      "appid": "9NGG3143XJ73",
-      "name": "KLETKA",
+      "appid": "9ND58LQTG09T",
+      "name": "Baldur's Gate 3",
       "discount": 30,
-      "orig_cents": 1499,
-      "final_cents": 1049,
-      "orig_price_str": "14,99 €",
-      "final_price_str": "10,49 €",
+      "orig_cents": 6999,
+      "final_cents": 4899,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "48,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9N4WFSL71XXZ",
+      "name": "Baldur's Gate 3 - Digital Deluxe Edition",
+      "discount": 30,
+      "orig_cents": 7999,
+      "final_cents": 5599,
+      "orig_price_str": "79,99 €",
+      "final_price_str": "55,99 €",
       "gamepass": ""
     },
     {
@@ -221,16 +231,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9N055WD1VC99",
-      "name": "Waterpark Simulator",
-      "discount": 20,
-      "orig_cents": 1199,
-      "final_cents": 959,
-      "orig_price_str": "11,99 €",
-      "final_price_str": "9,59 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9N072VV7MFK7",
       "name": "The Planet Crafter",
       "discount": 10,
@@ -241,5 +241,5 @@
       "gamepass": "PC + Xbox"
     }
   ],
-  "total": 398
+  "total": 399
 }
