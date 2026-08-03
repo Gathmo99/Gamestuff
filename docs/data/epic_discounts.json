@@ -771,16 +771,6 @@
       "final_price_str": "1,79 €"
     },
     {
-      "appid": "598d9ad06a014f399a6462eb5f719439",
-      "namespace": "9b9b8d67d4ce4b7f81cd74b2fe7325c0",
-      "name": "Dark Fantasy 2: Jigsaw Puzzle",
-      "discount": 60,
-      "orig_cents": 269,
-      "final_cents": 107,
-      "orig_price_str": "2,69 €",
-      "final_price_str": "1,07 €"
-    },
-    {
       "appid": "42a56aabef6847528777cda4c2ba5bb5",
       "namespace": "a5434b28a3ac403e966478e86a839f5b",
       "name": "Quake II",
@@ -789,36 +779,6 @@
       "final_cents": 399,
       "orig_price_str": "9,99 €",
       "final_price_str": "3,99 €"
-    },
-    {
-      "appid": "4670b69dbded4547a4e6075a4499e79e",
-      "namespace": "10b5b9a5fe274252aac9166f8b2cc269",
-      "name": "Dark Fantasy Jigsaw Puzzle",
-      "discount": 60,
-      "orig_cents": 269,
-      "final_cents": 107,
-      "orig_price_str": "2,69 €",
-      "final_price_str": "1,07 €"
-    },
-    {
-      "appid": "5d3b22ff94c1483aaac5c1e07554e41c",
-      "namespace": "cace077f51674e66b937ba8d5646fff7",
-      "name": "Mokoko X",
-      "discount": 60,
-      "orig_cents": 899,
-      "final_cents": 359,
-      "orig_price_str": "8,99 €",
-      "final_price_str": "3,59 €"
-    },
-    {
-      "appid": "ff7db7826b614fc4809d2c61c6b76f49",
-      "namespace": "18ba5ade23ee4b49a65d84712ef4c895",
-      "name": "Volley Pals",
-      "discount": 60,
-      "orig_cents": 449,
-      "final_cents": 179,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "1,79 €"
     },
     {
       "appid": "12833f9cb86d4a9ba78afd8c4ef5bd7f",
@@ -1561,5 +1521,5 @@
       "final_price_str": "35,99 €"
     }
   ],
-  "total": 156
+  "total": 152
 }
