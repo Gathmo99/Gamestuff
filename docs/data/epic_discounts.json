@@ -291,6 +291,16 @@
       "final_price_str": "2,99 €"
     },
     {
+      "appid": "2f9b3f889f1c4500a312627e54842bd3",
+      "namespace": "f5f9d01a03724f3fbb7c4281fa39fb15",
+      "name": "The Mystery Of The Moon",
+      "discount": 80,
+      "orig_cents": 5399,
+      "final_cents": 1079,
+      "orig_price_str": "53,99 €",
+      "final_price_str": "10,79 €"
+    },
+    {
       "appid": "268fd6ea355740d6ba4c76c3ffd4cbe0",
       "namespace": "d923c737f0d243ccab407605ea40d39e",
       "name": "911 Operator",
@@ -761,16 +771,6 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "12833f9cb86d4a9ba78afd8c4ef5bd7f",
-      "namespace": "f696430be718494fac1d6542cfb22542",
-      "name": "Marvel's Spider-Man: Miles Morales",
-      "discount": 60,
-      "orig_cents": 4999,
-      "final_cents": 1999,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "19,99 €"
-    },
-    {
       "appid": "a6f4dc69036c4208817b25587ca2807d",
       "namespace": "7f1853beef0a4b40827038d0f47606f3",
       "name": "DOOM 3",
@@ -789,16 +789,6 @@
       "final_cents": 199,
       "orig_price_str": "4,99 €",
       "final_price_str": "1,99 €"
-    },
-    {
-      "appid": "3c06545a3494477c9d2d85b08b25bd84",
-      "namespace": "4bc43145bb8245a5b5cc9ea262ffbe0e",
-      "name": "Marvel's Spider-Man Remastered",
-      "discount": 60,
-      "orig_cents": 5999,
-      "final_cents": 2399,
-      "orig_price_str": "59,99 €",
-      "final_price_str": "23,99 €"
     },
     {
       "appid": "3cf8c6563f644b2989fb4a77ec328c53",
@@ -1101,6 +1091,16 @@
       "final_price_str": "2,49 €"
     },
     {
+      "appid": "377aee4a2fc2432f8a4fe6101442f38b",
+      "namespace": "dc66053dbf6248cfbcb8c9a406b54dfb",
+      "name": "Red Planet Rampart",
+      "discount": 50,
+      "orig_cents": 1079,
+      "final_cents": 539,
+      "orig_price_str": "10,79 €",
+      "final_price_str": "5,39 €"
+    },
+    {
       "appid": "007e274de94348f5a032c9f7653c196b",
       "namespace": "206c851f04544725af8abb022128dd0d",
       "name": "Fireside",
@@ -1281,14 +1281,14 @@
       "final_price_str": "14,10 €"
     },
     {
-      "appid": "5143c451be9b4e1ab9f3a0296d0bf5e7",
-      "namespace": "b2818b59c0bb420e9647983dfd254931",
-      "name": "Marvel's Spider-Man 2",
+      "appid": "40980262fdb24c149094f3febfe84cb6",
+      "namespace": "f14e8d865ad04b93a5df850ce7a59fe2",
+      "name": "Trash Goblin",
       "discount": 33,
-      "orig_cents": 5999,
-      "final_cents": 4019,
-      "orig_price_str": "59,99 €",
-      "final_price_str": "40,19 €"
+      "orig_cents": 1799,
+      "final_cents": 1205,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "12,05 €"
     },
     {
       "appid": "4bde004a40ef405ea03904bda31c90db",
@@ -1351,6 +1351,16 @@
       "final_price_str": "1,74 €"
     },
     {
+      "appid": "8dfd24605cf7452aa41db78c1900041a",
+      "namespace": "a5af1c76dbe24f589852db5ce0f87b0a",
+      "name": "Gasriesen Odyssey",
+      "discount": 30,
+      "orig_cents": 719,
+      "final_cents": 503,
+      "orig_price_str": "7,19 €",
+      "final_price_str": "5,03 €"
+    },
+    {
       "appid": "99938c7aad1b44d7a446ae57e2839ece",
       "namespace": "7e2ec8a47b8d41528eb6dd2efd2b1abc",
       "name": "Disney Dreamlight Valley",
@@ -1409,26 +1419,6 @@
       "final_cents": 2799,
       "orig_price_str": "34,99 €",
       "final_price_str": "27,99 €"
-    },
-    {
-      "appid": "af0bac92ab4c4c0f9ed6b36025916ded",
-      "namespace": "095f6c7801d14240b31e732cc3e87008",
-      "name": "Fell in love with coser 15",
-      "discount": 20,
-      "orig_cents": 359,
-      "final_cents": 287,
-      "orig_price_str": "3,59 €",
-      "final_price_str": "2,87 €"
-    },
-    {
-      "appid": "439c8da488ff4d7288558f000b532659",
-      "namespace": "144f5a0a7b55497eb327f2a90ccf0a15",
-      "name": "Stocking Angel",
-      "discount": 20,
-      "orig_cents": 449,
-      "final_cents": 359,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "3,59 €"
     },
     {
       "appid": "be8ccccd9734406d89b5d6cad9b88990",
@@ -1501,5 +1491,5 @@
       "final_price_str": "35,99 €"
     }
   ],
-  "total": 150
+  "total": 149
 }
