@@ -81,16 +81,6 @@
       "gamepass": "Xbox"
     },
     {
-      "appid": "9NLJKM3MDXQX",
-      "name": "Mortal Kombat™ 1: Definitive Edition",
-      "discount": 70,
-      "orig_cents": 6999,
-      "final_cents": 2099,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "20,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9NP0PC87KBTD",
       "name": "DOOM: The Dark Ages Premium Edition",
       "discount": 67,
@@ -99,6 +89,16 @@
       "orig_price_str": "109,99 €",
       "final_price_str": "36,29 €",
       "gamepass": ""
+    },
+    {
+      "appid": "C3KLDKZBHNCZ",
+      "name": "Fallout 4",
+      "discount": 60,
+      "orig_cents": 1999,
+      "final_cents": 799,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "7,99 €",
+      "gamepass": "PC + Xbox"
     },
     {
       "appid": "9P8RQH67TTT1",
@@ -241,5 +241,5 @@
       "gamepass": "PC + Xbox"
     }
   ],
-  "total": 865
+  "total": 735
 }

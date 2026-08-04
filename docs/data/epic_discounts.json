@@ -1511,16 +1511,6 @@
       "final_price_str": "27,99 €"
     },
     {
-      "appid": "be8ccccd9734406d89b5d6cad9b88990",
-      "namespace": "5f60f852f4d0466295f4f1b8a1dbbd0d",
-      "name": "DIVE or DIE - Kinder des Regens",
-      "discount": 20,
-      "orig_cents": 1799,
-      "final_cents": 1439,
-      "orig_price_str": "17,99 €",
-      "final_price_str": "14,39 €"
-    },
-    {
       "appid": "d390596334494df993249139dfb980ee",
       "namespace": "b880f11dc71c4f309ddef026b8d7dbbc",
       "name": "LEGO® Batman™: Das Vermächtnis des Dunklen Ritters",
@@ -1581,5 +1571,5 @@
       "final_price_str": "35,99 €"
     }
   ],
-  "total": 158
+  "total": 157
 }
