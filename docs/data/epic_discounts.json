@@ -531,6 +531,16 @@
       "final_price_str": "4,99 €"
     },
     {
+      "appid": "598daa91bc484a649d3cd30bc5c4447c",
+      "namespace": "0c8b0fae094f4e36a63e38482674c642",
+      "name": "Koropokkur in Love ~A Little Fairy’s Tale~",
+      "discount": 75,
+      "orig_cents": 1349,
+      "final_cents": 337,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "3,37 €"
+    },
+    {
       "appid": "3d9e98f0fe6a42488d5b3ee6360f4ef1",
       "namespace": "511ba0dc05dd4a3caa39708bcc806cb8",
       "name": "Wolfenstein: The Old Blood - Worldwide",
@@ -1571,5 +1581,5 @@
       "final_price_str": "35,99 €"
     }
   ],
-  "total": 157
+  "total": 158
 }
