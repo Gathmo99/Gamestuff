@@ -586,6 +586,15 @@
       "final_price_str": "7,99 €"
     },
     {
+      "appid": "EP3359-CUSA08368_00-THCOTWBASE000000",
+      "name": "theHunter: Call of the Wild™",
+      "discount": 80,
+      "orig_cents": 2999,
+      "final_cents": 599,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "5,99 €"
+    },
+    {
       "appid": "EP5335-PPSA05812_00-KARGAST000000000",
       "name": "Kargast",
       "discount": 75,
@@ -1054,15 +1063,6 @@
       "final_price_str": "10,49 €"
     },
     {
-      "appid": "EP8070-CUSA20343_00-8934628868214305",
-      "name": "Memory Lane Space Bundle",
-      "discount": 70,
-      "orig_cents": 399,
-      "final_cents": 119,
-      "orig_price_str": "3,99 €",
-      "final_price_str": "1,19 €"
-    },
-    {
       "appid": "EP4060-CUSA23502_00-NEPVIRTUALSTARS0",
       "name": "Neptunia Virtual Stars",
       "discount": 70,
@@ -1169,6 +1169,15 @@
       "final_cents": 134,
       "orig_price_str": "4,49 €",
       "final_price_str": "1,34 €"
+    },
+    {
+      "appid": "EP4384-CUSA04037_00-MAHJONGRLTW0PS4E",
+      "name": "Mahjong Royal Towers",
+      "discount": 70,
+      "orig_cents": 699,
+      "final_cents": 209,
+      "orig_price_str": "6,99 €",
+      "final_price_str": "2,09 €"
     },
     {
       "appid": "EP0006-PPSA02423_00-HAZELIGHTBUNDLE5",
@@ -1781,6 +1790,15 @@
       "final_cents": 799,
       "orig_price_str": "19,99 €",
       "final_price_str": "7,99 €"
+    },
+    {
+      "appid": "EP4040-CUSA01797_00-ASSETTOFERRARI70",
+      "name": "Assetto Corsa - Ferrari 70th Anniversary DLC",
+      "discount": 60,
+      "orig_cents": 699,
+      "final_cents": 279,
+      "orig_price_str": "6,99 €",
+      "final_price_str": "2,79 €"
     },
     {
       "appid": "EP3729-CUSA23816_00-6396365817141703",
@@ -2681,25 +2699,7 @@
       "final_cents": 127,
       "orig_price_str": "1,59 €",
       "final_price_str": "1,27 €"
-    },
-    {
-      "appid": "EP2581-CUSA05920_00-0000000000773600",
-      "name": "The Woodland",
-      "discount": 20,
-      "orig_cents": 499,
-      "final_cents": 399,
-      "orig_price_str": "4,99 €",
-      "final_price_str": "3,99 €"
-    },
-    {
-      "appid": "EP2581-CUSA05920_00-0000000000827820",
-      "name": "The Woodsman",
-      "discount": 20,
-      "orig_cents": 159,
-      "final_cents": 127,
-      "orig_price_str": "1,59 €",
-      "final_price_str": "1,27 €"
     }
   ],
-  "total": 1762
+  "total": 1744
 }

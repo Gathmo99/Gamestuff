@@ -21,6 +21,26 @@
       "final_price_str": "0,00 €"
     },
     {
+      "appid": "9d904fbaf04045d798dc3f71df015b8e",
+      "namespace": "831ead56047a4e22b1aade2cfdd11eee",
+      "name": "Project First Contact",
+      "discount": 100,
+      "orig_cents": 269,
+      "final_cents": 0,
+      "orig_price_str": "2,69 €",
+      "final_price_str": "0,00 €"
+    },
+    {
+      "appid": "8f3bb1e57d524c23b8eda24259c869a7",
+      "namespace": "93f9285e690e40d58ca6021df41ae11b",
+      "name": "I Need Spirit Drink and Drive Simulator",
+      "discount": 96,
+      "orig_cents": 179,
+      "final_cents": 8,
+      "orig_price_str": "1,79 €",
+      "final_price_str": "0,08 €"
+    },
+    {
       "appid": "01788ca3ba2c43958b5d70939df5aa97",
       "namespace": "a1999b7ecf184f63b4dceba2bbdc4b2c",
       "name": "Countrytale 2010",
@@ -69,6 +89,46 @@
       "final_cents": 89,
       "orig_price_str": "17,99 €",
       "final_price_str": "0,89 €"
+    },
+    {
+      "appid": "77ebe3d0fbd6401999f773a4b9f47b62",
+      "namespace": "f02d6ce12fbc4230853a8b067e7e7278",
+      "name": "MechDefender",
+      "discount": 95,
+      "orig_cents": 359,
+      "final_cents": 17,
+      "orig_price_str": "3,59 €",
+      "final_price_str": "0,17 €"
+    },
+    {
+      "appid": "52056713f1e64223a3a09cf89ddfd903",
+      "namespace": "7dd01e47eb62480bb938d02a80977ed2",
+      "name": "I Need Spirit! Off-Road Edition",
+      "discount": 95,
+      "orig_cents": 269,
+      "final_cents": 13,
+      "orig_price_str": "2,69 €",
+      "final_price_str": "0,13 €"
+    },
+    {
+      "appid": "e593b93558e64399b58905728cb2bf76",
+      "namespace": "e2ee4d4c923a45ea9b815f11a71f64ce",
+      "name": "Fix Me Up Doc - Dark Humor",
+      "discount": 95,
+      "orig_cents": 269,
+      "final_cents": 13,
+      "orig_price_str": "2,69 €",
+      "final_price_str": "0,13 €"
+    },
+    {
+      "appid": "982a7ee88127402fb5d8f5655745fa82",
+      "namespace": "898948344c0c49218e067f34221acd08",
+      "name": "Corrupt - Political Simulator",
+      "discount": 95,
+      "orig_cents": 359,
+      "final_cents": 17,
+      "orig_price_str": "3,59 €",
+      "final_price_str": "0,17 €"
     },
     {
       "appid": "7df6c82dff564d8eb04fc20687e2c6ad",
@@ -151,6 +211,36 @@
       "final_price_str": "0,80 €"
     },
     {
+      "appid": "026f364d53b6478bbb9413b59140aa8e",
+      "namespace": "3b665944a4764f9882d99296d2010265",
+      "name": "Find the Oil Racing Edition",
+      "discount": 91,
+      "orig_cents": 179,
+      "final_cents": 17,
+      "orig_price_str": "1,79 €",
+      "final_price_str": "0,17 €"
+    },
+    {
+      "appid": "cf5be2c093914084881aa74cc0367ef3",
+      "namespace": "3376364c2a914c1fbde839f5cf8824f6",
+      "name": "Secret Agent 001",
+      "discount": 91,
+      "orig_cents": 179,
+      "final_cents": 17,
+      "orig_price_str": "1,79 €",
+      "final_price_str": "0,17 €"
+    },
+    {
+      "appid": "7c54a54697c143ba8de1f0b13c0c716e",
+      "namespace": "425a91afbd1743ff8dcd21794a39a8a1",
+      "name": "Two Skateboards Driving Simulator",
+      "discount": 91,
+      "orig_cents": 179,
+      "final_cents": 17,
+      "orig_price_str": "1,79 €",
+      "final_price_str": "0,17 €"
+    },
+    {
       "appid": "cdab83484ebe44609fc8fe95ad5ec99d",
       "namespace": "090ac4b263f44ea79418069fddfb0d9b",
       "name": "Devil's Island",
@@ -179,16 +269,6 @@
       "final_cents": 70,
       "orig_price_str": "5,39 €",
       "final_price_str": "0,70 €"
-    },
-    {
-      "appid": "78b49b31ca3a43cea39b552555deb72b",
-      "namespace": "49746e7a850e4d9d9c7390b9ed032db0",
-      "name": "Backrooms Bodycam 2",
-      "discount": 85,
-      "orig_cents": 269,
-      "final_cents": 40,
-      "orig_price_str": "2,69 €",
-      "final_price_str": "0,40 €"
     },
     {
       "appid": "2a6ad2dc7fc14d4b98fdd89be1fd63b0",
@@ -429,16 +509,6 @@
       "final_cents": 374,
       "orig_price_str": "14,99 €",
       "final_price_str": "3,74 €"
-    },
-    {
-      "appid": "96c28d82d0864e879a2ca0199d628de4",
-      "namespace": "8a9e2e4ce5ab48eb8da52acb61acd34a",
-      "name": "Floppa: The Dark Forest",
-      "discount": 75,
-      "orig_cents": 179,
-      "final_cents": 44,
-      "orig_price_str": "1,79 €",
-      "final_price_str": "0,44 €"
     },
     {
       "appid": "087155540ecc47239c98c1265b40ba99",
@@ -914,6 +984,16 @@
       "appid": "12a5c382f26c4b68b53854f12329bc82",
       "namespace": "7440c35de8d9421b83d639eb80ec1040",
       "name": "Ninja Fighter",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "50fc0bf4ed91420d8a3286ce9becb8c7",
+      "namespace": "363d0b06fb134d5b8c2794f488a694b8",
+      "name": "Bulletrooms",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1491,5 +1571,5 @@
       "final_price_str": "35,99 €"
     }
   ],
-  "total": 149
+  "total": 157
 }
