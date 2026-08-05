@@ -231,6 +231,16 @@
       "final_price_str": "0,17 €"
     },
     {
+      "appid": "e886019a702a4211b2522def68f527eb",
+      "namespace": "312174cf57134898a8f751921430d765",
+      "name": "SOS OPS!",
+      "discount": 90,
+      "orig_cents": 449,
+      "final_cents": 44,
+      "orig_price_str": "4,49 €",
+      "final_price_str": "0,44 €"
+    },
+    {
       "appid": "cdab83484ebe44609fc8fe95ad5ec99d",
       "namespace": "090ac4b263f44ea79418069fddfb0d9b",
       "name": "Devil's Island",
@@ -1519,7 +1529,17 @@
       "final_cents": 3599,
       "orig_price_str": "39,99 €",
       "final_price_str": "35,99 €"
+    },
+    {
+      "appid": "def2346c0f9d42978251d57565f67936",
+      "namespace": "77e8ad2985f5455e968dd8e8300597df",
+      "name": "XFlight: FPV Drone Simulator",
+      "discount": 10,
+      "orig_cents": 2239,
+      "final_cents": 2015,
+      "orig_price_str": "22,39 €",
+      "final_price_str": "20,15 €"
     }
   ],
-  "total": 152
+  "total": 154
 }
