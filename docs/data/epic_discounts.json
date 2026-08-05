@@ -1501,6 +1501,16 @@
       "final_price_str": "3,36 €"
     },
     {
+      "appid": "bdec933623154b1eb3da39b2b160d4a0",
+      "namespace": "3ffa3e5edcf1453a833243176e8dbd85",
+      "name": "HellSlave II: Judgment of the Archon",
+      "discount": 15,
+      "orig_cents": 1999,
+      "final_cents": 1699,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "16,99 €"
+    },
+    {
       "appid": "5268c9e9c0524f04a1b57845da4de0b3",
       "namespace": "3b51901c38644473a9cba942253b3a41",
       "name": "Hell Let Loose: Vietnam",
@@ -1511,5 +1521,5 @@
       "final_price_str": "35,99 €"
     }
   ],
-  "total": 151
+  "total": 152
 }
