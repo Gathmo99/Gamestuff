@@ -41,16 +41,6 @@
       "final_price_str": "0,08 €"
     },
     {
-      "appid": "01788ca3ba2c43958b5d70939df5aa97",
-      "namespace": "a1999b7ecf184f63b4dceba2bbdc4b2c",
-      "name": "Countrytale 2010",
-      "discount": 95,
-      "orig_cents": 1799,
-      "final_cents": 89,
-      "orig_price_str": "17,99 €",
-      "final_price_str": "0,89 €"
-    },
-    {
       "appid": "23c0c1ff559343bdbd619ecee850d07f",
       "namespace": "23e0d8cad86d45308001a2c4151969c0",
       "name": "Cyber Avenger",
@@ -1261,16 +1251,6 @@
       "final_price_str": "1,49 €"
     },
     {
-      "appid": "52b6e69a165c4e10ba306f3b29a5579a",
-      "namespace": "ce37450ae2f9431cacb23244a0d8ac76",
-      "name": "PROTOBOT",
-      "discount": 40,
-      "orig_cents": 89,
-      "final_cents": 53,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,53 €"
-    },
-    {
       "appid": "fde9b0618e684991a9acaa6f23b8a894",
       "namespace": "29b93abfbd7c4e028999d69deeb9b16d",
       "name": "Argonauts Agency 3: Chair of Hephaestus",
@@ -1531,5 +1511,5 @@
       "final_price_str": "35,99 €"
     }
   ],
-  "total": 153
+  "total": 151
 }
