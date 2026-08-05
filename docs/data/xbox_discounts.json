@@ -11,26 +11,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9N3DWR830CVN",
-      "name": "FOR HONOR - Standard Edition",
-      "discount": 85,
-      "orig_cents": 2999,
-      "final_cents": 449,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "4,49 €",
-      "gamepass": "Xbox"
-    },
-    {
-      "appid": "9MT5NJ5W7B8Z",
-      "name": "Hogwarts Legacy",
-      "discount": 85,
-      "orig_cents": 7499,
-      "final_cents": 1124,
-      "orig_price_str": "74,99 €",
-      "final_price_str": "11,24 €",
-      "gamepass": "PC + Xbox"
-    },
-    {
       "appid": "C3QH42WRGM3R",
       "name": "DOOM",
       "discount": 80,
@@ -41,16 +21,6 @@
       "gamepass": "Xbox"
     },
     {
-      "appid": "C3QJ2Z8Q7HFR",
-      "name": "LEGO® Harry Potter™ Collection",
-      "discount": 80,
-      "orig_cents": 1999,
-      "final_cents": 399,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "3,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9NZDGFLL1WD1",
       "name": "Wolfenstein: Alternativwelt-Kollektion",
       "discount": 80,
@@ -59,6 +29,16 @@
       "orig_price_str": "69,99 €",
       "final_price_str": "13,99 €",
       "gamepass": ""
+    },
+    {
+      "appid": "C40860J5R2MP",
+      "name": "The Evil Within® 2",
+      "discount": 80,
+      "orig_cents": 3999,
+      "final_cents": 799,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "7,99 €",
+      "gamepass": "PC + Xbox"
     },
     {
       "appid": "BQ1W1T1FC14W",
@@ -81,6 +61,16 @@
       "gamepass": "Xbox"
     },
     {
+      "appid": "9NKGNMNK3K3Z",
+      "name": "Fallout 76 (PC)",
+      "discount": 75,
+      "orig_cents": 3999,
+      "final_cents": 999,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "9,99 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
       "appid": "9NP0PC87KBTD",
       "name": "DOOM: The Dark Ages Premium Edition",
       "discount": 67,
@@ -98,6 +88,16 @@
       "final_cents": 799,
       "orig_price_str": "19,99 €",
       "final_price_str": "7,99 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "BPQZT43FWD49",
+      "name": "Gang Beasts",
+      "discount": 60,
+      "orig_cents": 1899,
+      "final_cents": 759,
+      "orig_price_str": "18,99 €",
+      "final_price_str": "7,59 €",
       "gamepass": "PC + Xbox"
     },
     {
@@ -143,6 +143,26 @@
     {
       "appid": "C2WKJJ9F5936",
       "name": "Fable II",
+      "discount": 50,
+      "orig_cents": 1999,
+      "final_cents": 999,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "9,99 €",
+      "gamepass": "Xbox"
+    },
+    {
+      "appid": "9N3L5FF8M6SW",
+      "name": "Red Dead Online",
+      "discount": 50,
+      "orig_cents": 1999,
+      "final_cents": 999,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "9,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "BR46KM4D5B9L",
+      "name": "Fable III",
       "discount": 50,
       "orig_cents": 1999,
       "final_cents": 999,
@@ -211,26 +231,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9NDJSV855T3P",
-      "name": "Dispatch",
-      "discount": 10,
-      "orig_cents": 2899,
-      "final_cents": 2609,
-      "orig_price_str": "28,99 €",
-      "final_price_str": "26,09 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9PB2ZQCB7K2Z",
-      "name": "Dispatch - Digitale Deluxe Edition",
-      "discount": 10,
-      "orig_cents": 3849,
-      "final_cents": 3464,
-      "orig_price_str": "38,49 €",
-      "final_price_str": "34,64 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9P8X6TVW9ZW8",
       "name": "Mistfall Hunter",
       "discount": 10,
@@ -241,5 +241,5 @@
       "gamepass": "PC + Xbox"
     }
   ],
-  "total": 734
+  "total": 732
 }
