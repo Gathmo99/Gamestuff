@@ -31,6 +31,16 @@
       "gamepass": ""
     },
     {
+      "appid": "BVZLS7XZ68KF",
+      "name": "Mafia III: Definitive Edition",
+      "discount": 80,
+      "orig_cents": 2999,
+      "final_cents": 599,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "5,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "C40860J5R2MP",
       "name": "The Evil Within® 2",
       "discount": 80,
@@ -39,6 +49,16 @@
       "orig_price_str": "39,99 €",
       "final_price_str": "7,99 €",
       "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "BZ0C0PJ24GN8",
+      "name": "Prey®: Digital Deluxe Edition",
+      "discount": 80,
+      "orig_cents": 3999,
+      "final_cents": 799,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "7,99 €",
+      "gamepass": ""
     },
     {
       "appid": "BQ1W1T1FC14W",
@@ -61,13 +81,23 @@
       "gamepass": "Xbox"
     },
     {
-      "appid": "9NKGNMNK3K3Z",
-      "name": "Fallout 76 (PC)",
+      "appid": "C299QVC2BSJF",
+      "name": "Dishonored® Definitive Edition",
       "discount": 75,
-      "orig_cents": 3999,
-      "final_cents": 999,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "9,99 €",
+      "orig_cents": 1999,
+      "final_cents": 499,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "4,99 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "C2M8HBNVPT1T",
+      "name": "The Evil Within",
+      "discount": 75,
+      "orig_cents": 1999,
+      "final_cents": 499,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "4,99 €",
       "gamepass": "PC + Xbox"
     },
     {
@@ -91,6 +121,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9PH9X0760B0T",
+      "name": "DOOM: The Dark Ages",
+      "discount": 67,
+      "orig_cents": 7999,
+      "final_cents": 2639,
+      "orig_price_str": "79,99 €",
+      "final_price_str": "26,39 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
       "appid": "C3KLDKZBHNCZ",
       "name": "Fallout 4",
       "discount": 60,
@@ -98,16 +138,6 @@
       "final_cents": 799,
       "orig_price_str": "19,99 €",
       "final_price_str": "7,99 €",
-      "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "BPQZT43FWD49",
-      "name": "Gang Beasts",
-      "discount": 60,
-      "orig_cents": 1899,
-      "final_cents": 759,
-      "orig_price_str": "18,99 €",
-      "final_price_str": "7,59 €",
       "gamepass": "PC + Xbox"
     },
     {
@@ -131,16 +161,6 @@
       "gamepass": "Xbox"
     },
     {
-      "appid": "C2WKJJ9F5936",
-      "name": "Fable II",
-      "discount": 50,
-      "orig_cents": 1999,
-      "final_cents": 999,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "9,99 €",
-      "gamepass": "Xbox"
-    },
-    {
       "appid": "9N3L5FF8M6SW",
       "name": "Red Dead Online",
       "discount": 50,
@@ -151,16 +171,6 @@
       "gamepass": ""
     },
     {
-      "appid": "BR46KM4D5B9L",
-      "name": "Fable III",
-      "discount": 50,
-      "orig_cents": 1999,
-      "final_cents": 999,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "9,99 €",
-      "gamepass": "Xbox"
-    },
-    {
       "appid": "9P6DWL7R6NTL",
       "name": "7 Days to Die - Console Edition (Game Preview)",
       "discount": 45,
@@ -168,16 +178,6 @@
       "final_cents": 2474,
       "orig_price_str": "44,99 €",
       "final_price_str": "24,74 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9N598NRT0XMX",
-      "name": "WWE 2K26 Monday Night War Edition",
-      "discount": 40,
-      "orig_cents": 14999,
-      "final_cents": 8999,
-      "orig_price_str": "149,99 €",
-      "final_price_str": "89,99 €",
       "gamepass": ""
     },
     {
