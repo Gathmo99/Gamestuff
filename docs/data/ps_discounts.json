@@ -28,7 +28,7 @@
       "final_price_str": "1,99 €"
     },
     {
-      "appid": "EP5470-CUSA34220_00-1974871844301027",
+      "appid": "EP5470-PPSA04155_00-7447536313832063",
       "name": "XEL",
       "discount": 90,
       "orig_cents": 1899,
@@ -37,7 +37,7 @@
       "final_price_str": "1,89 €"
     },
     {
-      "appid": "EP5470-PPSA04155_00-7447536313832063",
+      "appid": "EP5470-CUSA34220_00-1974871844301027",
       "name": "XEL",
       "discount": 90,
       "orig_cents": 1899,
@@ -613,7 +613,7 @@
       "final_price_str": "3,24 €"
     },
     {
-      "appid": "EP5036-PPSA08160_00-2389216319224902",
+      "appid": "EP5036-CUSA33467_00-4068623506349627",
       "name": "Blind Fate: Edo no Yami",
       "discount": 75,
       "orig_cents": 2499,
@@ -622,7 +622,7 @@
       "final_price_str": "6,24 €"
     },
     {
-      "appid": "EP5036-CUSA33467_00-4068623506349627",
+      "appid": "EP5036-PPSA08160_00-2389216319224902",
       "name": "Blind Fate: Edo no Yami",
       "discount": 75,
       "orig_cents": 2499,
@@ -685,7 +685,7 @@
       "final_price_str": "4,99 €"
     },
     {
-      "appid": "EP1482-CUSA27326_00-7592298397743398",
+      "appid": "EP1482-PPSA03315_00-3899031076458834",
       "name": "Operation: Tango",
       "discount": 75,
       "orig_cents": 1699,
@@ -694,7 +694,7 @@
       "final_price_str": "4,24 €"
     },
     {
-      "appid": "EP1482-PPSA03315_00-3899031076458834",
+      "appid": "EP1482-CUSA27326_00-7592298397743398",
       "name": "Operation: Tango",
       "discount": 75,
       "orig_cents": 1699,

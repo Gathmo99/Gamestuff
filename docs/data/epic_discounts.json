@@ -121,6 +121,16 @@
       "final_price_str": "0,17 €"
     },
     {
+      "appid": "18d7e12536c246b9a5dabb87efc7b700",
+      "namespace": "hyacinth",
+      "name": "Tom Clancy's Ghost Recon Wildlands Standard-Edition",
+      "discount": 95,
+      "orig_cents": 4999,
+      "final_cents": 249,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "2,49 €"
+    },
+    {
       "appid": "7df6c82dff564d8eb04fc20687e2c6ad",
       "namespace": "36e5e8e78ef04e63b204a224ee3a780f",
       "name": "Firelight Fantasy: Phoenix Crew",
@@ -1189,16 +1199,6 @@
       "final_cents": 1999,
       "orig_price_str": "39,99 €",
       "final_price_str": "19,99 €"
-    },
-    {
-      "appid": "abeb9e8c7c0c43338ed916f3ea2f1ce3",
-      "namespace": "9de65f6db18c4757a84e639d9a3e5a97",
-      "name": "Vagrus - The Riven Realms",
-      "discount": 50,
-      "orig_cents": 2699,
-      "final_cents": 1349,
-      "orig_price_str": "26,99 €",
-      "final_price_str": "13,49 €"
     },
     {
       "appid": "6cea69ba27ae42169d0067702637c4ac",
