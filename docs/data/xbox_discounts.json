@@ -81,6 +81,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9P3JTWQ3D7KH",
+      "name": "DOOM: The Dark Ages Premium Upgrade",
+      "discount": 67,
+      "orig_cents": 3499,
+      "final_cents": 1154,
+      "orig_price_str": "34,99 €",
+      "final_price_str": "11,54 €",
+      "gamepass": ""
+    },
+    {
       "appid": "C3KLDKZBHNCZ",
       "name": "Fallout 4",
       "discount": 60,
@@ -101,16 +111,6 @@
       "gamepass": "PC + Xbox"
     },
     {
-      "appid": "9P8RQH67TTT1",
-      "name": "Grand Theft Auto V (Xbox One & Xbox Series X|S)",
-      "discount": 50,
-      "orig_cents": 3999,
-      "final_cents": 1999,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "19,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9PGRV33VMSL1",
       "name": "WWE 2K26 Standard Edition",
       "discount": 50,
@@ -118,16 +118,6 @@
       "final_cents": 3999,
       "orig_price_str": "79,99 €",
       "final_price_str": "39,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9NXFX68ZNKK0",
-      "name": "Grand Theft Auto V Enhanced (PC)",
-      "discount": 50,
-      "orig_cents": 2999,
-      "final_cents": 1499,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "14,99 €",
       "gamepass": ""
     },
     {
@@ -239,7 +229,17 @@
       "orig_price_str": "24,99 €",
       "final_price_str": "22,49 €",
       "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "9N5MMSS07VH9",
+      "name": "Mistfall Hunter – Deluxe Edition",
+      "discount": 10,
+      "orig_cents": 3999,
+      "final_cents": 3599,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "35,99 €",
+      "gamepass": ""
     }
   ],
-  "total": 765
+  "total": 756
 }
