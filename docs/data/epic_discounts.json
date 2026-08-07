@@ -2391,6 +2391,16 @@
       "final_price_str": "5,39 €"
     },
     {
+      "appid": "677233a98fae408ba4ccee9492373a1f",
+      "namespace": "3ef10f0ddb3f4afd969897e2ea4aed9f",
+      "name": "Der Fall eines Imperiums",
+      "discount": 40,
+      "orig_cents": 2699,
+      "final_cents": 1619,
+      "orig_price_str": "26,99 €",
+      "final_price_str": "16,19 €"
+    },
+    {
       "appid": "9456a60648504a01bd1a13a8b3785778",
       "namespace": "7edaebf7674c4f6994c1b9af2bb728f2",
       "name": "Lost Records: Bloom & Rage",
@@ -2989,16 +2999,6 @@
       "final_cents": 164,
       "orig_price_str": "2,19 €",
       "final_price_str": "1,64 €"
-    },
-    {
-      "appid": "871012a0d52b434ea19528992ebaf468",
-      "namespace": "3880ec67d75643da816c9feabb168010",
-      "name": "Union of Gnomes",
-      "discount": 25,
-      "orig_cents": 1349,
-      "final_cents": 1011,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "10,11 €"
     }
   ],
   "total": 416
