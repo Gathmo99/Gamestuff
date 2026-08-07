@@ -21,6 +21,16 @@
       "final_price_str": "0,00 €"
     },
     {
+      "appid": "8aca658004944df6a4014486c5c207ca",
+      "namespace": "301523940444454f809dd4d9122a4b3f",
+      "name": "happiness market",
+      "discount": 100,
+      "orig_cents": 89,
+      "final_cents": 0,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,00 €"
+    },
+    {
       "appid": "9d904fbaf04045d798dc3f71df015b8e",
       "namespace": "831ead56047a4e22b1aade2cfdd11eee",
       "name": "Project First Contact",
@@ -999,16 +1009,6 @@
       "final_cents": 337,
       "orig_price_str": "13,49 €",
       "final_price_str": "3,37 €"
-    },
-    {
-      "appid": "1fd26eba43404d75878c66daeb0dcf8e",
-      "namespace": "bba26f5d4c674d8789dc953faff17f4d",
-      "name": "Mahokenshi",
-      "discount": 75,
-      "orig_cents": 2450,
-      "final_cents": 612,
-      "orig_price_str": "24,50 €",
-      "final_price_str": "6,12 €"
     },
     {
       "appid": "4cc34e2532af43999ef4d347e798077f",
@@ -2081,16 +2081,6 @@
       "final_price_str": "6,74 €"
     },
     {
-      "appid": "226835e6ad724003a0da729d57f3d4e0",
-      "namespace": "9aef8a4b03674ce4b61922d7d13995af",
-      "name": "MindsEye",
-      "discount": 50,
-      "orig_cents": 3549,
-      "final_cents": 1774,
-      "orig_price_str": "35,49 €",
-      "final_price_str": "17,74 €"
-    },
-    {
       "appid": "4a8cf1c6437a44d1aa1ec5948c0e5863",
       "namespace": "d37f4318eed346babb339fbe841d0ef6",
       "name": "The Nightmare of Pandemic - Kyle's Story",
@@ -2999,7 +2989,17 @@
       "final_cents": 164,
       "orig_price_str": "2,19 €",
       "final_price_str": "1,64 €"
+    },
+    {
+      "appid": "871012a0d52b434ea19528992ebaf468",
+      "namespace": "3880ec67d75643da816c9feabb168010",
+      "name": "Union of Gnomes",
+      "discount": 25,
+      "orig_cents": 1349,
+      "final_cents": 1011,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "10,11 €"
     }
   ],
-  "total": 416
+  "total": 417
 }
