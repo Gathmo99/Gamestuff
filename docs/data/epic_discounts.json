@@ -501,14 +501,14 @@
       "final_price_str": "4,47 €"
     },
     {
-      "appid": "fa91d3275c00499da1d4f2be9f3095fe",
-      "namespace": "db3e1691a7034191b5e5822e1aa4aedf",
-      "name": "Backrooms Bodycam",
+      "appid": "37fffab23f454cc599ac172be845410a",
+      "namespace": "556e189ea46942679383defef0a3e197",
+      "name": "Skibidi In The Backrooms",
       "discount": 80,
-      "orig_cents": 219,
-      "final_cents": 43,
-      "orig_price_str": "2,19 €",
-      "final_price_str": "0,43 €"
+      "orig_cents": 359,
+      "final_cents": 71,
+      "orig_price_str": "3,59 €",
+      "final_price_str": "0,71 €"
     },
     {
       "appid": "1078bc6439ab4b92b8786695e5f7f37d",
@@ -751,9 +751,39 @@
       "final_price_str": "0,44 €"
     },
     {
+      "appid": "904a631b58f9404380fe3264d7a57d07",
+      "namespace": "b45f430ecdbf4b9f9c764c0851ad0741",
+      "name": "Bodycamera Chase",
+      "discount": 75,
+      "orig_cents": 179,
+      "final_cents": 44,
+      "orig_price_str": "1,79 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "abcfae76a18c401c8ae5b37c759f8e16",
+      "namespace": "095bb72741aa4e18a069ce0d2739e941",
+      "name": "DOORS OF HORROR",
+      "discount": 75,
+      "orig_cents": 179,
+      "final_cents": 44,
+      "orig_price_str": "1,79 €",
+      "final_price_str": "0,44 €"
+    },
+    {
       "appid": "8fd0a802ed5748119282bd1bb2a5be34",
       "namespace": "5da4301570a24f5b866aeae92569e5e4",
       "name": "MUSHROOMAN",
+      "discount": 75,
+      "orig_cents": 179,
+      "final_cents": 44,
+      "orig_price_str": "1,79 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "d7b3697b5de24358a7734225ae47f4de",
+      "namespace": "145a6fa0b36c4a79aeed9792cb026c49",
+      "name": "LONELINESS SIMULATOR IN THE RUSSIAN VILLAGE",
       "discount": 75,
       "orig_cents": 179,
       "final_cents": 44,
@@ -779,16 +809,6 @@
       "final_cents": 89,
       "orig_price_str": "3,59 €",
       "final_price_str": "0,89 €"
-    },
-    {
-      "appid": "8880d2adbd27498883f0a3265dc66473",
-      "namespace": "915b00759eab42f2a0d8859dd2ca3d89",
-      "name": "Backrooms Hide And Seek",
-      "discount": 75,
-      "orig_cents": 179,
-      "final_cents": 44,
-      "orig_price_str": "1,79 €",
-      "final_price_str": "0,44 €"
     },
     {
       "appid": "4d576c19571744ffb9b3d6efe9674ec3",
@@ -1481,16 +1501,6 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "b355239267e5445cbd657ccdcaf37a06",
-      "namespace": "59af30a1b70a4775a1ab4773aa3e6b07",
-      "name": "Five Nights In The Backrooms",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
       "appid": "2f041cd8ecfe48fca5606b683fe0e91d",
       "namespace": "dcb16ef0b51f4408bc3509553d0c264b",
       "name": "Super Wash Simulator",
@@ -1521,19 +1531,9 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "af9e9f907f4e43c1a4abbef2c83a9e72",
-      "namespace": "87b89e47fc574d6bb6e717e539ef055d",
-      "name": "Kill The Dead",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "1118fe197e3943aca499f12c8a0da4cf",
-      "namespace": "dc9cbb7ee5f649f5ba9d0c50c274fb29",
-      "name": "Grand Crime Miami",
+      "appid": "a7bf7f2c1f3b4dd385ec880f7d5855d4",
+      "namespace": "1a476ee9037e4c66a8c02babc3df844e",
+      "name": "No Im Not A Femboy",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1551,9 +1551,9 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "358807be564e4328a0a40cd12225af74",
-      "namespace": "dfe09240d3794901ba97f6ebeb700c1d",
-      "name": "WINTER SADNESS SIMULATOR",
+      "appid": "c21d29fcb4cc46a08b2b2e6ca1987992",
+      "namespace": "093f57ad07fa411db44bb801a500214e",
+      "name": "GOP STOP AUTO",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1604,16 +1604,6 @@
       "appid": "ec12e20bde414f088a4695dd3db7f7cc",
       "namespace": "a588422986774a3c9b71f0ed66d6d0d0",
       "name": "Dead Rush",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "12a5c382f26c4b68b53854f12329bc82",
-      "namespace": "7440c35de8d9421b83d639eb80ec1040",
-      "name": "Ninja Fighter",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -2099,6 +2089,16 @@
       "final_cents": 449,
       "orig_price_str": "8,99 €",
       "final_price_str": "4,49 €"
+    },
+    {
+      "appid": "6160a9aef89f4c42911ffe15bd3fafad",
+      "namespace": "21594c7216e5490d906b0a32306bea1d",
+      "name": "Mineral",
+      "discount": 50,
+      "orig_cents": 539,
+      "final_cents": 269,
+      "orig_price_str": "5,39 €",
+      "final_price_str": "2,69 €"
     },
     {
       "appid": "8552cc07f24c40238ecd57aded159c64",
