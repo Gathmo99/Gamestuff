@@ -61,16 +61,6 @@
       "final_price_str": "0,51 €"
     },
     {
-      "appid": "23c0c1ff559343bdbd619ecee850d07f",
-      "namespace": "23e0d8cad86d45308001a2c4151969c0",
-      "name": "Cyber Avenger",
-      "discount": 95,
-      "orig_cents": 1799,
-      "final_cents": 89,
-      "orig_price_str": "17,99 €",
-      "final_price_str": "0,89 €"
-    },
-    {
       "appid": "9a78977722974513b86e3378209b2f6f",
       "namespace": "b859d03955d0401e984b81c5e7a15654",
       "name": "Worker Simulator",
@@ -1429,6 +1419,16 @@
       "final_cents": 980,
       "orig_price_str": "24,50 €",
       "final_price_str": "9,80 €"
+    },
+    {
+      "appid": "775cb08ed76c4506b53c7ee6a3e7b944",
+      "namespace": "b5ab16ebd552476688116e187acd2151",
+      "name": "Ten Dates",
+      "discount": 60,
+      "orig_cents": 1529,
+      "final_cents": 611,
+      "orig_price_str": "15,29 €",
+      "final_price_str": "6,11 €"
     },
     {
       "appid": "a0a4e6460d4548b38f100b31764dcacf",
@@ -3001,5 +3001,5 @@
       "final_price_str": "10,11 €"
     }
   ],
-  "total": 418
+  "total": 417
 }
