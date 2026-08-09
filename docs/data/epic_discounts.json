@@ -1021,6 +1021,16 @@
       "final_price_str": "3,37 €"
     },
     {
+      "appid": "1fd26eba43404d75878c66daeb0dcf8e",
+      "namespace": "bba26f5d4c674d8789dc953faff17f4d",
+      "name": "Mahokenshi",
+      "discount": 75,
+      "orig_cents": 2450,
+      "final_cents": 612,
+      "orig_price_str": "24,50 €",
+      "final_price_str": "6,12 €"
+    },
+    {
       "appid": "4cc34e2532af43999ef4d347e798077f",
       "namespace": "e026a91167154030980e8623b7bdeb3a",
       "name": "Anomalies Detective",
@@ -2989,17 +2999,7 @@
       "final_cents": 164,
       "orig_price_str": "2,19 €",
       "final_price_str": "1,64 €"
-    },
-    {
-      "appid": "871012a0d52b434ea19528992ebaf468",
-      "namespace": "3880ec67d75643da816c9feabb168010",
-      "name": "Union of Gnomes",
-      "discount": 25,
-      "orig_cents": 1349,
-      "final_cents": 1011,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "10,11 €"
     }
   ],
-  "total": 417
+  "total": 416
 }
