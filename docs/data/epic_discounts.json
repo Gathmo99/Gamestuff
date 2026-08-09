@@ -731,6 +731,16 @@
       "final_price_str": "3,99 €"
     },
     {
+      "appid": "faf518d367de4306a911ce211c8e47e4",
+      "namespace": "87c84bc5f43d4fe69ad8f3ccde0594b0",
+      "name": "Dishonored®: Death of the Outsider™",
+      "discount": 80,
+      "orig_cents": 2999,
+      "final_cents": 599,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "5,99 €"
+    },
+    {
       "appid": "95b6875f9b7f40a39b8d476ca642c655",
       "namespace": "84a0cce87ad54db4830c2394e732fe80",
       "name": "Backrooms Pools",
@@ -2591,16 +2601,6 @@
       "final_price_str": "1,25 €"
     },
     {
-      "appid": "4bde004a40ef405ea03904bda31c90db",
-      "namespace": "9d67957d75ab4828af3b506823cfaf52",
-      "name": "Pulse Hunter Matrix",
-      "discount": 30,
-      "orig_cents": 449,
-      "final_cents": 314,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "3,14 €"
-    },
-    {
       "appid": "ed21ed81adba4f97bfc43c0defb1bdff",
       "namespace": "a70b0eb3439c44ee8c063ab4b064f69d",
       "name": "Kings Do Not Fall",
@@ -3001,5 +3001,5 @@
       "final_price_str": "1,64 €"
     }
   ],
-  "total": 416
+  "total": 414
 }
