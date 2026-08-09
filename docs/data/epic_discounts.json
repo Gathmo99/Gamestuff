@@ -61,6 +61,16 @@
       "final_price_str": "0,51 €"
     },
     {
+      "appid": "2e1b4da476d9450593a4f966a2f0191f",
+      "namespace": "7b3ddf2a418543d7a29eafb03a0e020e",
+      "name": "Hyper Warehouse Simulator",
+      "discount": 95,
+      "orig_cents": 719,
+      "final_cents": 35,
+      "orig_price_str": "7,19 €",
+      "final_price_str": "0,35 €"
+    },
+    {
       "appid": "9a78977722974513b86e3378209b2f6f",
       "namespace": "b859d03955d0401e984b81c5e7a15654",
       "name": "Worker Simulator",
@@ -69,16 +79,6 @@
       "final_cents": 67,
       "orig_price_str": "13,49 €",
       "final_price_str": "0,67 €"
-    },
-    {
-      "appid": "f9417e836f3a432fa7515da1c5d60ecc",
-      "namespace": "8e0b8a0109344a60b68732503eb9c201",
-      "name": "Heavy Burden",
-      "discount": 95,
-      "orig_cents": 1799,
-      "final_cents": 89,
-      "orig_price_str": "17,99 €",
-      "final_price_str": "0,89 €"
     },
     {
       "appid": "0b7c7381501d4eeb9f39d88cd7f41b27",
@@ -169,66 +169,6 @@
       "final_cents": 94,
       "orig_price_str": "13,49 €",
       "final_price_str": "0,94 €"
-    },
-    {
-      "appid": "ec10c2c159514f649be9536b8dd2c86d",
-      "namespace": "2714efb624174e479ae1d9d3e8d3184f",
-      "name": "Firelight Fantasy: Force Energy",
-      "discount": 93,
-      "orig_cents": 1079,
-      "final_cents": 75,
-      "orig_price_str": "10,79 €",
-      "final_price_str": "0,75 €"
-    },
-    {
-      "appid": "ff63421de00d41f2a1013e5294dc58df",
-      "namespace": "18efd480ed4549688383b6036df07bc2",
-      "name": "Space Accident",
-      "discount": 93,
-      "orig_cents": 899,
-      "final_cents": 62,
-      "orig_price_str": "8,99 €",
-      "final_price_str": "0,62 €"
-    },
-    {
-      "appid": "f83717d25bb14a3c9f5c827a3d2e60da",
-      "namespace": "371b823a2db44deea5ad6467a114abe0",
-      "name": "Never Synth",
-      "discount": 93,
-      "orig_cents": 899,
-      "final_cents": 62,
-      "orig_price_str": "8,99 €",
-      "final_price_str": "0,62 €"
-    },
-    {
-      "appid": "b27a0f2a55374702aac2b6f15f464af8",
-      "namespace": "e71cf862df0e4b549053c7ebf4184532",
-      "name": "Dawn of Anarchy",
-      "discount": 92,
-      "orig_cents": 1079,
-      "final_cents": 86,
-      "orig_price_str": "10,79 €",
-      "final_price_str": "0,86 €"
-    },
-    {
-      "appid": "573238c9b8714a4ea4e09e55bd943f13",
-      "namespace": "14dd4527fdce49f6a7b2911fef500f2c",
-      "name": "NeuraGun",
-      "discount": 92,
-      "orig_cents": 1079,
-      "final_cents": 86,
-      "orig_price_str": "10,79 €",
-      "final_price_str": "0,86 €"
-    },
-    {
-      "appid": "92884a5b760d4c5faaa5fe912cd5a116",
-      "namespace": "1d8b0901c1794bb3a136a2877b569c5b",
-      "name": "PolyClassic: Wild",
-      "discount": 91,
-      "orig_cents": 899,
-      "final_cents": 80,
-      "orig_price_str": "8,99 €",
-      "final_price_str": "0,80 €"
     },
     {
       "appid": "026f364d53b6478bbb9413b59140aa8e",
@@ -349,16 +289,6 @@
       "final_cents": 199,
       "orig_price_str": "19,99 €",
       "final_price_str": "1,99 €"
-    },
-    {
-      "appid": "cdab83484ebe44609fc8fe95ad5ec99d",
-      "namespace": "090ac4b263f44ea79418069fddfb0d9b",
-      "name": "Devil's Island",
-      "discount": 90,
-      "orig_cents": 1079,
-      "final_cents": 107,
-      "orig_price_str": "10,79 €",
-      "final_price_str": "1,07 €"
     },
     {
       "appid": "0f281fee47194253a0472d6d1b7391e0",
@@ -741,6 +671,26 @@
       "final_price_str": "5,99 €"
     },
     {
+      "appid": "0e3ef1e9c502490082d16a22821b34e5",
+      "namespace": "9afcbdf06f644df19c4e5729958729fb",
+      "name": "McPixel 3",
+      "discount": 80,
+      "orig_cents": 975,
+      "final_cents": 195,
+      "orig_price_str": "9,75 €",
+      "final_price_str": "1,95 €"
+    },
+    {
+      "appid": "1a19e286c1e04d0aa07086c72fb8ced5",
+      "namespace": "1dcddbcc334945c48353b75a8fce5e5e",
+      "name": "Dishonored 2",
+      "discount": 80,
+      "orig_cents": 2999,
+      "final_cents": 599,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "5,99 €"
+    },
+    {
       "appid": "95b6875f9b7f40a39b8d476ca642c655",
       "namespace": "84a0cce87ad54db4830c2394e732fe80",
       "name": "Backrooms Pools",
@@ -1039,6 +989,26 @@
       "final_cents": 612,
       "orig_price_str": "24,50 €",
       "final_price_str": "6,12 €"
+    },
+    {
+      "appid": "3d9e98f0fe6a42488d5b3ee6360f4ef1",
+      "namespace": "511ba0dc05dd4a3caa39708bcc806cb8",
+      "name": "Wolfenstein: The Old Blood – Weltweit",
+      "discount": 75,
+      "orig_cents": 1999,
+      "final_cents": 499,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "4,99 €"
+    },
+    {
+      "appid": "51d16531ff444f728caafefd83093751",
+      "namespace": "0bd3e505924240adb702295fa08c1eff",
+      "name": "Wolfenstein: The New Order – Weltweit",
+      "discount": 75,
+      "orig_cents": 1999,
+      "final_cents": 499,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "4,99 €"
     },
     {
       "appid": "4cc34e2532af43999ef4d347e798077f",
@@ -1449,6 +1419,36 @@
       "final_cents": 611,
       "orig_price_str": "15,29 €",
       "final_price_str": "6,11 €"
+    },
+    {
+      "appid": "1e5cfcbbb5c641258e374f42fb462ee6",
+      "namespace": "7f872c3666b5464eaa1bb0241d3499eb",
+      "name": "I Saw Black Clouds",
+      "discount": 60,
+      "orig_cents": 1169,
+      "final_cents": 467,
+      "orig_price_str": "11,69 €",
+      "final_price_str": "4,67 €"
+    },
+    {
+      "appid": "312373943bd94ce6908e22d96308e50d",
+      "namespace": "2a873e03d3c94f6ab62bf1e633e5f008",
+      "name": "Night Book",
+      "discount": 60,
+      "orig_cents": 1169,
+      "final_cents": 467,
+      "orig_price_str": "11,69 €",
+      "final_price_str": "4,67 €"
+    },
+    {
+      "appid": "3795a845a05d4b3baacb8126635ffd74",
+      "namespace": "89a30c2a3fdb4281b5df57350e797ca9",
+      "name": "Maid of Sker",
+      "discount": 60,
+      "orig_cents": 2239,
+      "final_cents": 895,
+      "orig_price_str": "22,39 €",
+      "final_price_str": "8,95 €"
     },
     {
       "appid": "a0a4e6460d4548b38f100b31764dcacf",
@@ -3001,5 +3001,5 @@
       "final_price_str": "1,64 €"
     }
   ],
-  "total": 414
+  "total": 407
 }
