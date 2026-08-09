@@ -1091,6 +1091,16 @@
       "final_price_str": "9,89 €"
     },
     {
+      "appid": "d6f01b1827c64ed388191ae507fe7c1b",
+      "namespace": "fa702d34a37248ba98fb17f680c085e3",
+      "name": "Fallout 3: Game of the Year Edition",
+      "discount": 67,
+      "orig_cents": 1999,
+      "final_cents": 659,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "6,59 €"
+    },
+    {
       "appid": "f4bb45b9ad4e4f4996dc901a4fb6b7ce",
       "namespace": "732f56bbf3a94c0a831467360b594d49",
       "name": "Nice Day for Fishing",
@@ -2039,16 +2049,6 @@
       "final_cents": 89,
       "orig_price_str": "1,79 €",
       "final_price_str": "0,89 €"
-    },
-    {
-      "appid": "f86d6f01b51742859feb22b71d6800e1",
-      "namespace": "f9e77015826848ff9ae0963752320e05",
-      "name": "Glacier Trail: The Parkour Game",
-      "discount": 50,
-      "orig_cents": 459,
-      "final_cents": 229,
-      "orig_price_str": "4,59 €",
-      "final_price_str": "2,29 €"
     },
     {
       "appid": "6028827a1b9a4154aab7945f65523e8c",

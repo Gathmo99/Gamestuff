@@ -1,24 +1,3 @@
 {
-  "items": [
-    {
-      "appid": "606150",
-      "name": "Moonlighter",
-      "discount": 100,
-      "orig_price_str": "19,99€",
-      "final_price_str": "0,00€",
-      "orig_cents": 1999,
-      "final_cents": 0,
-      "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "738520",
-      "name": "Breathedge",
-      "discount": 100,
-      "orig_price_str": "24,99€",
-      "final_price_str": "0,00€",
-      "orig_cents": 2499,
-      "final_cents": 0,
-      "gamepass": ""
-    }
-  ]
+  "items": []
 }
