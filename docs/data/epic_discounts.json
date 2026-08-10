@@ -1101,6 +1101,16 @@
       "final_price_str": "9,89 €"
     },
     {
+      "appid": "d6f01b1827c64ed388191ae507fe7c1b",
+      "namespace": "fa702d34a37248ba98fb17f680c085e3",
+      "name": "Fallout 3: Game of the Year Edition",
+      "discount": 67,
+      "orig_cents": 1999,
+      "final_cents": 659,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "6,59 €"
+    },
+    {
       "appid": "f4bb45b9ad4e4f4996dc901a4fb6b7ce",
       "namespace": "732f56bbf3a94c0a831467360b594d49",
       "name": "Nice Day for Fishing",
@@ -1449,6 +1459,16 @@
       "final_cents": 467,
       "orig_price_str": "11,69 €",
       "final_price_str": "4,67 €"
+    },
+    {
+      "appid": "3795a845a05d4b3baacb8126635ffd74",
+      "namespace": "89a30c2a3fdb4281b5df57350e797ca9",
+      "name": "Maid of Sker",
+      "discount": 60,
+      "orig_cents": 2239,
+      "final_cents": 895,
+      "orig_price_str": "22,39 €",
+      "final_price_str": "8,95 €"
     },
     {
       "appid": "a0a4e6460d4548b38f100b31764dcacf",
@@ -2621,16 +2641,6 @@
       "final_price_str": "9,44 €"
     },
     {
-      "appid": "444bdda719ca4f0788ae900ec468fc8b",
-      "namespace": "d20e3f9e78404dbd9ed96ff4c8a5886e",
-      "name": "The teacher fell in love with me 2",
-      "discount": 30,
-      "orig_cents": 809,
-      "final_cents": 566,
-      "orig_price_str": "8,09 €",
-      "final_price_str": "5,66 €"
-    },
-    {
       "appid": "ad48a88d8e5b447283cd9b6406d698e0",
       "namespace": "c3acf62f2e504a81b0bc27944bb1bf34",
       "name": "Tiny Lands 2",
@@ -2989,17 +2999,7 @@
       "final_cents": 1214,
       "orig_price_str": "16,19 €",
       "final_price_str": "12,14 €"
-    },
-    {
-      "appid": "7a78d757308c4c40b7090df9b841a418",
-      "namespace": "a931073c475e493aba83a2d190f010c6",
-      "name": "Mautix: Immersive Galerie",
-      "discount": 25,
-      "orig_cents": 219,
-      "final_cents": 164,
-      "orig_price_str": "2,19 €",
-      "final_price_str": "1,64 €"
     }
   ],
-  "total": 409
+  "total": 407
 }

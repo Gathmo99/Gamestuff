@@ -11,6 +11,26 @@
       "gamepass": ""
     },
     {
+      "appid": "C2N9CS4FS1QR",
+      "name": "Tom Clancy's Ghost Recon Wildlands",
+      "discount": 90,
+      "orig_cents": 4999,
+      "final_cents": 499,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "4,99 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "BRZ9553VPPBD",
+      "name": "Darksiders Genesis",
+      "discount": 90,
+      "orig_cents": 3999,
+      "final_cents": 399,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "3,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "C3QH42WRGM3R",
       "name": "DOOM",
       "discount": 80,
@@ -21,8 +41,8 @@
       "gamepass": "Xbox"
     },
     {
-      "appid": "9NZDGFLL1WD1",
-      "name": "Wolfenstein: Alternativwelt-Kollektion",
+      "appid": "9NZKLBVMJ3RF",
+      "name": "Remnant II® - Ultimate Edition",
       "discount": 80,
       "orig_cents": 6999,
       "final_cents": 1399,
@@ -41,23 +61,13 @@
       "gamepass": ""
     },
     {
-      "appid": "C40860J5R2MP",
-      "name": "The Evil Within® 2",
+      "appid": "9NZDGFLL1WD1",
+      "name": "Wolfenstein: Alternativwelt-Kollektion",
       "discount": 80,
-      "orig_cents": 3999,
-      "final_cents": 799,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "7,99 €",
-      "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "BZ0C0PJ24GN8",
-      "name": "Prey®: Digital Deluxe Edition",
-      "discount": 80,
-      "orig_cents": 3999,
-      "final_cents": 799,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "7,99 €",
+      "orig_cents": 6999,
+      "final_cents": 1399,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "13,99 €",
       "gamepass": ""
     },
     {
@@ -71,6 +81,16 @@
       "gamepass": "PC + Xbox"
     },
     {
+      "appid": "9NT063MBZCBJ",
+      "name": "Tom Clancy's Ghost Recon Wildlands Definitive Edition",
+      "discount": 75,
+      "orig_cents": 9999,
+      "final_cents": 2499,
+      "orig_price_str": "99,99 €",
+      "final_price_str": "24,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "C29HQ887KH4B",
       "name": "Fallout 3",
       "discount": 75,
@@ -81,24 +101,14 @@
       "gamepass": "Xbox"
     },
     {
-      "appid": "C299QVC2BSJF",
-      "name": "Dishonored® Definitive Edition",
+      "appid": "9NLGR76G498K",
+      "name": "MX vs ATV Legends",
       "discount": 75,
-      "orig_cents": 1999,
-      "final_cents": 499,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "4,99 €",
-      "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "C2M8HBNVPT1T",
-      "name": "The Evil Within",
-      "discount": 75,
-      "orig_cents": 1999,
-      "final_cents": 499,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "4,99 €",
-      "gamepass": "PC + Xbox"
+      "orig_cents": 3999,
+      "final_cents": 999,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "9,99 €",
+      "gamepass": ""
     },
     {
       "appid": "9NP0PC87KBTD",
@@ -111,26 +121,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9P3JTWQ3D7KH",
-      "name": "DOOM: The Dark Ages Premium Upgrade",
-      "discount": 67,
-      "orig_cents": 3499,
-      "final_cents": 1154,
-      "orig_price_str": "34,99 €",
-      "final_price_str": "11,54 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9PH9X0760B0T",
-      "name": "DOOM: The Dark Ages",
-      "discount": 67,
-      "orig_cents": 7999,
-      "final_cents": 2639,
-      "orig_price_str": "79,99 €",
-      "final_price_str": "26,39 €",
-      "gamepass": "PC + Xbox"
-    },
-    {
       "appid": "C3KLDKZBHNCZ",
       "name": "Fallout 4",
       "discount": 60,
@@ -138,6 +128,16 @@
       "final_cents": 799,
       "orig_price_str": "19,99 €",
       "final_price_str": "7,99 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "BPQZT43FWD49",
+      "name": "Gang Beasts",
+      "discount": 60,
+      "orig_cents": 1899,
+      "final_cents": 759,
+      "orig_price_str": "18,99 €",
+      "final_price_str": "7,59 €",
       "gamepass": "PC + Xbox"
     },
     {
@@ -181,6 +181,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9NWZPS8X9JQG",
+      "name": "Bellwright",
+      "discount": 35,
+      "orig_cents": 2999,
+      "final_cents": 1949,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "19,49 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9ND58LQTG09T",
       "name": "Baldur's Gate 3",
       "discount": 30,
@@ -188,6 +198,16 @@
       "final_cents": 4899,
       "orig_price_str": "69,99 €",
       "final_price_str": "48,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9N4WFSL71XXZ",
+      "name": "Baldur's Gate 3 - Digital Deluxe Edition",
+      "discount": 30,
+      "orig_cents": 7999,
+      "final_cents": 5599,
+      "orig_price_str": "79,99 €",
+      "final_price_str": "55,99 €",
       "gamepass": ""
     },
     {
@@ -211,16 +231,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9PM8J14QJ4DR",
-      "name": "LEGO® Batman™: Das Vermächtnis des Dunklen Ritters Deluxe Edition",
-      "discount": 20,
-      "orig_cents": 8999,
-      "final_cents": 7199,
-      "orig_price_str": "89,99 €",
-      "final_price_str": "71,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9P8X6TVW9ZW8",
       "name": "Mistfall Hunter",
       "discount": 10,
@@ -229,16 +239,6 @@
       "orig_price_str": "24,99 €",
       "final_price_str": "22,49 €",
       "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "9N5MMSS07VH9",
-      "name": "Mistfall Hunter – Deluxe Edition",
-      "discount": 10,
-      "orig_cents": 3999,
-      "final_cents": 3599,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "35,99 €",
-      "gamepass": ""
     }
   ],
   "total": 752
