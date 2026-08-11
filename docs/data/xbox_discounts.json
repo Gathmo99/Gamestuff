@@ -21,13 +21,13 @@
       "gamepass": "PC + Xbox"
     },
     {
-      "appid": "BRZ9553VPPBD",
-      "name": "Darksiders Genesis",
+      "appid": "9PFPM1P9HQN6",
+      "name": "The Quarry - Deluxe-Edition",
       "discount": 90,
-      "orig_cents": 3999,
-      "final_cents": 399,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "3,99 €",
+      "orig_cents": 8499,
+      "final_cents": 849,
+      "orig_price_str": "84,99 €",
+      "final_price_str": "8,49 €",
       "gamepass": ""
     },
     {
@@ -39,16 +39,6 @@
       "orig_price_str": "19,99 €",
       "final_price_str": "3,99 €",
       "gamepass": "Xbox"
-    },
-    {
-      "appid": "9NZKLBVMJ3RF",
-      "name": "Remnant II® - Ultimate Edition",
-      "discount": 80,
-      "orig_cents": 6999,
-      "final_cents": 1399,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "13,99 €",
-      "gamepass": ""
     },
     {
       "appid": "BVZLS7XZ68KF",
@@ -68,6 +58,26 @@
       "final_cents": 1399,
       "orig_price_str": "69,99 €",
       "final_price_str": "13,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "C40860J5R2MP",
+      "name": "The Evil Within® 2",
+      "discount": 80,
+      "orig_cents": 3999,
+      "final_cents": 799,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "7,99 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "9N000033SQDR",
+      "name": "Mafia II: Definitive Edition",
+      "discount": 80,
+      "orig_cents": 2999,
+      "final_cents": 599,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "5,99 €",
       "gamepass": ""
     },
     {
@@ -101,14 +111,14 @@
       "gamepass": "Xbox"
     },
     {
-      "appid": "9NLGR76G498K",
-      "name": "MX vs ATV Legends",
+      "appid": "C299QVC2BSJF",
+      "name": "Dishonored® Definitive Edition",
       "discount": 75,
-      "orig_cents": 3999,
-      "final_cents": 999,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "9,99 €",
-      "gamepass": ""
+      "orig_cents": 1999,
+      "final_cents": 499,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "4,99 €",
+      "gamepass": "PC + Xbox"
     },
     {
       "appid": "9PH9X0760B0T",
@@ -141,14 +151,14 @@
       "gamepass": "PC + Xbox"
     },
     {
-      "appid": "BPQZT43FWD49",
-      "name": "Gang Beasts",
+      "appid": "9P86HR73LQJZ",
+      "name": "Red Dead Redemption & Red Dead Redemption 2 im Bundle",
       "discount": 60,
-      "orig_cents": 1899,
-      "final_cents": 759,
-      "orig_price_str": "18,99 €",
-      "final_price_str": "7,59 €",
-      "gamepass": "PC + Xbox"
+      "orig_cents": 9999,
+      "final_cents": 3999,
+      "orig_price_str": "99,99 €",
+      "final_price_str": "39,99 €",
+      "gamepass": ""
     },
     {
       "appid": "9PGRV33VMSL1",
@@ -191,33 +201,13 @@
       "gamepass": ""
     },
     {
-      "appid": "9NWZPS8X9JQG",
-      "name": "Bellwright",
-      "discount": 35,
-      "orig_cents": 2999,
-      "final_cents": 1949,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "19,49 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9ND58LQTG09T",
-      "name": "Baldur's Gate 3",
-      "discount": 30,
-      "orig_cents": 6999,
-      "final_cents": 4899,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "48,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9N4WFSL71XXZ",
-      "name": "Baldur's Gate 3 - Digital Deluxe Edition",
-      "discount": 30,
-      "orig_cents": 7999,
-      "final_cents": 5599,
-      "orig_price_str": "79,99 €",
-      "final_price_str": "55,99 €",
+      "appid": "9P3PT7PQJD0M",
+      "name": "HELLDIVERS™ 2",
+      "discount": 25,
+      "orig_cents": 3999,
+      "final_cents": 2999,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "29,99 €",
       "gamepass": ""
     },
     {
@@ -249,7 +239,17 @@
       "orig_price_str": "24,99 €",
       "final_price_str": "22,49 €",
       "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "9N5MMSS07VH9",
+      "name": "Mistfall Hunter – Deluxe Edition",
+      "discount": 10,
+      "orig_cents": 3999,
+      "final_cents": 3599,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "35,99 €",
+      "gamepass": ""
     }
   ],
-  "total": 896
+  "total": 431
 }

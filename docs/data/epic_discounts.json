@@ -1021,6 +1021,16 @@
       "final_price_str": "4,99 €"
     },
     {
+      "appid": "550b1ad4adcc414a966d459587bcdb30",
+      "namespace": "b90be973f6e74975ac1a6ff15dbfd0b3",
+      "name": "Fallout Tactics: Brotherhood of Steel",
+      "discount": 75,
+      "orig_cents": 999,
+      "final_cents": 249,
+      "orig_price_str": "9,99 €",
+      "final_price_str": "2,49 €"
+    },
+    {
       "appid": "4cc34e2532af43999ef4d347e798077f",
       "namespace": "e026a91167154030980e8623b7bdeb3a",
       "name": "Anomalies Detective",
@@ -2181,16 +2191,6 @@
       "final_price_str": "14,99 €"
     },
     {
-      "appid": "3a45040e46604d3ba63a8f89ffb33e12",
-      "namespace": "9fb0adc767184d57ae4d6f4dc47235ba",
-      "name": "Unholy Village",
-      "discount": 50,
-      "orig_cents": 499,
-      "final_cents": 249,
-      "orig_price_str": "4,99 €",
-      "final_price_str": "2,49 €"
-    },
-    {
       "appid": "377aee4a2fc2432f8a4fe6101442f38b",
       "namespace": "dc66053dbf6248cfbcb8c9a406b54dfb",
       "name": "Red Planet Rampart",
@@ -3001,5 +3001,5 @@
       "final_price_str": "12,14 €"
     }
   ],
-  "total": 407
+  "total": 406
 }
