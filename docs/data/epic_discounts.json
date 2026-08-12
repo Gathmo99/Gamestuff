@@ -1021,16 +1021,6 @@
       "final_price_str": "9,99 €"
     },
     {
-      "appid": "b1203fa954aa494786a2e130d08bf214",
-      "namespace": "695337c5e45f4fe69d68f5593197a41e",
-      "name": "King of Retail",
-      "discount": 75,
-      "orig_cents": 2499,
-      "final_cents": 624,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "6,24 €"
-    },
-    {
       "appid": "5a7d55b7d9f140ff9e6c6f63ca962e89",
       "namespace": "c7d05124d88241318dc8ff91c482e561",
       "name": "Forgotten Bunker 1939",
@@ -2511,16 +2501,6 @@
       "final_price_str": "1,31 €"
     },
     {
-      "appid": "6b116e072948425ca460d99d9d138d55",
-      "namespace": "2fd168b5526d4e15a84b53a6c0484f8f",
-      "name": "Fuga: Melodies of Steel 3",
-      "discount": 40,
-      "orig_cents": 3999,
-      "final_cents": 2399,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "23,99 €"
-    },
-    {
       "appid": "cf18d63ca20b4d3d88cace1c83e4db1e",
       "namespace": "c51fa1253bd341bdbd3c85297af8a34d",
       "name": "Dark Envoy",
@@ -2941,6 +2921,16 @@
       "final_price_str": "26,99 €"
     },
     {
+      "appid": "0582d542bb6a4581af778d046485ecc0",
+      "namespace": "5a94d427238c47c98d57223d25c589d5",
+      "name": "Love in the books",
+      "discount": 25,
+      "orig_cents": 1169,
+      "final_cents": 876,
+      "orig_price_str": "11,69 €",
+      "final_price_str": "8,76 €"
+    },
+    {
       "appid": "a6c4448f8ee54dd2b3bbbd5d84d62c3a",
       "namespace": "68d6947f4d0a4ffc88670360ddac13c5",
       "name": "Hank: Drowning On Dry Land",
@@ -2999,7 +2989,17 @@
       "final_cents": 269,
       "orig_price_str": "3,59 €",
       "final_price_str": "2,69 €"
+    },
+    {
+      "appid": "d047727f90f54c23b2f265f35b23de85",
+      "namespace": "20793453c6ee412cadbc2932db902e86",
+      "name": "Spectra",
+      "discount": 25,
+      "orig_cents": 899,
+      "final_cents": 674,
+      "orig_price_str": "8,99 €",
+      "final_price_str": "6,74 €"
     }
   ],
-  "total": 397
+  "total": 398
 }

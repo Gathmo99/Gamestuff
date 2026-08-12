@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "appid": "9P85NL6T3DHP",
+      "name": "Tom Clancy’s Ghost Recon Wildlands",
+      "discount": 95,
+      "orig_cents": 4999,
+      "final_cents": 249,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "2,49 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
       "appid": "9NP83DTS8T4W",
       "name": "Golf With Your Friends - Ultimate Edition",
       "discount": 90,
@@ -121,6 +131,16 @@
       "gamepass": "PC + Xbox"
     },
     {
+      "appid": "C2M8HBNVPT1T",
+      "name": "The Evil Within",
+      "discount": 75,
+      "orig_cents": 1999,
+      "final_cents": 499,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "4,99 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
       "appid": "9PH9X0760B0T",
       "name": "DOOM: The Dark Ages",
       "discount": 67,
@@ -229,27 +249,7 @@
       "orig_price_str": "69,99 €",
       "final_price_str": "55,99 €",
       "gamepass": ""
-    },
-    {
-      "appid": "9P8X6TVW9ZW8",
-      "name": "Mistfall Hunter",
-      "discount": 10,
-      "orig_cents": 2499,
-      "final_cents": 2249,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "22,49 €",
-      "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "9N5MMSS07VH9",
-      "name": "Mistfall Hunter – Deluxe Edition",
-      "discount": 10,
-      "orig_cents": 3999,
-      "final_cents": 3599,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "35,99 €",
-      "gamepass": ""
     }
   ],
-  "total": 440
+  "total": 438
 }
