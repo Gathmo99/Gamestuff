@@ -81,16 +81,6 @@
       "final_price_str": "0,35 €"
     },
     {
-      "appid": "9a78977722974513b86e3378209b2f6f",
-      "namespace": "b859d03955d0401e984b81c5e7a15654",
-      "name": "Worker Simulator",
-      "discount": 95,
-      "orig_cents": 1349,
-      "final_cents": 67,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "0,67 €"
-    },
-    {
       "appid": "0b7c7381501d4eeb9f39d88cd7f41b27",
       "namespace": "bdefe348a0ae441e84687addee74fd10",
       "name": "Need for Speed™ Heat Deluxe Edition",
@@ -339,6 +329,16 @@
       "final_cents": 70,
       "orig_price_str": "5,39 €",
       "final_price_str": "0,70 €"
+    },
+    {
+      "appid": "b7c6449af86c47c4a873a62d0e30c0dc",
+      "namespace": "28b88370465c4c67b583b1b7d5c7e725",
+      "name": "Fell in Love with a California Girl",
+      "discount": 85,
+      "orig_cents": 359,
+      "final_cents": 53,
+      "orig_price_str": "3,59 €",
+      "final_price_str": "0,53 €"
     },
     {
       "appid": "9da459f7c3984877bd5a12bdc3b6b3af",
@@ -1531,16 +1531,6 @@
       "final_price_str": "4,67 €"
     },
     {
-      "appid": "a6f4dc69036c4208817b25587ca2807d",
-      "namespace": "7f1853beef0a4b40827038d0f47606f3",
-      "name": "DOOM 3",
-      "discount": 60,
-      "orig_cents": 999,
-      "final_cents": 399,
-      "orig_price_str": "9,99 €",
-      "final_price_str": "3,99 €"
-    },
-    {
       "appid": "a0a4e6460d4548b38f100b31764dcacf",
       "namespace": "46abcd0cbb8d49929e8cadd50d666547",
       "name": "Commando:  Hell's Target 3D",
@@ -1821,6 +1811,26 @@
       "final_price_str": "0,44 €"
     },
     {
+      "appid": "de05f60752584dc3bbfa89138c12cee2",
+      "namespace": "e1094f6a687543c9ab4543dcba655554",
+      "name": "Street Fighting Simulator",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "459149a14b9243e3b68251b9f6a39fe6",
+      "namespace": "55400d765e13415996d0324bbda143c0",
+      "name": "Serbian Dancing Lady",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
       "appid": "ee8a6e786ac7467e94ae606812d659d4",
       "namespace": "ba74867ed69a4bb6abd9f81fea647af6",
       "name": "Eyes Of Memes",
@@ -1864,16 +1874,6 @@
       "appid": "371e22c062fc4addb4a71d37cf4a6fbe",
       "namespace": "2b630014226346b798149e8d26c390c4",
       "name": "ROD Multiplayer Car Driving",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "0e3cd2f9537a40f5b61e5281a51d9534",
-      "namespace": "9d986837984c476195398f37ba7446dd",
-      "name": "Birch Simulator",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1944,16 +1944,6 @@
       "appid": "62428305766a445ea050e5ba1f62feb3",
       "namespace": "0ad395f34c624cefa1162276e36bd5a1",
       "name": "Extreme Car Drift Simulator",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "cdfa36e1f51443f28307415eb5b3379f",
-      "namespace": "3582d65783144a76a49256c3ac01444d",
-      "name": "Car Mechanic - City Driving",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -2991,6 +2981,16 @@
       "final_price_str": "1,64 €"
     },
     {
+      "appid": "011f9d5cc35747f7883fbccf187c3952",
+      "namespace": "8bff5c9309754b2aae2cdd3f709c17d2",
+      "name": "V Gate Last Camp",
+      "discount": 25,
+      "orig_cents": 359,
+      "final_cents": 269,
+      "orig_price_str": "3,59 €",
+      "final_price_str": "2,69 €"
+    },
+    {
       "appid": "871012a0d52b434ea19528992ebaf468",
       "namespace": "3880ec67d75643da816c9feabb168010",
       "name": "Union of Gnomes",
@@ -3001,5 +3001,5 @@
       "final_price_str": "10,11 €"
     }
   ],
-  "total": 395
+  "total": 396
 }
