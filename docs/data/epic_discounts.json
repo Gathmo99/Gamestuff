@@ -1101,16 +1101,6 @@
       "final_price_str": "4,43 €"
     },
     {
-      "appid": "618061bfbbf741c899c1b8cbfbeb94dd",
-      "namespace": "7c28c10036b04d78b04f614e21e116e3",
-      "name": "Onsen Master",
-      "discount": 70,
-      "orig_cents": 1199,
-      "final_cents": 359,
-      "orig_price_str": "11,99 €",
-      "final_price_str": "3,59 €"
-    },
-    {
       "appid": "082ffc60f5084ca783d75527cd6771a1",
       "namespace": "b5ac16dc12f3478e99dcfea07c13865c",
       "name": "DOOM Eternal",
@@ -2999,7 +2989,17 @@
       "final_cents": 1011,
       "orig_price_str": "13,49 €",
       "final_price_str": "10,11 €"
+    },
+    {
+      "appid": "0ac51d3f5e874d93a1dfa918e098e3bc",
+      "namespace": "b005ba75ad8d488c9d8be26cb04f18fc",
+      "name": "ATOMIC SHELTER",
+      "discount": 25,
+      "orig_cents": 359,
+      "final_cents": 269,
+      "orig_price_str": "3,59 €",
+      "final_price_str": "2,69 €"
     }
   ],
-  "total": 396
+  "total": 397
 }

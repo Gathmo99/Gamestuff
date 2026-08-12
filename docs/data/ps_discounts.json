@@ -10,7 +10,7 @@
       "final_price_str": "1,99 €"
     },
     {
-      "appid": "EP5470-CUSA34220_00-1974871844301027",
+      "appid": "EP5470-PPSA04155_00-7447536313832063",
       "name": "XEL",
       "discount": 90,
       "orig_cents": 1899,
@@ -19,7 +19,7 @@
       "final_price_str": "1,89 €"
     },
     {
-      "appid": "EP5470-PPSA04155_00-7447536313832063",
+      "appid": "EP5470-CUSA34220_00-1974871844301027",
       "name": "XEL",
       "discount": 90,
       "orig_cents": 1899,
@@ -208,7 +208,7 @@
       "final_price_str": "4,49 €"
     },
     {
-      "appid": "EP4541-PPSA06716_00-SAINTKOTAREU0000",
+      "appid": "EP4541-CUSA32503_00-SAINTKOTAREU0000",
       "name": "Saint Kotar",
       "discount": 85,
       "orig_cents": 1999,
@@ -217,7 +217,7 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "EP4541-CUSA32503_00-SAINTKOTAREU0000",
+      "appid": "EP4541-PPSA06716_00-SAINTKOTAREU0000",
       "name": "Saint Kotar",
       "discount": 85,
       "orig_cents": 1999,
@@ -397,7 +397,7 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "EP4541-CUSA32391_00-AIROHEARTEU00000",
+      "appid": "EP4541-PPSA06649_00-AIROHEART0000000",
       "name": "Airoheart",
       "discount": 80,
       "orig_cents": 1999,
@@ -406,7 +406,7 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "EP4541-PPSA06649_00-AIROHEART0000000",
+      "appid": "EP4541-CUSA32391_00-AIROHEARTEU00000",
       "name": "Airoheart",
       "discount": 80,
       "orig_cents": 1999,
@@ -451,7 +451,7 @@
       "final_price_str": "9,99 €"
     },
     {
-      "appid": "EP4385-PPSA05594_00-7584196509987040",
+      "appid": "EP4385-CUSA30891_00-6983803568215690",
       "name": "Kao the Kangaroo",
       "discount": 80,
       "orig_cents": 2999,
@@ -460,7 +460,7 @@
       "final_price_str": "5,99 €"
     },
     {
-      "appid": "EP4385-CUSA30891_00-6983803568215690",
+      "appid": "EP4385-PPSA05594_00-7584196509987040",
       "name": "Kao the Kangaroo",
       "discount": 80,
       "orig_cents": 2999,
@@ -703,7 +703,7 @@
       "final_price_str": "1,49 €"
     },
     {
-      "appid": "EP4385-CUSA30891_00-KAOLVL0100000000",
+      "appid": "EP4385-PPSA05594_00-KAOLVL0100000000",
       "name": "Kao the Kangaroo: Oh! Well DLC",
       "discount": 75,
       "orig_cents": 499,
@@ -712,7 +712,7 @@
       "final_price_str": "1,24 €"
     },
     {
-      "appid": "EP4385-PPSA05594_00-KAOLVL0100000000",
+      "appid": "EP4385-CUSA30891_00-KAOLVL0100000000",
       "name": "Kao the Kangaroo: Oh! Well DLC",
       "discount": 75,
       "orig_cents": 499,
@@ -1432,7 +1432,7 @@
       "final_price_str": "6,99 €"
     },
     {
-      "appid": "EP3785-CUSA29337_00-OMD3BUNDLE000001",
+      "appid": "EP3785-CUSA27976_00-OMD3BUNDLE000001",
       "name": "Orcs Must Die! 3-Bundle",
       "discount": 65,
       "orig_cents": 3599,
@@ -1441,7 +1441,7 @@
       "final_price_str": "12,59 €"
     },
     {
-      "appid": "EP3785-CUSA27976_00-OMD3BUNDLE000001",
+      "appid": "EP3785-CUSA29337_00-OMD3BUNDLE000001",
       "name": "Orcs Must Die! 3-Bundle",
       "discount": 65,
       "orig_cents": 3599,
@@ -1783,7 +1783,7 @@
       "final_price_str": "1,19 €"
     },
     {
-      "appid": "EP6087-CUSA30939_00-9067424964161172",
+      "appid": "EP6087-PPSA05610_00-1221784256863423",
       "name": "Outbreak: Contagious Memories",
       "discount": 60,
       "orig_cents": 2999,
@@ -1792,7 +1792,7 @@
       "final_price_str": "11,99 €"
     },
     {
-      "appid": "EP6087-PPSA05610_00-1221784256863423",
+      "appid": "EP6087-CUSA30939_00-9067424964161172",
       "name": "Outbreak: Contagious Memories",
       "discount": 60,
       "orig_cents": 2999,
@@ -2215,7 +2215,7 @@
       "final_price_str": "5,49 €"
     },
     {
-      "appid": "EP1245-PPSA03800_00-6136687365100688",
+      "appid": "EP1245-CUSA27475_00-3426988227376069",
       "name": "Castle Of Pixel Skulls",
       "discount": 50,
       "orig_cents": 499,
@@ -2224,7 +2224,7 @@
       "final_price_str": "2,49 €"
     },
     {
-      "appid": "EP1245-CUSA27475_00-3426988227376069",
+      "appid": "EP1245-PPSA03800_00-6136687365100688",
       "name": "Castle Of Pixel Skulls",
       "discount": 50,
       "orig_cents": 499,
