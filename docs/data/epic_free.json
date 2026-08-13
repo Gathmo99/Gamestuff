@@ -1,16 +1,10 @@
 {
   "items": [
     {
-      "appid": "871cc4ff18444059890a4d28653a62d5",
-      "name": "Beacon Pines",
-      "orig_cents": 1799,
-      "orig_price_str": "17,99 €"
-    },
-    {
-      "appid": "231e8f6d250a453f9c44c0adf3a34656",
-      "name": "We Were Here Together",
-      "orig_cents": 1169,
-      "orig_price_str": "11,69 €"
+      "appid": "0e44600a079e419abbb291ccf5af9ee7",
+      "name": "Caravan SandWitch",
+      "orig_cents": 2499,
+      "orig_price_str": "24,99 €"
     }
   ]
 }

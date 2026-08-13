@@ -21,16 +21,6 @@
       "gamepass": "PC + Xbox"
     },
     {
-      "appid": "C3VVNLQQ54F8",
-      "name": "Tom Clancy's Ghost Recon Breakpoint",
-      "discount": 90,
-      "orig_cents": 6999,
-      "final_cents": 699,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "6,99 €",
-      "gamepass": "PC + Xbox"
-    },
-    {
       "appid": "9P8K2WP8VXKF",
       "name": "Tom Clancy's Ghost Recon Breakpoint Ultimate Edition",
       "discount": 90,
@@ -41,13 +31,23 @@
       "gamepass": ""
     },
     {
-      "appid": "C181BBDG2NT5",
-      "name": "Wolfenstein® II: The New Colossus™ Digital Deluxe Edition",
-      "discount": 85,
+      "appid": "C3VVNLQQ54F8",
+      "name": "Tom Clancy's Ghost Recon Breakpoint",
+      "discount": 90,
       "orig_cents": 6999,
-      "final_cents": 1049,
+      "final_cents": 699,
       "orig_price_str": "69,99 €",
-      "final_price_str": "10,49 €",
+      "final_price_str": "6,99 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "9NZC09NNR93L",
+      "name": "Mafia: Definitive Edition",
+      "discount": 85,
+      "orig_cents": 3999,
+      "final_cents": 599,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "5,99 €",
       "gamepass": ""
     },
     {
@@ -81,6 +81,16 @@
       "gamepass": "PC + Xbox"
     },
     {
+      "appid": "9MXGJ8JZL0LK",
+      "name": "I Am Fish",
+      "discount": 80,
+      "orig_cents": 1999,
+      "final_cents": 399,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "3,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "BZ0C0PJ24GN8",
       "name": "Prey®: Digital Deluxe Edition",
       "discount": 80,
@@ -88,6 +98,16 @@
       "final_cents": 799,
       "orig_price_str": "39,99 €",
       "final_price_str": "7,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NT063MBZCBJ",
+      "name": "Tom Clancy's Ghost Recon Wildlands Definitive Edition",
+      "discount": 75,
+      "orig_cents": 9999,
+      "final_cents": 2499,
+      "orig_price_str": "99,99 €",
+      "final_price_str": "24,99 €",
       "gamepass": ""
     },
     {
@@ -101,16 +121,6 @@
       "gamepass": "PC + Xbox"
     },
     {
-      "appid": "9NT063MBZCBJ",
-      "name": "Tom Clancy's Ghost Recon Wildlands Definitive Edition",
-      "discount": 75,
-      "orig_cents": 9999,
-      "final_cents": 2499,
-      "orig_price_str": "99,99 €",
-      "final_price_str": "24,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "C29HQ887KH4B",
       "name": "Fallout 3",
       "discount": 75,
@@ -119,6 +129,16 @@
       "orig_price_str": "9,99 €",
       "final_price_str": "2,49 €",
       "gamepass": "Xbox"
+    },
+    {
+      "appid": "C20W5LX41N6M",
+      "name": "Tom Clancy’s Ghost Recon Future Soldier",
+      "discount": 75,
+      "orig_cents": 999,
+      "final_cents": 249,
+      "orig_price_str": "9,99 €",
+      "final_price_str": "2,49 €",
+      "gamepass": ""
     },
     {
       "appid": "C299QVC2BSJF",
@@ -161,16 +181,6 @@
       "gamepass": "PC + Xbox"
     },
     {
-      "appid": "9P3JTWQ3D7KH",
-      "name": "DOOM: The Dark Ages Premium Upgrade",
-      "discount": 67,
-      "orig_cents": 3499,
-      "final_cents": 1154,
-      "orig_price_str": "34,99 €",
-      "final_price_str": "11,54 €",
-      "gamepass": ""
-    },
-    {
       "appid": "C3KLDKZBHNCZ",
       "name": "Fallout 4",
       "discount": 60,
@@ -178,6 +188,16 @@
       "final_cents": 799,
       "orig_price_str": "19,99 €",
       "final_price_str": "7,99 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "9P1Z43KRNQD4",
+      "name": "Quake",
+      "discount": 60,
+      "orig_cents": 999,
+      "final_cents": 399,
+      "orig_price_str": "9,99 €",
+      "final_price_str": "3,99 €",
       "gamepass": "PC + Xbox"
     },
     {
@@ -201,16 +221,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9NQR437K7PQH",
-      "name": "The Elder Scrolls IV: Oblivion Remastered",
-      "discount": 30,
-      "orig_cents": 5499,
-      "final_cents": 3849,
-      "orig_price_str": "54,99 €",
-      "final_price_str": "38,49 €",
-      "gamepass": "PC + Xbox"
-    },
-    {
       "appid": "9P3PT7PQJD0M",
       "name": "HELLDIVERS™ 2",
       "discount": 25,
@@ -218,16 +228,6 @@
       "final_cents": 2999,
       "orig_price_str": "39,99 €",
       "final_price_str": "29,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9PGSCVZP98QG",
-      "name": "Ready or Not: Digital Deluxe Edition",
-      "discount": 25,
-      "orig_cents": 6999,
-      "final_cents": 5249,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "52,49 €",
       "gamepass": ""
     },
     {
@@ -251,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 504
+  "total": 503
 }
