@@ -51,16 +51,6 @@
       "final_price_str": "0,00 €"
     },
     {
-      "appid": "871cc4ff18444059890a4d28653a62d5",
-      "namespace": "1c83ea77e736438f9852b31aeb4f7a20",
-      "name": "Beacon Pines",
-      "discount": 100,
-      "orig_cents": 1799,
-      "final_cents": 0,
-      "orig_price_str": "17,99 €",
-      "final_price_str": "0,00 €"
-    },
-    {
       "appid": "8f3bb1e57d524c23b8eda24259c869a7",
       "namespace": "93f9285e690e40d58ca6021df41ae11b",
       "name": "I Need Spirit Drink and Drive Simulator",
@@ -214,6 +204,16 @@
       "appid": "e886019a702a4211b2522def68f527eb",
       "namespace": "312174cf57134898a8f751921430d765",
       "name": "SOS OPS!",
+      "discount": 90,
+      "orig_cents": 449,
+      "final_cents": 44,
+      "orig_price_str": "4,49 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "266ce7800f324a4b9e24077d7ff68e8f",
+      "namespace": "24cc2d573b584bd193de6cc321289f9d",
+      "name": "Chrono Stranded",
       "discount": 90,
       "orig_cents": 449,
       "final_cents": 44,
@@ -3001,5 +3001,5 @@
       "final_price_str": "6,74 €"
     }
   ],
-  "total": 396
+  "total": 397
 }
