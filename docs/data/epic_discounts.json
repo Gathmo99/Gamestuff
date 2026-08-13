@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "appid": "e2fadea9d75248fda771034bf5e035e2",
+      "namespace": "e02939ef2acc407bb4713ee52e63ea35",
+      "name": "Targeted - 10 Days",
+      "discount": 100,
+      "orig_cents": 17999,
+      "final_cents": 0,
+      "orig_price_str": "179,99 €",
+      "final_price_str": "0,00 €"
+    },
+    {
       "appid": "231e8f6d250a453f9c44c0adf3a34656",
       "namespace": "c5f6069e7dd644dab009294f0fddc7a7",
       "name": "We Were Here Together",
@@ -2179,16 +2189,6 @@
       "final_cents": 224,
       "orig_price_str": "4,49 €",
       "final_price_str": "2,24 €"
-    },
-    {
-      "appid": "6160a9aef89f4c42911ffe15bd3fafad",
-      "namespace": "21594c7216e5490d906b0a32306bea1d",
-      "name": "Mineral",
-      "discount": 50,
-      "orig_cents": 539,
-      "final_cents": 269,
-      "orig_price_str": "5,39 €",
-      "final_price_str": "2,69 €"
     },
     {
       "appid": "8552cc07f24c40238ecd57aded159c64",
