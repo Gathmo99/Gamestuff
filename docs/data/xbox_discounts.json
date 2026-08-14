@@ -11,6 +11,16 @@
       "gamepass": "PC + Xbox"
     },
     {
+      "appid": "9PKJ0532DTCW",
+      "name": "Tom Clancy's Ghost Recon® Breakpoint",
+      "discount": 95,
+      "orig_cents": 5999,
+      "final_cents": 299,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "2,99 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
       "appid": "C2N9CS4FS1QR",
       "name": "Tom Clancy's Ghost Recon Wildlands",
       "discount": 90,
@@ -41,6 +51,46 @@
       "gamepass": "PC + Xbox"
     },
     {
+      "appid": "9P0XSL4VHKGZ",
+      "name": "Steelrising - Bastille Edition",
+      "discount": 90,
+      "orig_cents": 4999,
+      "final_cents": 499,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "4,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9N60PDBXC0MB",
+      "name": "Tom Clancy's Ghost Recon Breakpoint Deluxe Edition",
+      "discount": 90,
+      "orig_cents": 7999,
+      "final_cents": 799,
+      "orig_price_str": "79,99 €",
+      "final_price_str": "7,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9P9WMJ1295TJ",
+      "name": "Tom Clancy's Ghost Recon® Breakpoint Gold Edition",
+      "discount": 90,
+      "orig_cents": 9999,
+      "final_cents": 999,
+      "orig_price_str": "99,99 €",
+      "final_price_str": "9,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9P5Q712JDB9J",
+      "name": "Werewolf: The Apocalypse - Earthblood",
+      "discount": 90,
+      "orig_cents": 2999,
+      "final_cents": 299,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "2,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9NZC09NNR93L",
       "name": "Mafia: Definitive Edition",
       "discount": 85,
@@ -51,53 +101,13 @@
       "gamepass": ""
     },
     {
-      "appid": "C3QH42WRGM3R",
-      "name": "DOOM",
+      "appid": "9PH2RJ3T6CJS",
+      "name": "Worms Battlegrounds + Worms W.M.D",
       "discount": 80,
-      "orig_cents": 1999,
-      "final_cents": 399,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "3,99 €",
-      "gamepass": "Xbox"
-    },
-    {
-      "appid": "9NZDGFLL1WD1",
-      "name": "Wolfenstein: Alternativwelt-Kollektion",
-      "discount": 80,
-      "orig_cents": 6999,
-      "final_cents": 1399,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "13,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "C40860J5R2MP",
-      "name": "The Evil Within® 2",
-      "discount": 80,
-      "orig_cents": 3999,
-      "final_cents": 799,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "7,99 €",
-      "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "9MXGJ8JZL0LK",
-      "name": "I Am Fish",
-      "discount": 80,
-      "orig_cents": 1999,
-      "final_cents": 399,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "3,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "BZ0C0PJ24GN8",
-      "name": "Prey®: Digital Deluxe Edition",
-      "discount": 80,
-      "orig_cents": 3999,
-      "final_cents": 799,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "7,99 €",
+      "orig_cents": 3499,
+      "final_cents": 699,
+      "orig_price_str": "34,99 €",
+      "final_price_str": "6,99 €",
       "gamepass": ""
     },
     {
@@ -111,26 +121,6 @@
       "gamepass": ""
     },
     {
-      "appid": "BQ1W1T1FC14W",
-      "name": "The Elder Scrolls V: Skyrim Special Edition",
-      "discount": 75,
-      "orig_cents": 3999,
-      "final_cents": 999,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "9,99 €",
-      "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "C29HQ887KH4B",
-      "name": "Fallout 3",
-      "discount": 75,
-      "orig_cents": 999,
-      "final_cents": 249,
-      "orig_price_str": "9,99 €",
-      "final_price_str": "2,49 €",
-      "gamepass": "Xbox"
-    },
-    {
       "appid": "C20W5LX41N6M",
       "name": "Tom Clancy’s Ghost Recon Future Soldier",
       "discount": 75,
@@ -141,73 +131,53 @@
       "gamepass": ""
     },
     {
-      "appid": "C299QVC2BSJF",
-      "name": "Dishonored® Definitive Edition",
+      "appid": "C0D7VLQ3VDDD",
+      "name": "Tom Clancy’s Ghost Recon Advanced Warfighter",
       "discount": 75,
-      "orig_cents": 1999,
-      "final_cents": 499,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "4,99 €",
-      "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "C2M8HBNVPT1T",
-      "name": "The Evil Within",
-      "discount": 75,
-      "orig_cents": 1999,
-      "final_cents": 499,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "4,99 €",
-      "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "9NP0PC87KBTD",
-      "name": "DOOM: The Dark Ages Premium Edition",
-      "discount": 67,
-      "orig_cents": 10999,
-      "final_cents": 3629,
-      "orig_price_str": "109,99 €",
-      "final_price_str": "36,29 €",
+      "orig_cents": 999,
+      "final_cents": 249,
+      "orig_price_str": "9,99 €",
+      "final_price_str": "2,49 €",
       "gamepass": ""
     },
     {
-      "appid": "9PH9X0760B0T",
-      "name": "DOOM: The Dark Ages",
-      "discount": 67,
-      "orig_cents": 7999,
-      "final_cents": 2639,
-      "orig_price_str": "79,99 €",
-      "final_price_str": "26,39 €",
-      "gamepass": "PC + Xbox"
+      "appid": "9N0102B834ZM",
+      "name": "Fantasy Dash",
+      "discount": 68,
+      "orig_cents": 309,
+      "final_cents": 99,
+      "orig_price_str": "3,09 €",
+      "final_price_str": "0,99 €",
+      "gamepass": ""
     },
     {
-      "appid": "C3KLDKZBHNCZ",
-      "name": "Fallout 4",
-      "discount": 60,
-      "orig_cents": 1999,
-      "final_cents": 799,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "7,99 €",
-      "gamepass": "PC + Xbox"
+      "appid": "9NNNFB5F54C9",
+      "name": "RoboCop: Rogue City - Unfinished Business",
+      "discount": 50,
+      "orig_cents": 2999,
+      "final_cents": 1499,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "14,99 €",
+      "gamepass": ""
     },
     {
-      "appid": "9P1Z43KRNQD4",
-      "name": "Quake",
-      "discount": 60,
-      "orig_cents": 999,
-      "final_cents": 399,
-      "orig_price_str": "9,99 €",
-      "final_price_str": "3,99 €",
-      "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "BX3JNK07Z6QK",
-      "name": "Fallout: New Vegas",
+      "appid": "BQHVLTSGMMGL",
+      "name": "Tom Clancy's Ghost Recon Advanced Warfighter 2",
       "discount": 50,
       "orig_cents": 999,
       "final_cents": 499,
       "orig_price_str": "9,99 €",
       "final_price_str": "4,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "C2WKJJ9F5936",
+      "name": "Fable II",
+      "discount": 50,
+      "orig_cents": 1999,
+      "final_cents": 999,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "9,99 €",
       "gamepass": "Xbox"
     },
     {
@@ -221,6 +191,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9NWQ1Q1FR0C9",
+      "name": "Black Myth: Wukong",
+      "discount": 30,
+      "orig_cents": 6999,
+      "final_cents": 4899,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "48,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9P3PT7PQJD0M",
       "name": "HELLDIVERS™ 2",
       "discount": 25,
@@ -231,13 +211,23 @@
       "gamepass": ""
     },
     {
-      "appid": "9N055WD1VC99",
-      "name": "Waterpark Simulator",
-      "discount": 20,
-      "orig_cents": 1199,
-      "final_cents": 959,
-      "orig_price_str": "11,99 €",
-      "final_price_str": "9,59 €",
+      "appid": "9PGSCVZP98QG",
+      "name": "Ready or Not: Digital Deluxe Edition",
+      "discount": 25,
+      "orig_cents": 6999,
+      "final_cents": 5249,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "52,49 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9P4H9CTBWV3G",
+      "name": "HELLDIVERS™ 2 Super Citizen Edition",
+      "discount": 25,
+      "orig_cents": 5999,
+      "final_cents": 4499,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "44,99 €",
       "gamepass": ""
     },
     {
@@ -249,7 +239,17 @@
       "orig_price_str": "28,99 €",
       "final_price_str": "23,19 €",
       "gamepass": ""
+    },
+    {
+      "appid": "9N0B6PRBMW9W",
+      "name": "UFC™ 6 Ultimate Edition",
+      "discount": 15,
+      "orig_cents": 10999,
+      "final_cents": 9349,
+      "orig_price_str": "109,99 €",
+      "final_price_str": "93,49 €",
+      "gamepass": ""
     }
   ],
-  "total": 505
+  "total": 428
 }
