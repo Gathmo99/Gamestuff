@@ -331,6 +331,16 @@
       "final_price_str": "1,99 €"
     },
     {
+      "appid": "f3389e763ab34d2880a1006164b728f3",
+      "namespace": "4930dde6add240a9bfc7ddc415dc2799",
+      "name": "Chorus",
+      "discount": 90,
+      "orig_cents": 2499,
+      "final_cents": 249,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "2,49 €"
+    },
+    {
       "appid": "d761b53f24c044258d5cbfd63d62fda6",
       "namespace": "910c2c0f214946c893429b050c486468",
       "name": "The Silent City Chapter 1",
@@ -741,14 +751,14 @@
       "final_price_str": "11,99 €"
     },
     {
-      "appid": "95b6875f9b7f40a39b8d476ca642c655",
-      "namespace": "84a0cce87ad54db4830c2394e732fe80",
-      "name": "Backrooms Pools",
-      "discount": 75,
-      "orig_cents": 179,
-      "final_cents": 44,
-      "orig_price_str": "1,79 €",
-      "final_price_str": "0,44 €"
+      "appid": "dc9292c5d0ac441b8b6b8e261662ff40",
+      "namespace": "a4b5203877a04321bd1989cef6ba51dc",
+      "name": "One Hand Clapping",
+      "discount": 80,
+      "orig_cents": 1499,
+      "final_cents": 299,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "2,99 €"
     },
     {
       "appid": "904a631b58f9404380fe3264d7a57d07",
@@ -1351,16 +1361,6 @@
       "final_price_str": "1,79 €"
     },
     {
-      "appid": "8b5c0571766f483fb9b802a8b597a432",
-      "namespace": "e7e4e7b976e44a93885278cfd11e9d3a",
-      "name": "Cynosure",
-      "discount": 60,
-      "orig_cents": 1181,
-      "final_cents": 472,
-      "orig_price_str": "11,81 €",
-      "final_price_str": "4,72 €"
-    },
-    {
       "appid": "a28b42ac81344dea989cd7e7c8974498",
       "namespace": "817bb3befd094b0f8ec6d5df1ffb4623",
       "name": "1001 Jigsaw. World Tour: London",
@@ -1581,29 +1581,19 @@
       "final_price_str": "4,45 €"
     },
     {
+      "appid": "1ba6ede55c65421eb2683d4f32312c72",
+      "namespace": "20da7140d82142bca3b8e0f72d14fe3f",
+      "name": "Backrooms Survival",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
       "appid": "f58162b0ccb44d6ab848b93a05ce3916",
       "namespace": "5a6446b8b3174eedaf4183b5033aca0e",
       "name": "Market Simulator: Miami Beach",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "006a94e9395e42249c504fff33a9de30",
-      "namespace": "7c003d7a76cc42279dd786ad672ab63c",
-      "name": "Five Nights In The Mall",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "2db823f45cb54bb4befffa676ce7b10a",
-      "namespace": "9f0fa810ec4c4378af102f379810f1e8",
-      "name": "Animatronics Playtime",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1661,16 +1651,6 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "a5dcf67d3cb44ea39cdec4b086ce9f82",
-      "namespace": "4e35f306181e4604847b7b4866921d77",
-      "name": "Cat Karting",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
       "appid": "c21d29fcb4cc46a08b2b2e6ca1987992",
       "namespace": "093f57ad07fa411db44bb801a500214e",
       "name": "GOP STOP AUTO",
@@ -1684,6 +1664,16 @@
       "appid": "607c5808945c4f32a5ad0fe8379f4017",
       "namespace": "7f39eb885ae14748bfef81bd2e0b832b",
       "name": "Free Kick Football: 3D Soccer",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "86303bc468d94fc4ab7fdfc8cf5d1f9a",
+      "namespace": "29b2af6e39e143ed9925859e9969b4f3",
+      "name": "Anime Reaper",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1721,9 +1711,9 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "ec12e20bde414f088a4695dd3db7f7cc",
-      "namespace": "a588422986774a3c9b71f0ed66d6d0d0",
-      "name": "Dead Rush",
+      "appid": "fec758a1163641e4b2764e6de6dc2de3",
+      "namespace": "60729ae90fb84063808cac360e5a6c68",
+      "name": "Build From Block",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -2004,16 +1994,6 @@
       "appid": "85aa53ab558c4873a46a7351e4b20875",
       "namespace": "7d390fde40884ae884583cbd10fce130",
       "name": "City Ambulance Car Driving",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "b094d09fcb024a97be5db4c1972527dc",
-      "namespace": "ee30a29b65554c92a720ad1c8d3e4b18",
-      "name": "Nextbots In The Backrooms",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -2409,6 +2389,16 @@
       "final_cents": 1249,
       "orig_price_str": "24,99 €",
       "final_price_str": "12,49 €"
+    },
+    {
+      "appid": "e5e2b76e36944062a25840a557cb5aeb",
+      "namespace": "bc00696af836471cbacfd496e9e5f877",
+      "name": "Unspottable",
+      "discount": 50,
+      "orig_cents": 999,
+      "final_cents": 499,
+      "orig_price_str": "9,99 €",
+      "final_price_str": "4,99 €"
     },
     {
       "appid": "f23ea0199b5642a0b54b8145f49f5757",
@@ -2999,7 +2989,17 @@
       "final_cents": 269,
       "orig_price_str": "3,59 €",
       "final_price_str": "2,69 €"
+    },
+    {
+      "appid": "d047727f90f54c23b2f265f35b23de85",
+      "namespace": "20793453c6ee412cadbc2932db902e86",
+      "name": "Spectra",
+      "discount": 25,
+      "orig_cents": 899,
+      "final_cents": 674,
+      "orig_price_str": "8,99 €",
+      "final_price_str": "6,74 €"
     }
   ],
-  "total": 363
+  "total": 360
 }
