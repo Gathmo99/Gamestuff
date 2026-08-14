@@ -21,16 +21,6 @@
       "final_price_str": "0,00 €"
     },
     {
-      "appid": "8aca658004944df6a4014486c5c207ca",
-      "namespace": "301523940444454f809dd4d9122a4b3f",
-      "name": "happiness market",
-      "discount": 100,
-      "orig_cents": 89,
-      "final_cents": 0,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,00 €"
-    },
-    {
       "appid": "9d904fbaf04045d798dc3f71df015b8e",
       "namespace": "831ead56047a4e22b1aade2cfdd11eee",
       "name": "Project First Contact",
@@ -2999,6 +2989,16 @@
       "final_cents": 269,
       "orig_price_str": "3,59 €",
       "final_price_str": "2,69 €"
+    },
+    {
+      "appid": "d047727f90f54c23b2f265f35b23de85",
+      "namespace": "20793453c6ee412cadbc2932db902e86",
+      "name": "Spectra",
+      "discount": 25,
+      "orig_cents": 899,
+      "final_cents": 674,
+      "orig_price_str": "8,99 €",
+      "final_price_str": "6,74 €"
     }
   ],
   "total": 370

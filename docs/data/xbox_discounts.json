@@ -91,16 +91,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9NZC09NNR93L",
-      "name": "Mafia: Definitive Edition",
-      "discount": 85,
-      "orig_cents": 3999,
-      "final_cents": 599,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "5,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9PH2RJ3T6CJS",
       "name": "Worms Battlegrounds + Worms W.M.D",
       "discount": 80,
@@ -181,6 +171,16 @@
       "gamepass": "Xbox"
     },
     {
+      "appid": "BR46KM4D5B9L",
+      "name": "Fable III",
+      "discount": 50,
+      "orig_cents": 1999,
+      "final_cents": 999,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "9,99 €",
+      "gamepass": "Xbox"
+    },
+    {
       "appid": "9N8L3RQ4TQSX",
       "name": "Contraband Police",
       "discount": 35,
@@ -251,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 428
+  "total": 431
 }
