@@ -451,7 +451,7 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "EP4541-PPSA06649_00-AIROHEART0000000",
+      "appid": "EP4541-CUSA32391_00-AIROHEARTEU00000",
       "name": "Airoheart",
       "discount": 80,
       "orig_cents": 1999,
@@ -460,7 +460,7 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "EP4541-CUSA32391_00-AIROHEARTEU00000",
+      "appid": "EP4541-PPSA06649_00-AIROHEART0000000",
       "name": "Airoheart",
       "discount": 80,
       "orig_cents": 1999,
@@ -1909,7 +1909,7 @@
       "final_price_str": "6,99 €"
     },
     {
-      "appid": "EP3785-CUSA29337_00-OMD3BUNDLE000001",
+      "appid": "EP3785-CUSA27976_00-OMD3BUNDLE000001",
       "name": "Orcs Must Die! 3-Bundle",
       "discount": 65,
       "orig_cents": 3599,
@@ -1918,7 +1918,7 @@
       "final_price_str": "12,59 €"
     },
     {
-      "appid": "EP3785-CUSA27976_00-OMD3BUNDLE000001",
+      "appid": "EP3785-CUSA29337_00-OMD3BUNDLE000001",
       "name": "Orcs Must Die! 3-Bundle",
       "discount": 65,
       "orig_cents": 3599,
@@ -2044,7 +2044,7 @@
       "final_price_str": "13,99 €"
     },
     {
-      "appid": "EP6087-CUSA30939_00-9067424964161172",
+      "appid": "EP6087-PPSA05610_00-1221784256863423",
       "name": "Outbreak: Contagious Memories",
       "discount": 60,
       "orig_cents": 2999,
@@ -2053,7 +2053,7 @@
       "final_price_str": "11,99 €"
     },
     {
-      "appid": "EP6087-PPSA05610_00-1221784256863423",
+      "appid": "EP6087-CUSA30939_00-9067424964161172",
       "name": "Outbreak: Contagious Memories",
       "discount": 60,
       "orig_cents": 2999,
