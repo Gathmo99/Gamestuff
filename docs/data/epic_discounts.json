@@ -411,26 +411,6 @@
       "final_price_str": "4,99 €"
     },
     {
-      "appid": "3d10f32b87b94b769524cd44a12e634a",
-      "namespace": "aca2ee0619aa482791f0a71dbf3eeac0",
-      "name": "Rustler - Grand Theft Horse",
-      "discount": 80,
-      "orig_cents": 2239,
-      "final_cents": 447,
-      "orig_price_str": "22,39 €",
-      "final_price_str": "4,47 €"
-    },
-    {
-      "appid": "913af1ed18e24007ab5fd2bc2092c175",
-      "namespace": "9f981e2c861e4a8fbd0eab89541ac8e6",
-      "name": "112 Operator",
-      "discount": 80,
-      "orig_cents": 2239,
-      "final_cents": 447,
-      "orig_price_str": "22,39 €",
-      "final_price_str": "4,47 €"
-    },
-    {
       "appid": "37fffab23f454cc599ac172be845410a",
       "namespace": "556e189ea46942679383defef0a3e197",
       "name": "Skibidi In The Backrooms",
@@ -631,16 +611,6 @@
       "final_price_str": "10,79 €"
     },
     {
-      "appid": "268fd6ea355740d6ba4c76c3ffd4cbe0",
-      "namespace": "d923c737f0d243ccab407605ea40d39e",
-      "name": "911 Operator",
-      "discount": 80,
-      "orig_cents": 1349,
-      "final_cents": 269,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "2,69 €"
-    },
-    {
       "appid": "c4fd20e58414440e80fba255e8d4d783",
       "namespace": "c609e63aa7f44e55835f51df979ee6b8",
       "name": "Batora: Lost Haven",
@@ -739,6 +709,36 @@
       "final_cents": 399,
       "orig_price_str": "19,99 €",
       "final_price_str": "3,99 €"
+    },
+    {
+      "appid": "15a07ae229db4628937c0e159f8f2928",
+      "namespace": "45a3134e24b3470dbd9ea94d17b3507b",
+      "name": "Townsmen - A Kingdom Rebuilt",
+      "discount": 80,
+      "orig_cents": 1999,
+      "final_cents": 399,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "3,99 €"
+    },
+    {
+      "appid": "82b6c15d49f54a4685ee826f6c26c0a9",
+      "namespace": "6a9d6df3f6f74983a7d77861ccfcf50b",
+      "name": "Ranch Simulator",
+      "discount": 80,
+      "orig_cents": 2099,
+      "final_cents": 419,
+      "orig_price_str": "20,99 €",
+      "final_price_str": "4,19 €"
+    },
+    {
+      "appid": "307ac9c720d249a8b96c2f1de5970f50",
+      "namespace": "87b7846d2eba4bc49eead0854323aba8",
+      "name": "Dying Light 2 Stay Human - Reloaded Edition",
+      "discount": 80,
+      "orig_cents": 5999,
+      "final_cents": 1199,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "11,99 €"
     },
     {
       "appid": "904a631b58f9404380fe3264d7a57d07",
@@ -3001,5 +3001,5 @@
       "final_price_str": "7,19 €"
     }
   ],
-  "total": 371
+  "total": 368
 }
