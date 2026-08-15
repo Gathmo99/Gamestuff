@@ -741,16 +741,6 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "15a07ae229db4628937c0e159f8f2928",
-      "namespace": "45a3134e24b3470dbd9ea94d17b3507b",
-      "name": "Townsmen - A Kingdom Rebuilt",
-      "discount": 80,
-      "orig_cents": 1999,
-      "final_cents": 399,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "3,99 €"
-    },
-    {
       "appid": "904a631b58f9404380fe3264d7a57d07",
       "namespace": "b45f430ecdbf4b9f9c764c0851ad0741",
       "name": "Bodycamera Chase",
@@ -764,16 +754,6 @@
       "appid": "abcfae76a18c401c8ae5b37c759f8e16",
       "namespace": "095bb72741aa4e18a069ce0d2739e941",
       "name": "DOORS OF HORROR",
-      "discount": 75,
-      "orig_cents": 179,
-      "final_cents": 44,
-      "orig_price_str": "1,79 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "8fd0a802ed5748119282bd1bb2a5be34",
-      "namespace": "5da4301570a24f5b866aeae92569e5e4",
-      "name": "MUSHROOMAN",
       "discount": 75,
       "orig_cents": 179,
       "final_cents": 44,
@@ -1301,16 +1281,6 @@
       "final_price_str": "5,99 €"
     },
     {
-      "appid": "f4550b821c34409b8b3ceb0414881d1f",
-      "namespace": "1409385ad20c4ba48849a6cc0973db4a",
-      "name": "Boti - Byteland Overclocked",
-      "discount": 60,
-      "orig_cents": 1799,
-      "final_cents": 719,
-      "orig_price_str": "17,99 €",
-      "final_price_str": "7,19 €"
-    },
-    {
       "appid": "bfc63d2f960a40ab935e2b69a58255ba",
       "namespace": "b5b28db11da348249e78e1ed040d0368",
       "name": "Ready.Steady.Ship!",
@@ -1601,6 +1571,16 @@
       "final_price_str": "4,45 €"
     },
     {
+      "appid": "19dad91ebd2c4e51b2666ae8179d22d7",
+      "namespace": "d677e4e09736478592b5501ebc8ce238",
+      "name": "Midnight Dreams",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
       "appid": "1ba6ede55c65421eb2683d4f32312c72",
       "namespace": "20da7140d82142bca3b8e0f72d14fe3f",
       "name": "Backrooms Survival",
@@ -1614,16 +1594,6 @@
       "appid": "f58162b0ccb44d6ab848b93a05ce3916",
       "namespace": "5a6446b8b3174eedaf4183b5033aca0e",
       "name": "Market Simulator: Miami Beach",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "a1ef8a92dd8b450ba4472b3cbf424b0c",
-      "namespace": "5ca95d21db94459293b04fe3799945e6",
-      "name": "100 Nights In The Forest",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1721,6 +1691,16 @@
       "final_price_str": "0,44 €"
     },
     {
+      "appid": "2b9e9cf8a31a4d97b20e83d78165d2e7",
+      "namespace": "15a55855478c4cc4b308b47b5fcddc83",
+      "name": "Clown Eyes: Dead Park",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
       "appid": "81c8cc0daf724268aea2174c2c386624",
       "namespace": "469a0b93db634bf1850919d8109ced6e",
       "name": "Town Market Simulator 2025",
@@ -1734,6 +1714,16 @@
       "appid": "fec758a1163641e4b2764e6de6dc2de3",
       "namespace": "60729ae90fb84063808cac360e5a6c68",
       "name": "Build From Block",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "b931ef10acf4499f9dffcc3d8b9a2ddf",
+      "namespace": "02a7abe0a4c74a5281b526d92f43ee37",
+      "name": "Neon Driver",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1831,16 +1821,6 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "489755d403ba4e8b9298bdfa96f1b125",
-      "namespace": "a4c3c3f2087744a8b43ba268837bd6f2",
-      "name": "Exit: Left or Right",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
       "appid": "de05f60752584dc3bbfa89138c12cee2",
       "namespace": "e1094f6a687543c9ab4543dcba655554",
       "name": "Street Fighting Simulator",
@@ -1864,6 +1844,16 @@
       "appid": "ee8a6e786ac7467e94ae606812d659d4",
       "namespace": "ba74867ed69a4bb6abd9f81fea647af6",
       "name": "Eyes Of Memes",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "bb7553e001ec4892b6eb190e5d761467",
+      "namespace": "8ebe0bf06dea45859084c258c74e8bfd",
+      "name": "Backrooms: Eight Levels",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -2999,7 +2989,17 @@
       "final_cents": 674,
       "orig_price_str": "8,99 €",
       "final_price_str": "6,74 €"
+    },
+    {
+      "appid": "fced2e8290f249e581b435b6e964e0cb",
+      "namespace": "1e8ac5ff34b24d548ff88ea81dd10b49",
+      "name": "Packing Life",
+      "discount": 20,
+      "orig_cents": 899,
+      "final_cents": 719,
+      "orig_price_str": "8,99 €",
+      "final_price_str": "7,19 €"
     }
   ],
-  "total": 370
+  "total": 371
 }
