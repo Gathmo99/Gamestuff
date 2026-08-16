@@ -1551,14 +1551,14 @@
       "final_price_str": "5,99 €"
     },
     {
-      "appid": "a0a4e6460d4548b38f100b31764dcacf",
-      "namespace": "46abcd0cbb8d49929e8cadd50d666547",
-      "name": "Commando:  Hell's Target 3D",
-      "discount": 55,
-      "orig_cents": 89,
-      "final_cents": 40,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,40 €"
+      "appid": "830192842a3f4c9483c0b521f6b3de85",
+      "namespace": "69bd64c3214e49899754554175bb17f1",
+      "name": "Tiny Lands",
+      "discount": 60,
+      "orig_cents": 599,
+      "final_cents": 239,
+      "orig_price_str": "5,99 €",
+      "final_price_str": "2,39 €"
     },
     {
       "appid": "5b65fe1a95c7491f990621f0006b8d38",
@@ -3001,5 +3001,5 @@
       "final_price_str": "6,74 €"
     }
   ],
-  "total": 367
+  "total": 365
 }
