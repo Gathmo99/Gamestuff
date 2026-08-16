@@ -1541,6 +1541,16 @@
       "final_price_str": "7,99 €"
     },
     {
+      "appid": "0d9a533f0e684cc18620a8f408e8e72c",
+      "namespace": "c9d0a59bf89c45ceadc5960d6bc1ae4c",
+      "name": "Strange Horticulture",
+      "discount": 60,
+      "orig_cents": 1499,
+      "final_cents": 599,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "5,99 €"
+    },
+    {
       "appid": "a0a4e6460d4548b38f100b31764dcacf",
       "namespace": "46abcd0cbb8d49929e8cadd50d666547",
       "name": "Commando:  Hell's Target 3D",
@@ -1731,6 +1741,16 @@
       "final_price_str": "0,44 €"
     },
     {
+      "appid": "2303c60ff1a94d9b9c945fd328150502",
+      "namespace": "afc92a8312dc47a7b2f09001ff78bd83",
+      "name": "Backrooms Furry",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
       "appid": "55d1643a7e0947ee9b73b2cc6501ed97",
       "namespace": "de2a49fbb000427fad5fdacaf40cd459",
       "name": "Snake Classic 3D Reborn",
@@ -1804,16 +1824,6 @@
       "appid": "50fc0bf4ed91420d8a3286ce9becb8c7",
       "namespace": "363d0b06fb134d5b8c2794f488a694b8",
       "name": "Bulletrooms",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "3a8c63f9271f4f07a186ee4f51896978",
-      "namespace": "42671f8f7f0d4810b1e4674f881824b5",
-      "name": "One Night With Kawaii",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -2989,17 +2999,7 @@
       "final_cents": 674,
       "orig_price_str": "8,99 €",
       "final_price_str": "6,74 €"
-    },
-    {
-      "appid": "fced2e8290f249e581b435b6e964e0cb",
-      "namespace": "1e8ac5ff34b24d548ff88ea81dd10b49",
-      "name": "Packing Life",
-      "discount": 20,
-      "orig_cents": 899,
-      "final_cents": 719,
-      "orig_price_str": "8,99 €",
-      "final_price_str": "7,19 €"
     }
   ],
-  "total": 368
+  "total": 367
 }
