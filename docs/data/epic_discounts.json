@@ -301,6 +301,16 @@
       "final_price_str": "4,99 €"
     },
     {
+      "appid": "ad2d42f582114594a105d8fe2a4cc12a",
+      "namespace": "9f98514084e744ab9c995bdad3950ebb",
+      "name": "Clid The Snail",
+      "discount": 90,
+      "orig_cents": 1999,
+      "final_cents": 199,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "1,99 €"
+    },
+    {
       "appid": "d761b53f24c044258d5cbfd63d62fda6",
       "namespace": "910c2c0f214946c893429b050c486468",
       "name": "The Silent City Chapter 1",
@@ -2569,16 +2579,6 @@
       "final_cents": 1979,
       "orig_price_str": "29,99 €",
       "final_price_str": "19,79 €"
-    },
-    {
-      "appid": "40980262fdb24c149094f3febfe84cb6",
-      "namespace": "f14e8d865ad04b93a5df850ce7a59fe2",
-      "name": "Trash Goblin",
-      "discount": 33,
-      "orig_cents": 1799,
-      "final_cents": 1205,
-      "orig_price_str": "17,99 €",
-      "final_price_str": "12,05 €"
     },
     {
       "appid": "77d7a23f7bd3419cb6ec4802f941d905",
