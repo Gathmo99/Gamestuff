@@ -281,16 +281,6 @@
       "final_price_str": "4,99 €"
     },
     {
-      "appid": "ad2d42f582114594a105d8fe2a4cc12a",
-      "namespace": "9f98514084e744ab9c995bdad3950ebb",
-      "name": "Clid The Snail",
-      "discount": 90,
-      "orig_cents": 1999,
-      "final_cents": 199,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "1,99 €"
-    },
-    {
       "appid": "d761b53f24c044258d5cbfd63d62fda6",
       "namespace": "910c2c0f214946c893429b050c486468",
       "name": "The Silent City Chapter 1",
@@ -589,16 +579,6 @@
       "final_cents": 627,
       "orig_price_str": "31,39 €",
       "final_price_str": "6,27 €"
-    },
-    {
-      "appid": "2f9b3f889f1c4500a312627e54842bd3",
-      "namespace": "f5f9d01a03724f3fbb7c4281fa39fb15",
-      "name": "The Mystery Of The Moon",
-      "discount": 80,
-      "orig_cents": 5399,
-      "final_cents": 1079,
-      "orig_price_str": "53,99 €",
-      "final_price_str": "10,79 €"
     },
     {
       "appid": "c4fd20e58414440e80fba255e8d4d783",
@@ -2241,16 +2221,6 @@
       "final_price_str": "14,99 €"
     },
     {
-      "appid": "377aee4a2fc2432f8a4fe6101442f38b",
-      "namespace": "dc66053dbf6248cfbcb8c9a406b54dfb",
-      "name": "Red Planet Rampart",
-      "discount": 50,
-      "orig_cents": 1079,
-      "final_cents": 539,
-      "orig_price_str": "10,79 €",
-      "final_price_str": "5,39 €"
-    },
-    {
       "appid": "3c730d9424ad4568b7aaf83643d27bb9",
       "namespace": "818219d294284979a166202ce578439e",
       "name": "1001 Jigsaw: Earth Chronicles 2",
@@ -2399,16 +2369,6 @@
       "final_cents": 1249,
       "orig_price_str": "24,99 €",
       "final_price_str": "12,49 €"
-    },
-    {
-      "appid": "e5e2b76e36944062a25840a557cb5aeb",
-      "namespace": "bc00696af836471cbacfd496e9e5f877",
-      "name": "Unspottable",
-      "discount": 50,
-      "orig_cents": 999,
-      "final_cents": 499,
-      "orig_price_str": "9,99 €",
-      "final_price_str": "4,99 €"
     },
     {
       "appid": "f23ea0199b5642a0b54b8145f49f5757",
@@ -2591,6 +2551,36 @@
       "final_price_str": "20,09 €"
     },
     {
+      "appid": "4d56fdc376924c4aa7c80515d8d1fc29",
+      "namespace": "b713f7b6b51b405893ad88c00c86faac",
+      "name": "『S.T.A.L.K.E.R.: Shadow of Chornobyl』強化版",
+      "discount": 33,
+      "orig_cents": 1999,
+      "final_cents": 1339,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "13,39 €"
+    },
+    {
+      "appid": "355e78b2f9ce4404bb5682c8cb31ae96",
+      "namespace": "6026e7b108f94dd5a3037317eb9b4fa4",
+      "name": "S.T.A.L.K.E.R.: Call of Prypiat - Enhanced Edition",
+      "discount": 33,
+      "orig_cents": 1999,
+      "final_cents": 1339,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "13,39 €"
+    },
+    {
+      "appid": "91d3ac7558f74838911af27f118da705",
+      "namespace": "4275cb8b5c9f4d7cb4892d793eabebfd",
+      "name": "S.T.A.L.K.E.R.: Clear Sky - Enhanced Edition",
+      "discount": 33,
+      "orig_cents": 1999,
+      "final_cents": 1339,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "13,39 €"
+    },
+    {
       "appid": "db23a748500c46459bfb595a1ad745fb",
       "namespace": "46d36b0795de4dacb63e5be1249404eb",
       "name": "Bulbs and Switches",
@@ -2671,16 +2661,6 @@
       "final_price_str": "5,66 €"
     },
     {
-      "appid": "8dfd24605cf7452aa41db78c1900041a",
-      "namespace": "a5af1c76dbe24f589852db5ce0f87b0a",
-      "name": "Gasriesen Odyssey",
-      "discount": 30,
-      "orig_cents": 719,
-      "final_cents": 503,
-      "orig_price_str": "7,19 €",
-      "final_price_str": "5,03 €"
-    },
-    {
       "appid": "e309523a6fee42f39686a4c7fb275a5b",
       "namespace": "b06f6a823a51449893281d1b51038c22",
       "name": "Deck of Souls",
@@ -2689,6 +2669,16 @@
       "final_cents": 755,
       "orig_price_str": "10,79 €",
       "final_price_str": "7,55 €"
+    },
+    {
+      "appid": "275daa4dca49471089ccc7f2bf53cac8",
+      "namespace": "602a0ef0aceb46cca62445439661d712",
+      "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "discount": 30,
+      "orig_cents": 5999,
+      "final_cents": 4199,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "41,99 €"
     },
     {
       "appid": "8848871bb97641838fcf59d3be304891",
@@ -2921,6 +2911,26 @@
       "final_price_str": "1,25 €"
     },
     {
+      "appid": "7737a59a1ca149bf9cc04791a4e34e36",
+      "namespace": "7e3c0e52ab6840299e6dcb3429e6b2ac",
+      "name": "ServiceIT: You can do IT",
+      "discount": 25,
+      "orig_cents": 1169,
+      "final_cents": 876,
+      "orig_price_str": "11,69 €",
+      "final_price_str": "8,76 €"
+    },
+    {
+      "appid": "754a9e7983b5439d81bcf9e6168c88b9",
+      "namespace": "8ef296a169af4192a0e0fa65df61c0e2",
+      "name": "Tukoni: Waldpfleger",
+      "discount": 25,
+      "orig_cents": 979,
+      "final_cents": 734,
+      "orig_price_str": "9,79 €",
+      "final_price_str": "7,34 €"
+    },
+    {
       "appid": "0582d542bb6a4581af778d046485ecc0",
       "namespace": "5a94d427238c47c98d57223d25c589d5",
       "name": "Love in the books",
@@ -2989,17 +2999,7 @@
       "final_cents": 269,
       "orig_price_str": "3,59 €",
       "final_price_str": "2,69 €"
-    },
-    {
-      "appid": "d047727f90f54c23b2f265f35b23de85",
-      "namespace": "20793453c6ee412cadbc2932db902e86",
-      "name": "Spectra",
-      "discount": 25,
-      "orig_cents": 899,
-      "final_cents": 674,
-      "orig_price_str": "8,99 €",
-      "final_price_str": "6,74 €"
     }
   ],
-  "total": 364
+  "total": 366
 }

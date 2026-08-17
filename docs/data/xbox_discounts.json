@@ -31,16 +31,6 @@
       "gamepass": "PC + Xbox"
     },
     {
-      "appid": "9P8K2WP8VXKF",
-      "name": "Tom Clancy's Ghost Recon Breakpoint Ultimate Edition",
-      "discount": 90,
-      "orig_cents": 11999,
-      "final_cents": 1199,
-      "orig_price_str": "119,99 €",
-      "final_price_str": "11,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "C3VVNLQQ54F8",
       "name": "Tom Clancy's Ghost Recon Breakpoint",
       "discount": 90,
@@ -49,6 +39,16 @@
       "orig_price_str": "69,99 €",
       "final_price_str": "6,99 €",
       "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "9P8K2WP8VXKF",
+      "name": "Tom Clancy's Ghost Recon Breakpoint Ultimate Edition",
+      "discount": 90,
+      "orig_cents": 11999,
+      "final_cents": 1199,
+      "orig_price_str": "119,99 €",
+      "final_price_str": "11,99 €",
+      "gamepass": ""
     },
     {
       "appid": "9P0XSL4VHKGZ",
@@ -61,6 +61,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9NPKFN7M233T",
+      "name": "Paket: Mortal Kombat 11 Ultimate + Injustice 2 Leg. Edition",
+      "discount": 90,
+      "orig_cents": 9999,
+      "final_cents": 999,
+      "orig_price_str": "99,99 €",
+      "final_price_str": "9,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9N60PDBXC0MB",
       "name": "Tom Clancy's Ghost Recon Breakpoint Deluxe Edition",
       "discount": 90,
@@ -68,6 +78,16 @@
       "final_cents": 799,
       "orig_price_str": "79,99 €",
       "final_price_str": "7,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9N4ZQPM20W8F",
+      "name": "Thief Simulator",
+      "discount": 90,
+      "orig_cents": 1999,
+      "final_cents": 199,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "1,99 €",
       "gamepass": ""
     },
     {
@@ -91,13 +111,13 @@
       "gamepass": ""
     },
     {
-      "appid": "9PH2RJ3T6CJS",
-      "name": "Worms Battlegrounds + Worms W.M.D",
-      "discount": 80,
-      "orig_cents": 3499,
-      "final_cents": 699,
-      "orig_price_str": "34,99 €",
-      "final_price_str": "6,99 €",
+      "appid": "9NGK2CXP0366",
+      "name": "Mittelerde™: Das Schattenpaket",
+      "discount": 85,
+      "orig_cents": 6999,
+      "final_cents": 1049,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "10,49 €",
       "gamepass": ""
     },
     {
@@ -121,16 +141,6 @@
       "gamepass": ""
     },
     {
-      "appid": "C0D7VLQ3VDDD",
-      "name": "Tom Clancy’s Ghost Recon Advanced Warfighter",
-      "discount": 75,
-      "orig_cents": 999,
-      "final_cents": 249,
-      "orig_price_str": "9,99 €",
-      "final_price_str": "2,49 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9N0102B834ZM",
       "name": "Fantasy Dash",
       "discount": 68,
@@ -138,6 +148,16 @@
       "final_cents": 99,
       "orig_price_str": "3,09 €",
       "final_price_str": "0,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9PNLPMP1GGH5",
+      "name": "Cult of the Lamb",
+      "discount": 60,
+      "orig_cents": 2499,
+      "final_cents": 999,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "9,99 €",
       "gamepass": ""
     },
     {
@@ -149,26 +169,6 @@
       "orig_price_str": "29,99 €",
       "final_price_str": "14,99 €",
       "gamepass": ""
-    },
-    {
-      "appid": "BQHVLTSGMMGL",
-      "name": "Tom Clancy's Ghost Recon Advanced Warfighter 2",
-      "discount": 50,
-      "orig_cents": 999,
-      "final_cents": 499,
-      "orig_price_str": "9,99 €",
-      "final_price_str": "4,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "C2WKJJ9F5936",
-      "name": "Fable II",
-      "discount": 50,
-      "orig_cents": 1999,
-      "final_cents": 999,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "9,99 €",
-      "gamepass": "Xbox"
     },
     {
       "appid": "9N8L3RQ4TQSX",
@@ -191,13 +191,13 @@
       "gamepass": ""
     },
     {
-      "appid": "9P7ZBF3S7PSS",
-      "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "appid": "9MV90FHCV6LZ",
+      "name": "Black Myth: Wukong Digital Deluxe Edition",
       "discount": 30,
-      "orig_cents": 5999,
-      "final_cents": 4199,
-      "orig_price_str": "59,99 €",
-      "final_price_str": "41,99 €",
+      "orig_cents": 7999,
+      "final_cents": 5599,
+      "orig_price_str": "79,99 €",
+      "final_price_str": "55,99 €",
       "gamepass": ""
     },
     {
@@ -241,13 +241,13 @@
       "gamepass": ""
     },
     {
-      "appid": "9N0B6PRBMW9W",
-      "name": "UFC™ 6 Ultimate Edition",
-      "discount": 15,
-      "orig_cents": 10999,
-      "final_cents": 9349,
-      "orig_price_str": "109,99 €",
-      "final_price_str": "93,49 €",
+      "appid": "9NW5319WVF3H",
+      "name": "Der Herr der Ringe: Der Krieg im Norden™ – Legacy-Version",
+      "discount": 10,
+      "orig_cents": 1999,
+      "final_cents": 1799,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "17,99 €",
       "gamepass": ""
     }
   ],
