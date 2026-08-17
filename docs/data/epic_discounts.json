@@ -71,16 +71,6 @@
       "final_price_str": "3,49 €"
     },
     {
-      "appid": "34d960ae4b224b1f9a45766db362e530",
-      "namespace": "daed3ae775ab4986a0ce9ec1c3daab83",
-      "name": "The Wraith of the Galaxy",
-      "discount": 95,
-      "orig_cents": 1799,
-      "final_cents": 89,
-      "orig_price_str": "17,99 €",
-      "final_price_str": "0,89 €"
-    },
-    {
       "appid": "f2bcc2d0cf3f4c95886961a4ff2ec925",
       "namespace": "0e75b2d3188d42378ba82dccbfa48891",
       "name": "Dizzy Fight",
@@ -129,16 +119,6 @@
       "final_cents": 17,
       "orig_price_str": "3,59 €",
       "final_price_str": "0,17 €"
-    },
-    {
-      "appid": "45861d4e4fa34cf391c00c1d7ce02db3",
-      "namespace": "473c212b6d2e41d48fceb2d705ca04fa",
-      "name": "The Divine Invasion",
-      "discount": 93,
-      "orig_cents": 1349,
-      "final_cents": 94,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "0,94 €"
     },
     {
       "appid": "026f364d53b6478bbb9413b59140aa8e",
@@ -299,6 +279,16 @@
       "final_cents": 499,
       "orig_price_str": "49,99 €",
       "final_price_str": "4,99 €"
+    },
+    {
+      "appid": "ad2d42f582114594a105d8fe2a4cc12a",
+      "namespace": "9f98514084e744ab9c995bdad3950ebb",
+      "name": "Clid The Snail",
+      "discount": 90,
+      "orig_cents": 1999,
+      "final_cents": 199,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "1,99 €"
     },
     {
       "appid": "d761b53f24c044258d5cbfd63d62fda6",
@@ -2411,6 +2401,16 @@
       "final_price_str": "12,49 €"
     },
     {
+      "appid": "e5e2b76e36944062a25840a557cb5aeb",
+      "namespace": "bc00696af836471cbacfd496e9e5f877",
+      "name": "Unspottable",
+      "discount": 50,
+      "orig_cents": 999,
+      "final_cents": 499,
+      "orig_price_str": "9,99 €",
+      "final_price_str": "4,99 €"
+    },
+    {
       "appid": "f23ea0199b5642a0b54b8145f49f5757",
       "namespace": "c9f01f863a37488580ad5e0d37ce9a9c",
       "name": "Brainrot Kart",
@@ -3001,5 +3001,5 @@
       "final_price_str": "6,74 €"
     }
   ],
-  "total": 366
+  "total": 364
 }
