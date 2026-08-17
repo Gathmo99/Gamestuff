@@ -451,7 +451,7 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "EP4541-PPSA06649_00-AIROHEART0000000",
+      "appid": "EP4541-CUSA32391_00-AIROHEARTEU00000",
       "name": "Airoheart",
       "discount": 80,
       "orig_cents": 1999,
@@ -460,7 +460,7 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "EP4541-CUSA32391_00-AIROHEARTEU00000",
+      "appid": "EP4541-PPSA06649_00-AIROHEART0000000",
       "name": "Airoheart",
       "discount": 80,
       "orig_cents": 1999,
@@ -487,7 +487,7 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "EP4385-CUSA30891_00-6983803568215690",
+      "appid": "EP4385-PPSA05594_00-7584196509987040",
       "name": "Kao the Kangaroo",
       "discount": 80,
       "orig_cents": 2999,
@@ -496,7 +496,7 @@
       "final_price_str": "5,99 €"
     },
     {
-      "appid": "EP4385-PPSA05594_00-7584196509987040",
+      "appid": "EP4385-CUSA30891_00-6983803568215690",
       "name": "Kao the Kangaroo",
       "discount": 80,
       "orig_cents": 2999,
@@ -1072,7 +1072,7 @@
       "final_price_str": "1,49 €"
     },
     {
-      "appid": "EP4385-PPSA05594_00-KAOLVL0100000000",
+      "appid": "EP4385-CUSA30891_00-KAOLVL0100000000",
       "name": "Kao the Kangaroo: Oh! Well DLC",
       "discount": 75,
       "orig_cents": 499,
@@ -1081,7 +1081,7 @@
       "final_price_str": "1,24 €"
     },
     {
-      "appid": "EP4385-CUSA30891_00-KAOLVL0100000000",
+      "appid": "EP4385-PPSA05594_00-KAOLVL0100000000",
       "name": "Kao the Kangaroo: Oh! Well DLC",
       "discount": 75,
       "orig_cents": 499,
@@ -1144,7 +1144,7 @@
       "final_price_str": "1,99 €"
     },
     {
-      "appid": "EP4293-CUSA32097_00-ASTNCPS4SIEE0000",
+      "appid": "EP4293-PPSA06409_00-ASTNCPS5SIEE0000",
       "name": "Arcade Spirits: The New Challengers",
       "discount": 75,
       "orig_cents": 1999,
@@ -1153,7 +1153,7 @@
       "final_price_str": "4,99 €"
     },
     {
-      "appid": "EP4293-PPSA06409_00-ASTNCPS5SIEE0000",
+      "appid": "EP4293-CUSA32097_00-ASTNCPS4SIEE0000",
       "name": "Arcade Spirits: The New Challengers",
       "discount": 75,
       "orig_cents": 1999,
