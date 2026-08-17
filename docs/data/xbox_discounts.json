@@ -171,16 +171,6 @@
       "gamepass": "Xbox"
     },
     {
-      "appid": "BR46KM4D5B9L",
-      "name": "Fable III",
-      "discount": 50,
-      "orig_cents": 1999,
-      "final_cents": 999,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "9,99 €",
-      "gamepass": "Xbox"
-    },
-    {
       "appid": "9N8L3RQ4TQSX",
       "name": "Contraband Police",
       "discount": 35,
@@ -198,6 +188,16 @@
       "final_cents": 4899,
       "orig_price_str": "69,99 €",
       "final_price_str": "48,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9P7ZBF3S7PSS",
+      "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "discount": 30,
+      "orig_cents": 5999,
+      "final_cents": 4199,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "41,99 €",
       "gamepass": ""
     },
     {
@@ -251,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 435
+  "total": 437
 }

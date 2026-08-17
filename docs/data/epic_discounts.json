@@ -301,16 +301,6 @@
       "final_price_str": "4,99 €"
     },
     {
-      "appid": "ad2d42f582114594a105d8fe2a4cc12a",
-      "namespace": "9f98514084e744ab9c995bdad3950ebb",
-      "name": "Clid The Snail",
-      "discount": 90,
-      "orig_cents": 1999,
-      "final_cents": 199,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "1,99 €"
-    },
-    {
       "appid": "d761b53f24c044258d5cbfd63d62fda6",
       "namespace": "910c2c0f214946c893429b050c486468",
       "name": "The Silent City Chapter 1",
@@ -2471,6 +2461,16 @@
       "final_price_str": "9,71 €"
     },
     {
+      "appid": "6a5b88b6bcc2468fb42dcc4616be86ab",
+      "namespace": "3de2356ee51c46318d414decd5d76a27",
+      "name": "Echo's of the Dark",
+      "discount": 40,
+      "orig_cents": 359,
+      "final_cents": 215,
+      "orig_price_str": "3,59 €",
+      "final_price_str": "2,15 €"
+    },
+    {
       "appid": "677233a98fae408ba4ccee9492373a1f",
       "namespace": "3ef10f0ddb3f4afd969897e2ea4aed9f",
       "name": "Der Fall eines Imperiums",
@@ -3001,5 +3001,5 @@
       "final_price_str": "6,74 €"
     }
   ],
-  "total": 364
+  "total": 366
 }
