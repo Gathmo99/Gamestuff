@@ -51,16 +51,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9P0XSL4VHKGZ",
-      "name": "Steelrising - Bastille Edition",
-      "discount": 90,
-      "orig_cents": 4999,
-      "final_cents": 499,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "4,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "BRW49CBS558D",
       "name": "Batman: Return to Arkham",
       "discount": 90,
@@ -121,6 +111,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9PH2RJ3T6CJS",
+      "name": "Worms Battlegrounds + Worms W.M.D",
+      "discount": 80,
+      "orig_cents": 3499,
+      "final_cents": 699,
+      "orig_price_str": "34,99 €",
+      "final_price_str": "6,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9NT063MBZCBJ",
       "name": "Tom Clancy's Ghost Recon Wildlands Definitive Edition",
       "discount": 75,
@@ -138,6 +138,26 @@
       "final_cents": 249,
       "orig_price_str": "9,99 €",
       "final_price_str": "2,49 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NN8R15LFDGC",
+      "name": "Maneater Apex Edition",
+      "discount": 75,
+      "orig_cents": 4999,
+      "final_cents": 1249,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "12,49 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9N0102B834ZM",
+      "name": "Fantasy Dash",
+      "discount": 68,
+      "orig_cents": 309,
+      "final_cents": 99,
+      "orig_price_str": "3,09 €",
+      "final_price_str": "0,99 €",
       "gamepass": ""
     },
     {
@@ -201,14 +221,14 @@
       "gamepass": ""
     },
     {
-      "appid": "9P3PT7PQJD0M",
-      "name": "HELLDIVERS™ 2",
-      "discount": 25,
-      "orig_cents": 3999,
-      "final_cents": 2999,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "29,99 €",
-      "gamepass": ""
+      "appid": "9P2VGCTBMM52",
+      "name": "Microsoft Flight Simulator 2024 - Standard Edition",
+      "discount": 30,
+      "orig_cents": 7989,
+      "final_cents": 5592,
+      "orig_price_str": "79,89 €",
+      "final_price_str": "55,92 €",
+      "gamepass": "PC + Xbox"
     },
     {
       "appid": "9PGSCVZP98QG",
@@ -218,26 +238,6 @@
       "final_cents": 5249,
       "orig_price_str": "69,99 €",
       "final_price_str": "52,49 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9P4H9CTBWV3G",
-      "name": "HELLDIVERS™ 2 Super Citizen Edition",
-      "discount": 25,
-      "orig_cents": 5999,
-      "final_cents": 4499,
-      "orig_price_str": "59,99 €",
-      "final_price_str": "44,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9PF1Q2F7JM9G",
-      "name": "No More Room in Hell 2",
-      "discount": 20,
-      "orig_cents": 2899,
-      "final_cents": 2319,
-      "orig_price_str": "28,99 €",
-      "final_price_str": "23,19 €",
       "gamepass": ""
     },
     {
@@ -251,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 645
+  "total": 476
 }
