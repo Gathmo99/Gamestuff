@@ -21,26 +21,6 @@
       "final_price_str": "0,00 €"
     },
     {
-      "appid": "9d904fbaf04045d798dc3f71df015b8e",
-      "namespace": "831ead56047a4e22b1aade2cfdd11eee",
-      "name": "Project First Contact",
-      "discount": 100,
-      "orig_cents": 269,
-      "final_cents": 0,
-      "orig_price_str": "2,69 €",
-      "final_price_str": "0,00 €"
-    },
-    {
-      "appid": "8f3bb1e57d524c23b8eda24259c869a7",
-      "namespace": "93f9285e690e40d58ca6021df41ae11b",
-      "name": "I Need Spirit Drink and Drive Simulator",
-      "discount": 96,
-      "orig_cents": 179,
-      "final_cents": 8,
-      "orig_price_str": "1,79 €",
-      "final_price_str": "0,08 €"
-    },
-    {
       "appid": "2f17f4b7d77e483695acd7729cd16993",
       "namespace": "6131aba06aa54ebd8ff8c210de707ce5",
       "name": "PROPHUNT",
@@ -79,76 +59,6 @@
       "final_cents": 35,
       "orig_price_str": "7,19 €",
       "final_price_str": "0,35 €"
-    },
-    {
-      "appid": "77ebe3d0fbd6401999f773a4b9f47b62",
-      "namespace": "f02d6ce12fbc4230853a8b067e7e7278",
-      "name": "MechDefender",
-      "discount": 95,
-      "orig_cents": 359,
-      "final_cents": 17,
-      "orig_price_str": "3,59 €",
-      "final_price_str": "0,17 €"
-    },
-    {
-      "appid": "52056713f1e64223a3a09cf89ddfd903",
-      "namespace": "7dd01e47eb62480bb938d02a80977ed2",
-      "name": "I Need Spirit! Off-Road Edition",
-      "discount": 95,
-      "orig_cents": 269,
-      "final_cents": 13,
-      "orig_price_str": "2,69 €",
-      "final_price_str": "0,13 €"
-    },
-    {
-      "appid": "e593b93558e64399b58905728cb2bf76",
-      "namespace": "e2ee4d4c923a45ea9b815f11a71f64ce",
-      "name": "Fix Me Up Doc - Dark Humor",
-      "discount": 95,
-      "orig_cents": 269,
-      "final_cents": 13,
-      "orig_price_str": "2,69 €",
-      "final_price_str": "0,13 €"
-    },
-    {
-      "appid": "982a7ee88127402fb5d8f5655745fa82",
-      "namespace": "898948344c0c49218e067f34221acd08",
-      "name": "Corrupt - Political Simulator",
-      "discount": 95,
-      "orig_cents": 359,
-      "final_cents": 17,
-      "orig_price_str": "3,59 €",
-      "final_price_str": "0,17 €"
-    },
-    {
-      "appid": "026f364d53b6478bbb9413b59140aa8e",
-      "namespace": "3b665944a4764f9882d99296d2010265",
-      "name": "Find the Oil Racing Edition",
-      "discount": 91,
-      "orig_cents": 179,
-      "final_cents": 17,
-      "orig_price_str": "1,79 €",
-      "final_price_str": "0,17 €"
-    },
-    {
-      "appid": "cf5be2c093914084881aa74cc0367ef3",
-      "namespace": "3376364c2a914c1fbde839f5cf8824f6",
-      "name": "Secret Agent 001",
-      "discount": 91,
-      "orig_cents": 179,
-      "final_cents": 17,
-      "orig_price_str": "1,79 €",
-      "final_price_str": "0,17 €"
-    },
-    {
-      "appid": "7c54a54697c143ba8de1f0b13c0c716e",
-      "namespace": "425a91afbd1743ff8dcd21794a39a8a1",
-      "name": "Two Skateboards Driving Simulator",
-      "discount": 91,
-      "orig_cents": 179,
-      "final_cents": 17,
-      "orig_price_str": "1,79 €",
-      "final_price_str": "0,17 €"
     },
     {
       "appid": "e886019a702a4211b2522def68f527eb",
@@ -281,6 +191,46 @@
       "final_price_str": "4,99 €"
     },
     {
+      "appid": "ad2d42f582114594a105d8fe2a4cc12a",
+      "namespace": "9f98514084e744ab9c995bdad3950ebb",
+      "name": "Clid The Snail",
+      "discount": 90,
+      "orig_cents": 1999,
+      "final_cents": 199,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "1,99 €"
+    },
+    {
+      "appid": "f3389e763ab34d2880a1006164b728f3",
+      "namespace": "4930dde6add240a9bfc7ddc415dc2799",
+      "name": "Chorus",
+      "discount": 90,
+      "orig_cents": 2499,
+      "final_cents": 249,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "2,49 €"
+    },
+    {
+      "appid": "a85bd01b67184c4c83f03f05404e07a8",
+      "namespace": "52f57f57120c440fad9bfa0e6c279317",
+      "name": "Battlefield™ 2042",
+      "discount": 90,
+      "orig_cents": 5999,
+      "final_cents": 599,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "5,99 €"
+    },
+    {
+      "appid": "adc96ea4979d4b14831823a2c0efa057",
+      "namespace": "48ee23bbc7c34ac09604253e74d17b49",
+      "name": "Encased",
+      "discount": 90,
+      "orig_cents": 2999,
+      "final_cents": 299,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "2,99 €"
+    },
+    {
       "appid": "d761b53f24c044258d5cbfd63d62fda6",
       "namespace": "910c2c0f214946c893429b050c486468",
       "name": "The Silent City Chapter 1",
@@ -369,6 +319,16 @@
       "final_cents": 224,
       "orig_price_str": "14,99 €",
       "final_price_str": "2,24 €"
+    },
+    {
+      "appid": "7626d56f226c49c5af79685abf167cb6",
+      "namespace": "71e6bd85af1841f598526da595f22a62",
+      "name": "HOT WHEELS UNLEASHED™",
+      "discount": 85,
+      "orig_cents": 3999,
+      "final_cents": 599,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "5,99 €"
     },
     {
       "appid": "58c01786974f4887a2af8c17453dcf44",
@@ -719,6 +679,36 @@
       "final_cents": 233,
       "orig_price_str": "11,69 €",
       "final_price_str": "2,33 €"
+    },
+    {
+      "appid": "dc9292c5d0ac441b8b6b8e261662ff40",
+      "namespace": "a4b5203877a04321bd1989cef6ba51dc",
+      "name": "One Hand Clapping",
+      "discount": 80,
+      "orig_cents": 1499,
+      "final_cents": 299,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "2,99 €"
+    },
+    {
+      "appid": "661dc483940e4dabb3515096120e5964",
+      "namespace": "f7203037288e4949b5b74f0855025aec",
+      "name": "Golf Club Nostalgia",
+      "discount": 80,
+      "orig_cents": 999,
+      "final_cents": 199,
+      "orig_price_str": "9,99 €",
+      "final_price_str": "1,99 €"
+    },
+    {
+      "appid": "643b7a2210bb4f4f97d5c96b6af3995f",
+      "namespace": "08c03f2a2b794478a6b73c0a3e9b2b29",
+      "name": "Bud Spencer and Terence Hill – Slaps and Beans",
+      "discount": 76,
+      "orig_cents": 1998,
+      "final_cents": 479,
+      "orig_price_str": "19,98 €",
+      "final_price_str": "4,79 €"
     },
     {
       "appid": "904a631b58f9404380fe3264d7a57d07",
@@ -1104,6 +1094,16 @@
       "appid": "b344d692ae534565b5884c81f415ef6f",
       "namespace": "73ce3d09e1d949e8b80f66c78c1cda50",
       "name": "Weird West",
+      "discount": 70,
+      "orig_cents": 3999,
+      "final_cents": 1199,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "11,99 €"
+    },
+    {
+      "appid": "a400d19a077240729e9944c75f4db31a",
+      "namespace": "d118f9a27e514d98aa25534afd2f35c7",
+      "name": "Sonic Colors: Ultimate",
       "discount": 70,
       "orig_cents": 3999,
       "final_cents": 1199,
@@ -1791,16 +1791,6 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "50fc0bf4ed91420d8a3286ce9becb8c7",
-      "namespace": "363d0b06fb134d5b8c2794f488a694b8",
-      "name": "Bulletrooms",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
       "appid": "de05f60752584dc3bbfa89138c12cee2",
       "namespace": "e1094f6a687543c9ab4543dcba655554",
       "name": "Street Fighting Simulator",
@@ -2369,6 +2359,16 @@
       "final_cents": 1249,
       "orig_price_str": "24,99 €",
       "final_price_str": "12,49 €"
+    },
+    {
+      "appid": "e5e2b76e36944062a25840a557cb5aeb",
+      "namespace": "bc00696af836471cbacfd496e9e5f877",
+      "name": "Unspottable",
+      "discount": 50,
+      "orig_cents": 999,
+      "final_cents": 499,
+      "orig_price_str": "9,99 €",
+      "final_price_str": "4,99 €"
     },
     {
       "appid": "f23ea0199b5642a0b54b8145f49f5757",
@@ -3001,5 +3001,5 @@
       "final_price_str": "2,69 €"
     }
   ],
-  "total": 366
+  "total": 356
 }

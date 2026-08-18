@@ -61,6 +61,16 @@
       "gamepass": ""
     },
     {
+      "appid": "BRW49CBS558D",
+      "name": "Batman: Return to Arkham",
+      "discount": 90,
+      "orig_cents": 4999,
+      "final_cents": 499,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "4,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9NPKFN7M233T",
       "name": "Paket: Mortal Kombat 11 Ultimate + Injustice 2 Leg. Edition",
       "discount": 90,
@@ -98,16 +108,6 @@
       "final_cents": 999,
       "orig_price_str": "99,99 €",
       "final_price_str": "9,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9P5Q712JDB9J",
-      "name": "Werewolf: The Apocalypse - Earthblood",
-      "discount": 90,
-      "orig_cents": 2999,
-      "final_cents": 299,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "2,99 €",
       "gamepass": ""
     },
     {
@@ -151,6 +151,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9NMNZ4CK59DM",
+      "name": "Football Manager 26 Console",
+      "discount": 60,
+      "orig_cents": 5999,
+      "final_cents": 2399,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "23,99 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
       "appid": "9PNLPMP1GGH5",
       "name": "Cult of the Lamb",
       "discount": 60,
@@ -158,16 +168,6 @@
       "final_cents": 999,
       "orig_price_str": "24,99 €",
       "final_price_str": "9,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9NNNFB5F54C9",
-      "name": "RoboCop: Rogue City - Unfinished Business",
-      "discount": 50,
-      "orig_cents": 2999,
-      "final_cents": 1499,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "14,99 €",
       "gamepass": ""
     },
     {
@@ -251,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 438
+  "total": 644
 }
