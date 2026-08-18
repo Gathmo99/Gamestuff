@@ -141,13 +141,13 @@
       "gamepass": ""
     },
     {
-      "appid": "9N0102B834ZM",
-      "name": "Fantasy Dash",
-      "discount": 68,
-      "orig_cents": 309,
-      "final_cents": 99,
-      "orig_price_str": "3,09 €",
-      "final_price_str": "0,99 €",
+      "appid": "9NKK6Z0K3RH2",
+      "name": "Persona 3 Reload",
+      "discount": 65,
+      "orig_cents": 5999,
+      "final_cents": 2099,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "20,99 €",
       "gamepass": ""
     },
     {
@@ -251,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 644
+  "total": 645
 }

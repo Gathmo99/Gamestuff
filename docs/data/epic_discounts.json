@@ -691,16 +691,6 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "661dc483940e4dabb3515096120e5964",
-      "namespace": "f7203037288e4949b5b74f0855025aec",
-      "name": "Golf Club Nostalgia",
-      "discount": 80,
-      "orig_cents": 999,
-      "final_cents": 199,
-      "orig_price_str": "9,99 €",
-      "final_price_str": "1,99 €"
-    },
-    {
       "appid": "643b7a2210bb4f4f97d5c96b6af3995f",
       "namespace": "08c03f2a2b794478a6b73c0a3e9b2b29",
       "name": "Bud Spencer and Terence Hill – Slaps and Beans",
@@ -1529,6 +1519,16 @@
       "final_cents": 239,
       "orig_price_str": "5,99 €",
       "final_price_str": "2,39 €"
+    },
+    {
+      "appid": "b681625321de4d7192242980bc747619",
+      "namespace": "0062f9caeb7743f2b6f65c4b5a982e80",
+      "name": "MISSION ETERNAL SOULS",
+      "discount": 55,
+      "orig_cents": 89,
+      "final_cents": 40,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,40 €"
     },
     {
       "appid": "5b65fe1a95c7491f990621f0006b8d38",
@@ -3001,5 +3001,5 @@
       "final_price_str": "2,69 €"
     }
   ],
-  "total": 356
+  "total": 357
 }
