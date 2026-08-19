@@ -71,16 +71,6 @@
       "final_price_str": "0,35 €"
     },
     {
-      "appid": "e886019a702a4211b2522def68f527eb",
-      "namespace": "312174cf57134898a8f751921430d765",
-      "name": "SOS OPS!",
-      "discount": 90,
-      "orig_cents": 449,
-      "final_cents": 44,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "0,44 €"
-    },
-    {
       "appid": "266ce7800f324a4b9e24077d7ff68e8f",
       "namespace": "24cc2d573b584bd193de6cc321289f9d",
       "name": "Chrono Stranded",
@@ -1499,6 +1489,16 @@
       "final_cents": 599,
       "orig_price_str": "14,99 €",
       "final_price_str": "5,99 €"
+    },
+    {
+      "appid": "830192842a3f4c9483c0b521f6b3de85",
+      "namespace": "69bd64c3214e49899754554175bb17f1",
+      "name": "Tiny Lands",
+      "discount": 60,
+      "orig_cents": 599,
+      "final_cents": 239,
+      "orig_price_str": "5,99 €",
+      "final_price_str": "2,39 €"
     },
     {
       "appid": "b681625321de4d7192242980bc747619",
@@ -2921,6 +2921,16 @@
       "final_price_str": "7,34 €"
     },
     {
+      "appid": "b3d1afc54a98427f8c2bfe8145038292",
+      "namespace": "84379508bebb4c959c7193fa47c5154b",
+      "name": "Teacher Ximen Qing",
+      "discount": 25,
+      "orig_cents": 449,
+      "final_cents": 336,
+      "orig_price_str": "4,49 €",
+      "final_price_str": "3,36 €"
+    },
+    {
       "appid": "0582d542bb6a4581af778d046485ecc0",
       "namespace": "5a94d427238c47c98d57223d25c589d5",
       "name": "Love in the books",
@@ -2989,17 +2999,7 @@
       "final_cents": 269,
       "orig_price_str": "3,59 €",
       "final_price_str": "2,69 €"
-    },
-    {
-      "appid": "d047727f90f54c23b2f265f35b23de85",
-      "namespace": "20793453c6ee412cadbc2932db902e86",
-      "name": "Spectra",
-      "discount": 25,
-      "orig_cents": 899,
-      "final_cents": 674,
-      "orig_price_str": "8,99 €",
-      "final_price_str": "6,74 €"
     }
   ],
-  "total": 368
+  "total": 367
 }
