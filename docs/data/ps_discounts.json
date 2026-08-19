@@ -433,7 +433,7 @@
       "final_price_str": "5,99 €"
     },
     {
-      "appid": "EP4541-PPSA06603_00-CHARONSSTAIRCASE",
+      "appid": "EP4541-CUSA32328_00-CHARONSTAIRCASEU",
       "name": "Charon's Staircase",
       "discount": 80,
       "orig_cents": 1999,
@@ -442,7 +442,7 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "EP4541-CUSA32328_00-CHARONSTAIRCASEU",
+      "appid": "EP4541-PPSA06603_00-CHARONSSTAIRCASE",
       "name": "Charon's Staircase",
       "discount": 80,
       "orig_cents": 1999,
@@ -595,15 +595,6 @@
       "final_price_str": "4,99 €"
     },
     {
-      "appid": "EP3656-PPSA02751_00-1995428313023948",
-      "name": "Aliens",
-      "discount": 80,
-      "orig_cents": 1199,
-      "final_cents": 239,
-      "orig_price_str": "11,99 €",
-      "final_price_str": "2,39 €"
-    },
-    {
       "appid": "EP4541-CUSA17501_00-KAZEWILDMASKEU00",
       "name": "Kaze and the Wild Masks",
       "discount": 80,
@@ -611,15 +602,6 @@
       "final_cents": 399,
       "orig_price_str": "19,99 €",
       "final_price_str": "3,99 €"
-    },
-    {
-      "appid": "EP3656-CUSA25916_00-3148185296041093",
-      "name": "Dogfight",
-      "discount": 80,
-      "orig_cents": 999,
-      "final_cents": 199,
-      "orig_price_str": "9,99 €",
-      "final_price_str": "1,99 €"
     },
     {
       "appid": "EP2866-CUSA12376_00-FSWDLCLAKENELSON",
@@ -676,15 +658,6 @@
       "final_price_str": "7,99 €"
     },
     {
-      "appid": "EP3656-CUSA20341_00-SNAKESLD8MAYSCEE",
-      "name": "Snakes & Ladders",
-      "discount": 80,
-      "orig_cents": 899,
-      "final_cents": 179,
-      "orig_price_str": "8,99 €",
-      "final_price_str": "1,79 €"
-    },
-    {
       "appid": "EP4295-CUSA19392_00-FORTBOYARD2020EU",
       "name": "Escape Game Fort Boyard",
       "discount": 80,
@@ -701,15 +674,6 @@
       "final_cents": 399,
       "orig_price_str": "19,99 €",
       "final_price_str": "3,99 €"
-    },
-    {
-      "appid": "EP3656-CUSA17085_00-ZOMBGAME5JULY0EU",
-      "name": "ZOMB",
-      "discount": 80,
-      "orig_cents": 1099,
-      "final_cents": 219,
-      "orig_price_str": "10,99 €",
-      "final_price_str": "2,19 €"
     },
     {
       "appid": "EP2866-CUSA12376_00-FISHLAB42BIGLURE",
@@ -746,15 +710,6 @@
       "final_cents": 159,
       "orig_price_str": "7,99 €",
       "final_price_str": "1,59 €"
-    },
-    {
-      "appid": "EP3656-CUSA16297_00-ROBOXSCEE402JULY",
-      "name": "Robox",
-      "discount": 80,
-      "orig_cents": 1499,
-      "final_cents": 299,
-      "orig_price_str": "14,99 €",
-      "final_price_str": "2,99 €"
     },
     {
       "appid": "EP2866-CUSA12376_00-FISHINGTACKLEBOX",
@@ -2548,5 +2503,5 @@
       "final_price_str": "13,59 €"
     }
   ],
-  "total": 1743
+  "total": 1701
 }
