@@ -611,16 +611,6 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "15a07ae229db4628937c0e159f8f2928",
-      "namespace": "45a3134e24b3470dbd9ea94d17b3507b",
-      "name": "Townsmen - A Kingdom Rebuilt",
-      "discount": 80,
-      "orig_cents": 1999,
-      "final_cents": 399,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "3,99 €"
-    },
-    {
       "appid": "904a631b58f9404380fe3264d7a57d07",
       "namespace": "b45f430ecdbf4b9f9c764c0851ad0741",
       "name": "Bodycamera Chase",
@@ -2401,6 +2391,16 @@
       "final_price_str": "8,40 €"
     },
     {
+      "appid": "6247b45fce2f4645902d3621c19ecf3c",
+      "namespace": "a7854c43fe4d417ba2baca30610e286c",
+      "name": "Block Wise",
+      "discount": 40,
+      "orig_cents": 269,
+      "final_cents": 161,
+      "orig_price_str": "2,69 €",
+      "final_price_str": "1,61 €"
+    },
+    {
       "appid": "6a5b88b6bcc2468fb42dcc4616be86ab",
       "namespace": "3de2356ee51c46318d414decd5d76a27",
       "name": "Echo's of the Dark",
@@ -3001,5 +3001,5 @@
       "final_price_str": "6,74 €"
     }
   ],
-  "total": 371
+  "total": 372
 }

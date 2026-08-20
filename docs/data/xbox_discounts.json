@@ -61,16 +61,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9NPKFN7M233T",
-      "name": "Paket: Mortal Kombat 11 Ultimate + Injustice 2 Leg. Edition",
-      "discount": 90,
-      "orig_cents": 9999,
-      "final_cents": 999,
-      "orig_price_str": "99,99 €",
-      "final_price_str": "9,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9N60PDBXC0MB",
       "name": "Tom Clancy's Ghost Recon Breakpoint Deluxe Edition",
       "discount": 90,
@@ -101,6 +91,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9NGK2CXP0366",
+      "name": "Mittelerde™: Das Schattenpaket",
+      "discount": 85,
+      "orig_cents": 6999,
+      "final_cents": 1049,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "10,49 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9NT063MBZCBJ",
       "name": "Tom Clancy's Ghost Recon Wildlands Definitive Edition",
       "discount": 75,
@@ -128,6 +128,16 @@
       "final_cents": 899,
       "orig_price_str": "29,99 €",
       "final_price_str": "8,99 €",
+      "gamepass": "Xbox"
+    },
+    {
+      "appid": "9NXVC0482QS5",
+      "name": "It Takes Two – Digitale Version",
+      "discount": 70,
+      "orig_cents": 3999,
+      "final_cents": 1199,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "11,99 €",
       "gamepass": "Xbox"
     },
     {
@@ -231,16 +241,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9PGSCVZP98QG",
-      "name": "Ready or Not: Digital Deluxe Edition",
-      "discount": 25,
-      "orig_cents": 6999,
-      "final_cents": 5249,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "52,49 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9NW5319WVF3H",
       "name": "Der Herr der Ringe: Der Krieg im Norden™ – Legacy-Version",
       "discount": 10,
@@ -251,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 867
+  "total": 804
 }
