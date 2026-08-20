@@ -621,16 +621,6 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "82b6c15d49f54a4685ee826f6c26c0a9",
-      "namespace": "6a9d6df3f6f74983a7d77861ccfcf50b",
-      "name": "Ranch Simulator",
-      "discount": 80,
-      "orig_cents": 2099,
-      "final_cents": 419,
-      "orig_price_str": "20,99 €",
-      "final_price_str": "4,19 €"
-    },
-    {
       "appid": "904a631b58f9404380fe3264d7a57d07",
       "namespace": "b45f430ecdbf4b9f9c764c0851ad0741",
       "name": "Bodycamera Chase",
@@ -2999,7 +2989,17 @@
       "final_cents": 269,
       "orig_price_str": "3,59 €",
       "final_price_str": "2,69 €"
+    },
+    {
+      "appid": "d047727f90f54c23b2f265f35b23de85",
+      "namespace": "20793453c6ee412cadbc2932db902e86",
+      "name": "Spectra",
+      "discount": 25,
+      "orig_cents": 899,
+      "final_cents": 674,
+      "orig_price_str": "8,99 €",
+      "final_price_str": "6,74 €"
     }
   ],
-  "total": 370
+  "total": 371
 }
