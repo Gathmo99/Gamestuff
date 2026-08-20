@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "appid": "5c3fbcd0d4a048f187d5fdeae055dadc",
+      "namespace": "d33d1a3d6c214b27983012c23ca14e1d",
+      "name": "Grow and Go: Cozy Deliveries",
+      "discount": 100,
+      "orig_cents": 449,
+      "final_cents": 0,
+      "orig_price_str": "4,49 €",
+      "final_price_str": "0,00 €"
+    },
+    {
       "appid": "e2fadea9d75248fda771034bf5e035e2",
       "namespace": "e02939ef2acc407bb4713ee52e63ea35",
       "name": "Targeted - 10 Days",
@@ -619,16 +629,6 @@
       "final_cents": 419,
       "orig_price_str": "20,99 €",
       "final_price_str": "4,19 €"
-    },
-    {
-      "appid": "307ac9c720d249a8b96c2f1de5970f50",
-      "namespace": "87b7846d2eba4bc49eead0854323aba8",
-      "name": "Dying Light 2 Stay Human - Reloaded Edition",
-      "discount": 80,
-      "orig_cents": 5999,
-      "final_cents": 1199,
-      "orig_price_str": "59,99 €",
-      "final_price_str": "11,99 €"
     },
     {
       "appid": "904a631b58f9404380fe3264d7a57d07",
@@ -1481,26 +1481,6 @@
       "final_price_str": "7,99 €"
     },
     {
-      "appid": "0d9a533f0e684cc18620a8f408e8e72c",
-      "namespace": "c9d0a59bf89c45ceadc5960d6bc1ae4c",
-      "name": "Strange Horticulture",
-      "discount": 60,
-      "orig_cents": 1499,
-      "final_cents": 599,
-      "orig_price_str": "14,99 €",
-      "final_price_str": "5,99 €"
-    },
-    {
-      "appid": "830192842a3f4c9483c0b521f6b3de85",
-      "namespace": "69bd64c3214e49899754554175bb17f1",
-      "name": "Tiny Lands",
-      "discount": 60,
-      "orig_cents": 599,
-      "final_cents": 239,
-      "orig_price_str": "5,99 €",
-      "final_price_str": "2,39 €"
-    },
-    {
       "appid": "b681625321de4d7192242980bc747619",
       "namespace": "0062f9caeb7743f2b6f65c4b5a982e80",
       "name": "MISSION ETERNAL SOULS",
@@ -1544,6 +1524,16 @@
       "appid": "1ba6ede55c65421eb2683d4f32312c72",
       "namespace": "20da7140d82142bca3b8e0f72d14fe3f",
       "name": "Backrooms Survival",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "0f7637234bb74ed3827e5e22a0041886",
+      "namespace": "8e96d0390a4f4bddb9370875354dbfaf",
+      "name": "Femboy Forest",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1624,6 +1614,16 @@
       "appid": "86303bc468d94fc4ab7fdfc8cf5d1f9a",
       "namespace": "29b2af6e39e143ed9925859e9969b4f3",
       "name": "Anime Reaper",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "8bb038fda66d4422b7688e0a7621a845",
+      "namespace": "e148152ab40b4bd2872a1090f7fdcb24",
+      "name": "Dead Rush 2",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -3001,5 +3001,5 @@
       "final_price_str": "2,69 €"
     }
   ],
-  "total": 367
+  "total": 370
 }
