@@ -1,14 +1,3 @@
 {
-  "items": [
-    {
-      "appid": "214340",
-      "name": "Deponia",
-      "discount": 100,
-      "orig_price_str": "9,99€",
-      "final_price_str": "0,00€",
-      "orig_cents": 999,
-      "final_cents": 0,
-      "gamepass": ""
-    }
-  ]
+  "items": []
 }

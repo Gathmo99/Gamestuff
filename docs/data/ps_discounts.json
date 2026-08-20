@@ -433,7 +433,7 @@
       "final_price_str": "5,99 €"
     },
     {
-      "appid": "EP4541-CUSA32328_00-CHARONSTAIRCASEU",
+      "appid": "EP4541-PPSA06603_00-CHARONSSTAIRCASE",
       "name": "Charon's Staircase",
       "discount": 80,
       "orig_cents": 1999,
@@ -442,7 +442,7 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "EP4541-PPSA06603_00-CHARONSSTAIRCASE",
+      "appid": "EP4541-CUSA32328_00-CHARONSTAIRCASEU",
       "name": "Charon's Staircase",
       "discount": 80,
       "orig_cents": 1999,
@@ -2503,5 +2503,5 @@
       "final_price_str": "13,59 €"
     }
   ],
-  "total": 1701
+  "total": 1700
 }

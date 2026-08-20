@@ -1,10 +1,16 @@
 {
   "items": [
     {
-      "appid": "0e44600a079e419abbb291ccf5af9ee7",
-      "name": "Caravan SandWitch",
-      "orig_cents": 2499,
-      "orig_price_str": "24,99 €"
+      "appid": "b467b7d3570e44c0b84e59475f4a5636",
+      "name": "Cardpocalypse: Standard Edition",
+      "orig_cents": 2399,
+      "orig_price_str": "23,99 €"
+    },
+    {
+      "appid": "a802acab90af4a07952a07a9fa677f2f",
+      "name": "Episches Magier-Paket",
+      "orig_cents": 0,
+      "orig_price_str": "0,00 €"
     }
   ]
 }
