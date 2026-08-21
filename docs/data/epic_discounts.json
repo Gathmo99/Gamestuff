@@ -61,6 +61,16 @@
       "final_price_str": "0,44 €"
     },
     {
+      "appid": "f7bc591b0c1548d8936b4a610ca2d966",
+      "namespace": "fb76c816bb054fc8be57dc49f1600843",
+      "name": "Tails of Iron",
+      "discount": 88,
+      "orig_cents": 2499,
+      "final_cents": 299,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "2,99 €"
+    },
+    {
       "appid": "d761b53f24c044258d5cbfd63d62fda6",
       "namespace": "910c2c0f214946c893429b050c486468",
       "name": "The Silent City Chapter 1",
@@ -159,6 +169,16 @@
       "final_cents": 89,
       "orig_price_str": "4,49 €",
       "final_price_str": "0,89 €"
+    },
+    {
+      "appid": "aad9b8c3f0f7404f94de645a0857fb85",
+      "namespace": "7d9cb4fa8c4b488d86c7e9dec37318d5",
+      "name": "Suicide Guy",
+      "discount": 80,
+      "orig_cents": 719,
+      "final_cents": 143,
+      "orig_price_str": "7,19 €",
+      "final_price_str": "1,43 €"
     },
     {
       "appid": "62ec36dad2734ad0b72f2caaaebec3ef",
@@ -301,6 +321,26 @@
       "final_price_str": "0,79 €"
     },
     {
+      "appid": "8d50972d297f448cb3718d6e8094327a",
+      "namespace": "45e7cf3c49054f2fb20b673d9b0ae69e",
+      "name": "Sonic Mania",
+      "discount": 75,
+      "orig_cents": 1999,
+      "final_cents": 499,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "4,99 €"
+    },
+    {
+      "appid": "a7e2a44d0e614895bbf0a714bbc6a1ca",
+      "namespace": "a195e51c853d46038d13c49b882a9215",
+      "name": "SONIC X SHADOW GENERATIONS",
+      "discount": 70,
+      "orig_cents": 4999,
+      "final_cents": 1499,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "14,99 €"
+    },
+    {
       "appid": "5a7d55b7d9f140ff9e6c6f63ca962e89",
       "namespace": "c7d05124d88241318dc8ff91c482e561",
       "name": "Forgotten Bunker 1939",
@@ -381,6 +421,16 @@
       "final_price_str": "5,24 €"
     },
     {
+      "appid": "1118b8001b864fb9bf03971c9e6766ae",
+      "namespace": "50809e4c39674f42b649fa127d6796dd",
+      "name": "Sonic Frontiers",
+      "discount": 65,
+      "orig_cents": 3999,
+      "final_cents": 1399,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "13,99 €"
+    },
+    {
       "appid": "535fe103b77b47b19bc80dc9d794b83e",
       "namespace": "b9dc20c9c82142f39378eee96ab7aaf7",
       "name": "Red Ronin",
@@ -439,6 +489,26 @@
       "final_cents": 2399,
       "orig_price_str": "59,99 €",
       "final_price_str": "23,99 €"
+    },
+    {
+      "appid": "766815324c364ec4bc7bce8abb68a161",
+      "namespace": "da1c2c6e190147019e4188f24687a17c",
+      "name": "Sonic Racing: CrossWorlds",
+      "discount": 60,
+      "orig_cents": 6999,
+      "final_cents": 2799,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "27,99 €"
+    },
+    {
+      "appid": "3a2b656472ba486c9897fa50fbfbff4b",
+      "namespace": "8f8f6f0f4e3c492aac38c828ea2f763a",
+      "name": "Tails of Iron 2: Whiskers of Winter",
+      "discount": 60,
+      "orig_cents": 2499,
+      "final_cents": 999,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "9,99 €"
     },
     {
       "appid": "af98bd7a8d444d98b878df1877972b3b",
@@ -831,16 +901,6 @@
       "final_price_str": "2,15 €"
     },
     {
-      "appid": "677233a98fae408ba4ccee9492373a1f",
-      "namespace": "3ef10f0ddb3f4afd969897e2ea4aed9f",
-      "name": "Der Fall eines Imperiums",
-      "discount": 40,
-      "orig_cents": 2699,
-      "final_cents": 1619,
-      "orig_price_str": "26,99 €",
-      "final_price_str": "16,19 €"
-    },
-    {
       "appid": "e48cf491e5344d358cf314aab4f82082",
       "namespace": "04efb0d9ac0649fdb509cb2388dcc94b",
       "name": "Ascendria: The Parkour Game",
@@ -1091,16 +1151,6 @@
       "final_price_str": "3,59 €"
     },
     {
-      "appid": "34986e5f725a454ca11b38e3fb806268",
-      "namespace": "4b562eb9baa5482ea14bdff1af498af1",
-      "name": "Psychiatrist Simulator",
-      "discount": 20,
-      "orig_cents": 420,
-      "final_cents": 336,
-      "orig_price_str": "4,20 €",
-      "final_price_str": "3,36 €"
-    },
-    {
       "appid": "67ff263557474b96b1778a3fbef3c320",
       "namespace": "d77083e05f9542ea87b2dbdc9bd0242e",
       "name": "Warhounds",
@@ -1161,5 +1211,5 @@
       "final_price_str": "10,52 €"
     }
   ],
-  "total": 116
+  "total": 121
 }
