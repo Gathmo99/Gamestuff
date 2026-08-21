@@ -671,6 +671,16 @@
       "final_price_str": "1,79 €"
     },
     {
+      "appid": "48a3d2ead65c450b996ba3f4c1d88c68",
+      "namespace": "4ac85017adaf4d228518d64325c4ec65",
+      "name": "Obduction",
+      "discount": 60,
+      "orig_cents": 2399,
+      "final_cents": 959,
+      "orig_price_str": "23,99 €",
+      "final_price_str": "9,59 €"
+    },
+    {
       "appid": "b681625321de4d7192242980bc747619",
       "namespace": "0062f9caeb7743f2b6f65c4b5a982e80",
       "name": "MISSION ETERNAL SOULS",
@@ -1199,16 +1209,6 @@
       "final_cents": 269,
       "orig_price_str": "3,59 €",
       "final_price_str": "2,69 €"
-    },
-    {
-      "appid": "68d7c9e1aa1b40e5a95d0382b7069cf7",
-      "namespace": "17b1aeb9e01545d58c8b5c58d02369fe",
-      "name": "SCP",
-      "discount": 20,
-      "orig_cents": 899,
-      "final_cents": 719,
-      "orig_price_str": "8,99 €",
-      "final_price_str": "7,19 €"
     },
     {
       "appid": "2e6858c9a4ff4f6faa046d53ff4e53d5",
