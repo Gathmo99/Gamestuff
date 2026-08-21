@@ -51,6 +51,76 @@
       "final_price_str": "0,35 €"
     },
     {
+      "appid": "06842fae9b074c3ca5c15013558806b0",
+      "namespace": "7a91bdd7c9ea41e6b5605baeb399c2ec",
+      "name": "Hell Division",
+      "discount": 95,
+      "orig_cents": 1799,
+      "final_cents": 89,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "0,89 €"
+    },
+    {
+      "appid": "84b069e52f834fb597383ff297c256d3",
+      "namespace": "2ac0cd69936144c0b4e7ff7ae136905f",
+      "name": "Inquisitor's Heart and Soul",
+      "discount": 95,
+      "orig_cents": 1799,
+      "final_cents": 89,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "0,89 €"
+    },
+    {
+      "appid": "386192864c834814a6a8ef1bc562d28a",
+      "namespace": "7a0721af1f89440ba190a2c1eb2a1378",
+      "name": "Cyberpunk SFX",
+      "discount": 95,
+      "orig_cents": 1799,
+      "final_cents": 89,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "0,89 €"
+    },
+    {
+      "appid": "3dfb61f3a2664c8084e21d5d7a5a5c65",
+      "namespace": "fef01803e2f1468591535ce1709b89b7",
+      "name": "Cybernetic Fault",
+      "discount": 95,
+      "orig_cents": 1799,
+      "final_cents": 89,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "0,89 €"
+    },
+    {
+      "appid": "da2244c27ee24759977c8efec26fa659",
+      "namespace": "dcedb432f689463e8ed0d004fb67c5ee",
+      "name": "Dofamine",
+      "discount": 93,
+      "orig_cents": 1349,
+      "final_cents": 94,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "0,94 €"
+    },
+    {
+      "appid": "6e98cd1c12fe47d583301a661e83cc48",
+      "namespace": "18051c2571964edbaeb83f87d12a189c",
+      "name": "Euphoria: Supreme Mechanics",
+      "discount": 93,
+      "orig_cents": 1349,
+      "final_cents": 94,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "0,94 €"
+    },
+    {
+      "appid": "21340083e1694ffd8b5d2490217d70c9",
+      "namespace": "107e0fcde9914f2ab2fe193fa50ef8b1",
+      "name": "Firelight Fantasy: Vengeance",
+      "discount": 92,
+      "orig_cents": 1079,
+      "final_cents": 86,
+      "orig_price_str": "10,79 €",
+      "final_price_str": "0,86 €"
+    },
+    {
       "appid": "266ce7800f324a4b9e24077d7ff68e8f",
       "namespace": "24cc2d573b584bd193de6cc321289f9d",
       "name": "Chrono Stranded",
@@ -59,6 +129,26 @@
       "final_cents": 44,
       "orig_price_str": "4,49 €",
       "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "e7d781801f1947e6afc02344a8907d7d",
+      "namespace": "1635e577cf224925a3c0b8e8927c280a",
+      "name": "Shadow of the Matrix: Protocol",
+      "discount": 90,
+      "orig_cents": 1799,
+      "final_cents": 179,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "1,79 €"
+    },
+    {
+      "appid": "ace6cde6ed5b48f6855fbaa7db19c012",
+      "namespace": "e0fceab3d7bc433ba25b9142a965ed09",
+      "name": "Firelight Fantasy: Resistance",
+      "discount": 90,
+      "orig_cents": 899,
+      "final_cents": 89,
+      "orig_price_str": "8,99 €",
+      "final_price_str": "0,89 €"
     },
     {
       "appid": "f7bc591b0c1548d8936b4a610ca2d966",
@@ -811,6 +901,16 @@
       "final_price_str": "1,44 €"
     },
     {
+      "appid": "ed7c822644734c4eae164021513ee73d",
+      "namespace": "44f0f46601994e2b94d3139bf3176759",
+      "name": "Flying Islands",
+      "discount": 50,
+      "orig_cents": 799,
+      "final_cents": 399,
+      "orig_price_str": "7,99 €",
+      "final_price_str": "3,99 €"
+    },
+    {
       "appid": "4a8cf1c6437a44d1aa1ec5948c0e5863",
       "namespace": "d37f4318eed346babb339fbe841d0ef6",
       "name": "The Nightmare of Pandemic - Kyle's Story",
@@ -1231,5 +1331,5 @@
       "final_price_str": "10,52 €"
     }
   ],
-  "total": 123
+  "total": 133
 }

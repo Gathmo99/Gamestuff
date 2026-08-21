@@ -1,56 +1,6 @@
 {
   "items": [
     {
-      "appid": "9P85NL6T3DHP",
-      "name": "Tom Clancy’s Ghost Recon Wildlands",
-      "discount": 95,
-      "orig_cents": 4999,
-      "final_cents": 249,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "2,49 €",
-      "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "9PKJ0532DTCW",
-      "name": "Tom Clancy's Ghost Recon® Breakpoint",
-      "discount": 95,
-      "orig_cents": 5999,
-      "final_cents": 299,
-      "orig_price_str": "59,99 €",
-      "final_price_str": "2,99 €",
-      "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "C2N9CS4FS1QR",
-      "name": "Tom Clancy's Ghost Recon Wildlands",
-      "discount": 90,
-      "orig_cents": 4999,
-      "final_cents": 499,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "4,99 €",
-      "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "9P8K2WP8VXKF",
-      "name": "Tom Clancy's Ghost Recon Breakpoint Ultimate Edition",
-      "discount": 90,
-      "orig_cents": 11999,
-      "final_cents": 1199,
-      "orig_price_str": "119,99 €",
-      "final_price_str": "11,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "C3VVNLQQ54F8",
-      "name": "Tom Clancy's Ghost Recon Breakpoint",
-      "discount": 90,
-      "orig_cents": 6999,
-      "final_cents": 699,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "6,99 €",
-      "gamepass": "PC + Xbox"
-    },
-    {
       "appid": "BRW49CBS558D",
       "name": "Batman: Return to Arkham",
       "discount": 90,
@@ -71,13 +21,13 @@
       "gamepass": ""
     },
     {
-      "appid": "9N60PDBXC0MB",
-      "name": "Tom Clancy's Ghost Recon Breakpoint Deluxe Edition",
+      "appid": "BSB132ZQVWZM",
+      "name": "Killing Floor 2",
       "discount": 90,
-      "orig_cents": 7999,
-      "final_cents": 799,
-      "orig_price_str": "79,99 €",
-      "final_price_str": "7,99 €",
+      "orig_cents": 2999,
+      "final_cents": 299,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "2,99 €",
       "gamepass": ""
     },
     {
@@ -101,13 +51,23 @@
       "gamepass": ""
     },
     {
-      "appid": "9NT063MBZCBJ",
-      "name": "Tom Clancy's Ghost Recon Wildlands Definitive Edition",
-      "discount": 75,
-      "orig_cents": 9999,
-      "final_cents": 2499,
-      "orig_price_str": "99,99 €",
-      "final_price_str": "24,99 €",
+      "appid": "9PP4M7V5RBR9",
+      "name": "Blasphemous + Blasphemous 2 Bundle",
+      "discount": 80,
+      "orig_cents": 4499,
+      "final_cents": 899,
+      "orig_price_str": "44,99 €",
+      "final_price_str": "8,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9P5B81KVDGP1",
+      "name": "Maneater",
+      "discount": 80,
+      "orig_cents": 3999,
+      "final_cents": 799,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "7,99 €",
       "gamepass": ""
     },
     {
@@ -121,16 +81,6 @@
       "gamepass": ""
     },
     {
-      "appid": "C20W5LX41N6M",
-      "name": "Tom Clancy’s Ghost Recon Future Soldier",
-      "discount": 75,
-      "orig_cents": 999,
-      "final_cents": 249,
-      "orig_price_str": "9,99 €",
-      "final_price_str": "2,49 €",
-      "gamepass": ""
-    },
-    {
       "appid": "BWVBNCMF22ZK",
       "name": "A Way Out",
       "discount": 70,
@@ -139,6 +89,46 @@
       "orig_price_str": "29,99 €",
       "final_price_str": "8,99 €",
       "gamepass": "Xbox"
+    },
+    {
+      "appid": "9NH019ZFFHTV",
+      "name": "Car Mechanic Simulator 2021",
+      "discount": 70,
+      "orig_cents": 2999,
+      "final_cents": 899,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "8,99 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "9P5BRS3LJN26",
+      "name": "Bum Simulator",
+      "discount": 70,
+      "orig_cents": 1999,
+      "final_cents": 599,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "5,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9N0102B834ZM",
+      "name": "Fantasy Dash",
+      "discount": 68,
+      "orig_cents": 309,
+      "final_cents": 99,
+      "orig_price_str": "3,09 €",
+      "final_price_str": "0,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9N1C74G2JXHM",
+      "name": "Sally Face",
+      "discount": 67,
+      "orig_cents": 1499,
+      "final_cents": 494,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "4,94 €",
+      "gamepass": ""
     },
     {
       "appid": "9NKK6Z0K3RH2",
@@ -221,6 +211,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9N1WXXD1RL8D",
+      "name": "Split Fiction",
+      "discount": 35,
+      "orig_cents": 4999,
+      "final_cents": 3249,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "32,49 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9NWQ1Q1FR0C9",
       "name": "Black Myth: Wukong",
       "discount": 30,
@@ -251,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 821
+  "total": 808
 }
