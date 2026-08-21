@@ -331,6 +331,16 @@
       "final_price_str": "4,99 €"
     },
     {
+      "appid": "01b2393cfe234f2e9ec4ac649d6d72eb",
+      "namespace": "0d8424adbe124cb1979735b8b463f3f1",
+      "name": "Chicken Run: Eierlauf",
+      "discount": 70,
+      "orig_cents": 3999,
+      "final_cents": 1199,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "11,99 €"
+    },
+    {
       "appid": "a7e2a44d0e614895bbf0a714bbc6a1ca",
       "namespace": "a195e51c853d46038d13c49b882a9215",
       "name": "SONIC X SHADOW GENERATIONS",
@@ -1131,6 +1141,16 @@
       "final_price_str": "3,59 €"
     },
     {
+      "appid": "8f45eddce35343808537bf3d9aa8d0b5",
+      "namespace": "2051eedb4746431593d66905f9bffdc8",
+      "name": "Labyrinth of Whiskers",
+      "discount": 20,
+      "orig_cents": 449,
+      "final_cents": 359,
+      "orig_price_str": "4,49 €",
+      "final_price_str": "3,59 €"
+    },
+    {
       "appid": "115ec864de644908b9c31e4ed4bee6ec",
       "namespace": "9d82c19413bd4fb9afd72af2c9901328",
       "name": "Slav Junkie Simulator",
@@ -1211,5 +1231,5 @@
       "final_price_str": "10,52 €"
     }
   ],
-  "total": 121
+  "total": 123
 }
