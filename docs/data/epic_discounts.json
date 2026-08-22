@@ -1161,6 +1161,16 @@
       "final_price_str": "8,76 €"
     },
     {
+      "appid": "65b780bd13974d3d852173a1122c2789",
+      "namespace": "e8a5536a55294d949df5306fda6410c1",
+      "name": "Typers Combat",
+      "discount": 25,
+      "orig_cents": 539,
+      "final_cents": 404,
+      "orig_price_str": "5,39 €",
+      "final_price_str": "4,04 €"
+    },
+    {
       "appid": "011f9d5cc35747f7883fbccf187c3952",
       "namespace": "8bff5c9309754b2aae2cdd3f709c17d2",
       "name": "V Gate Last Camp",
@@ -1241,6 +1251,16 @@
       "final_price_str": "3,59 €"
     },
     {
+      "appid": "a0378b930623469f8af82ef9bfb1a5c9",
+      "namespace": "64d8cc2fb5cc4798a6db9796b7e73e3f",
+      "name": "Alien Paradise",
+      "discount": 20,
+      "orig_cents": 359,
+      "final_cents": 287,
+      "orig_price_str": "3,59 €",
+      "final_price_str": "2,87 €"
+    },
+    {
       "appid": "67ff263557474b96b1778a3fbef3c320",
       "namespace": "d77083e05f9542ea87b2dbdc9bd0242e",
       "name": "Warhounds",
@@ -1301,5 +1321,5 @@
       "final_price_str": "10,52 €"
     }
   ],
-  "total": 130
+  "total": 132
 }
