@@ -191,6 +191,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9NQK1C3SFV1K",
+      "name": "Mafia: The Old Country Definitive Edition",
+      "discount": 40,
+      "orig_cents": 6499,
+      "final_cents": 3899,
+      "orig_price_str": "64,99 €",
+      "final_price_str": "38,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9N8L3RQ4TQSX",
       "name": "Contraband Police",
       "discount": 35,
@@ -241,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 812
+  "total": 811
 }

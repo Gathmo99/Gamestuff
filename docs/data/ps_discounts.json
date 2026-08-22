@@ -487,7 +487,7 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "EP4385-CUSA30891_00-6983803568215690",
+      "appid": "EP4385-PPSA05594_00-7584196509987040",
       "name": "Kao the Kangaroo",
       "discount": 80,
       "orig_cents": 2999,
@@ -496,7 +496,7 @@
       "final_price_str": "5,99 €"
     },
     {
-      "appid": "EP4385-PPSA05594_00-7584196509987040",
+      "appid": "EP4385-CUSA30891_00-6983803568215690",
       "name": "Kao the Kangaroo",
       "discount": 80,
       "orig_cents": 2999,
@@ -514,7 +514,7 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "EP4295-CUSA28433_00-BASSPS40000000EU",
+      "appid": "EP4295-PPSA03979_00-BASSPS50000000EU",
       "name": "Beyond a Steel Sky",
       "discount": 80,
       "orig_cents": 1999,
@@ -523,7 +523,7 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "EP4295-PPSA03979_00-BASSPS50000000EU",
+      "appid": "EP4295-CUSA28433_00-BASSPS40000000EU",
       "name": "Beyond a Steel Sky",
       "discount": 80,
       "orig_cents": 1999,
@@ -1945,7 +1945,7 @@
       "final_price_str": "7,99 €"
     },
     {
-      "appid": "EP4312-PPSA05983_00-0434843172930762",
+      "appid": "EP4312-CUSA31308_00-0447066109383270",
       "name": "Sushi Break 2 Mini Game Bundle",
       "discount": 60,
       "orig_cents": 1499,
@@ -1954,7 +1954,7 @@
       "final_price_str": "5,99 €"
     },
     {
-      "appid": "EP4312-CUSA31308_00-0447066109383270",
+      "appid": "EP4312-PPSA05983_00-0434843172930762",
       "name": "Sushi Break 2 Mini Game Bundle",
       "discount": 60,
       "orig_cents": 1499,
@@ -1972,7 +1972,7 @@
       "final_price_str": "1,99 €"
     },
     {
-      "appid": "EP4541-CUSA33487_00-LEMONCAKEEU00000",
+      "appid": "EP4541-PPSA07480_00-LEMONCAKEPS5EU00",
       "name": "Lemon Cake",
       "discount": 60,
       "orig_cents": 1999,
@@ -1981,7 +1981,7 @@
       "final_price_str": "7,99 €"
     },
     {
-      "appid": "EP4541-PPSA07480_00-LEMONCAKEPS5EU00",
+      "appid": "EP4541-CUSA33487_00-LEMONCAKEEU00000",
       "name": "Lemon Cake",
       "discount": 60,
       "orig_cents": 1999,
