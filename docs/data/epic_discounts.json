@@ -951,6 +951,16 @@
       "final_price_str": "0,48 €"
     },
     {
+      "appid": "17929458a5b84dcdb443964e84a0920c",
+      "namespace": "d2558c333a3c4f018b8fae8c95ba9e14",
+      "name": "We Are The Dwarves",
+      "discount": 40,
+      "orig_cents": 1079,
+      "final_cents": 647,
+      "orig_price_str": "10,79 €",
+      "final_price_str": "6,47 €"
+    },
+    {
       "appid": "1f33eb0a73a540aba513bb14ac83a111",
       "namespace": "34307b9984864de38a7d69c2be9a4f67",
       "name": "RAILWAY ISLANDS 2",
@@ -1291,5 +1301,5 @@
       "final_price_str": "10,52 €"
     }
   ],
-  "total": 129
+  "total": 130
 }

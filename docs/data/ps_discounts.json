@@ -253,7 +253,7 @@
       "final_price_str": "4,49 €"
     },
     {
-      "appid": "EP4541-PPSA06716_00-SAINTKOTAREU0000",
+      "appid": "EP4541-CUSA32503_00-SAINTKOTAREU0000",
       "name": "Saint Kotar",
       "discount": 85,
       "orig_cents": 1999,
@@ -262,7 +262,7 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "EP4541-CUSA32503_00-SAINTKOTAREU0000",
+      "appid": "EP4541-PPSA06716_00-SAINTKOTAREU0000",
       "name": "Saint Kotar",
       "discount": 85,
       "orig_cents": 1999,
@@ -433,7 +433,7 @@
       "final_price_str": "5,99 €"
     },
     {
-      "appid": "EP4541-PPSA06603_00-CHARONSSTAIRCASE",
+      "appid": "EP4541-CUSA32328_00-CHARONSTAIRCASEU",
       "name": "Charon's Staircase",
       "discount": 80,
       "orig_cents": 1999,
@@ -442,7 +442,7 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "EP4541-CUSA32328_00-CHARONSTAIRCASEU",
+      "appid": "EP4541-PPSA06603_00-CHARONSSTAIRCASE",
       "name": "Charon's Staircase",
       "discount": 80,
       "orig_cents": 1999,
@@ -514,7 +514,7 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "EP4295-PPSA03979_00-BASSPS50000000EU",
+      "appid": "EP4295-CUSA28433_00-BASSPS40000000EU",
       "name": "Beyond a Steel Sky",
       "discount": 80,
       "orig_cents": 1999,
@@ -523,7 +523,7 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "EP4295-CUSA28433_00-BASSPS40000000EU",
+      "appid": "EP4295-PPSA03979_00-BASSPS50000000EU",
       "name": "Beyond a Steel Sky",
       "discount": 80,
       "orig_cents": 1999,
@@ -1972,7 +1972,7 @@
       "final_price_str": "1,99 €"
     },
     {
-      "appid": "EP4541-PPSA07480_00-LEMONCAKEPS5EU00",
+      "appid": "EP4541-CUSA33487_00-LEMONCAKEEU00000",
       "name": "Lemon Cake",
       "discount": 60,
       "orig_cents": 1999,
@@ -1981,7 +1981,7 @@
       "final_price_str": "7,99 €"
     },
     {
-      "appid": "EP4541-CUSA33487_00-LEMONCAKEEU00000",
+      "appid": "EP4541-PPSA07480_00-LEMONCAKEPS5EU00",
       "name": "Lemon Cake",
       "discount": 60,
       "orig_cents": 1999,
