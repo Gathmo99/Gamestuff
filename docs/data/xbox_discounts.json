@@ -111,16 +111,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9N0102B834ZM",
-      "name": "Fantasy Dash",
-      "discount": 68,
-      "orig_cents": 309,
-      "final_cents": 99,
-      "orig_price_str": "3,09 €",
-      "final_price_str": "0,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9N1C74G2JXHM",
       "name": "Sally Face",
       "discount": 67,
@@ -251,5 +241,5 @@
       "gamepass": ""
     }
   ],
-  "total": 811
+  "total": 812
 }
