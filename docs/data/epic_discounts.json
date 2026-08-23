@@ -631,16 +631,6 @@
       "final_price_str": "0,40 €"
     },
     {
-      "appid": "5b65fe1a95c7491f990621f0006b8d38",
-      "namespace": "e06eaabb7e9c47fe87c7f75d27fddedf",
-      "name": "Red Mission",
-      "discount": 55,
-      "orig_cents": 89,
-      "final_cents": 40,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,40 €"
-    },
-    {
       "appid": "122977c9ea594b789e9eaba2e7d35bba",
       "namespace": "641612914ff541fcb0e4813ee144777d",
       "name": "The Nightmare Of Arrival Chapter1",
@@ -981,16 +971,6 @@
       "final_price_str": "1,31 €"
     },
     {
-      "appid": "101424838a68468d8da192f3644e61d4",
-      "namespace": "4fece418b513465d9416a700db869585",
-      "name": "Das Jackbox Party Pack 6",
-      "discount": 40,
-      "orig_cents": 2499,
-      "final_cents": 1499,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "14,99 €"
-    },
-    {
       "appid": "d6e24912d9ad457da041022ad5d1c4e0",
       "namespace": "8c23a69f7d02418caafb6851b132368d",
       "name": "Hello Love: 18 Again",
@@ -1301,5 +1281,5 @@
       "final_price_str": "10,52 €"
     }
   ],
-  "total": 130
+  "total": 128
 }
