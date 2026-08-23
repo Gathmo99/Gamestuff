@@ -31,16 +31,6 @@
       "final_price_str": "0,67 €"
     },
     {
-      "appid": "2e1b4da476d9450593a4f966a2f0191f",
-      "namespace": "7b3ddf2a418543d7a29eafb03a0e020e",
-      "name": "Hyper Warehouse Simulator",
-      "discount": 95,
-      "orig_cents": 719,
-      "final_cents": 35,
-      "orig_price_str": "7,19 €",
-      "final_price_str": "0,35 €"
-    },
-    {
       "appid": "06842fae9b074c3ca5c15013558806b0",
       "namespace": "7a91bdd7c9ea41e6b5605baeb399c2ec",
       "name": "Hell Division",
@@ -299,16 +289,6 @@
       "final_cents": 199,
       "orig_price_str": "9,99 €",
       "final_price_str": "1,99 €"
-    },
-    {
-      "appid": "643b7a2210bb4f4f97d5c96b6af3995f",
-      "namespace": "08c03f2a2b794478a6b73c0a3e9b2b29",
-      "name": "Bud Spencer and Terence Hill – Slaps and Beans",
-      "discount": 76,
-      "orig_cents": 1998,
-      "final_cents": 479,
-      "orig_price_str": "19,98 €",
-      "final_price_str": "4,79 €"
     },
     {
       "appid": "53e4c1a9bda14e1f84df55dbb012d919",
@@ -1321,5 +1301,5 @@
       "final_price_str": "10,52 €"
     }
   ],
-  "total": 132
+  "total": 130
 }

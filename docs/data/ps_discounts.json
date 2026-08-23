@@ -433,15 +433,6 @@
       "final_price_str": "5,99 €"
     },
     {
-      "appid": "EP4541-PPSA06603_00-CHARONSSTAIRCASE",
-      "name": "Charon's Staircase",
-      "discount": 80,
-      "orig_cents": 1999,
-      "final_cents": 399,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "3,99 €"
-    },
-    {
       "appid": "EP4541-CUSA32328_00-CHARONSTAIRCASEU",
       "name": "Charon's Staircase",
       "discount": 80,
@@ -451,8 +442,8 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "EP4541-CUSA32391_00-AIROHEARTEU00000",
-      "name": "Airoheart",
+      "appid": "EP4541-PPSA06603_00-CHARONSSTAIRCASE",
+      "name": "Charon's Staircase",
       "discount": 80,
       "orig_cents": 1999,
       "final_cents": 399,
@@ -461,6 +452,15 @@
     },
     {
       "appid": "EP4541-PPSA06649_00-AIROHEART0000000",
+      "name": "Airoheart",
+      "discount": 80,
+      "orig_cents": 1999,
+      "final_cents": 399,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "3,99 €"
+    },
+    {
+      "appid": "EP4541-CUSA32391_00-AIROHEARTEU00000",
       "name": "Airoheart",
       "discount": 80,
       "orig_cents": 1999,
@@ -487,7 +487,7 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "EP4385-CUSA30891_00-6983803568215690",
+      "appid": "EP4385-PPSA05594_00-7584196509987040",
       "name": "Kao the Kangaroo",
       "discount": 80,
       "orig_cents": 2999,
@@ -496,7 +496,7 @@
       "final_price_str": "5,99 €"
     },
     {
-      "appid": "EP4385-PPSA05594_00-7584196509987040",
+      "appid": "EP4385-CUSA30891_00-6983803568215690",
       "name": "Kao the Kangaroo",
       "discount": 80,
       "orig_cents": 2999,
@@ -514,7 +514,7 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "EP4295-PPSA03979_00-BASSPS50000000EU",
+      "appid": "EP4295-CUSA28433_00-BASSPS40000000EU",
       "name": "Beyond a Steel Sky",
       "discount": 80,
       "orig_cents": 1999,
@@ -523,7 +523,7 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "EP4295-CUSA28433_00-BASSPS40000000EU",
+      "appid": "EP4295-PPSA03979_00-BASSPS50000000EU",
       "name": "Beyond a Steel Sky",
       "discount": 80,
       "orig_cents": 1999,
@@ -1999,7 +1999,7 @@
       "final_price_str": "13,99 €"
     },
     {
-      "appid": "EP6087-PPSA05610_00-1221784256863423",
+      "appid": "EP6087-CUSA30939_00-9067424964161172",
       "name": "Outbreak: Contagious Memories",
       "discount": 60,
       "orig_cents": 2999,
@@ -2008,7 +2008,7 @@
       "final_price_str": "11,99 €"
     },
     {
-      "appid": "EP6087-CUSA30939_00-9067424964161172",
+      "appid": "EP6087-PPSA05610_00-1221784256863423",
       "name": "Outbreak: Contagious Memories",
       "discount": 60,
       "orig_cents": 2999,
