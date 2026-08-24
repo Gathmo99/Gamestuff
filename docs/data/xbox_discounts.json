@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "appid": "9N4ZQPM20W8F",
+      "name": "Thief Simulator",
+      "discount": 90,
+      "orig_cents": 1999,
+      "final_cents": 199,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "1,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "BRW49CBS558D",
       "name": "Batman: Return to Arkham",
       "discount": 90,
@@ -11,13 +21,13 @@
       "gamepass": ""
     },
     {
-      "appid": "9N4ZQPM20W8F",
-      "name": "Thief Simulator",
+      "appid": "BTC0L0BW6LWC",
+      "name": "Mortal Kombat 11",
       "discount": 90,
-      "orig_cents": 1999,
-      "final_cents": 199,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "1,99 €",
+      "orig_cents": 4999,
+      "final_cents": 499,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "4,99 €",
       "gamepass": ""
     },
     {
@@ -51,16 +61,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9PP4M7V5RBR9",
-      "name": "Blasphemous + Blasphemous 2 Bundle",
-      "discount": 80,
-      "orig_cents": 4499,
-      "final_cents": 899,
-      "orig_price_str": "44,99 €",
-      "final_price_str": "8,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9P5B81KVDGP1",
       "name": "Maneater",
       "discount": 80,
@@ -68,6 +68,16 @@
       "final_cents": 799,
       "orig_price_str": "39,99 €",
       "final_price_str": "7,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9PP4M7V5RBR9",
+      "name": "Blasphemous + Blasphemous 2 Bundle",
+      "discount": 80,
+      "orig_cents": 4499,
+      "final_cents": 899,
+      "orig_price_str": "44,99 €",
+      "final_price_str": "8,99 €",
       "gamepass": ""
     },
     {
@@ -81,6 +91,36 @@
       "gamepass": ""
     },
     {
+      "appid": "9NDS24HS4N02",
+      "name": "Warhammer 40,000: Space Marine - Master Crafted Edition",
+      "discount": 75,
+      "orig_cents": 3999,
+      "final_cents": 999,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "9,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9P33VJGVPHVP",
+      "name": "ARK: Survival Ascended",
+      "discount": 75,
+      "orig_cents": 4499,
+      "final_cents": 1124,
+      "orig_price_str": "44,99 €",
+      "final_price_str": "11,24 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "BXH46NQT9W4Q",
+      "name": "Sonic Mania",
+      "discount": 75,
+      "orig_cents": 1999,
+      "final_cents": 499,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "4,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "BWVBNCMF22ZK",
       "name": "A Way Out",
       "discount": 70,
@@ -88,36 +128,6 @@
       "final_cents": 899,
       "orig_price_str": "29,99 €",
       "final_price_str": "8,99 €",
-      "gamepass": "Xbox"
-    },
-    {
-      "appid": "9NH019ZFFHTV",
-      "name": "Car Mechanic Simulator 2021",
-      "discount": 70,
-      "orig_cents": 2999,
-      "final_cents": 899,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "8,99 €",
-      "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "9P5BRS3LJN26",
-      "name": "Bum Simulator",
-      "discount": 70,
-      "orig_cents": 1999,
-      "final_cents": 599,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "5,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9NXVC0482QS5",
-      "name": "It Takes Two – Digitale Version",
-      "discount": 70,
-      "orig_cents": 3999,
-      "final_cents": 1199,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "11,99 €",
       "gamepass": "Xbox"
     },
     {
@@ -161,16 +171,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9NKC1Z4Z92VN",
-      "name": "Grand Theft Auto Online",
-      "discount": 50,
-      "orig_cents": 1999,
-      "final_cents": 999,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "9,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9MTJQF3R185J",
       "name": "Mafia: The Omertà Collection",
       "discount": 50,
@@ -191,13 +191,13 @@
       "gamepass": ""
     },
     {
-      "appid": "9NQK1C3SFV1K",
-      "name": "Mafia: The Old Country Definitive Edition",
-      "discount": 40,
-      "orig_cents": 6499,
-      "final_cents": 3899,
-      "orig_price_str": "64,99 €",
-      "final_price_str": "38,99 €",
+      "appid": "9NKC1Z4Z92VN",
+      "name": "Grand Theft Auto Online",
+      "discount": 50,
+      "orig_cents": 1999,
+      "final_cents": 999,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "9,99 €",
       "gamepass": ""
     },
     {

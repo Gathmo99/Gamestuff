@@ -1,3 +1,14 @@
 {
-  "items": []
+  "items": [
+    {
+      "appid": "2019300",
+      "name": "Dokimon Quest",
+      "discount": 100,
+      "orig_price_str": "14,79€",
+      "final_price_str": "0,00€",
+      "orig_cents": 1479,
+      "final_cents": 0,
+      "gamepass": ""
+    }
+  ]
 }
