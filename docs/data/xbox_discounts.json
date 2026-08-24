@@ -111,14 +111,14 @@
       "gamepass": ""
     },
     {
-      "appid": "9N1C74G2JXHM",
-      "name": "Sally Face",
-      "discount": 67,
-      "orig_cents": 1499,
-      "final_cents": 494,
-      "orig_price_str": "14,99 €",
-      "final_price_str": "4,94 €",
-      "gamepass": ""
+      "appid": "9NXVC0482QS5",
+      "name": "It Takes Two – Digitale Version",
+      "discount": 70,
+      "orig_cents": 3999,
+      "final_cents": 1199,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "11,99 €",
+      "gamepass": "Xbox"
     },
     {
       "appid": "9NKK6Z0K3RH2",
@@ -251,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 809
+  "total": 808
 }

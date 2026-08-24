@@ -111,6 +111,26 @@
       "final_price_str": "0,44 €"
     },
     {
+      "appid": "20f88d53af6e4e59876ed82749db4ee5",
+      "namespace": "3196925cb7ea45c3a9c47118e52a820e",
+      "name": "Sniper Ghost Warrior Contracts",
+      "discount": 90,
+      "orig_cents": 2999,
+      "final_cents": 299,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "2,99 €"
+    },
+    {
+      "appid": "07a5267aa53847dc91e5c29fe9ed5c3d",
+      "namespace": "1169554e6b18447280cf8e2af785d936",
+      "name": "Sniper Ghost Warrior Contracts 2",
+      "discount": 90,
+      "orig_cents": 3999,
+      "final_cents": 399,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "3,99 €"
+    },
+    {
       "appid": "e7d781801f1947e6afc02344a8907d7d",
       "namespace": "1635e577cf224925a3c0b8e8927c280a",
       "name": "Shadow of the Matrix: Protocol",
@@ -129,6 +149,26 @@
       "final_cents": 89,
       "orig_price_str": "8,99 €",
       "final_price_str": "0,89 €"
+    },
+    {
+      "appid": "c9dd4edb4d8d49738d9dc28fd1f3471e",
+      "namespace": "80053eb656ea417b8cc6c891699477c7",
+      "name": "Eldest Souls",
+      "discount": 90,
+      "orig_cents": 1999,
+      "final_cents": 199,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "1,99 €"
+    },
+    {
+      "appid": "2c78a611f6304c22b6f8a31abe270014",
+      "namespace": "32d340fa0a95479d8af5438990994b59",
+      "name": "Röki",
+      "discount": 90,
+      "orig_cents": 2199,
+      "final_cents": 219,
+      "orig_price_str": "21,99 €",
+      "final_price_str": "2,19 €"
     },
     {
       "appid": "f7bc591b0c1548d8936b4a610ca2d966",
@@ -411,6 +451,26 @@
       "final_price_str": "0,59 €"
     },
     {
+      "appid": "beee0f62e58842c999033d6409f13798",
+      "namespace": "561ff6b1f6ba4e359dfc625134d4f806",
+      "name": "Beyond Galaxyland",
+      "discount": 67,
+      "orig_cents": 1499,
+      "final_cents": 494,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "4,94 €"
+    },
+    {
+      "appid": "a102fb4f86654705b486b3f88b138fc4",
+      "namespace": "f2d5f78997994c9891b8f23d962be28e",
+      "name": "Lords of the Fallen",
+      "discount": 67,
+      "orig_cents": 2999,
+      "final_cents": 989,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "9,89 €"
+    },
+    {
       "appid": "34b04246db5f42ac8b93a1a13ee89208",
       "namespace": "c21d21b921bb4c23bf93ab40b636d69b",
       "name": "Empire of the Gods",
@@ -579,6 +639,16 @@
       "final_cents": 179,
       "orig_price_str": "4,49 €",
       "final_price_str": "1,79 €"
+    },
+    {
+      "appid": "35a4e3d573b3400bb0543b1c1164a49f",
+      "namespace": "7db5792a3c524cfba78b1666b7355b7b",
+      "name": "Tear of Time - Lost memory",
+      "discount": 60,
+      "orig_cents": 359,
+      "final_cents": 143,
+      "orig_price_str": "3,59 €",
+      "final_price_str": "1,43 €"
     },
     {
       "appid": "48a3d2ead65c450b996ba3f4c1d88c68",
@@ -1131,6 +1201,16 @@
       "final_price_str": "3,99 €"
     },
     {
+      "appid": "c504529f210a4b638581af9a698e532e",
+      "namespace": "e4bdfd6b9350468bb048475698f54eff",
+      "name": "Age of Barbarians Chronicles",
+      "discount": 20,
+      "orig_cents": 1899,
+      "final_cents": 1519,
+      "orig_price_str": "18,99 €",
+      "final_price_str": "15,19 €"
+    },
+    {
       "appid": "a765dfa2e2284bc5aaeaf6da64a40305",
       "namespace": "a8a26ebbe8614bcda34e518ff4c74057",
       "name": "Falling in love with stockings",
@@ -1241,5 +1321,5 @@
       "final_price_str": "10,52 €"
     }
   ],
-  "total": 124
+  "total": 132
 }
