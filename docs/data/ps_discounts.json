@@ -253,7 +253,7 @@
       "final_price_str": "4,49 €"
     },
     {
-      "appid": "EP4541-PPSA06716_00-SAINTKOTAREU0000",
+      "appid": "EP4541-CUSA32503_00-SAINTKOTAREU0000",
       "name": "Saint Kotar",
       "discount": 85,
       "orig_cents": 1999,
@@ -262,7 +262,7 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "EP4541-CUSA32503_00-SAINTKOTAREU0000",
+      "appid": "EP4541-PPSA06716_00-SAINTKOTAREU0000",
       "name": "Saint Kotar",
       "discount": 85,
       "orig_cents": 1999,
@@ -1027,7 +1027,7 @@
       "final_price_str": "1,49 €"
     },
     {
-      "appid": "EP4385-PPSA05594_00-KAOLVL0100000000",
+      "appid": "EP4385-CUSA30891_00-KAOLVL0100000000",
       "name": "Kao the Kangaroo: Oh! Well DLC",
       "discount": 75,
       "orig_cents": 499,
@@ -1036,7 +1036,7 @@
       "final_price_str": "1,24 €"
     },
     {
-      "appid": "EP4385-CUSA30891_00-KAOLVL0100000000",
+      "appid": "EP4385-PPSA05594_00-KAOLVL0100000000",
       "name": "Kao the Kangaroo: Oh! Well DLC",
       "discount": 75,
       "orig_cents": 499,
@@ -1864,7 +1864,7 @@
       "final_price_str": "6,99 €"
     },
     {
-      "appid": "EP3785-CUSA27976_00-OMD3BUNDLE000001",
+      "appid": "EP3785-CUSA29337_00-OMD3BUNDLE000001",
       "name": "Orcs Must Die! 3-Bundle",
       "discount": 65,
       "orig_cents": 3599,
@@ -1873,7 +1873,7 @@
       "final_price_str": "12,59 €"
     },
     {
-      "appid": "EP3785-CUSA29337_00-OMD3BUNDLE000001",
+      "appid": "EP3785-CUSA27976_00-OMD3BUNDLE000001",
       "name": "Orcs Must Die! 3-Bundle",
       "discount": 65,
       "orig_cents": 3599,
@@ -1972,7 +1972,7 @@
       "final_price_str": "1,99 €"
     },
     {
-      "appid": "EP4541-CUSA33487_00-LEMONCAKEEU00000",
+      "appid": "EP4541-PPSA07480_00-LEMONCAKEPS5EU00",
       "name": "Lemon Cake",
       "discount": 60,
       "orig_cents": 1999,
@@ -1981,7 +1981,7 @@
       "final_price_str": "7,99 €"
     },
     {
-      "appid": "EP4541-PPSA07480_00-LEMONCAKEPS5EU00",
+      "appid": "EP4541-CUSA33487_00-LEMONCAKEEU00000",
       "name": "Lemon Cake",
       "discount": 60,
       "orig_cents": 1999,
@@ -1999,7 +1999,7 @@
       "final_price_str": "13,99 €"
     },
     {
-      "appid": "EP6087-CUSA30939_00-9067424964161172",
+      "appid": "EP6087-PPSA05610_00-1221784256863423",
       "name": "Outbreak: Contagious Memories",
       "discount": 60,
       "orig_cents": 2999,
@@ -2008,7 +2008,7 @@
       "final_price_str": "11,99 €"
     },
     {
-      "appid": "EP6087-PPSA05610_00-1221784256863423",
+      "appid": "EP6087-CUSA30939_00-9067424964161172",
       "name": "Outbreak: Contagious Memories",
       "discount": 60,
       "orig_cents": 2999,
@@ -2404,7 +2404,7 @@
       "final_price_str": "10,99 €"
     },
     {
-      "appid": "EP3446-CUSA33324_00-3151337674646164",
+      "appid": "EP3446-PPSA07370_00-7964977575636485",
       "name": "MADiSON",
       "discount": 40,
       "orig_cents": 3499,
@@ -2413,7 +2413,7 @@
       "final_price_str": "20,99 €"
     },
     {
-      "appid": "EP3446-PPSA07370_00-7964977575636485",
+      "appid": "EP3446-CUSA33324_00-3151337674646164",
       "name": "MADiSON",
       "discount": 40,
       "orig_cents": 3499,
