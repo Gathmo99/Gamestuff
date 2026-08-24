@@ -141,16 +141,6 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "d761b53f24c044258d5cbfd63d62fda6",
-      "namespace": "910c2c0f214946c893429b050c486468",
-      "name": "The Silent City Chapter 1",
-      "discount": 87,
-      "orig_cents": 539,
-      "final_cents": 70,
-      "orig_price_str": "5,39 €",
-      "final_price_str": "0,70 €"
-    },
-    {
       "appid": "b7c6449af86c47c4a873a62d0e30c0dc",
       "namespace": "28b88370465c4c67b583b1b7d5c7e725",
       "name": "Fell in Love with a California Girl",
@@ -169,16 +159,6 @@
       "final_cents": 299,
       "orig_price_str": "19,99 €",
       "final_price_str": "2,99 €"
-    },
-    {
-      "appid": "2a6ad2dc7fc14d4b98fdd89be1fd63b0",
-      "namespace": "15863494f4ef46d481aae0759ec24eb1",
-      "name": "THE SILENT CITY CHAPTER 2",
-      "discount": 85,
-      "orig_cents": 809,
-      "final_cents": 121,
-      "orig_price_str": "8,09 €",
-      "final_price_str": "1,21 €"
     },
     {
       "appid": "028cff90618f4f62aa0285ea00bed7ed",
@@ -311,9 +291,9 @@
       "final_price_str": "17,99 €"
     },
     {
-      "appid": "b2c152a08ed24006a249f86939ad685f",
-      "namespace": "868070e9f6a84ab28fee84e8541ea11f",
-      "name": "BodyCamera Shooter",
+      "appid": "01fc5432d5b04aeeb9d5fbdb68f5643a",
+      "namespace": "eb0ab26d3ef7447baec07084f6b89752",
+      "name": "Survival In The Backrooms",
       "discount": 75,
       "orig_cents": 179,
       "final_cents": 44,
@@ -391,29 +371,9 @@
       "final_price_str": "14,99 €"
     },
     {
-      "appid": "5a7d55b7d9f140ff9e6c6f63ca962e89",
-      "namespace": "c7d05124d88241318dc8ff91c482e561",
-      "name": "Forgotten Bunker 1939",
-      "discount": 70,
-      "orig_cents": 1259,
-      "final_cents": 377,
-      "orig_price_str": "12,59 €",
-      "final_price_str": "3,77 €"
-    },
-    {
       "appid": "64abb14e454f4f4697c2b626a5005c54",
       "namespace": "ed5411fb63534b74952a4dba16d5a38f",
       "name": "Hero of the Kingdom II",
-      "discount": 70,
-      "orig_cents": 809,
-      "final_cents": 242,
-      "orig_price_str": "8,09 €",
-      "final_price_str": "2,42 €"
-    },
-    {
-      "appid": "0c23ed1a76a446a794f07e7266cff333",
-      "namespace": "623c70d194674a5aabe514e155be2b8b",
-      "name": "BackRooms 1995 The Lost Footage Chapter 1",
       "discount": 70,
       "orig_cents": 809,
       "final_cents": 242,
@@ -641,16 +601,6 @@
       "final_price_str": "0,40 €"
     },
     {
-      "appid": "122977c9ea594b789e9eaba2e7d35bba",
-      "namespace": "641612914ff541fcb0e4813ee144777d",
-      "name": "The Nightmare Of Arrival Chapter1",
-      "discount": 55,
-      "orig_cents": 989,
-      "final_cents": 445,
-      "orig_price_str": "9,89 €",
-      "final_price_str": "4,45 €"
-    },
-    {
       "appid": "19dad91ebd2c4e51b2666ae8179d22d7",
       "namespace": "d677e4e09736478592b5501ebc8ce238",
       "name": "Midnight Dreams",
@@ -691,6 +641,16 @@
       "final_price_str": "0,44 €"
     },
     {
+      "appid": "d10aa9befbd74811a9084de0e3b38951",
+      "namespace": "4b0ef32b54c242ecb15ee55741302041",
+      "name": "Girls In Backrooms",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
       "appid": "86303bc468d94fc4ab7fdfc8cf5d1f9a",
       "namespace": "29b2af6e39e143ed9925859e9969b4f3",
       "name": "Anime Reaper",
@@ -724,6 +684,16 @@
       "appid": "2b9e9cf8a31a4d97b20e83d78165d2e7",
       "namespace": "15a55855478c4cc4b308b47b5fcddc83",
       "name": "Clown Eyes: Dead Park",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "09d157cf14a842169ed67ce867ba3767",
+      "namespace": "6acea07493f24448872662ee2bed7ff4",
+      "name": "Dead World: Survival",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -781,9 +751,9 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "ee8a6e786ac7467e94ae606812d659d4",
-      "namespace": "ba74867ed69a4bb6abd9f81fea647af6",
-      "name": "Eyes Of Memes",
+      "appid": "bb7553e001ec4892b6eb190e5d761467",
+      "namespace": "8ebe0bf06dea45859084c258c74e8bfd",
+      "name": "Backrooms: Eight Levels",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -791,9 +761,9 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "bb7553e001ec4892b6eb190e5d761467",
-      "namespace": "8ebe0bf06dea45859084c258c74e8bfd",
-      "name": "Backrooms: Eight Levels",
+      "appid": "55150805c6364978b036716739fe8d61",
+      "namespace": "ccece943516546b7ac1fa4e00b2c3944",
+      "name": "THE MEME HUNTER",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -869,16 +839,6 @@
       "final_cents": 399,
       "orig_price_str": "7,99 €",
       "final_price_str": "3,99 €"
-    },
-    {
-      "appid": "4a8cf1c6437a44d1aa1ec5948c0e5863",
-      "namespace": "d37f4318eed346babb339fbe841d0ef6",
-      "name": "The Nightmare of Pandemic - Kyle's Story",
-      "discount": 50,
-      "orig_cents": 1259,
-      "final_cents": 629,
-      "orig_price_str": "12,59 €",
-      "final_price_str": "6,29 €"
     },
     {
       "appid": "ff8a999b03bd4c6daed147ce24e45d4c",
@@ -969,16 +929,6 @@
       "final_cents": 161,
       "orig_price_str": "2,69 €",
       "final_price_str": "1,61 €"
-    },
-    {
-      "appid": "6a5b88b6bcc2468fb42dcc4616be86ab",
-      "namespace": "3de2356ee51c46318d414decd5d76a27",
-      "name": "Echo's of the Dark",
-      "discount": 40,
-      "orig_cents": 359,
-      "final_cents": 215,
-      "orig_price_str": "3,59 €",
-      "final_price_str": "2,15 €"
     },
     {
       "appid": "e48cf491e5344d358cf314aab4f82082",
@@ -1291,5 +1241,5 @@
       "final_price_str": "10,52 €"
     }
   ],
-  "total": 129
+  "total": 124
 }
