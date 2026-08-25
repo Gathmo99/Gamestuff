@@ -131,6 +131,16 @@
       "gamepass": "PC + Xbox"
     },
     {
+      "appid": "9NXVC0482QS5",
+      "name": "It Takes Two – Digitale Version",
+      "discount": 70,
+      "orig_cents": 3999,
+      "final_cents": 1199,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "11,99 €",
+      "gamepass": "Xbox"
+    },
+    {
       "appid": "9NRLSFM01XTP",
       "name": "MLB® The Show™ 26 Standard Edition",
       "discount": 60,
@@ -191,26 +201,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9NWQ1Q1FR0C9",
-      "name": "Black Myth: Wukong",
-      "discount": 30,
-      "orig_cents": 6999,
-      "final_cents": 4899,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "48,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9MV90FHCV6LZ",
-      "name": "Black Myth: Wukong Digital Deluxe Edition",
-      "discount": 30,
-      "orig_cents": 7999,
-      "final_cents": 5599,
-      "orig_price_str": "79,99 €",
-      "final_price_str": "55,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9NBR63PT4FZC",
       "name": "Ready or Not",
       "discount": 25,
@@ -241,6 +231,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9NCK0FXQL38F",
+      "name": "Yet Another Zombie Survivors",
+      "discount": 20,
+      "orig_cents": 1499,
+      "final_cents": 1199,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "11,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9N431PX143P8",
       "name": "Forza Horizon 6 Standard Edition",
       "discount": 15,
@@ -251,5 +251,5 @@
       "gamepass": "PC + Xbox"
     }
   ],
-  "total": 1053
+  "total": 1052
 }
