@@ -651,6 +651,16 @@
       "final_price_str": "1,43 €"
     },
     {
+      "appid": "baa5245f8d2249cdbad9f9e814673b48",
+      "namespace": "ed55aa5edc5941de92fd7f64de415793",
+      "name": "HITMAN Welt der Attentate",
+      "discount": 60,
+      "orig_cents": 6999,
+      "final_cents": 2799,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "27,99 €"
+    },
+    {
       "appid": "48a3d2ead65c450b996ba3f4c1d88c68",
       "namespace": "4ac85017adaf4d228518d64325c4ec65",
       "name": "Obduction",
@@ -1161,26 +1171,6 @@
       "final_price_str": "4,04 €"
     },
     {
-      "appid": "011f9d5cc35747f7883fbccf187c3952",
-      "namespace": "8bff5c9309754b2aae2cdd3f709c17d2",
-      "name": "V Gate Last Camp",
-      "discount": 25,
-      "orig_cents": 359,
-      "final_cents": 269,
-      "orig_price_str": "3,59 €",
-      "final_price_str": "2,69 €"
-    },
-    {
-      "appid": "0ac51d3f5e874d93a1dfa918e098e3bc",
-      "namespace": "b005ba75ad8d488c9d8be26cb04f18fc",
-      "name": "ATOMIC SHELTER",
-      "discount": 25,
-      "orig_cents": 359,
-      "final_cents": 269,
-      "orig_price_str": "3,59 €",
-      "final_price_str": "2,69 €"
-    },
-    {
       "appid": "2e6858c9a4ff4f6faa046d53ff4e53d5",
       "namespace": "39a3e246e2af4a2e8e7a302c8b1c9f65",
       "name": "Flirty Landlord Gorgeous Tenants",
@@ -1199,6 +1189,16 @@
       "final_cents": 399,
       "orig_price_str": "4,99 €",
       "final_price_str": "3,99 €"
+    },
+    {
+      "appid": "93fa632bf25b4361abb3a79c86e3f822",
+      "namespace": "302e7fc27b6c4f1987e500aa11b0c35a",
+      "name": "Crimson Desert",
+      "discount": 20,
+      "orig_cents": 6999,
+      "final_cents": 5599,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "55,99 €"
     },
     {
       "appid": "c504529f210a4b638581af9a698e532e",

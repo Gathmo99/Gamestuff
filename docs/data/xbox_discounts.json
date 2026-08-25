@@ -131,26 +131,6 @@
       "gamepass": "Xbox"
     },
     {
-      "appid": "9NKK6Z0K3RH2",
-      "name": "Persona 3 Reload",
-      "discount": 65,
-      "orig_cents": 5999,
-      "final_cents": 2099,
-      "orig_price_str": "59,99 €",
-      "final_price_str": "20,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9NMNZ4CK59DM",
-      "name": "Football Manager 26 Console",
-      "discount": 60,
-      "orig_cents": 5999,
-      "final_cents": 2399,
-      "orig_price_str": "59,99 €",
-      "final_price_str": "23,99 €",
-      "gamepass": "PC + Xbox"
-    },
-    {
       "appid": "9NRLSFM01XTP",
       "name": "MLB® The Show™ 26 Standard Edition",
       "discount": 60,
@@ -241,6 +221,26 @@
       "gamepass": ""
     },
     {
+      "appid": "9P6HVHDP2PGK",
+      "name": "Crimson Desert",
+      "discount": 20,
+      "orig_cents": 6999,
+      "final_cents": 5599,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "55,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9N431PX143P8",
+      "name": "Forza Horizon 6 Standard Edition",
+      "discount": 15,
+      "orig_cents": 6999,
+      "final_cents": 5949,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "59,49 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
       "appid": "9NW5319WVF3H",
       "name": "Der Herr der Ringe: Der Krieg im Norden™ – Legacy-Version",
       "discount": 10,
@@ -251,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 808
+  "total": 1250
 }
