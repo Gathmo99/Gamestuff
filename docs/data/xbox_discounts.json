@@ -41,16 +41,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9PGWB5ZMDPDM",
-      "name": "Mafia: Definitive Edition",
-      "discount": 85,
-      "orig_cents": 3999,
-      "final_cents": 599,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "5,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9NGK2CXP0366",
       "name": "Mittelerde™: Das Schattenpaket",
       "discount": 85,
@@ -91,16 +81,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9NDS24HS4N02",
-      "name": "Warhammer 40,000: Space Marine - Master Crafted Edition",
-      "discount": 75,
-      "orig_cents": 3999,
-      "final_cents": 999,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "9,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9P33VJGVPHVP",
       "name": "ARK: Survival Ascended",
       "discount": 75,
@@ -111,16 +91,6 @@
       "gamepass": "PC + Xbox"
     },
     {
-      "appid": "BXH46NQT9W4Q",
-      "name": "Sonic Mania",
-      "discount": 75,
-      "orig_cents": 1999,
-      "final_cents": 499,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "4,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "BWVBNCMF22ZK",
       "name": "A Way Out",
       "discount": 70,
@@ -129,6 +99,36 @@
       "orig_price_str": "29,99 €",
       "final_price_str": "8,99 €",
       "gamepass": "Xbox"
+    },
+    {
+      "appid": "9P5BRS3LJN26",
+      "name": "Bum Simulator",
+      "discount": 70,
+      "orig_cents": 1999,
+      "final_cents": 599,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "5,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9P2G4PSMPBR7",
+      "name": "Resident Evil 4 Gold Edition",
+      "discount": 70,
+      "orig_cents": 4999,
+      "final_cents": 1499,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "14,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NH019ZFFHTV",
+      "name": "Car Mechanic Simulator 2021",
+      "discount": 70,
+      "orig_cents": 2999,
+      "final_cents": 899,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "8,99 €",
+      "gamepass": "PC + Xbox"
     },
     {
       "appid": "9NRLSFM01XTP",
@@ -148,16 +148,6 @@
       "final_cents": 999,
       "orig_price_str": "24,99 €",
       "final_price_str": "9,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9MTJQF3R185J",
-      "name": "Mafia: The Omertà Collection",
-      "discount": 50,
-      "orig_cents": 9999,
-      "final_cents": 4999,
-      "orig_price_str": "99,99 €",
-      "final_price_str": "49,99 €",
       "gamepass": ""
     },
     {
@@ -221,6 +211,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9NBR63PT4FZC",
+      "name": "Ready or Not",
+      "discount": 25,
+      "orig_cents": 4999,
+      "final_cents": 3749,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "37,49 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9P6HVHDP2PGK",
       "name": "Crimson Desert",
       "discount": 20,
@@ -228,6 +228,16 @@
       "final_cents": 5599,
       "orig_price_str": "69,99 €",
       "final_price_str": "55,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NTT5VGZV7DL",
+      "name": "Gallipoli",
+      "discount": 20,
+      "orig_cents": 2999,
+      "final_cents": 2399,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "23,99 €",
       "gamepass": ""
     },
     {
@@ -239,17 +249,7 @@
       "orig_price_str": "69,99 €",
       "final_price_str": "59,49 €",
       "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "9NW5319WVF3H",
-      "name": "Der Herr der Ringe: Der Krieg im Norden™ – Legacy-Version",
-      "discount": 10,
-      "orig_cents": 1999,
-      "final_cents": 1799,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "17,99 €",
-      "gamepass": ""
     }
   ],
-  "total": 1250
+  "total": 1053
 }

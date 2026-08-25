@@ -101,16 +101,6 @@
       "final_price_str": "0,86 €"
     },
     {
-      "appid": "266ce7800f324a4b9e24077d7ff68e8f",
-      "namespace": "24cc2d573b584bd193de6cc321289f9d",
-      "name": "Chrono Stranded",
-      "discount": 90,
-      "orig_cents": 449,
-      "final_cents": 44,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "0,44 €"
-    },
-    {
       "appid": "20f88d53af6e4e59876ed82749db4ee5",
       "namespace": "3196925cb7ea45c3a9c47118e52a820e",
       "name": "Sniper Ghost Warrior Contracts",
@@ -1001,16 +991,6 @@
       "final_price_str": "1,61 €"
     },
     {
-      "appid": "e48cf491e5344d358cf314aab4f82082",
-      "namespace": "04efb0d9ac0649fdb509cb2388dcc94b",
-      "name": "Ascendria: The Parkour Game",
-      "discount": 40,
-      "orig_cents": 219,
-      "final_cents": 131,
-      "orig_price_str": "2,19 €",
-      "final_price_str": "1,31 €"
-    },
-    {
       "appid": "d6e24912d9ad457da041022ad5d1c4e0",
       "namespace": "8c23a69f7d02418caafb6851b132368d",
       "name": "Hello Love: 18 Again",
@@ -1064,6 +1044,16 @@
       "appid": "0dd17503a01e43e68e924c8b6fde7c41",
       "namespace": "8bcb0a5e64914de1a24854647108766c",
       "name": "Age of Discovery: The Parkour Game - Deluxe Edition",
+      "discount": 30,
+      "orig_cents": 249,
+      "final_cents": 174,
+      "orig_price_str": "2,49 €",
+      "final_price_str": "1,74 €"
+    },
+    {
+      "appid": "134f08cc143940aca59206549a5ad445",
+      "namespace": "37b92b2c81b24185aa6d1bfa70cef42c",
+      "name": "Beyond Limits: The Parkour Game",
       "discount": 30,
       "orig_cents": 249,
       "final_cents": 174,
@@ -1301,5 +1291,5 @@
       "final_price_str": "10,52 €"
     }
   ],
-  "total": 130
+  "total": 129
 }
