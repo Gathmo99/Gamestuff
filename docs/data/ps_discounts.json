@@ -1027,7 +1027,7 @@
       "final_price_str": "1,49 €"
     },
     {
-      "appid": "EP4385-CUSA30891_00-KAOLVL0100000000",
+      "appid": "EP4385-PPSA05594_00-KAOLVL0100000000",
       "name": "Kao the Kangaroo: Oh! Well DLC",
       "discount": 75,
       "orig_cents": 499,
@@ -1036,7 +1036,7 @@
       "final_price_str": "1,24 €"
     },
     {
-      "appid": "EP4385-PPSA05594_00-KAOLVL0100000000",
+      "appid": "EP4385-CUSA30891_00-KAOLVL0100000000",
       "name": "Kao the Kangaroo: Oh! Well DLC",
       "discount": 75,
       "orig_cents": 499,
@@ -1864,7 +1864,7 @@
       "final_price_str": "6,99 €"
     },
     {
-      "appid": "EP3785-CUSA29337_00-OMD3BUNDLE000001",
+      "appid": "EP3785-CUSA27976_00-OMD3BUNDLE000001",
       "name": "Orcs Must Die! 3-Bundle",
       "discount": 65,
       "orig_cents": 3599,
@@ -1873,7 +1873,7 @@
       "final_price_str": "12,59 €"
     },
     {
-      "appid": "EP3785-CUSA27976_00-OMD3BUNDLE000001",
+      "appid": "EP3785-CUSA29337_00-OMD3BUNDLE000001",
       "name": "Orcs Must Die! 3-Bundle",
       "discount": 65,
       "orig_cents": 3599,
@@ -1945,7 +1945,7 @@
       "final_price_str": "7,99 €"
     },
     {
-      "appid": "EP4312-CUSA31308_00-0447066109383270",
+      "appid": "EP4312-PPSA05983_00-0434843172930762",
       "name": "Sushi Break 2 Mini Game Bundle",
       "discount": 60,
       "orig_cents": 1499,
@@ -1954,7 +1954,7 @@
       "final_price_str": "5,99 €"
     },
     {
-      "appid": "EP4312-PPSA05983_00-0434843172930762",
+      "appid": "EP4312-CUSA31308_00-0447066109383270",
       "name": "Sushi Break 2 Mini Game Bundle",
       "discount": 60,
       "orig_cents": 1499,

@@ -361,16 +361,6 @@
       "final_price_str": "3,37 €"
     },
     {
-      "appid": "598daa91bc484a649d3cd30bc5c4447c",
-      "namespace": "0c8b0fae094f4e36a63e38482674c642",
-      "name": "Koropokkur in Love ~A Little Fairy’s Tale~",
-      "discount": 75,
-      "orig_cents": 1349,
-      "final_cents": 337,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "3,37 €"
-    },
-    {
       "appid": "490cea6c3396446b93934f776b60ea7c",
       "namespace": "4d7cfa0547184108b138ebd0b3efdc24",
       "name": "Ravens Hike",
@@ -1291,16 +1281,6 @@
       "final_price_str": "4,04 €"
     },
     {
-      "appid": "537b226a4d6c46c299654fc09e39c9e5",
-      "namespace": "da67fd6354e34ffda607d113e4df904f",
-      "name": "Der Herr der Ringe™ Der Krieg im Norden™ Legacy Edition",
-      "discount": 10,
-      "orig_cents": 1799,
-      "final_cents": 1619,
-      "orig_price_str": "17,99 €",
-      "final_price_str": "16,19 €"
-    },
-    {
       "appid": "ae31602283a34767aa8c882dfdc63f8b",
       "namespace": "25ec506837b24d7287733af0621909dc",
       "name": "Dead End: Escape Your Fears",
@@ -1321,5 +1301,5 @@
       "final_price_str": "10,52 €"
     }
   ],
-  "total": 132
+  "total": 130
 }
