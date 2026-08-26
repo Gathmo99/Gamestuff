@@ -151,16 +151,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9PNLPMP1GGH5",
-      "name": "Cult of the Lamb",
-      "discount": 60,
-      "orig_cents": 2499,
-      "final_cents": 999,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "9,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9P2FF14JZLL3",
       "name": "Battlefield™ 6",
       "discount": 50,
@@ -211,6 +201,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9NDF1F263RZ4",
+      "name": "ARC Raiders",
+      "discount": 25,
+      "orig_cents": 3999,
+      "final_cents": 2999,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "29,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9P6HVHDP2PGK",
       "name": "Crimson Desert Enhanced",
       "discount": 20,
@@ -251,5 +251,5 @@
       "gamepass": "PC + Xbox"
     }
   ],
-  "total": 1061
+  "total": 1058
 }

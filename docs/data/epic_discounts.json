@@ -891,6 +891,16 @@
       "final_price_str": "0,44 €"
     },
     {
+      "appid": "3c8828ef1eb9429bb143f4b58b5138cc",
+      "namespace": "6ce9cadbab474f07928e3035473289d2",
+      "name": "FATAL FURY: City of the Wolves – Standard Edition",
+      "discount": 50,
+      "orig_cents": 1999,
+      "final_cents": 999,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "9,99 €"
+    },
+    {
       "appid": "f114a520af424f149424d49ec7ced301",
       "namespace": "d525960335e248cab5ec90847f5ef96a",
       "name": "Crown of Ruin: The Parkour Game",
@@ -919,16 +929,6 @@
       "final_cents": 124,
       "orig_price_str": "2,49 €",
       "final_price_str": "1,24 €"
-    },
-    {
-      "appid": "9fbfe885acdd4f8cbd4826cd265f36cb",
-      "namespace": "26568e976ac2418095a3a079ca7b0276",
-      "name": "Skybreak Canyon: The Parkour Game",
-      "discount": 50,
-      "orig_cents": 289,
-      "final_cents": 144,
-      "orig_price_str": "2,89 €",
-      "final_price_str": "1,44 €"
     },
     {
       "appid": "ed7c822644734c4eae164021513ee73d",
