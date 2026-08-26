@@ -1251,6 +1251,16 @@
       "final_price_str": "3,59 €"
     },
     {
+      "appid": "4416296a17d445ea9587adde810f8324",
+      "namespace": "a17543496ad14e79809aa99ca972d478",
+      "name": "Escape from Duckov",
+      "discount": 20,
+      "orig_cents": 1799,
+      "final_cents": 1439,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "14,39 €"
+    },
+    {
       "appid": "115ec864de644908b9c31e4ed4bee6ec",
       "namespace": "9d82c19413bd4fb9afd72af2c9901328",
       "name": "Slav Junkie Simulator",
@@ -1351,5 +1361,5 @@
       "final_price_str": "10,52 €"
     }
   ],
-  "total": 135
+  "total": 136
 }
