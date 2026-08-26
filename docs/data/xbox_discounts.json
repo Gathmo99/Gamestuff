@@ -212,7 +212,7 @@
     },
     {
       "appid": "9P6HVHDP2PGK",
-      "name": "Crimson Desert",
+      "name": "Crimson Desert Enhanced",
       "discount": 20,
       "orig_cents": 6999,
       "final_cents": 5599,
@@ -251,5 +251,5 @@
       "gamepass": "PC + Xbox"
     }
   ],
-  "total": 1052
+  "total": 1051
 }
