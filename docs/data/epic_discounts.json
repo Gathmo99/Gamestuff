@@ -11,6 +11,16 @@
       "final_price_str": "0,00 €"
     },
     {
+      "appid": "c2e1cfa7321d4ca4b619e3e1be8de86f",
+      "namespace": "335a2061a040402896e62a5a2c8951b2",
+      "name": "Together After Dark",
+      "discount": 100,
+      "orig_cents": 269,
+      "final_cents": 0,
+      "orig_price_str": "2,69 €",
+      "final_price_str": "0,00 €"
+    },
+    {
       "appid": "b467b7d3570e44c0b84e59475f4a5636",
       "namespace": "2bfd5ca43ef443739ada168e017e1b78",
       "name": "Cardpocalypse: Standard Edition",
@@ -489,6 +499,16 @@
       "final_cents": 1399,
       "orig_price_str": "39,99 €",
       "final_price_str": "13,99 €"
+    },
+    {
+      "appid": "356ff57fd07a437bb0316e5262a21bfa",
+      "namespace": "fa8c3620ba97457c9d5e204449947750",
+      "name": "THE GENERAL SAGA",
+      "discount": 60,
+      "orig_cents": 982,
+      "final_cents": 392,
+      "orig_price_str": "9,82 €",
+      "final_price_str": "3,92 €"
     },
     {
       "appid": "1dd7c19f45cc4e919e64662763817771",
@@ -1331,5 +1351,5 @@
       "final_price_str": "10,52 €"
     }
   ],
-  "total": 133
+  "total": 135
 }
