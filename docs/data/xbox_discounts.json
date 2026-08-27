@@ -1,13 +1,13 @@
 {
   "items": [
     {
-      "appid": "9N4ZQPM20W8F",
-      "name": "Thief Simulator",
+      "appid": "BTC0L0BW6LWC",
+      "name": "Mortal Kombat 11",
       "discount": 90,
-      "orig_cents": 1999,
-      "final_cents": 199,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "1,99 €",
+      "orig_cents": 4999,
+      "final_cents": 499,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "4,99 €",
       "gamepass": ""
     },
     {
@@ -21,23 +21,23 @@
       "gamepass": ""
     },
     {
-      "appid": "BTC0L0BW6LWC",
-      "name": "Mortal Kombat 11",
+      "appid": "BPKVH4C4XV4N",
+      "name": "Injustice™ 2",
       "discount": 90,
-      "orig_cents": 4999,
-      "final_cents": 499,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "4,99 €",
+      "orig_cents": 3999,
+      "final_cents": 399,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "3,99 €",
       "gamepass": ""
     },
     {
-      "appid": "BSB132ZQVWZM",
-      "name": "Killing Floor 2",
+      "appid": "BT3611GR00CQ",
+      "name": "Gotham Knights",
       "discount": 90,
-      "orig_cents": 2999,
-      "final_cents": 299,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "2,99 €",
+      "orig_cents": 7499,
+      "final_cents": 749,
+      "orig_price_str": "74,99 €",
+      "final_price_str": "7,49 €",
       "gamepass": ""
     },
     {
@@ -51,33 +51,53 @@
       "gamepass": ""
     },
     {
-      "appid": "9P5B81KVDGP1",
-      "name": "Maneater",
-      "discount": 80,
-      "orig_cents": 3999,
-      "final_cents": 799,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "7,99 €",
+      "appid": "BPN103KDBX2H",
+      "name": "ASURA'S WRATH",
+      "discount": 85,
+      "orig_cents": 1999,
+      "final_cents": 299,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "2,99 €",
       "gamepass": ""
     },
     {
-      "appid": "9PP4M7V5RBR9",
-      "name": "Blasphemous + Blasphemous 2 Bundle",
-      "discount": 80,
-      "orig_cents": 4499,
-      "final_cents": 899,
-      "orig_price_str": "44,99 €",
-      "final_price_str": "8,99 €",
+      "appid": "BSLX1RNXR6H7",
+      "name": "Batman™: Arkham Knight",
+      "discount": 85,
+      "orig_cents": 3499,
+      "final_cents": 524,
+      "orig_price_str": "34,99 €",
+      "final_price_str": "5,24 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "BXHMPV1JT9WH",
+      "name": "Saints Row The Third Remastered",
+      "discount": 85,
+      "orig_cents": 2999,
+      "final_cents": 449,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "4,49 €",
       "gamepass": ""
     },
     {
-      "appid": "9NN8R15LFDGC",
-      "name": "Maneater Apex Edition",
-      "discount": 75,
+      "appid": "9N7271QN4SGB",
+      "name": "Mortal Kombat™ 1",
+      "discount": 80,
       "orig_cents": 4999,
-      "final_cents": 1249,
+      "final_cents": 999,
       "orig_price_str": "49,99 €",
-      "final_price_str": "12,49 €",
+      "final_price_str": "9,99 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "9PG7MTR0MVP9",
+      "name": "Tomb Raider: Definitive Survivor Trilogy",
+      "discount": 80,
+      "orig_cents": 4999,
+      "final_cents": 999,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "9,99 €",
       "gamepass": ""
     },
     {
@@ -91,24 +111,14 @@
       "gamepass": "PC + Xbox"
     },
     {
-      "appid": "BWVBNCMF22ZK",
-      "name": "A Way Out",
+      "appid": "9NXVC0482QS5",
+      "name": "It Takes Two – Digitale Version",
       "discount": 70,
-      "orig_cents": 2999,
-      "final_cents": 899,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "8,99 €",
+      "orig_cents": 3999,
+      "final_cents": 1199,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "11,99 €",
       "gamepass": "Xbox"
-    },
-    {
-      "appid": "9P5BRS3LJN26",
-      "name": "Bum Simulator",
-      "discount": 70,
-      "orig_cents": 1999,
-      "final_cents": 599,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "5,99 €",
-      "gamepass": ""
     },
     {
       "appid": "9P2G4PSMPBR7",
@@ -121,24 +131,34 @@
       "gamepass": ""
     },
     {
-      "appid": "9NH019ZFFHTV",
-      "name": "Car Mechanic Simulator 2021",
+      "appid": "BWVBNCMF22ZK",
+      "name": "A Way Out",
       "discount": 70,
       "orig_cents": 2999,
       "final_cents": 899,
       "orig_price_str": "29,99 €",
       "final_price_str": "8,99 €",
-      "gamepass": "PC + Xbox"
+      "gamepass": "Xbox"
     },
     {
-      "appid": "9NXVC0482QS5",
-      "name": "It Takes Two – Digitale Version",
-      "discount": 70,
-      "orig_cents": 3999,
-      "final_cents": 1199,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "11,99 €",
-      "gamepass": "Xbox"
+      "appid": "9N3CJZ3HFHTF",
+      "name": "Lords of the Fallen",
+      "discount": 67,
+      "orig_cents": 2999,
+      "final_cents": 989,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "9,89 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "BPP4NB1CKGP1",
+      "name": "Call of Duty®: Black Ops III - Zombies Deluxe",
+      "discount": 65,
+      "orig_cents": 9999,
+      "final_cents": 3499,
+      "orig_price_str": "99,99 €",
+      "final_price_str": "34,99 €",
+      "gamepass": ""
     },
     {
       "appid": "9NRLSFM01XTP",
@@ -161,26 +181,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9NKC1Z4Z92VN",
-      "name": "Grand Theft Auto Online",
-      "discount": 50,
-      "orig_cents": 1999,
-      "final_cents": 999,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "9,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9N8L3RQ4TQSX",
-      "name": "Contraband Police",
-      "discount": 35,
-      "orig_cents": 2999,
-      "final_cents": 1949,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "19,49 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9N1WXXD1RL8D",
       "name": "Split Fiction",
       "discount": 35,
@@ -188,6 +188,16 @@
       "final_cents": 3249,
       "orig_price_str": "49,99 €",
       "final_price_str": "32,49 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9P7ZBF3S7PSS",
+      "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "discount": 30,
+      "orig_cents": 5999,
+      "final_cents": 4199,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "41,99 €",
       "gamepass": ""
     },
     {
@@ -231,16 +241,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9NCK0FXQL38F",
-      "name": "Yet Another Zombie Survivors",
-      "discount": 20,
-      "orig_cents": 1499,
-      "final_cents": 1199,
-      "orig_price_str": "14,99 €",
-      "final_price_str": "11,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9N431PX143P8",
       "name": "Forza Horizon 6 Standard Edition",
       "discount": 15,
@@ -251,5 +251,5 @@
       "gamepass": "PC + Xbox"
     }
   ],
-  "total": 1079
+  "total": 1000
 }
