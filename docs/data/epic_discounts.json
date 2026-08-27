@@ -521,16 +521,6 @@
       "final_price_str": "3,59 €"
     },
     {
-      "appid": "ebc2f3afc8164f44b3017577577be084",
-      "namespace": "6e274057d3704624a1270cf7be81966a",
-      "name": "Revolt Invasion",
-      "discount": 60,
-      "orig_cents": 539,
-      "final_cents": 215,
-      "orig_price_str": "5,39 €",
-      "final_price_str": "2,15 €"
-    },
-    {
       "appid": "b07a3ee03f9549aab3bc7d603ce79724",
       "namespace": "256a1f914b4441b19df9334030d6b343",
       "name": "Football Manager 26",
@@ -909,6 +899,16 @@
       "final_cents": 144,
       "orig_price_str": "2,89 €",
       "final_price_str": "1,44 €"
+    },
+    {
+      "appid": "9abd8a7c80cc4493905e269da4cd1e5d",
+      "namespace": "1264f0abd70941bca6afa989a41fd57c",
+      "name": "The Curse We Made",
+      "discount": 50,
+      "orig_cents": 359,
+      "final_cents": 179,
+      "orig_price_str": "3,59 €",
+      "final_price_str": "1,79 €"
     },
     {
       "appid": "27f93065239441328e13f8c8dcac6a39",

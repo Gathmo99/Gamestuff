@@ -201,16 +201,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9NDF1F263RZ4",
-      "name": "ARC Raiders",
-      "discount": 25,
-      "orig_cents": 3999,
-      "final_cents": 2999,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "29,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9P6HVHDP2PGK",
       "name": "Crimson Desert Enhanced",
       "discount": 20,
@@ -218,6 +208,16 @@
       "final_cents": 5599,
       "orig_price_str": "69,99 €",
       "final_price_str": "55,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NQB2BFDD88X",
+      "name": "UFC™ 6",
+      "discount": 20,
+      "orig_cents": 7999,
+      "final_cents": 6399,
+      "orig_price_str": "79,99 €",
+      "final_price_str": "63,99 €",
       "gamepass": ""
     },
     {
@@ -251,5 +251,5 @@
       "gamepass": "PC + Xbox"
     }
   ],
-  "total": 1057
+  "total": 1079
 }
