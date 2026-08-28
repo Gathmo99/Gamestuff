@@ -31,16 +31,6 @@
       "gamepass": ""
     },
     {
-      "appid": "BT3611GR00CQ",
-      "name": "Gotham Knights",
-      "discount": 90,
-      "orig_cents": 7499,
-      "final_cents": 749,
-      "orig_price_str": "74,99 €",
-      "final_price_str": "7,49 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9NGK2CXP0366",
       "name": "Mittelerde™: Das Schattenpaket",
       "discount": 85,
@@ -91,12 +81,12 @@
       "gamepass": "PC + Xbox"
     },
     {
-      "appid": "9PG7MTR0MVP9",
-      "name": "Tomb Raider: Definitive Survivor Trilogy",
-      "discount": 80,
-      "orig_cents": 4999,
+      "appid": "9NDS24HS4N02",
+      "name": "Warhammer 40,000: Space Marine - Master Crafted Edition",
+      "discount": 75,
+      "orig_cents": 3999,
       "final_cents": 999,
-      "orig_price_str": "49,99 €",
+      "orig_price_str": "39,99 €",
       "final_price_str": "9,99 €",
       "gamepass": ""
     },
@@ -109,6 +99,16 @@
       "orig_price_str": "44,99 €",
       "final_price_str": "11,24 €",
       "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "BXH46NQT9W4Q",
+      "name": "Sonic Mania",
+      "discount": 75,
+      "orig_cents": 1999,
+      "final_cents": 499,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "4,99 €",
+      "gamepass": ""
     },
     {
       "appid": "9NXVC0482QS5",
@@ -161,6 +161,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9NKK6Z0K3RH2",
+      "name": "Persona 3 Reload",
+      "discount": 65,
+      "orig_cents": 5999,
+      "final_cents": 2099,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "20,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9NRLSFM01XTP",
       "name": "MLB® The Show™ 26 Standard Edition",
       "discount": 60,
@@ -198,16 +208,6 @@
       "final_cents": 4199,
       "orig_price_str": "59,99 €",
       "final_price_str": "41,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9NBR63PT4FZC",
-      "name": "Ready or Not",
-      "discount": 25,
-      "orig_cents": 4999,
-      "final_cents": 3749,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "37,49 €",
       "gamepass": ""
     },
     {
@@ -251,5 +251,5 @@
       "gamepass": "PC + Xbox"
     }
   ],
-  "total": 1000
+  "total": 1093
 }

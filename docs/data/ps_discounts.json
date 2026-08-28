@@ -271,7 +271,7 @@
       "final_price_str": "3,74 €"
     },
     {
-      "appid": "EP1121-CUSA29084_00-HTSTAPOCALYPSEEU",
+      "appid": "EP1121-PPSA04411_00-HTSTAPOCALYPSEEU",
       "name": "Slaycation Paradise",
       "discount": 85,
       "orig_cents": 1999,
@@ -280,7 +280,7 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "EP1121-PPSA04411_00-HTSTAPOCALYPSEEU",
+      "appid": "EP1121-CUSA29084_00-HTSTAPOCALYPSEEU",
       "name": "Slaycation Paradise",
       "discount": 85,
       "orig_cents": 1999,
@@ -307,7 +307,7 @@
       "final_price_str": "2,24 €"
     },
     {
-      "appid": "EP6665-CUSA33241_00-VTMS000000000000",
+      "appid": "EP6665-PPSA07302_00-VTMS000000000000",
       "name": "Vampire: The Masquerade - Swansong",
       "discount": 85,
       "orig_cents": 2999,
@@ -316,7 +316,7 @@
       "final_price_str": "4,49 €"
     },
     {
-      "appid": "EP6665-PPSA07302_00-VTMS000000000000",
+      "appid": "EP6665-CUSA33241_00-VTMS000000000000",
       "name": "Vampire: The Masquerade - Swansong",
       "discount": 85,
       "orig_cents": 2999,
@@ -1333,7 +1333,7 @@
       "final_price_str": "20,99 €"
     },
     {
-      "appid": "EP0290-PPSA01349_00-GODFALLULTIMATE0",
+      "appid": "EP0290-CUSA26922_00-GODFALLULTIMATE0",
       "name": "Godfall Ultimate Edition",
       "discount": 65,
       "orig_cents": 3999,
@@ -1342,7 +1342,7 @@
       "final_price_str": "13,99 €"
     },
     {
-      "appid": "EP0290-CUSA26922_00-GODFALLULTIMATE0",
+      "appid": "EP0290-PPSA01349_00-GODFALLULTIMATE0",
       "name": "Godfall Ultimate Edition",
       "discount": 65,
       "orig_cents": 3999,
@@ -2584,7 +2584,7 @@
       "final_price_str": "10,04 €"
     },
     {
-      "appid": "EP6853-PPSA05425_00-DLCMIAMI00000000",
+      "appid": "EP2609-CUSA13930_00-DLCMIAMI00000000",
       "name": "World War Z - Deadly Vice Weapons Skin Pack",
       "discount": 30,
       "orig_cents": 499,
@@ -2593,7 +2593,7 @@
       "final_price_str": "3,49 €"
     },
     {
-      "appid": "EP2609-CUSA13930_00-DLCMIAMI00000000",
+      "appid": "EP6853-PPSA05425_00-DLCMIAMI00000000",
       "name": "World War Z - Deadly Vice Weapons Skin Pack",
       "discount": 30,
       "orig_cents": 499,
@@ -2620,7 +2620,7 @@
       "final_price_str": "3,49 €"
     },
     {
-      "appid": "EP5813-PPSA14265_00-0658350809602013",
+      "appid": "EP5813-CUSA33687_00-8374500260203206",
       "name": "Remoteness",
       "discount": 30,
       "orig_cents": 1999,
@@ -2629,7 +2629,7 @@
       "final_price_str": "13,99 €"
     },
     {
-      "appid": "EP5813-CUSA33687_00-8374500260203206",
+      "appid": "EP5813-PPSA14265_00-0658350809602013",
       "name": "Remoteness",
       "discount": 30,
       "orig_cents": 1999,
