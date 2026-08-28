@@ -31,6 +31,16 @@
       "final_price_str": "0,00 €"
     },
     {
+      "appid": "76f6442553d4495bb17c6db2c76db4d9",
+      "namespace": "7a3a6f05f6e74bba9feea2a35bdab257",
+      "name": "NoRush!",
+      "discount": 100,
+      "orig_cents": 219,
+      "final_cents": 0,
+      "orig_price_str": "2,19 €",
+      "final_price_str": "0,00 €"
+    },
+    {
       "appid": "8401414902e84f2cb9afa9142f051d32",
       "namespace": "08ae29e4f70a4b62aa055e383381aa82",
       "name": "Breathedge",
@@ -49,6 +59,16 @@
       "final_cents": 67,
       "orig_price_str": "13,49 €",
       "final_price_str": "0,67 €"
+    },
+    {
+      "appid": "0b09d98e514b4808a9ba2ff31af8e44f",
+      "namespace": "0d151a7a42fe46a381a9f4371c8d572a",
+      "name": "Umm Oyoun",
+      "discount": 95,
+      "orig_cents": 219,
+      "final_cents": 10,
+      "orig_price_str": "2,19 €",
+      "final_price_str": "0,10 €"
     },
     {
       "appid": "06842fae9b074c3ca5c15013558806b0",
@@ -821,16 +841,6 @@
       "final_price_str": "1,24 €"
     },
     {
-      "appid": "ed7c822644734c4eae164021513ee73d",
-      "namespace": "44f0f46601994e2b94d3139bf3176759",
-      "name": "Flying Islands",
-      "discount": 50,
-      "orig_cents": 799,
-      "final_cents": 399,
-      "orig_price_str": "7,99 €",
-      "final_price_str": "3,99 €"
-    },
-    {
       "appid": "ff8a999b03bd4c6daed147ce24e45d4c",
       "namespace": "83f6612b66524ca78d2e3dc3be7633eb",
       "name": "CrimeBot 2: Unsolved Cold Case",
@@ -951,6 +961,16 @@
       "final_price_str": "1,73 €"
     },
     {
+      "appid": "55dd1beb1acb4e6fbd862f7367959520",
+      "namespace": "5c610ed6aec14085a604cb5e42e70ad4",
+      "name": "Ships At Sea",
+      "discount": 40,
+      "orig_cents": 2239,
+      "final_cents": 1343,
+      "orig_price_str": "22,39 €",
+      "final_price_str": "13,43 €"
+    },
+    {
       "appid": "d6e24912d9ad457da041022ad5d1c4e0",
       "namespace": "8c23a69f7d02418caafb6851b132368d",
       "name": "Hello Love: 18 Again",
@@ -999,6 +1019,16 @@
       "final_cents": 174,
       "orig_price_str": "2,49 €",
       "final_price_str": "1,74 €"
+    },
+    {
+      "appid": "6da963414da14afca5b966d16f61c662",
+      "namespace": "90bee0aa70914b1b89bcc06038f9eaae",
+      "name": "DIRECT CONTACT",
+      "discount": 30,
+      "orig_cents": 1259,
+      "final_cents": 881,
+      "orig_price_str": "12,59 €",
+      "final_price_str": "8,81 €"
     },
     {
       "appid": "ffd3a86c6d834f1995a91c4095b4ec60",
@@ -1241,5 +1271,5 @@
       "final_price_str": "10,52 €"
     }
   ],
-  "total": 124
+  "total": 127
 }

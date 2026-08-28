@@ -81,6 +81,16 @@
       "gamepass": "PC + Xbox"
     },
     {
+      "appid": "9PG7MTR0MVP9",
+      "name": "Tomb Raider: Definitive Survivor Trilogy",
+      "discount": 80,
+      "orig_cents": 4999,
+      "final_cents": 999,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "9,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9NDS24HS4N02",
       "name": "Warhammer 40,000: Space Marine - Master Crafted Edition",
       "discount": 75,
@@ -231,16 +241,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9NTT5VGZV7DL",
-      "name": "Gallipoli",
-      "discount": 20,
-      "orig_cents": 2999,
-      "final_cents": 2399,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "23,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9N431PX143P8",
       "name": "Forza Horizon 6 Standard Edition",
       "discount": 15,
@@ -251,5 +251,5 @@
       "gamepass": "PC + Xbox"
     }
   ],
-  "total": 1093
+  "total": 1092
 }
