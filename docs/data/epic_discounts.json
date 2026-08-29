@@ -831,16 +831,6 @@
       "final_price_str": "8,99 €"
     },
     {
-      "appid": "f7f3578282a145dc98de6036c201c115",
-      "namespace": "4cca948a5ae2401588bd3d3c5b1b3b50",
-      "name": "Truck Life Simulator",
-      "discount": 50,
-      "orig_cents": 249,
-      "final_cents": 124,
-      "orig_price_str": "2,49 €",
-      "final_price_str": "1,24 €"
-    },
-    {
       "appid": "ff8a999b03bd4c6daed147ce24e45d4c",
       "namespace": "83f6612b66524ca78d2e3dc3be7633eb",
       "name": "CrimeBot 2: Unsolved Cold Case",
@@ -1271,5 +1261,5 @@
       "final_price_str": "10,52 €"
     }
   ],
-  "total": 127
+  "total": 126
 }

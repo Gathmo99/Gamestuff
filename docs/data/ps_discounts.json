@@ -271,7 +271,7 @@
       "final_price_str": "3,74 €"
     },
     {
-      "appid": "EP1121-PPSA04411_00-HTSTAPOCALYPSEEU",
+      "appid": "EP1121-CUSA29084_00-HTSTAPOCALYPSEEU",
       "name": "Slaycation Paradise",
       "discount": 85,
       "orig_cents": 1999,
@@ -280,7 +280,7 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "EP1121-CUSA29084_00-HTSTAPOCALYPSEEU",
+      "appid": "EP1121-PPSA04411_00-HTSTAPOCALYPSEEU",
       "name": "Slaycation Paradise",
       "discount": 85,
       "orig_cents": 1999,
@@ -1315,7 +1315,7 @@
       "final_price_str": "8,74 €"
     },
     {
-      "appid": "EP4389-CUSA24277_00-SPELLFORCE3CE000",
+      "appid": "EP4389-PPSA03838_00-SPELLFORCE3CE000",
       "name": "SpellForce III Reforced: Complete Edition",
       "discount": 65,
       "orig_cents": 5999,
@@ -1324,7 +1324,7 @@
       "final_price_str": "20,99 €"
     },
     {
-      "appid": "EP4389-PPSA03838_00-SPELLFORCE3CE000",
+      "appid": "EP4389-CUSA24277_00-SPELLFORCE3CE000",
       "name": "SpellForce III Reforced: Complete Edition",
       "discount": 65,
       "orig_cents": 5999,
@@ -2584,7 +2584,7 @@
       "final_price_str": "10,04 €"
     },
     {
-      "appid": "EP2609-CUSA13930_00-DLCMIAMI00000000",
+      "appid": "EP6853-PPSA05425_00-DLCMIAMI00000000",
       "name": "World War Z - Deadly Vice Weapons Skin Pack",
       "discount": 30,
       "orig_cents": 499,
@@ -2593,7 +2593,7 @@
       "final_price_str": "3,49 €"
     },
     {
-      "appid": "EP6853-PPSA05425_00-DLCMIAMI00000000",
+      "appid": "EP2609-CUSA13930_00-DLCMIAMI00000000",
       "name": "World War Z - Deadly Vice Weapons Skin Pack",
       "discount": 30,
       "orig_cents": 499,
@@ -2638,7 +2638,7 @@
       "final_price_str": "13,99 €"
     },
     {
-      "appid": "EP2609-CUSA13930_00-DLCRAVEN00000000",
+      "appid": "EP6853-PPSA05425_00-DLCRAVEN00000000",
       "name": "World War Z - Raven Weapons Skin Pack",
       "discount": 30,
       "orig_cents": 499,
@@ -2647,7 +2647,7 @@
       "final_price_str": "3,49 €"
     },
     {
-      "appid": "EP6853-PPSA05425_00-DLCRAVEN00000000",
+      "appid": "EP2609-CUSA13930_00-DLCRAVEN00000000",
       "name": "World War Z - Raven Weapons Skin Pack",
       "discount": 30,
       "orig_cents": 499,
