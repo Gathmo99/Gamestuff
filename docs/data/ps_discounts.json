@@ -10,7 +10,7 @@
       "final_price_str": "4,54 €"
     },
     {
-      "appid": "EP1877-PPSA05626_00-FOBIA00000000000",
+      "appid": "EP1877-CUSA30959_00-FOBIA00000000000",
       "name": "Fobia - St. Dinfna Hotel",
       "discount": 90,
       "orig_cents": 2999,
@@ -19,7 +19,7 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "EP1877-CUSA30959_00-FOBIA00000000000",
+      "appid": "EP1877-PPSA05626_00-FOBIA00000000000",
       "name": "Fobia - St. Dinfna Hotel",
       "discount": 90,
       "orig_cents": 2999,
@@ -550,7 +550,7 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "EP2955-PPSA06109_00-INNIGHTMARE00000",
+      "appid": "EP2955-CUSA28258_00-INNIGHTMARE00000",
       "name": "In Nightmare",
       "discount": 80,
       "orig_cents": 1999,
@@ -559,7 +559,7 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "EP2955-CUSA28258_00-INNIGHTMARE00000",
+      "appid": "EP2955-PPSA06109_00-INNIGHTMARE00000",
       "name": "In Nightmare",
       "discount": 80,
       "orig_cents": 1999,
@@ -1072,7 +1072,7 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "EP4312-PPSA08370_00-0212168363073978",
+      "appid": "EP4312-CUSA34426_00-0885061236571211",
       "name": "Burger Fun Mini Game Bundle",
       "discount": 70,
       "orig_cents": 1499,
@@ -1081,7 +1081,7 @@
       "final_price_str": "4,49 €"
     },
     {
-      "appid": "EP4312-CUSA34426_00-0885061236571211",
+      "appid": "EP4312-PPSA08370_00-0212168363073978",
       "name": "Burger Fun Mini Game Bundle",
       "discount": 70,
       "orig_cents": 1499,
@@ -1333,7 +1333,7 @@
       "final_price_str": "20,99 €"
     },
     {
-      "appid": "EP0290-CUSA26922_00-GODFALLULTIMATE0",
+      "appid": "EP0290-PPSA01349_00-GODFALLULTIMATE0",
       "name": "Godfall Ultimate Edition",
       "discount": 65,
       "orig_cents": 3999,
@@ -1342,7 +1342,7 @@
       "final_price_str": "13,99 €"
     },
     {
-      "appid": "EP0290-PPSA01349_00-GODFALLULTIMATE0",
+      "appid": "EP0290-CUSA26922_00-GODFALLULTIMATE0",
       "name": "Godfall Ultimate Edition",
       "discount": 65,
       "orig_cents": 3999,
@@ -2620,7 +2620,7 @@
       "final_price_str": "3,49 €"
     },
     {
-      "appid": "EP5813-PPSA14265_00-0658350809602013",
+      "appid": "EP5813-CUSA33687_00-8374500260203206",
       "name": "Remoteness",
       "discount": 30,
       "orig_cents": 1999,
@@ -2629,7 +2629,7 @@
       "final_price_str": "13,99 €"
     },
     {
-      "appid": "EP5813-CUSA33687_00-8374500260203206",
+      "appid": "EP5813-PPSA14265_00-0658350809602013",
       "name": "Remoteness",
       "discount": 30,
       "orig_cents": 1999,
