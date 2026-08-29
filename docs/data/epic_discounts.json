@@ -281,6 +281,16 @@
       "final_price_str": "0,44 €"
     },
     {
+      "appid": "0b252197298441ffa1bc91f8f353e443",
+      "namespace": "658d7b77a4d8466a882f0ca7782430fc",
+      "name": "Afterschool: Reel Danger",
+      "discount": 75,
+      "orig_cents": 359,
+      "final_cents": 89,
+      "orig_price_str": "3,59 €",
+      "final_price_str": "0,89 €"
+    },
+    {
       "appid": "df3e9567dfec4c66a818a1dba0c504af",
       "namespace": "3896d3f8efe34b29b7ecb17f88f33a29",
       "name": "Dragon Front: Adventures",
@@ -1199,16 +1209,6 @@
       "final_cents": 1439,
       "orig_price_str": "17,99 €",
       "final_price_str": "14,39 €"
-    },
-    {
-      "appid": "a0378b930623469f8af82ef9bfb1a5c9",
-      "namespace": "64d8cc2fb5cc4798a6db9796b7e73e3f",
-      "name": "Alien Paradise",
-      "discount": 20,
-      "orig_cents": 359,
-      "final_cents": 287,
-      "orig_price_str": "3,59 €",
-      "final_price_str": "2,87 €"
     },
     {
       "appid": "a5fddd4337aa409db3faa4eaa4df54de",
