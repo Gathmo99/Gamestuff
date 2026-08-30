@@ -211,6 +211,16 @@
       "final_price_str": "0,44 €"
     },
     {
+      "appid": "f189fa585937439d93f2dcc9775c8617",
+      "namespace": "f9bc208b965c4fb7afd0c842d764fc37",
+      "name": "Sherlock Holmes The Awakened",
+      "discount": 90,
+      "orig_cents": 3999,
+      "final_cents": 399,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "3,99 €"
+    },
+    {
       "appid": "c9dd4edb4d8d49738d9dc28fd1f3471e",
       "namespace": "80053eb656ea417b8cc6c891699477c7",
       "name": "Eldest Souls",
@@ -251,6 +261,36 @@
       "final_price_str": "0,89 €"
     },
     {
+      "appid": "06722250068b4161a0ec25e86be99061",
+      "namespace": "699c2dc3694c4156befa26cad5c65505",
+      "name": "Sherlock Holmes Chapter One",
+      "discount": 90,
+      "orig_cents": 4499,
+      "final_cents": 449,
+      "orig_price_str": "44,99 €",
+      "final_price_str": "4,49 €"
+    },
+    {
+      "appid": "dfae164155c84664b9040dd802bb2669",
+      "namespace": "cinnamon",
+      "name": "Sherlock Holmes: The Devil’s Daughter",
+      "discount": 90,
+      "orig_cents": 2999,
+      "final_cents": 299,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "2,99 €"
+    },
+    {
+      "appid": "afadb715390a4593acdca79dae94b60a",
+      "namespace": "23f3da2016b94461a7bd7e2eb46aa0f9",
+      "name": "Sherlock Holmes: Crimes and Punishments",
+      "discount": 90,
+      "orig_cents": 2999,
+      "final_cents": 299,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "2,99 €"
+    },
+    {
       "appid": "f7bc591b0c1548d8936b4a610ca2d966",
       "namespace": "fb76c816bb054fc8be57dc49f1600843",
       "name": "Tails of Iron",
@@ -259,6 +299,16 @@
       "final_cents": 299,
       "orig_price_str": "24,99 €",
       "final_price_str": "2,99 €"
+    },
+    {
+      "appid": "47253abbbc8f4b3b9cb0f4da4d2e547d",
+      "namespace": "middlemist",
+      "name": "The Sinking City",
+      "discount": 85,
+      "orig_cents": 3999,
+      "final_cents": 599,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "5,99 €"
     },
     {
       "appid": "9ea2932562a741049039aef998ce0094",
@@ -591,6 +641,16 @@
       "final_price_str": "13,99 €"
     },
     {
+      "appid": "8fbe88b117a34cce8abf827cf6f38a33",
+      "namespace": "ae51a606e31f409bac9e0216f3e757a2",
+      "name": "Yuppie Psycho: Executive Edition",
+      "discount": 65,
+      "orig_cents": 1666,
+      "final_cents": 583,
+      "orig_price_str": "16,66 €",
+      "final_price_str": "5,83 €"
+    },
+    {
       "appid": "356ff57fd07a437bb0316e5262a21bfa",
       "namespace": "fa8c3620ba97457c9d5e204449947750",
       "name": "THE GENERAL SAGA",
@@ -789,6 +849,16 @@
       "final_cents": 728,
       "orig_price_str": "16,19 €",
       "final_price_str": "7,28 €"
+    },
+    {
+      "appid": "a415f38926c34cdf9d077b60ea3dec67",
+      "namespace": "d3f97f301cb746d5b6e15424edb28afc",
+      "name": "Gas Station Simulator",
+      "discount": 53,
+      "orig_cents": 1799,
+      "final_cents": 845,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "8,45 €"
     },
     {
       "appid": "19dad91ebd2c4e51b2666ae8179d22d7",
@@ -1011,16 +1081,6 @@
       "final_price_str": "9,99 €"
     },
     {
-      "appid": "f114a520af424f149424d49ec7ced301",
-      "namespace": "d525960335e248cab5ec90847f5ef96a",
-      "name": "Crown of Ruin: The Parkour Game",
-      "discount": 50,
-      "orig_cents": 289,
-      "final_cents": 144,
-      "orig_price_str": "2,89 €",
-      "final_price_str": "1,44 €"
-    },
-    {
       "appid": "9abd8a7c80cc4493905e269da4cd1e5d",
       "namespace": "1264f0abd70941bca6afa989a41fd57c",
       "name": "The Curse We Made",
@@ -1059,6 +1119,16 @@
       "final_cents": 224,
       "orig_price_str": "4,49 €",
       "final_price_str": "2,24 €"
+    },
+    {
+      "appid": "9d772a4f90e9473db12cf664d14ade1a",
+      "namespace": "041ae72fbe004d19a36ee417318e7b94",
+      "name": "Winter Survival",
+      "discount": 50,
+      "orig_cents": 1709,
+      "final_cents": 854,
+      "orig_price_str": "17,09 €",
+      "final_price_str": "8,54 €"
     },
     {
       "appid": "a3585f3cf4a3432d9afaedeb0ff81a49",
@@ -1471,5 +1541,5 @@
       "final_price_str": "10,52 €"
     }
   ],
-  "total": 147
+  "total": 154
 }
