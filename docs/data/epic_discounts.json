@@ -431,6 +431,16 @@
       "final_price_str": "0,44 €"
     },
     {
+      "appid": "e564d651027b4def902e8744ddfaf443",
+      "namespace": "8b9f266350ad4f95aec7fbc4021c1695",
+      "name": "Barbie™ Das Freundschaftsprojekt",
+      "discount": 75,
+      "orig_cents": 3999,
+      "final_cents": 999,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "9,99 €"
+    },
+    {
       "appid": "77805e40d84b4786b0431d813ffb66a2",
       "namespace": "0e65d8e6338943e68169f928702c4706",
       "name": "Bosorka",
@@ -621,6 +631,16 @@
       "final_price_str": "1,88 €"
     },
     {
+      "appid": "f73925c156ca40a3bcdd71272df2fbd9",
+      "namespace": "efc6a5a040ca469ba0bbc8c9cd4d7708",
+      "name": "Monster High™ Skulltimate Secrets™",
+      "discount": 65,
+      "orig_cents": 3999,
+      "final_cents": 1399,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "13,99 €"
+    },
+    {
       "appid": "6438c9a9ff3945d4ad0f51edb4b4201c",
       "namespace": "c24ab01828c74414b185dea9f87a88f8",
       "name": "Demonheart",
@@ -634,6 +654,16 @@
       "appid": "1118b8001b864fb9bf03971c9e6766ae",
       "namespace": "50809e4c39674f42b649fa127d6796dd",
       "name": "Sonic Frontiers",
+      "discount": 65,
+      "orig_cents": 3999,
+      "final_cents": 1399,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "13,99 €"
+    },
+    {
+      "appid": "ae3e2a53be8b424cb030656b28e54795",
+      "namespace": "1bb409739a2a48cc97a8779a76e933f1",
+      "name": "MY LITTLE PONY: Ein Maretime Bucht-Abenteuer",
       "discount": 65,
       "orig_cents": 3999,
       "final_cents": 1399,
@@ -701,6 +731,16 @@
       "final_price_str": "9,99 €"
     },
     {
+      "appid": "9e65261d0cf74170b704c8b70ca59fc3",
+      "namespace": "64c04bc14ae04334bc9d6dcadbadaab2",
+      "name": "Vagneria",
+      "discount": 60,
+      "orig_cents": 449,
+      "final_cents": 179,
+      "orig_price_str": "4,49 €",
+      "final_price_str": "1,79 €"
+    },
+    {
       "appid": "9731d14c9cf34f52b7a5921ce3b66960",
       "namespace": "52c79a87370744d0aec8b50bf5d9502d",
       "name": "Spooky Mahjong",
@@ -761,14 +801,14 @@
       "final_price_str": "1,79 €"
     },
     {
-      "appid": "35a4e3d573b3400bb0543b1c1164a49f",
-      "namespace": "7db5792a3c524cfba78b1666b7355b7b",
-      "name": "Tear of Time - Lost memory",
+      "appid": "575c36e2a26a466ab3df42b173438805",
+      "namespace": "9a3d3cc7c85f4664943bfe6fca977d03",
+      "name": "Meine Freundin Peppa Wutz",
       "discount": 60,
-      "orig_cents": 359,
-      "final_cents": 143,
-      "orig_price_str": "3,59 €",
-      "final_price_str": "1,43 €"
+      "orig_cents": 3999,
+      "final_cents": 1599,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "15,99 €"
     },
     {
       "appid": "baa5245f8d2249cdbad9f9e814673b48",
@@ -799,6 +839,16 @@
       "final_cents": 959,
       "orig_price_str": "23,99 €",
       "final_price_str": "9,59 €"
+    },
+    {
+      "appid": "5e7015b65e174329a90b50fc90194224",
+      "namespace": "bd440f08d4d044dbad86cf12f273f744",
+      "name": "Krogger Skull Killer",
+      "discount": 55,
+      "orig_cents": 89,
+      "final_cents": 40,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,40 €"
     },
     {
       "appid": "b681625321de4d7192242980bc747619",
@@ -1341,6 +1391,16 @@
       "final_price_str": "4,04 €"
     },
     {
+      "appid": "93617a31676b48dd908419efdac3be99",
+      "namespace": "75bd9275293b4d09b8d1208e2c9f8886",
+      "name": "PAW Patrol™ Helfer auf vier Pfoten: Dinowelt",
+      "discount": 20,
+      "orig_cents": 3999,
+      "final_cents": 3199,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "31,99 €"
+    },
+    {
       "appid": "2e6858c9a4ff4f6faa046d53ff4e53d5",
       "namespace": "39a3e246e2af4a2e8e7a302c8b1c9f65",
       "name": "Flirty Landlord Gorgeous Tenants",
@@ -1374,16 +1434,6 @@
       "appid": "a765dfa2e2284bc5aaeaf6da64a40305",
       "namespace": "a8a26ebbe8614bcda34e518ff4c74057",
       "name": "Falling in love with stockings",
-      "discount": 20,
-      "orig_cents": 449,
-      "final_cents": 359,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "3,59 €"
-    },
-    {
-      "appid": "8f45eddce35343808537bf3d9aa8d0b5",
-      "namespace": "2051eedb4746431593d66905f9bffdc8",
-      "name": "Labyrinth of Whiskers",
       "discount": 20,
       "orig_cents": 449,
       "final_cents": 359,
@@ -1471,5 +1521,5 @@
       "final_price_str": "10,52 €"
     }
   ],
-  "total": 147
+  "total": 152
 }

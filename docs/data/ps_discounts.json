@@ -10,7 +10,7 @@
       "final_price_str": "4,54 €"
     },
     {
-      "appid": "EP1877-CUSA30959_00-FOBIA00000000000",
+      "appid": "EP1877-PPSA05626_00-FOBIA00000000000",
       "name": "Fobia - St. Dinfna Hotel",
       "discount": 90,
       "orig_cents": 2999,
@@ -19,7 +19,7 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "EP1877-PPSA05626_00-FOBIA00000000000",
+      "appid": "EP1877-CUSA30959_00-FOBIA00000000000",
       "name": "Fobia - St. Dinfna Hotel",
       "discount": 90,
       "orig_cents": 2999,
@@ -307,7 +307,7 @@
       "final_price_str": "2,24 €"
     },
     {
-      "appid": "EP6665-CUSA33241_00-VTMS000000000000",
+      "appid": "EP6665-PPSA07302_00-VTMS000000000000",
       "name": "Vampire: The Masquerade - Swansong",
       "discount": 85,
       "orig_cents": 2999,
@@ -316,7 +316,7 @@
       "final_price_str": "4,49 €"
     },
     {
-      "appid": "EP6665-PPSA07302_00-VTMS000000000000",
+      "appid": "EP6665-CUSA33241_00-VTMS000000000000",
       "name": "Vampire: The Masquerade - Swansong",
       "discount": 85,
       "orig_cents": 2999,
@@ -1072,7 +1072,7 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "EP4312-PPSA08370_00-0212168363073978",
+      "appid": "EP4312-CUSA34426_00-0885061236571211",
       "name": "Burger Fun Mini Game Bundle",
       "discount": 70,
       "orig_cents": 1499,
@@ -1081,7 +1081,7 @@
       "final_price_str": "4,49 €"
     },
     {
-      "appid": "EP4312-CUSA34426_00-0885061236571211",
+      "appid": "EP4312-PPSA08370_00-0212168363073978",
       "name": "Burger Fun Mini Game Bundle",
       "discount": 70,
       "orig_cents": 1499,
@@ -2602,7 +2602,7 @@
       "final_price_str": "3,49 €"
     },
     {
-      "appid": "EP2609-CUSA13930_00-DLCRAT0000000000",
+      "appid": "EP6853-PPSA05425_00-DLCRAT0000000000",
       "name": "World War Z - The Rat Packs Weapon Skins Bundle",
       "discount": 30,
       "orig_cents": 499,
@@ -2611,7 +2611,7 @@
       "final_price_str": "3,49 €"
     },
     {
-      "appid": "EP6853-PPSA05425_00-DLCRAT0000000000",
+      "appid": "EP2609-CUSA13930_00-DLCRAT0000000000",
       "name": "World War Z - The Rat Packs Weapon Skins Bundle",
       "discount": 30,
       "orig_cents": 499,
@@ -2638,7 +2638,7 @@
       "final_price_str": "13,99 €"
     },
     {
-      "appid": "EP2609-CUSA13930_00-DLCRAVEN00000000",
+      "appid": "EP6853-PPSA05425_00-DLCRAVEN00000000",
       "name": "World War Z - Raven Weapons Skin Pack",
       "discount": 30,
       "orig_cents": 499,
@@ -2647,7 +2647,7 @@
       "final_price_str": "3,49 €"
     },
     {
-      "appid": "EP6853-PPSA05425_00-DLCRAVEN00000000",
+      "appid": "EP2609-CUSA13930_00-DLCRAVEN00000000",
       "name": "World War Z - Raven Weapons Skin Pack",
       "discount": 30,
       "orig_cents": 499,
