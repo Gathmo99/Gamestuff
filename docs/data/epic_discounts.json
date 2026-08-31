@@ -861,26 +861,6 @@
       "final_price_str": "8,45 €"
     },
     {
-      "appid": "19dad91ebd2c4e51b2666ae8179d22d7",
-      "namespace": "d677e4e09736478592b5501ebc8ce238",
-      "name": "Midnight Dreams",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "1ba6ede55c65421eb2683d4f32312c72",
-      "namespace": "20da7140d82142bca3b8e0f72d14fe3f",
-      "name": "Backrooms Survival",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
       "appid": "0f7637234bb74ed3827e5e22a0041886",
       "namespace": "8e96d0390a4f4bddb9370875354dbfaf",
       "name": "Femboy Forest",
@@ -961,59 +941,9 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "2b9e9cf8a31a4d97b20e83d78165d2e7",
-      "namespace": "15a55855478c4cc4b308b47b5fcddc83",
-      "name": "Clown Eyes: Dead Park",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
       "appid": "09d157cf14a842169ed67ce867ba3767",
       "namespace": "6acea07493f24448872662ee2bed7ff4",
       "name": "Dead World: Survival",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "fec758a1163641e4b2764e6de6dc2de3",
-      "namespace": "60729ae90fb84063808cac360e5a6c68",
-      "name": "Build From Block",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "2303c60ff1a94d9b9c945fd328150502",
-      "namespace": "afc92a8312dc47a7b2f09001ff78bd83",
-      "name": "Backrooms Furry",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "459149a14b9243e3b68251b9f6a39fe6",
-      "namespace": "55400d765e13415996d0324bbda143c0",
-      "name": "Serbian Dancing Lady",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "bb7553e001ec4892b6eb190e5d761467",
-      "namespace": "8ebe0bf06dea45859084c258c74e8bfd",
-      "name": "Backrooms: Eight Levels",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1061,6 +991,16 @@
       "final_price_str": "0,44 €"
     },
     {
+      "appid": "2aceb225c0d44219b905e0c1a7a909eb",
+      "namespace": "d67581786e2f4accb7606e7951962450",
+      "name": "T-Rex Dinosaur Game",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
       "appid": "9c5a9b46407243ba9f58ecb891d03720",
       "namespace": "4b7c856ef3a54f0489e21feef74b7d08",
       "name": "TV Head: Eight Pages",
@@ -1099,16 +1039,6 @@
       "final_cents": 674,
       "orig_price_str": "13,49 €",
       "final_price_str": "6,74 €"
-    },
-    {
-      "appid": "27f93065239441328e13f8c8dcac6a39",
-      "namespace": "67a4b221335e49988ddddf265f5521bf",
-      "name": "PALGRAP - Discover Quantum",
-      "discount": 50,
-      "orig_cents": 1799,
-      "final_cents": 899,
-      "orig_price_str": "17,99 €",
-      "final_price_str": "8,99 €"
     },
     {
       "appid": "ff8a999b03bd4c6daed147ce24e45d4c",
@@ -1541,5 +1471,5 @@
       "final_price_str": "10,52 €"
     }
   ],
-  "total": 154
+  "total": 147
 }
