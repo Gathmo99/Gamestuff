@@ -31,6 +31,26 @@
       "gamepass": ""
     },
     {
+      "appid": "BT3611GR00CQ",
+      "name": "Gotham Knights",
+      "discount": 90,
+      "orig_cents": 7499,
+      "final_cents": 749,
+      "orig_price_str": "74,99 €",
+      "final_price_str": "7,49 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "BWTTW53M5B98",
+      "name": "Battlefield™ 1",
+      "discount": 90,
+      "orig_cents": 1999,
+      "final_cents": 199,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "1,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9NGK2CXP0366",
       "name": "Mittelerde™: Das Schattenpaket",
       "discount": 85,
@@ -38,16 +58,6 @@
       "final_cents": 1049,
       "orig_price_str": "69,99 €",
       "final_price_str": "10,49 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "BPN103KDBX2H",
-      "name": "ASURA'S WRATH",
-      "discount": 85,
-      "orig_cents": 1999,
-      "final_cents": 299,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "2,99 €",
       "gamepass": ""
     },
     {
@@ -59,6 +69,16 @@
       "orig_price_str": "34,99 €",
       "final_price_str": "5,24 €",
       "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "BPN103KDBX2H",
+      "name": "ASURA'S WRATH",
+      "discount": 85,
+      "orig_cents": 1999,
+      "final_cents": 299,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "2,99 €",
+      "gamepass": ""
     },
     {
       "appid": "BXHMPV1JT9WH",
@@ -91,16 +111,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9NDS24HS4N02",
-      "name": "Warhammer 40,000: Space Marine - Master Crafted Edition",
-      "discount": 75,
-      "orig_cents": 3999,
-      "final_cents": 999,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "9,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9P33VJGVPHVP",
       "name": "ARK: Survival Ascended",
       "discount": 75,
@@ -109,16 +119,6 @@
       "orig_price_str": "44,99 €",
       "final_price_str": "11,24 €",
       "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "BXH46NQT9W4Q",
-      "name": "Sonic Mania",
-      "discount": 75,
-      "orig_cents": 1999,
-      "final_cents": 499,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "4,99 €",
-      "gamepass": ""
     },
     {
       "appid": "9NXVC0482QS5",
@@ -171,16 +171,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9NKK6Z0K3RH2",
-      "name": "Persona 3 Reload",
-      "discount": 65,
-      "orig_cents": 5999,
-      "final_cents": 2099,
-      "orig_price_str": "59,99 €",
-      "final_price_str": "20,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9NRLSFM01XTP",
       "name": "MLB® The Show™ 26 Standard Edition",
       "discount": 60,
@@ -221,6 +211,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9NBR63PT4FZC",
+      "name": "Ready or Not",
+      "discount": 25,
+      "orig_cents": 4999,
+      "final_cents": 3749,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "37,49 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9P6HVHDP2PGK",
       "name": "Crimson Desert Enhanced",
       "discount": 20,
@@ -251,5 +251,5 @@
       "gamepass": "PC + Xbox"
     }
   ],
-  "total": 1107
+  "total": 1108
 }

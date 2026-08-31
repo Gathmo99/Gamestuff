@@ -11,16 +11,6 @@
       "final_price_str": "0,00 €"
     },
     {
-      "appid": "e2fadea9d75248fda771034bf5e035e2",
-      "namespace": "e02939ef2acc407bb4713ee52e63ea35",
-      "name": "Targeted - 10 Days",
-      "discount": 100,
-      "orig_cents": 17999,
-      "final_cents": 0,
-      "orig_price_str": "179,99 €",
-      "final_price_str": "0,00 €"
-    },
-    {
       "appid": "c2e1cfa7321d4ca4b619e3e1be8de86f",
       "namespace": "335a2061a040402896e62a5a2c8951b2",
       "name": "Together After Dark",
@@ -49,16 +39,6 @@
       "final_cents": 0,
       "orig_price_str": "24,99 €",
       "final_price_str": "0,00 €"
-    },
-    {
-      "appid": "6146682c0d6d4b779dbe7ae47c9e4e7a",
-      "namespace": "d17f792933ae482599a9faec4afda35f",
-      "name": "Rustic Farm Life",
-      "discount": 95,
-      "orig_cents": 1349,
-      "final_cents": 67,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "0,67 €"
     },
     {
       "appid": "0b09d98e514b4808a9ba2ff31af8e44f",
@@ -351,6 +331,16 @@
       "final_price_str": "1,61 €"
     },
     {
+      "appid": "b2c2535ed4bc4c3c9cf91715ce88621b",
+      "namespace": "1869b4b037124467b43cd9e62c6ee09d",
+      "name": "CRUELTY",
+      "discount": 80,
+      "orig_cents": 629,
+      "final_cents": 125,
+      "orig_price_str": "6,29 €",
+      "final_price_str": "1,25 €"
+    },
+    {
       "appid": "eb0c7c1cb11c4689b9a96960b32d420d",
       "namespace": "c3e57c64bb4a468f8261f4038f3e903e",
       "name": "Play with Me - Escape Room",
@@ -439,6 +429,16 @@
       "final_cents": 999,
       "orig_price_str": "39,99 €",
       "final_price_str": "9,99 €"
+    },
+    {
+      "appid": "031d44fe68f14970950f8d888a8b485a",
+      "namespace": "b9cad2ee3e58423ca7c46a5f8ffee059",
+      "name": "SCARY AND DOT",
+      "discount": 75,
+      "orig_cents": 179,
+      "final_cents": 44,
+      "orig_price_str": "1,79 €",
+      "final_price_str": "0,44 €"
     },
     {
       "appid": "77805e40d84b4786b0431d813ffb66a2",
@@ -961,6 +961,16 @@
       "final_price_str": "0,44 €"
     },
     {
+      "appid": "d4c62f0a1e464afcae488f40b2012dbd",
+      "namespace": "f28ef9372daf4ca99385d5d9ab8af7f8",
+      "name": "BORIS RUSSIAN BEAR",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
       "appid": "d10aa9befbd74811a9084de0e3b38951",
       "namespace": "4b0ef32b54c242ecb15ee55741302041",
       "name": "Girls In Backrooms",
@@ -1001,6 +1011,36 @@
       "final_price_str": "0,44 €"
     },
     {
+      "appid": "f79a0bf682e94c2d99c37ce9499c55ec",
+      "namespace": "2511759c928046e6b5f1ffe962ad4b39",
+      "name": "My Anime Girlfriend",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "bb09d785bd084b3cb606343b9b47ad17",
+      "namespace": "c41d2880cc784e3ab5744177cf90a603",
+      "name": "Lizard Slayer",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "572ed388c62244cbbb62801d755737b8",
+      "namespace": "03aba521977a4c4d9c550a15ffcb35cc",
+      "name": "In The Gym",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
       "appid": "55150805c6364978b036716739fe8d61",
       "namespace": "ccece943516546b7ac1fa4e00b2c3944",
       "name": "THE MEME HUNTER",
@@ -1021,29 +1061,19 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "cb07930f33cc471eb8714ceea7f9f4b7",
-      "namespace": "a07e519eee8f47ff8988b233d3983e00",
-      "name": "Neon City Climbing Simulator",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "ce4d0338c58048e095befd1b96628c33",
-      "namespace": "3d98021dc6a74599afbce9bb5cacd017",
-      "name": "Fastest Cars Traffic Racer",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
       "appid": "2aceb225c0d44219b905e0c1a7a909eb",
       "namespace": "d67581786e2f4accb7606e7951962450",
       "name": "T-Rex Dinosaur Game",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "0faf8d84bd2746379dba79b413bb0ed1",
+      "namespace": "8e08d47a6dcd46b4904b9d6e9e043130",
+      "name": "Backrooms Doors",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1251,34 +1281,14 @@
       "final_price_str": "2,39 €"
     },
     {
-      "appid": "4d56fdc376924c4aa7c80515d8d1fc29",
-      "namespace": "b713f7b6b51b405893ad88c00c86faac",
-      "name": "『S.T.A.L.K.E.R.: Shadow of Chornobyl』強化版",
-      "discount": 33,
-      "orig_cents": 1999,
-      "final_cents": 1339,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "13,39 €"
-    },
-    {
-      "appid": "355e78b2f9ce4404bb5682c8cb31ae96",
-      "namespace": "6026e7b108f94dd5a3037317eb9b4fa4",
-      "name": "S.T.A.L.K.E.R.: Call of Prypiat - Enhanced Edition",
-      "discount": 33,
-      "orig_cents": 1999,
-      "final_cents": 1339,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "13,39 €"
-    },
-    {
-      "appid": "91d3ac7558f74838911af27f118da705",
-      "namespace": "4275cb8b5c9f4d7cb4892d793eabebfd",
-      "name": "S.T.A.L.K.E.R.: Clear Sky - Enhanced Edition",
-      "discount": 33,
-      "orig_cents": 1999,
-      "final_cents": 1339,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "13,39 €"
+      "appid": "67e076fc9d5b4ecaa3409c79d29cabdd",
+      "namespace": "e6ffee40e3424026b27f75c785d199e1",
+      "name": "Soulmask",
+      "discount": 35,
+      "orig_cents": 2999,
+      "final_cents": 1949,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "19,49 €"
     },
     {
       "appid": "134f08cc143940aca59206549a5ad445",
@@ -1311,16 +1321,6 @@
       "final_price_str": "3,14 €"
     },
     {
-      "appid": "275daa4dca49471089ccc7f2bf53cac8",
-      "namespace": "602a0ef0aceb46cca62445439661d712",
-      "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-      "discount": 30,
-      "orig_cents": 5999,
-      "final_cents": 4199,
-      "orig_price_str": "59,99 €",
-      "final_price_str": "41,99 €"
-    },
-    {
       "appid": "697e10728b8d442da997f4f562e2bf31",
       "namespace": "a07b9f4519464d1b92b620320e37138b",
       "name": "Gallipoli",
@@ -1329,26 +1329,6 @@
       "final_cents": 2249,
       "orig_price_str": "29,99 €",
       "final_price_str": "22,49 €"
-    },
-    {
-      "appid": "7737a59a1ca149bf9cc04791a4e34e36",
-      "namespace": "7e3c0e52ab6840299e6dcb3429e6b2ac",
-      "name": "ServiceIT: You can do IT",
-      "discount": 25,
-      "orig_cents": 1169,
-      "final_cents": 876,
-      "orig_price_str": "11,69 €",
-      "final_price_str": "8,76 €"
-    },
-    {
-      "appid": "754a9e7983b5439d81bcf9e6168c88b9",
-      "namespace": "8ef296a169af4192a0e0fa65df61c0e2",
-      "name": "Tukoni: Waldpfleger",
-      "discount": 25,
-      "orig_cents": 979,
-      "final_cents": 734,
-      "orig_price_str": "9,79 €",
-      "final_price_str": "7,34 €"
     },
     {
       "appid": "37067b8b96a8416a905fe059989d2aef",
@@ -1371,16 +1351,6 @@
       "final_price_str": "3,36 €"
     },
     {
-      "appid": "0582d542bb6a4581af778d046485ecc0",
-      "namespace": "5a94d427238c47c98d57223d25c589d5",
-      "name": "Love in the books",
-      "discount": 25,
-      "orig_cents": 1169,
-      "final_cents": 876,
-      "orig_price_str": "11,69 €",
-      "final_price_str": "8,76 €"
-    },
-    {
       "appid": "65b780bd13974d3d852173a1122c2789",
       "namespace": "e8a5536a55294d949df5306fda6410c1",
       "name": "Typers Combat",
@@ -1389,6 +1359,16 @@
       "final_cents": 404,
       "orig_price_str": "5,39 €",
       "final_price_str": "4,04 €"
+    },
+    {
+      "appid": "7d0ce32cee924c30bb72c08a85ebe57b",
+      "namespace": "09018ada7be84adba85480017027d1e7",
+      "name": "Breathedge 2",
+      "discount": 20,
+      "orig_cents": 1999,
+      "final_cents": 1599,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "15,99 €"
     },
     {
       "appid": "93617a31676b48dd908419efdac3be99",
@@ -1411,6 +1391,16 @@
       "final_price_str": "6,47 €"
     },
     {
+      "appid": "e4253f47bcb64fd0a2dada5036e63f48",
+      "namespace": "22944fe6683d417cb87b6d1fba4fbb91",
+      "name": "Better Mart Simulator",
+      "discount": 20,
+      "orig_cents": 1349,
+      "final_cents": 1079,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "10,79 €"
+    },
+    {
       "appid": "93fa632bf25b4361abb3a79c86e3f822",
       "namespace": "302e7fc27b6c4f1987e500aa11b0c35a",
       "name": "Crimson Desert Enhanced",
@@ -1419,26 +1409,6 @@
       "final_cents": 5599,
       "orig_price_str": "69,99 €",
       "final_price_str": "55,99 €"
-    },
-    {
-      "appid": "c504529f210a4b638581af9a698e532e",
-      "namespace": "e4bdfd6b9350468bb048475698f54eff",
-      "name": "Age of Barbarians Chronicles",
-      "discount": 20,
-      "orig_cents": 1899,
-      "final_cents": 1519,
-      "orig_price_str": "18,99 €",
-      "final_price_str": "15,19 €"
-    },
-    {
-      "appid": "a765dfa2e2284bc5aaeaf6da64a40305",
-      "namespace": "a8a26ebbe8614bcda34e518ff4c74057",
-      "name": "Falling in love with stockings",
-      "discount": 20,
-      "orig_cents": 449,
-      "final_cents": 359,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "3,59 €"
     },
     {
       "appid": "4416296a17d445ea9587adde810f8324",
@@ -1521,5 +1491,5 @@
       "final_price_str": "10,52 €"
     }
   ],
-  "total": 152
+  "total": 149
 }
