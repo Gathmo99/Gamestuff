@@ -1391,26 +1391,6 @@
       "final_price_str": "20,15 €"
     },
     {
-      "appid": "a0bba087181f4109abf45f859c979a6d",
-      "namespace": "40026c75b79340d1be01fecbf139eb16",
-      "name": "Dispatch",
-      "discount": 10,
-      "orig_cents": 2899,
-      "final_cents": 2609,
-      "orig_price_str": "28,99 €",
-      "final_price_str": "26,09 €"
-    },
-    {
-      "appid": "89373bd5b2cb48ecba23bef9b57c3368",
-      "namespace": "95a504bcb62445569e0e165fdb098c8e",
-      "name": "Falling in love with stockings 5",
-      "discount": 10,
-      "orig_cents": 449,
-      "final_cents": 404,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "4,04 €"
-    },
-    {
       "appid": "550d878dec4c44feb8e260d58228caf5",
       "namespace": "8725f612ae4a46cea29df47ef6cdfdbf",
       "name": "Stay Reserved, Beauty",
@@ -1421,5 +1401,5 @@
       "final_price_str": "10,52 €"
     }
   ],
-  "total": 142
+  "total": 140
 }
