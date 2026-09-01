@@ -10,7 +10,16 @@
       "final_price_str": "4,54 €"
     },
     {
-      "appid": "EP1877-PPSA05626_00-FOBIA00000000000",
+      "appid": "EP0002-PPSA02410_00-D2LFBUNDLE000001",
+      "name": "Destiny 2: Lightfall",
+      "discount": 90,
+      "orig_cents": 1999,
+      "final_cents": 199,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "1,99 €"
+    },
+    {
+      "appid": "EP1877-CUSA30959_00-FOBIA00000000000",
       "name": "Fobia - St. Dinfna Hotel",
       "discount": 90,
       "orig_cents": 2999,
@@ -19,7 +28,7 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "EP1877-CUSA30959_00-FOBIA00000000000",
+      "appid": "EP1877-PPSA05626_00-FOBIA00000000000",
       "name": "Fobia - St. Dinfna Hotel",
       "discount": 90,
       "orig_cents": 2999,
@@ -55,6 +64,15 @@
       "final_price_str": "0,89 €"
     },
     {
+      "appid": "EP0002-PPSA02410_00-D2WITCHQUEEN0001",
+      "name": "Destiny 2: Die Hexenkönigin",
+      "discount": 90,
+      "orig_cents": 1999,
+      "final_cents": 199,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "1,99 €"
+    },
+    {
       "appid": "EP1549-CUSA29889_00-CLABS0MMS2021071",
       "name": "Mech Mechanic Simulator",
       "discount": 90,
@@ -62,6 +80,15 @@
       "final_cents": 99,
       "orig_price_str": "9,99 €",
       "final_price_str": "0,99 €"
+    },
+    {
+      "appid": "EP0002-PPSA02410_00-D230PACK00000001",
+      "name": "Destiny 2-Paket: 30 Jahre Bungie",
+      "discount": 90,
+      "orig_cents": 1499,
+      "final_cents": 149,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "1,49 €"
     },
     {
       "appid": "EP1121-CUSA25005_00-3808050314772279",
@@ -116,6 +143,33 @@
       "final_cents": 599,
       "orig_price_str": "59,99 €",
       "final_price_str": "5,99 €"
+    },
+    {
+      "appid": "EP0002-PPSA02410_00-D2SHADOWKEEP0001",
+      "name": "Destiny 2: „Festung der Schatten“-Paket",
+      "discount": 90,
+      "orig_cents": 999,
+      "final_cents": 99,
+      "orig_price_str": "9,99 €",
+      "final_price_str": "0,99 €"
+    },
+    {
+      "appid": "EP0002-PPSA02410_00-DESTINY2FORSAKEN",
+      "name": "Destiny 2: Forsaken-Paket",
+      "discount": 90,
+      "orig_cents": 999,
+      "final_cents": 99,
+      "orig_price_str": "9,99 €",
+      "final_price_str": "0,99 €"
+    },
+    {
+      "appid": "EP0002-PPSA02410_00-D2BEYONDLIGHT001",
+      "name": "Destiny 2: „Jenseits des Lichts“-Paket",
+      "discount": 90,
+      "orig_cents": 999,
+      "final_cents": 99,
+      "orig_price_str": "9,99 €",
+      "final_price_str": "0,99 €"
     },
     {
       "appid": "EP0896-CUSA17958_00-RGKNIGHTINBUNDLE",
@@ -802,24 +856,6 @@
       "final_price_str": "2,49 €"
     },
     {
-      "appid": "EP4591-CUSA11217_00-SINNERSACRIFICE0",
-      "name": "SINNER: Sacrifice for Redemption",
-      "discount": 80,
-      "orig_cents": 1899,
-      "final_cents": 379,
-      "orig_price_str": "18,99 €",
-      "final_price_str": "3,79 €"
-    },
-    {
-      "appid": "EP8921-CUSA12051_00-0000000000000000",
-      "name": "Think of the Children",
-      "discount": 80,
-      "orig_cents": 1299,
-      "final_cents": 259,
-      "orig_price_str": "12,99 €",
-      "final_price_str": "2,59 €"
-    },
-    {
       "appid": "EP2601-PPSA13739_00-0349660830475677",
       "name": "Someday You'll Return: Director's Cut",
       "discount": 75,
@@ -1020,24 +1056,6 @@
     {
       "appid": "EP4062-CUSA07180_00-KCDDLCCOLLECTION",
       "name": "Kingdom Come: Deliverance - DLC Collection",
-      "discount": 75,
-      "orig_cents": 1999,
-      "final_cents": 499,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "4,99 €"
-    },
-    {
-      "appid": "EP0177-CUSA12781_00-HOKUTOGOTOGB0000",
-      "name": "Fist of the North Star: Lost Paradise",
-      "discount": 75,
-      "orig_cents": 1999,
-      "final_cents": 499,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "4,99 €"
-    },
-    {
-      "appid": "EP0700-CUSA08767_00-SHINOBISTRIKER01",
-      "name": "NARUTO TO BORUTO: SHINOBI STRIKER",
       "discount": 75,
       "orig_cents": 1999,
       "final_cents": 499,
@@ -1736,15 +1754,6 @@
       "final_cents": 839,
       "orig_price_str": "20,99 €",
       "final_price_str": "8,39 €"
-    },
-    {
-      "appid": "EP3594-CUSA09835_00-DAZW3PACKSIN1000",
-      "name": "DEAD AHEAD:ZOMBIE WARFARE 3 Packs in 1",
-      "discount": 60,
-      "orig_cents": 1299,
-      "final_cents": 519,
-      "orig_price_str": "12,99 €",
-      "final_price_str": "5,19 €"
     },
     {
       "appid": "EP1549-PPSA02401_00-0390571744337777",
@@ -2685,15 +2694,6 @@
     {
       "appid": "EP0102-CUSA30640_00-CAS2WALLPAPERDLC",
       "name": "Capcom Arcade 2nd Stadium: Display Frames Set 1",
-      "discount": 25,
-      "orig_cents": 99,
-      "final_cents": 74,
-      "orig_price_str": "0,99 €",
-      "final_price_str": "0,74 €"
-    },
-    {
-      "appid": "EP0102-CUSA30640_00-CAS2INCENTIVEDLC",
-      "name": "Capcom Arcade 2nd Stadium: Special Display Frames Set",
       "discount": 25,
       "orig_cents": 99,
       "final_cents": 74,

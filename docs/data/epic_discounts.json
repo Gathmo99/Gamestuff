@@ -371,6 +371,16 @@
       "final_price_str": "1,59 €"
     },
     {
+      "appid": "2dbc658d95464cba907532aa4f9c493e",
+      "namespace": "c6e95d6c600d415b84a4df944c09ba88",
+      "name": "Relaxing Simulator",
+      "discount": 75,
+      "orig_cents": 399,
+      "final_cents": 99,
+      "orig_price_str": "3,99 €",
+      "final_price_str": "0,99 €"
+    },
+    {
       "appid": "53e4c1a9bda14e1f84df55dbb012d919",
       "namespace": "928bfa8173f249e6b79d4629b42a760d",
       "name": "Backrooms Bodycam 3",
@@ -1419,16 +1429,6 @@
       "final_cents": 1439,
       "orig_price_str": "17,99 €",
       "final_price_str": "14,39 €"
-    },
-    {
-      "appid": "334b26f9426f4fc78cb1254cd53aa54d",
-      "namespace": "d38fcb1ada04459380fdee4c8d6a3cd4",
-      "name": "Crazy Mosquito Simulator",
-      "discount": 20,
-      "orig_cents": 449,
-      "final_cents": 359,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "3,59 €"
     },
     {
       "appid": "4e07efc216d34bad8e34ed375e556993",
