@@ -51,6 +51,16 @@
       "gamepass": ""
     },
     {
+      "appid": "C0G91V37489H",
+      "name": "LEGO® Marvel Super Heroes 2",
+      "discount": 90,
+      "orig_cents": 5999,
+      "final_cents": 599,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "5,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9NGK2CXP0366",
       "name": "Mittelerde™: Das Schattenpaket",
       "discount": 85,
@@ -81,6 +91,16 @@
       "gamepass": ""
     },
     {
+      "appid": "C1TBTQBVJMFL",
+      "name": "Metro Exodus",
+      "discount": 85,
+      "orig_cents": 2999,
+      "final_cents": 449,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "4,49 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9N7271QN4SGB",
       "name": "Mortal Kombat™ 1",
       "discount": 80,
@@ -98,6 +118,26 @@
       "final_cents": 999,
       "orig_price_str": "49,99 €",
       "final_price_str": "9,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "C2HCDG7L1469",
+      "name": "BioShock: The Collection",
+      "discount": 80,
+      "orig_cents": 4999,
+      "final_cents": 999,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "9,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "C1V1FFWQ7B17",
+      "name": "LEGO Batman",
+      "discount": 80,
+      "orig_cents": 1999,
+      "final_cents": 399,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "3,99 €",
       "gamepass": ""
     },
     {
@@ -181,6 +221,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9P2VGCTBMM52",
+      "name": "Microsoft Flight Simulator 2024 - Standard Edition",
+      "discount": 30,
+      "orig_cents": 7989,
+      "final_cents": 5592,
+      "orig_price_str": "79,89 €",
+      "final_price_str": "55,92 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
       "appid": "9P6HVHDP2PGK",
       "name": "Crimson Desert Enhanced",
       "discount": 20,
@@ -201,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 1300
+  "total": 731
 }
