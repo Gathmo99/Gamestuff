@@ -911,6 +911,16 @@
       "final_price_str": "7,28 €"
     },
     {
+      "appid": "d00f4c29c794458580a0855d3543bfb4",
+      "namespace": "4435a2c4b1224ce6b91e4cb182c52f4c",
+      "name": "Commando:  Heart Of Terror",
+      "discount": 55,
+      "orig_cents": 89,
+      "final_cents": 40,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,40 €"
+    },
+    {
       "appid": "a415f38926c34cdf9d077b60ea3dec67",
       "namespace": "d3f97f301cb746d5b6e15424edb28afc",
       "name": "Gas Station Simulator",
@@ -1491,5 +1501,5 @@
       "final_price_str": "10,52 €"
     }
   ],
-  "total": 149
+  "total": 150
 }
