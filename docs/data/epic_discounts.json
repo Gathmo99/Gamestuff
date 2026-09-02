@@ -21,16 +21,6 @@
       "final_price_str": "0,00 €"
     },
     {
-      "appid": "8401414902e84f2cb9afa9142f051d32",
-      "namespace": "08ae29e4f70a4b62aa055e383381aa82",
-      "name": "Breathedge",
-      "discount": 100,
-      "orig_cents": 2499,
-      "final_cents": 0,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "0,00 €"
-    },
-    {
       "appid": "0b09d98e514b4808a9ba2ff31af8e44f",
       "namespace": "0d151a7a42fe46a381a9f4371c8d572a",
       "name": "Umm Oyoun",
@@ -1401,5 +1391,5 @@
       "final_price_str": "10,52 €"
     }
   ],
-  "total": 140
+  "total": 139
 }

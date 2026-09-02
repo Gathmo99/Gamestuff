@@ -221,16 +221,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9P2VGCTBMM52",
-      "name": "Microsoft Flight Simulator 2024 - Standard Edition",
-      "discount": 30,
-      "orig_cents": 7989,
-      "final_cents": 5592,
-      "orig_price_str": "79,89 €",
-      "final_price_str": "55,92 €",
-      "gamepass": "PC + Xbox"
-    },
-    {
       "appid": "9P6HVHDP2PGK",
       "name": "Crimson Desert Enhanced",
       "discount": 20,
@@ -251,5 +241,5 @@
       "gamepass": ""
     }
   ],
-  "total": 733
+  "total": 734
 }
