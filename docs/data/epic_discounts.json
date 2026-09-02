@@ -11,16 +11,6 @@
       "final_price_str": "0,00 €"
     },
     {
-      "appid": "c2e1cfa7321d4ca4b619e3e1be8de86f",
-      "namespace": "335a2061a040402896e62a5a2c8951b2",
-      "name": "Together After Dark",
-      "discount": 100,
-      "orig_cents": 269,
-      "final_cents": 0,
-      "orig_price_str": "2,69 €",
-      "final_price_str": "0,00 €"
-    },
-    {
       "appid": "76f6442553d4495bb17c6db2c76db4d9",
       "namespace": "7a3a6f05f6e74bba9feea2a35bdab257",
       "name": "NoRush!",
@@ -1269,6 +1259,16 @@
       "final_cents": 404,
       "orig_price_str": "5,39 €",
       "final_price_str": "4,04 €"
+    },
+    {
+      "appid": "4c2fe1aa0037421d8a99690cb010d49e",
+      "namespace": "a2a4bd5acfe340c88ba592fc1f703999",
+      "name": "The Beauty and the CEO",
+      "discount": 20,
+      "orig_cents": 1079,
+      "final_cents": 863,
+      "orig_price_str": "10,79 €",
+      "final_price_str": "8,63 €"
     },
     {
       "appid": "7d0ce32cee924c30bb72c08a85ebe57b",
