@@ -141,6 +141,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9PJXGVSH37F4",
+      "name": "Nobody Wants to Die",
+      "discount": 80,
+      "orig_cents": 2499,
+      "final_cents": 499,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "4,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9P33VJGVPHVP",
       "name": "ARK: Survival Ascended",
       "discount": 75,
@@ -241,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 734
+  "total": 724
 }
