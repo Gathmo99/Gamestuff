@@ -1351,16 +1351,6 @@
       "final_price_str": "10,79 €"
     },
     {
-      "appid": "4416296a17d445ea9587adde810f8324",
-      "namespace": "a17543496ad14e79809aa99ca972d478",
-      "name": "Escape from Duckov",
-      "discount": 20,
-      "orig_cents": 1799,
-      "final_cents": 1439,
-      "orig_price_str": "17,99 €",
-      "final_price_str": "14,39 €"
-    },
-    {
       "appid": "a5fddd4337aa409db3faa4eaa4df54de",
       "namespace": "58eb386001624553a5c2c6fdd9b47fd5",
       "name": "Train Sim World® 7: Standard Edition",
@@ -1391,5 +1381,5 @@
       "final_price_str": "10,52 €"
     }
   ],
-  "total": 139
+  "total": 138
 }
