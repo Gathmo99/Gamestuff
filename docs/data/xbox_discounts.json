@@ -1,153 +1,93 @@
 {
   "items": [
     {
-      "appid": "BTC0L0BW6LWC",
-      "name": "Mortal Kombat 11",
-      "discount": 90,
-      "orig_cents": 4999,
-      "final_cents": 499,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "4,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "BRW49CBS558D",
-      "name": "Batman: Return to Arkham",
-      "discount": 90,
-      "orig_cents": 4999,
-      "final_cents": 499,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "4,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "BPKVH4C4XV4N",
-      "name": "Injustice™ 2",
-      "discount": 90,
-      "orig_cents": 3999,
-      "final_cents": 399,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "3,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "BT3611GR00CQ",
-      "name": "Gotham Knights",
-      "discount": 90,
-      "orig_cents": 7499,
-      "final_cents": 749,
-      "orig_price_str": "74,99 €",
-      "final_price_str": "7,49 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "BWTTW53M5B98",
-      "name": "Battlefield™ 1",
-      "discount": 90,
-      "orig_cents": 1999,
-      "final_cents": 199,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "1,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "C0G91V37489H",
-      "name": "LEGO® Marvel Super Heroes 2",
-      "discount": 90,
-      "orig_cents": 5999,
-      "final_cents": 599,
-      "orig_price_str": "59,99 €",
-      "final_price_str": "5,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9NGK2CXP0366",
-      "name": "Mittelerde™: Das Schattenpaket",
+      "appid": "9N9Z4S1RD397",
+      "name": "Metro Saga Bundle",
       "discount": 85,
-      "orig_cents": 6999,
+      "orig_cents": 5999,
+      "final_cents": 899,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "8,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9PGLL77C201J",
+      "name": "Marvel's Guardians of the Galaxy",
+      "discount": 85,
+      "orig_cents": 6998,
       "final_cents": 1049,
-      "orig_price_str": "69,99 €",
+      "orig_price_str": "69,98 €",
       "final_price_str": "10,49 €",
       "gamepass": ""
     },
     {
-      "appid": "BSLX1RNXR6H7",
-      "name": "Batman™: Arkham Knight",
+      "appid": "BPPTRQZRJ341",
+      "name": "Metro 2033 Redux",
       "discount": 85,
-      "orig_cents": 3499,
-      "final_cents": 524,
-      "orig_price_str": "34,99 €",
-      "final_price_str": "5,24 €",
-      "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "BXHMPV1JT9WH",
-      "name": "Saints Row The Third Remastered",
-      "discount": 85,
-      "orig_cents": 2999,
-      "final_cents": 449,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "4,49 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "C1TBTQBVJMFL",
-      "name": "Metro Exodus",
-      "discount": 85,
-      "orig_cents": 2999,
-      "final_cents": 449,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "4,49 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9N7271QN4SGB",
-      "name": "Mortal Kombat™ 1",
-      "discount": 80,
-      "orig_cents": 4999,
-      "final_cents": 999,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "9,99 €",
-      "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "9PG7MTR0MVP9",
-      "name": "Tomb Raider: Definitive Survivor Trilogy",
-      "discount": 80,
-      "orig_cents": 4999,
-      "final_cents": 999,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "9,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "C2HCDG7L1469",
-      "name": "BioShock: The Collection",
-      "discount": 80,
-      "orig_cents": 4999,
-      "final_cents": 999,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "9,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "C1V1FFWQ7B17",
-      "name": "LEGO Batman",
-      "discount": 80,
       "orig_cents": 1999,
-      "final_cents": 399,
+      "final_cents": 299,
       "orig_price_str": "19,99 €",
-      "final_price_str": "3,99 €",
+      "final_price_str": "2,99 €",
       "gamepass": ""
     },
     {
-      "appid": "9PJXGVSH37F4",
-      "name": "Nobody Wants to Die",
+      "appid": "BQXTS0SX4W0N",
+      "name": "Tomb Raider: Definitive Edition",
+      "discount": 85,
+      "orig_cents": 1999,
+      "final_cents": 299,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "2,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "C3BVG9LGGV75",
+      "name": "Metro Exodus Gold Edition",
+      "discount": 85,
+      "orig_cents": 3999,
+      "final_cents": 599,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "5,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9MW10GX140N1",
+      "name": "Hogwarts Legacy: Digitale Deluxe Edition",
+      "discount": 85,
+      "orig_cents": 8499,
+      "final_cents": 1274,
+      "orig_price_str": "84,99 €",
+      "final_price_str": "12,74 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "C4S60FPWF4XN",
+      "name": "Rise of the Tomb Raider: 20 Year Celebration",
+      "discount": 85,
+      "orig_cents": 2999,
+      "final_cents": 449,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "4,49 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "BNQQ3WVBNZCQ",
+      "name": "Shadow of the Tomb Raider Definitive Edition",
+      "discount": 85,
+      "orig_cents": 3999,
+      "final_cents": 599,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "5,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9PH339L3Z99C",
+      "name": "Red Dead Redemption 2: Ultimate Edition",
       "discount": 80,
-      "orig_cents": 2499,
-      "final_cents": 499,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "4,99 €",
+      "orig_cents": 9999,
+      "final_cents": 1999,
+      "orig_price_str": "99,99 €",
+      "final_price_str": "19,99 €",
       "gamepass": ""
     },
     {
@@ -161,74 +101,104 @@
       "gamepass": "PC + Xbox"
     },
     {
-      "appid": "9NXVC0482QS5",
-      "name": "It Takes Two – Digitale Version",
-      "discount": 70,
-      "orig_cents": 3999,
-      "final_cents": 1199,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "11,99 €",
-      "gamepass": "Xbox"
-    },
-    {
-      "appid": "BWVBNCMF22ZK",
-      "name": "A Way Out",
-      "discount": 70,
-      "orig_cents": 2999,
-      "final_cents": 899,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "8,99 €",
-      "gamepass": "Xbox"
-    },
-    {
-      "appid": "9N3CJZ3HFHTF",
-      "name": "Lords of the Fallen",
-      "discount": 67,
-      "orig_cents": 2999,
-      "final_cents": 989,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "9,89 €",
+      "appid": "9N2ZDN7NWQKV",
+      "name": "Red Dead Redemption 2",
+      "discount": 75,
+      "orig_cents": 5999,
+      "final_cents": 1499,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "14,99 €",
       "gamepass": ""
     },
     {
-      "appid": "BPP4NB1CKGP1",
-      "name": "Call of Duty®: Black Ops III - Zombies Deluxe",
-      "discount": 65,
-      "orig_cents": 9999,
-      "final_cents": 3499,
-      "orig_price_str": "99,99 €",
-      "final_price_str": "34,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9NRLSFM01XTP",
-      "name": "MLB® The Show™ 26 Standard Edition",
-      "discount": 60,
-      "orig_cents": 6999,
-      "final_cents": 2799,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "27,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9P2FF14JZLL3",
-      "name": "Battlefield™ 6",
-      "discount": 50,
-      "orig_cents": 7999,
-      "final_cents": 3999,
-      "orig_price_str": "79,99 €",
-      "final_price_str": "39,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9N1WXXD1RL8D",
-      "name": "Split Fiction",
-      "discount": 35,
+      "appid": "9NRQVQ7ZRM7Z",
+      "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "discount": 75,
       "orig_cents": 4999,
-      "final_cents": 3249,
+      "final_cents": 1249,
       "orig_price_str": "49,99 €",
-      "final_price_str": "32,49 €",
+      "final_price_str": "12,49 €",
       "gamepass": ""
+    },
+    {
+      "appid": "9MXMJFNZMVWD",
+      "name": "Grand Theft Auto: The Trilogy – The Definitive Edition",
+      "discount": 67,
+      "orig_cents": 5999,
+      "final_cents": 1979,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "19,79 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "BRQ2SCZCTXF2",
+      "name": "Grand Theft Auto IV",
+      "discount": 65,
+      "orig_cents": 2499,
+      "final_cents": 874,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "8,74 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9P8RQH67TTT1",
+      "name": "Grand Theft Auto V (Xbox One & Xbox Series X|S)",
+      "discount": 50,
+      "orig_cents": 3999,
+      "final_cents": 1999,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "19,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9P5B3ZVDK19D",
+      "name": "Red Dead Redemption",
+      "discount": 50,
+      "orig_cents": 4999,
+      "final_cents": 2499,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "24,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NXFX68ZNKK0",
+      "name": "Grand Theft Auto V Enhanced (PC)",
+      "discount": 50,
+      "orig_cents": 2999,
+      "final_cents": 1499,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "14,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "C10GWTNNNBZ8",
+      "name": "Castle Crashers Remastered",
+      "discount": 50,
+      "orig_cents": 1499,
+      "final_cents": 749,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "7,49 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "C2WKJJ9F5936",
+      "name": "Fable II",
+      "discount": 50,
+      "orig_cents": 1999,
+      "final_cents": 999,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "9,99 €",
+      "gamepass": "Xbox"
+    },
+    {
+      "appid": "BR46KM4D5B9L",
+      "name": "Fable III",
+      "discount": 50,
+      "orig_cents": 1999,
+      "final_cents": 999,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "9,99 €",
+      "gamepass": "Xbox"
     },
     {
       "appid": "9P6HVHDP2PGK",
@@ -249,7 +219,37 @@
       "orig_price_str": "79,99 €",
       "final_price_str": "63,99 €",
       "gamepass": ""
+    },
+    {
+      "appid": "9PJ6RKQH3VFX",
+      "name": "Hidden Cats in Barcelona",
+      "discount": 20,
+      "orig_cents": 399,
+      "final_cents": 319,
+      "orig_price_str": "3,99 €",
+      "final_price_str": "3,19 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NPF9F0DCVKS",
+      "name": "007 First Light - Standard Edition",
+      "discount": 20,
+      "orig_cents": 6999,
+      "final_cents": 5599,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "55,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NSKMK4ZL1P9",
+      "name": "Crimson Desert Enhanced Deluxe-Edition",
+      "discount": 20,
+      "orig_cents": 7999,
+      "final_cents": 6399,
+      "orig_price_str": "79,99 €",
+      "final_price_str": "63,99 €",
+      "gamepass": ""
     }
   ],
-  "total": 723
+  "total": 1516
 }
