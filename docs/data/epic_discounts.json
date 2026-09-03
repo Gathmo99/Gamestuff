@@ -621,16 +621,6 @@
       "final_price_str": "4,04 €"
     },
     {
-      "appid": "d01b72a491cc4a7696a9dc11fefe8405",
-      "namespace": "5deb3472640c45f5b47d6d005aa0cb98",
-      "name": "Eternal Strands",
-      "discount": 70,
-      "orig_cents": 2699,
-      "final_cents": 809,
-      "orig_price_str": "26,99 €",
-      "final_price_str": "8,09 €"
-    },
-    {
       "appid": "549ee172f61047a581239d0ddbed8337",
       "namespace": "26e816a28d56493088348af11906671a",
       "name": "Safety First!",
@@ -659,16 +649,6 @@
       "final_cents": 923,
       "orig_price_str": "27,99 €",
       "final_price_str": "9,23 €"
-    },
-    {
-      "appid": "3d11f228c8a442318bc17abf13f7db3b",
-      "namespace": "bc51d32ca88b41bda1e50f5876c0b16e",
-      "name": "The Stone of Madness",
-      "discount": 67,
-      "orig_cents": 2699,
-      "final_cents": 890,
-      "orig_price_str": "26,99 €",
-      "final_price_str": "8,90 €"
     },
     {
       "appid": "fdb8e45ac4404062b6f087b19e24a066",
@@ -959,16 +939,6 @@
       "final_cents": 179,
       "orig_price_str": "4,49 €",
       "final_price_str": "1,79 €"
-    },
-    {
-      "appid": "3a2b656472ba486c9897fa50fbfbff4b",
-      "namespace": "8f8f6f0f4e3c492aac38c828ea2f763a",
-      "name": "Tails of Iron 2: Whiskers of Winter",
-      "discount": 60,
-      "orig_cents": 2499,
-      "final_cents": 999,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "9,99 €"
     },
     {
       "appid": "5e7015b65e174329a90b50fc90194224",
@@ -1631,6 +1601,16 @@
       "final_price_str": "4,49 €"
     },
     {
+      "appid": "8f973e9b72a94bd2b6d3aa4013cefa5d",
+      "namespace": "89f17acf3032497eb85fc3a503b67cf3",
+      "name": "The One",
+      "discount": 50,
+      "orig_cents": 899,
+      "final_cents": 449,
+      "orig_price_str": "8,99 €",
+      "final_price_str": "4,49 €"
+    },
+    {
       "appid": "f4ce42b6608f44febc2776539cf5a629",
       "namespace": "d49999c8fe5f4c6da446b3665e178a75",
       "name": "Mandragora: Whispers of the Witch Tree",
@@ -1679,6 +1659,16 @@
       "final_cents": 2499,
       "orig_price_str": "49,99 €",
       "final_price_str": "24,99 €"
+    },
+    {
+      "appid": "331226ba7c944720baa99103cb1fe80c",
+      "namespace": "b0cd075465c44f87be3b505ac04a2e46",
+      "name": "Grand Theft Auto V Enhanced",
+      "discount": 50,
+      "orig_cents": 2999,
+      "final_cents": 1499,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "14,99 €"
     },
     {
       "appid": "65afe1bae0f5449191d28d5ef63caa32",
@@ -2541,6 +2531,16 @@
       "final_price_str": "8,81 €"
     },
     {
+      "appid": "439c8da488ff4d7288558f000b532659",
+      "namespace": "144f5a0a7b55497eb327f2a90ccf0a15",
+      "name": "Stocking Angel",
+      "discount": 25,
+      "orig_cents": 449,
+      "final_cents": 336,
+      "orig_price_str": "4,49 €",
+      "final_price_str": "3,36 €"
+    },
+    {
       "appid": "359f0e7d08a14b6db656522f016e5ea5",
       "namespace": "a5a82a0ca371468cb35a9a47e4747082",
       "name": "Monument Valley 3",
@@ -3001,5 +3001,5 @@
       "final_price_str": "3,59 €"
     }
   ],
-  "total": 1269
+  "total": 1273
 }

@@ -21,13 +21,13 @@
       "gamepass": ""
     },
     {
-      "appid": "BPPTRQZRJ341",
-      "name": "Metro 2033 Redux",
+      "appid": "9MW10GX140N1",
+      "name": "Hogwarts Legacy: Digitale Deluxe Edition",
       "discount": 85,
-      "orig_cents": 1999,
-      "final_cents": 299,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "2,99 €",
+      "orig_cents": 8499,
+      "final_cents": 1274,
+      "orig_price_str": "84,99 €",
+      "final_price_str": "12,74 €",
       "gamepass": ""
     },
     {
@@ -51,16 +51,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9MW10GX140N1",
-      "name": "Hogwarts Legacy: Digitale Deluxe Edition",
-      "discount": 85,
-      "orig_cents": 8499,
-      "final_cents": 1274,
-      "orig_price_str": "84,99 €",
-      "final_price_str": "12,74 €",
-      "gamepass": ""
-    },
-    {
       "appid": "C4S60FPWF4XN",
       "name": "Rise of the Tomb Raider: 20 Year Celebration",
       "discount": 85,
@@ -81,6 +71,26 @@
       "gamepass": ""
     },
     {
+      "appid": "BQT9LF5VCDPC",
+      "name": "Saints Row IV: Re-Elected & Gat out of Hell",
+      "discount": 85,
+      "orig_cents": 2999,
+      "final_cents": 449,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "4,49 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "BPPTRQZRJ341",
+      "name": "Metro 2033 Redux",
+      "discount": 85,
+      "orig_cents": 1999,
+      "final_cents": 299,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "2,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9PH339L3Z99C",
       "name": "Red Dead Redemption 2: Ultimate Edition",
       "discount": 80,
@@ -91,14 +101,14 @@
       "gamepass": ""
     },
     {
-      "appid": "9P33VJGVPHVP",
-      "name": "ARK: Survival Ascended",
-      "discount": 75,
-      "orig_cents": 4499,
-      "final_cents": 1124,
-      "orig_price_str": "44,99 €",
-      "final_price_str": "11,24 €",
-      "gamepass": "PC + Xbox"
+      "appid": "9NKG0X1MGQTX",
+      "name": "Mafia Trilogy",
+      "discount": 80,
+      "orig_cents": 5999,
+      "final_cents": 1199,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "11,99 €",
+      "gamepass": ""
     },
     {
       "appid": "9N2ZDN7NWQKV",
@@ -111,14 +121,14 @@
       "gamepass": ""
     },
     {
-      "appid": "9NRQVQ7ZRM7Z",
-      "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "appid": "9P33VJGVPHVP",
+      "name": "ARK: Survival Ascended",
       "discount": 75,
-      "orig_cents": 4999,
-      "final_cents": 1249,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "12,49 €",
-      "gamepass": ""
+      "orig_cents": 4499,
+      "final_cents": 1124,
+      "orig_price_str": "44,99 €",
+      "final_price_str": "11,24 €",
+      "gamepass": "PC + Xbox"
     },
     {
       "appid": "9MXMJFNZMVWD",
@@ -171,16 +181,6 @@
       "gamepass": ""
     },
     {
-      "appid": "C10GWTNNNBZ8",
-      "name": "Castle Crashers Remastered",
-      "discount": 50,
-      "orig_cents": 1499,
-      "final_cents": 749,
-      "orig_price_str": "14,99 €",
-      "final_price_str": "7,49 €",
-      "gamepass": ""
-    },
-    {
       "appid": "C2WKJJ9F5936",
       "name": "Fable II",
       "discount": 50,
@@ -221,6 +221,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9NSKMK4ZL1P9",
+      "name": "Crimson Desert Enhanced Deluxe-Edition",
+      "discount": 20,
+      "orig_cents": 7999,
+      "final_cents": 6399,
+      "orig_price_str": "79,99 €",
+      "final_price_str": "63,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9PJ6RKQH3VFX",
       "name": "Hidden Cats in Barcelona",
       "discount": 20,
@@ -239,17 +249,7 @@
       "orig_price_str": "69,99 €",
       "final_price_str": "55,99 €",
       "gamepass": ""
-    },
-    {
-      "appid": "9NSKMK4ZL1P9",
-      "name": "Crimson Desert Enhanced Deluxe-Edition",
-      "discount": 20,
-      "orig_cents": 7999,
-      "final_cents": 6399,
-      "orig_price_str": "79,99 €",
-      "final_price_str": "63,99 €",
-      "gamepass": ""
     }
   ],
-  "total": 1516
+  "total": 1518
 }
