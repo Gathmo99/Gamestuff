@@ -81,6 +81,16 @@
       "gamepass": ""
     },
     {
+      "appid": "BPPTRQZRJ341",
+      "name": "Metro 2033 Redux",
+      "discount": 85,
+      "orig_cents": 1999,
+      "final_cents": 299,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "2,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9PH339L3Z99C",
       "name": "Red Dead Redemption 2: Ultimate Edition",
       "discount": 80,
@@ -241,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 1520
+  "total": 1514
 }
