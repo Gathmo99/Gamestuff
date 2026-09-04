@@ -1,3 +1,10 @@
 {
-  "items": []
+  "items": [
+    {
+      "appid": "b8cc76ce7d6645f0a282b843a072cc78",
+      "name": "Alone With You",
+      "orig_cents": 899,
+      "orig_price_str": "8,99 €"
+    }
+  ]
 }
