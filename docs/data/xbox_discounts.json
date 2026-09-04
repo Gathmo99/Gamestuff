@@ -81,16 +81,6 @@
       "gamepass": ""
     },
     {
-      "appid": "BPPTRQZRJ341",
-      "name": "Metro 2033 Redux",
-      "discount": 85,
-      "orig_cents": 1999,
-      "final_cents": 299,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "2,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9PH339L3Z99C",
       "name": "Red Dead Redemption 2: Ultimate Edition",
       "discount": 80,
@@ -121,16 +111,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9P33VJGVPHVP",
-      "name": "ARK: Survival Ascended",
-      "discount": 75,
-      "orig_cents": 4499,
-      "final_cents": 1124,
-      "orig_price_str": "44,99 €",
-      "final_price_str": "11,24 €",
-      "gamepass": "PC + Xbox"
-    },
-    {
       "appid": "9MXMJFNZMVWD",
       "name": "Grand Theft Auto: The Trilogy – The Definitive Edition",
       "discount": 67,
@@ -148,6 +128,16 @@
       "final_cents": 874,
       "orig_price_str": "24,99 €",
       "final_price_str": "8,74 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9PC1ZMD65L0T",
+      "name": "DAVE THE DIVER",
+      "discount": 50,
+      "orig_cents": 1999,
+      "final_cents": 999,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "9,99 €",
       "gamepass": ""
     },
     {
@@ -251,5 +241,5 @@
       "gamepass": ""
     }
   ],
-  "total": 1519
+  "total": 1520
 }
