@@ -21,6 +21,16 @@
       "final_price_str": "0,10 €"
     },
     {
+      "appid": "01788ca3ba2c43958b5d70939df5aa97",
+      "namespace": "a1999b7ecf184f63b4dceba2bbdc4b2c",
+      "name": "Countrytale 2010",
+      "discount": 95,
+      "orig_cents": 1799,
+      "final_cents": 89,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "0,89 €"
+    },
+    {
       "appid": "355125c69cd441e8acb5813e8c00087d",
       "namespace": "e77822cfdc4a4f31bda674e3b155349e",
       "name": "Hexguardian",
@@ -249,26 +259,6 @@
       "final_cents": 479,
       "orig_price_str": "23,99 €",
       "final_price_str": "4,79 €"
-    },
-    {
-      "appid": "eb5454e002764abaa00b741393aa7600",
-      "namespace": "e192ef1dbcce4fdc8cca1afb9adc05db",
-      "name": "Killer Frequency",
-      "discount": 80,
-      "orig_cents": 2499,
-      "final_cents": 499,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "4,99 €"
-    },
-    {
-      "appid": "422ed00fef0b42efa56662c97b0e9d60",
-      "namespace": "44277238c30648d6ad4bee97e27c4a3c",
-      "name": "Sunday Gold",
-      "discount": 80,
-      "orig_cents": 2199,
-      "final_cents": 439,
-      "orig_price_str": "21,99 €",
-      "final_price_str": "4,39 €"
     },
     {
       "appid": "2380ff7131674e7194f4cd81067ffeba",
@@ -1691,16 +1681,6 @@
       "final_price_str": "14,99 €"
     },
     {
-      "appid": "65afe1bae0f5449191d28d5ef63caa32",
-      "namespace": "eb9cdf6dbe4b47fc8ba474017023476a",
-      "name": "Sid Meier's Civilization® VII",
-      "discount": 50,
-      "orig_cents": 6999,
-      "final_cents": 3499,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "34,99 €"
-    },
-    {
       "appid": "2c75bb68cfa84aabbea3504f57197611",
       "namespace": "de2550653b9146cbbabbc4c628870d51",
       "name": "Formula Legends",
@@ -2281,6 +2261,16 @@
       "final_price_str": "40,19 €"
     },
     {
+      "appid": "b4d5827c687044f6ae25bc532dafe300",
+      "namespace": "6955df656a56486aa3cd6ae1d415dab6",
+      "name": "Tiny Terraces",
+      "discount": 33,
+      "orig_cents": 629,
+      "final_cents": 421,
+      "orig_price_str": "6,29 €",
+      "final_price_str": "4,21 €"
+    },
+    {
       "appid": "8d6e9c9398b0402e8097e14c6206c491",
       "namespace": "4193c9fd2f41405f813f828cce02d132",
       "name": "ENDLESS Dungeon™ - Definitive Edition",
@@ -2509,6 +2499,16 @@
       "final_cents": 503,
       "orig_price_str": "7,19 €",
       "final_price_str": "5,03 €"
+    },
+    {
+      "appid": "058e1bc5ca274e27ad065c796fa66908",
+      "namespace": "9bba70fad897401d8ca7096c7674faa5",
+      "name": "FATE: Reawakened",
+      "discount": 30,
+      "orig_cents": 2499,
+      "final_cents": 1749,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "17,49 €"
     },
     {
       "appid": "6da963414da14afca5b966d16f61c662",
@@ -3001,5 +3001,5 @@
       "final_price_str": "8,63 €"
     }
   ],
-  "total": 1293
+  "total": 1296
 }
