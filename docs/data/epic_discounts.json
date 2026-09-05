@@ -1681,6 +1681,16 @@
       "final_price_str": "14,99 €"
     },
     {
+      "appid": "65afe1bae0f5449191d28d5ef63caa32",
+      "namespace": "eb9cdf6dbe4b47fc8ba474017023476a",
+      "name": "Sid Meier's Civilization® VII",
+      "discount": 50,
+      "orig_cents": 6999,
+      "final_cents": 3499,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "34,99 €"
+    },
+    {
       "appid": "2c75bb68cfa84aabbea3504f57197611",
       "namespace": "de2550653b9146cbbabbc4c628870d51",
       "name": "Formula Legends",
@@ -1719,16 +1729,6 @@
       "final_cents": 1276,
       "orig_price_str": "22,39 €",
       "final_price_str": "12,76 €"
-    },
-    {
-      "appid": "17929458a5b84dcdb443964e84a0920c",
-      "namespace": "d2558c333a3c4f018b8fae8c95ba9e14",
-      "name": "We Are The Dwarves",
-      "discount": 40,
-      "orig_cents": 1079,
-      "final_cents": 647,
-      "orig_price_str": "10,79 €",
-      "final_price_str": "6,47 €"
     },
     {
       "appid": "56629cd744f442de8119fde2eee4bda8",
@@ -3001,5 +3001,5 @@
       "final_price_str": "8,63 €"
     }
   ],
-  "total": 1296
+  "total": 1295
 }

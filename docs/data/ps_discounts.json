@@ -19,7 +19,7 @@
       "final_price_str": "1,99 €"
     },
     {
-      "appid": "EP1877-CUSA30959_00-FOBIA00000000000",
+      "appid": "EP1877-PPSA05626_00-FOBIA00000000000",
       "name": "Fobia - St. Dinfna Hotel",
       "discount": 90,
       "orig_cents": 2999,
@@ -28,7 +28,7 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "EP1877-PPSA05626_00-FOBIA00000000000",
+      "appid": "EP1877-CUSA30959_00-FOBIA00000000000",
       "name": "Fobia - St. Dinfna Hotel",
       "discount": 90,
       "orig_cents": 2999,
@@ -604,7 +604,7 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "EP2955-PPSA06109_00-INNIGHTMARE00000",
+      "appid": "EP2955-CUSA28258_00-INNIGHTMARE00000",
       "name": "In Nightmare",
       "discount": 80,
       "orig_cents": 1999,
@@ -613,7 +613,7 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "EP2955-CUSA28258_00-INNIGHTMARE00000",
+      "appid": "EP2955-PPSA06109_00-INNIGHTMARE00000",
       "name": "In Nightmare",
       "discount": 80,
       "orig_cents": 1999,
@@ -1090,7 +1090,7 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "EP4312-CUSA34426_00-0885061236571211",
+      "appid": "EP4312-PPSA08370_00-0212168363073978",
       "name": "Burger Fun Mini Game Bundle",
       "discount": 70,
       "orig_cents": 1499,
@@ -1099,7 +1099,7 @@
       "final_price_str": "4,49 €"
     },
     {
-      "appid": "EP4312-PPSA08370_00-0212168363073978",
+      "appid": "EP4312-CUSA34426_00-0885061236571211",
       "name": "Burger Fun Mini Game Bundle",
       "discount": 70,
       "orig_cents": 1499,
@@ -2647,15 +2647,6 @@
       "final_price_str": "13,99 €"
     },
     {
-      "appid": "EP6853-PPSA05425_00-DLCRAVEN00000000",
-      "name": "World War Z - Raven Weapons Skin Pack",
-      "discount": 30,
-      "orig_cents": 499,
-      "final_cents": 349,
-      "orig_price_str": "4,99 €",
-      "final_price_str": "3,49 €"
-    },
-    {
       "appid": "EP2609-CUSA13930_00-DLCRAVEN00000000",
       "name": "World War Z - Raven Weapons Skin Pack",
       "discount": 30,
@@ -2665,13 +2656,13 @@
       "final_price_str": "3,49 €"
     },
     {
-      "appid": "EP4312-PPSA08370_00-0184769801435278",
-      "name": "Burger Fun",
+      "appid": "EP6853-PPSA05425_00-DLCRAVEN00000000",
+      "name": "World War Z - Raven Weapons Skin Pack",
       "discount": 30,
-      "orig_cents": 349,
-      "final_cents": 244,
-      "orig_price_str": "3,49 €",
-      "final_price_str": "2,44 €"
+      "orig_cents": 499,
+      "final_cents": 349,
+      "orig_price_str": "4,99 €",
+      "final_price_str": "3,49 €"
     },
     {
       "appid": "EP4312-CUSA34426_00-6972559664657494",
@@ -2681,6 +2672,15 @@
       "final_cents": 251,
       "orig_price_str": "3,59 €",
       "final_price_str": "2,51 €"
+    },
+    {
+      "appid": "EP4312-PPSA08370_00-0184769801435278",
+      "name": "Burger Fun",
+      "discount": 30,
+      "orig_cents": 349,
+      "final_cents": 244,
+      "orig_price_str": "3,49 €",
+      "final_price_str": "2,44 €"
     },
     {
       "appid": "EP6738-PPSA07780_00-0164863067548588",
