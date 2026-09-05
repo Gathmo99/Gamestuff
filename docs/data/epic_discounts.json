@@ -261,6 +261,16 @@
       "final_price_str": "4,79 €"
     },
     {
+      "appid": "eb5454e002764abaa00b741393aa7600",
+      "namespace": "e192ef1dbcce4fdc8cca1afb9adc05db",
+      "name": "Killer Frequency",
+      "discount": 80,
+      "orig_cents": 2499,
+      "final_cents": 499,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "4,99 €"
+    },
+    {
       "appid": "2380ff7131674e7194f4cd81067ffeba",
       "namespace": "e93b00445c57495b8bec3664fcd679c4",
       "name": "The Artful Escape",
@@ -379,16 +389,6 @@
       "final_cents": 374,
       "orig_price_str": "14,99 €",
       "final_price_str": "3,74 €"
-    },
-    {
-      "appid": "5ea0c80f094c493a9d726a12b482eda8",
-      "namespace": "6952f77c70cf43e6b61e312d7aa60a82",
-      "name": "001 Game Creator",
-      "discount": 75,
-      "orig_cents": 7199,
-      "final_cents": 1799,
-      "orig_price_str": "71,99 €",
-      "final_price_str": "17,99 €"
     },
     {
       "appid": "70743bc1d3cc427da8b55e1bc79ca95c",
@@ -3001,5 +3001,5 @@
       "final_price_str": "8,63 €"
     }
   ],
-  "total": 1295
+  "total": 1294
 }
