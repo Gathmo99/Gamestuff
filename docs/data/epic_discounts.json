@@ -261,16 +261,6 @@
       "final_price_str": "4,79 €"
     },
     {
-      "appid": "eb5454e002764abaa00b741393aa7600",
-      "namespace": "e192ef1dbcce4fdc8cca1afb9adc05db",
-      "name": "Killer Frequency",
-      "discount": 80,
-      "orig_cents": 2499,
-      "final_cents": 499,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "4,99 €"
-    },
-    {
       "appid": "2380ff7131674e7194f4cd81067ffeba",
       "namespace": "e93b00445c57495b8bec3664fcd679c4",
       "name": "The Artful Escape",
@@ -1431,6 +1421,16 @@
       "final_price_str": "2,24 €"
     },
     {
+      "appid": "8547da63b6d4400998556d9dfe03adc0",
+      "namespace": "171e18073bb14614afece915f51b0a25",
+      "name": "Folly of the Wizards",
+      "discount": 50,
+      "orig_cents": 2699,
+      "final_cents": 1349,
+      "orig_price_str": "26,99 €",
+      "final_price_str": "13,49 €"
+    },
+    {
       "appid": "6d7bfc121f4747da81aa5ed1c9303992",
       "namespace": "bce77c3a15d24a188f708445b08bf0f6",
       "name": "Store It!",
@@ -1459,6 +1459,16 @@
       "final_cents": 3499,
       "orig_price_str": "69,99 €",
       "final_price_str": "34,99 €"
+    },
+    {
+      "appid": "d9f11541346e453a9e353c50d250f4e8",
+      "namespace": "7839073b446a4973b6c41efca8b17519",
+      "name": "Neon Apex - Beyond the Limit",
+      "discount": 50,
+      "orig_cents": 2239,
+      "final_cents": 1119,
+      "orig_price_str": "22,39 €",
+      "final_price_str": "11,19 €"
     },
     {
       "appid": "f4caab117f9a4594a920d19e6089172c",
@@ -1681,16 +1691,6 @@
       "final_price_str": "14,99 €"
     },
     {
-      "appid": "65afe1bae0f5449191d28d5ef63caa32",
-      "namespace": "eb9cdf6dbe4b47fc8ba474017023476a",
-      "name": "Sid Meier's Civilization® VII",
-      "discount": 50,
-      "orig_cents": 6999,
-      "final_cents": 3499,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "34,99 €"
-    },
-    {
       "appid": "2c75bb68cfa84aabbea3504f57197611",
       "namespace": "de2550653b9146cbbabbc4c628870d51",
       "name": "Formula Legends",
@@ -1709,16 +1709,6 @@
       "final_cents": 1484,
       "orig_price_str": "26,99 €",
       "final_price_str": "14,84 €"
-    },
-    {
-      "appid": "ac9d70b5060d4471b5ab6fad076bec1b",
-      "namespace": "7e999b7f8b6a41c0933fdd304e9e7258",
-      "name": "Summer Dates",
-      "discount": 45,
-      "orig_cents": 359,
-      "final_cents": 197,
-      "orig_price_str": "3,59 €",
-      "final_price_str": "1,97 €"
     },
     {
       "appid": "9c5ab335b1d2455b8c78d493c17a203f",
@@ -2711,6 +2701,16 @@
       "final_price_str": "18,74 €"
     },
     {
+      "appid": "b8575f59d63942a08ce76d9783d4e7b0",
+      "namespace": "97dd3cfc5bc14452918bc641d6b5ee5a",
+      "name": "Lumo 2",
+      "discount": 25,
+      "orig_cents": 2239,
+      "final_cents": 1679,
+      "orig_price_str": "22,39 €",
+      "final_price_str": "16,79 €"
+    },
+    {
       "appid": "fb0cd3369ad847ccbd40b1806709e706",
       "namespace": "707ae8570efa44aa9071d48251784e4c",
       "name": "Diorama Builder",
@@ -3001,5 +3001,5 @@
       "final_price_str": "8,63 €"
     }
   ],
-  "total": 1294
+  "total": 1298
 }
