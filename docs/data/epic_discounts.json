@@ -1301,6 +1301,16 @@
       "final_price_str": "9,99 €"
     },
     {
+      "appid": "7f48b836da4d410bb6e4c65beb0280c1",
+      "namespace": "be2c119d693440b58a97ac9aa41cb341",
+      "name": "The last roman village",
+      "discount": 50,
+      "orig_cents": 359,
+      "final_cents": 179,
+      "orig_price_str": "3,59 €",
+      "final_price_str": "1,79 €"
+    },
+    {
       "appid": "f8e8af9efd9345c6a087341bc7f156b6",
       "namespace": "7a756993b3074301ab040cf6fc0f4924",
       "name": "Legacy of Kain: Defiance Remastered",
@@ -1689,16 +1699,6 @@
       "final_cents": 1499,
       "orig_price_str": "29,99 €",
       "final_price_str": "14,99 €"
-    },
-    {
-      "appid": "65afe1bae0f5449191d28d5ef63caa32",
-      "namespace": "eb9cdf6dbe4b47fc8ba474017023476a",
-      "name": "Sid Meier's Civilization® VII",
-      "discount": 50,
-      "orig_cents": 6999,
-      "final_cents": 3499,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "34,99 €"
     },
     {
       "appid": "2c75bb68cfa84aabbea3504f57197611",
@@ -3001,5 +3001,5 @@
       "final_price_str": "8,63 €"
     }
   ],
-  "total": 1296
+  "total": 1298
 }
