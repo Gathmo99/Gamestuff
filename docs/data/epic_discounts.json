@@ -1711,6 +1711,16 @@
       "final_price_str": "14,84 €"
     },
     {
+      "appid": "ac9d70b5060d4471b5ab6fad076bec1b",
+      "namespace": "7e999b7f8b6a41c0933fdd304e9e7258",
+      "name": "Summer Dates",
+      "discount": 45,
+      "orig_cents": 359,
+      "final_cents": 197,
+      "orig_price_str": "3,59 €",
+      "final_price_str": "1,97 €"
+    },
+    {
       "appid": "9c5ab335b1d2455b8c78d493c17a203f",
       "namespace": "a39b5c89fbcb44278924f9cab93dd234",
       "name": "ASYLUM",
@@ -2501,16 +2511,6 @@
       "final_price_str": "17,49 €"
     },
     {
-      "appid": "6da963414da14afca5b966d16f61c662",
-      "namespace": "90bee0aa70914b1b89bcc06038f9eaae",
-      "name": "DIRECT CONTACT",
-      "discount": 30,
-      "orig_cents": 1259,
-      "final_cents": 881,
-      "orig_price_str": "12,59 €",
-      "final_price_str": "8,81 €"
-    },
-    {
       "appid": "439c8da488ff4d7288558f000b532659",
       "namespace": "144f5a0a7b55497eb327f2a90ccf0a15",
       "name": "Stocking Angel",
@@ -3001,5 +3001,5 @@
       "final_price_str": "8,63 €"
     }
   ],
-  "total": 1298
+  "total": 1297
 }
