@@ -1691,6 +1691,16 @@
       "final_price_str": "14,99 €"
     },
     {
+      "appid": "65afe1bae0f5449191d28d5ef63caa32",
+      "namespace": "eb9cdf6dbe4b47fc8ba474017023476a",
+      "name": "Sid Meier's Civilization® VII",
+      "discount": 50,
+      "orig_cents": 6999,
+      "final_cents": 3499,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "34,99 €"
+    },
+    {
       "appid": "2c75bb68cfa84aabbea3504f57197611",
       "namespace": "de2550653b9146cbbabbc4c628870d51",
       "name": "Formula Legends",
@@ -2541,26 +2551,6 @@
       "final_price_str": "10,11 €"
     },
     {
-      "appid": "37067b8b96a8416a905fe059989d2aef",
-      "namespace": "961f185110a942ffa7c56a6abdbe17b4",
-      "name": "Blind Date Plan",
-      "discount": 25,
-      "orig_cents": 1259,
-      "final_cents": 944,
-      "orig_price_str": "12,59 €",
-      "final_price_str": "9,44 €"
-    },
-    {
-      "appid": "b3d1afc54a98427f8c2bfe8145038292",
-      "namespace": "84379508bebb4c959c7193fa47c5154b",
-      "name": "Teacher Ximen Qing",
-      "discount": 25,
-      "orig_cents": 449,
-      "final_cents": 336,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "3,36 €"
-    },
-    {
       "appid": "86359b18c7794ba4ab1e319824c854bd",
       "namespace": "6ee27a9aae044b3294cb3c0409632479",
       "name": "Deer & Boy",
@@ -2719,6 +2709,16 @@
       "final_cents": 336,
       "orig_price_str": "4,49 €",
       "final_price_str": "3,36 €"
+    },
+    {
+      "appid": "e5d61d50b5fe4abeafe342abc273e72a",
+      "namespace": "a736108eeba14dd0bdda08d963e8663e",
+      "name": "Curse of Pirates",
+      "discount": 20,
+      "orig_cents": 899,
+      "final_cents": 719,
+      "orig_price_str": "8,99 €",
+      "final_price_str": "7,19 €"
     },
     {
       "appid": "4c2fe1aa0037421d8a99690cb010d49e",

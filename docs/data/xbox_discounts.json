@@ -11,16 +11,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9PGLL77C201J",
-      "name": "Marvel's Guardians of the Galaxy",
-      "discount": 85,
-      "orig_cents": 6998,
-      "final_cents": 1049,
-      "orig_price_str": "69,98 €",
-      "final_price_str": "10,49 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9MW10GX140N1",
       "name": "Hogwarts Legacy: Digitale Deluxe Edition",
       "discount": 85,
@@ -28,6 +18,16 @@
       "final_cents": 1274,
       "orig_price_str": "84,99 €",
       "final_price_str": "12,74 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9PGLL77C201J",
+      "name": "Marvel's Guardians of the Galaxy",
+      "discount": 85,
+      "orig_cents": 6998,
+      "final_cents": 1049,
+      "orig_price_str": "69,98 €",
+      "final_price_str": "10,49 €",
       "gamepass": ""
     },
     {
@@ -51,16 +51,6 @@
       "gamepass": ""
     },
     {
-      "appid": "C4S60FPWF4XN",
-      "name": "Rise of the Tomb Raider: 20 Year Celebration",
-      "discount": 85,
-      "orig_cents": 2999,
-      "final_cents": 449,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "4,49 €",
-      "gamepass": ""
-    },
-    {
       "appid": "BNQQ3WVBNZCQ",
       "name": "Shadow of the Tomb Raider Definitive Edition",
       "discount": 85,
@@ -68,6 +58,16 @@
       "final_cents": 599,
       "orig_price_str": "39,99 €",
       "final_price_str": "5,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "C4S60FPWF4XN",
+      "name": "Rise of the Tomb Raider: 20 Year Celebration",
+      "discount": 85,
+      "orig_cents": 2999,
+      "final_cents": 449,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "4,49 €",
       "gamepass": ""
     },
     {
@@ -161,16 +161,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9P5B3ZVDK19D",
-      "name": "Red Dead Redemption",
-      "discount": 50,
-      "orig_cents": 4999,
-      "final_cents": 2499,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "24,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9NXFX68ZNKK0",
       "name": "Grand Theft Auto V Enhanced (PC)",
       "discount": 50,
@@ -178,6 +168,16 @@
       "final_cents": 1499,
       "orig_price_str": "29,99 €",
       "final_price_str": "14,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9P5B3ZVDK19D",
+      "name": "Red Dead Redemption",
+      "discount": 50,
+      "orig_cents": 4999,
+      "final_cents": 2499,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "24,99 €",
       "gamepass": ""
     },
     {
