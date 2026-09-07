@@ -19,7 +19,7 @@
       "final_price_str": "1,99 €"
     },
     {
-      "appid": "EP1877-CUSA30959_00-FOBIA00000000000",
+      "appid": "EP1877-PPSA05626_00-FOBIA00000000000",
       "name": "Fobia - St. Dinfna Hotel",
       "discount": 90,
       "orig_cents": 2999,
@@ -28,7 +28,7 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "EP1877-PPSA05626_00-FOBIA00000000000",
+      "appid": "EP1877-CUSA30959_00-FOBIA00000000000",
       "name": "Fobia - St. Dinfna Hotel",
       "discount": 90,
       "orig_cents": 2999,
@@ -361,7 +361,7 @@
       "final_price_str": "2,24 €"
     },
     {
-      "appid": "EP6665-PPSA07302_00-VTMS000000000000",
+      "appid": "EP6665-CUSA33241_00-VTMS000000000000",
       "name": "Vampire: The Masquerade - Swansong",
       "discount": 85,
       "orig_cents": 2999,
@@ -370,7 +370,7 @@
       "final_price_str": "4,49 €"
     },
     {
-      "appid": "EP6665-CUSA33241_00-VTMS000000000000",
+      "appid": "EP6665-PPSA07302_00-VTMS000000000000",
       "name": "Vampire: The Masquerade - Swansong",
       "discount": 85,
       "orig_cents": 2999,
@@ -1117,7 +1117,7 @@
       "final_price_str": "1,49 €"
     },
     {
-      "appid": "EP6704-CUSA31333_00-5835393445151063",
+      "appid": "EP6704-PPSA08307_00-9442511552792122",
       "name": "Broken Pieces",
       "discount": 70,
       "orig_cents": 2499,
@@ -1126,7 +1126,7 @@
       "final_price_str": "7,49 €"
     },
     {
-      "appid": "EP6704-PPSA08307_00-9442511552792122",
+      "appid": "EP6704-CUSA31333_00-5835393445151063",
       "name": "Broken Pieces",
       "discount": 70,
       "orig_cents": 2499,
@@ -1333,15 +1333,6 @@
       "final_price_str": "8,74 €"
     },
     {
-      "appid": "EP4389-CUSA24277_00-SPELLFORCE3CE000",
-      "name": "SpellForce III Reforced: Complete Edition",
-      "discount": 65,
-      "orig_cents": 5999,
-      "final_cents": 2099,
-      "orig_price_str": "59,99 €",
-      "final_price_str": "20,99 €"
-    },
-    {
       "appid": "EP4389-PPSA03838_00-SPELLFORCE3CE000",
       "name": "SpellForce III Reforced: Complete Edition",
       "discount": 65,
@@ -1351,7 +1342,16 @@
       "final_price_str": "20,99 €"
     },
     {
-      "appid": "EP0290-PPSA01349_00-GODFALLULTIMATE0",
+      "appid": "EP4389-CUSA24277_00-SPELLFORCE3CE000",
+      "name": "SpellForce III Reforced: Complete Edition",
+      "discount": 65,
+      "orig_cents": 5999,
+      "final_cents": 2099,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "20,99 €"
+    },
+    {
+      "appid": "EP0290-CUSA26922_00-GODFALLULTIMATE0",
       "name": "Godfall Ultimate Edition",
       "discount": 65,
       "orig_cents": 3999,
@@ -1360,7 +1360,7 @@
       "final_price_str": "13,99 €"
     },
     {
-      "appid": "EP0290-CUSA26922_00-GODFALLULTIMATE0",
+      "appid": "EP0290-PPSA01349_00-GODFALLULTIMATE0",
       "name": "Godfall Ultimate Edition",
       "discount": 65,
       "orig_cents": 3999,
@@ -1837,7 +1837,7 @@
       "final_price_str": "5,99 €"
     },
     {
-      "appid": "EP6718-CUSA35111_00-0215162053175117",
+      "appid": "EP6718-PPSA08891_00-5174687829148845",
       "name": "BlackJack",
       "discount": 50,
       "orig_cents": 399,
@@ -1846,7 +1846,7 @@
       "final_price_str": "1,99 €"
     },
     {
-      "appid": "EP6718-PPSA08891_00-5174687829148845",
+      "appid": "EP6718-CUSA35111_00-0215162053175117",
       "name": "BlackJack",
       "discount": 50,
       "orig_cents": 399,
@@ -2647,7 +2647,7 @@
       "final_price_str": "13,99 €"
     },
     {
-      "appid": "EP2609-CUSA13930_00-DLCRAVEN00000000",
+      "appid": "EP6853-PPSA05425_00-DLCRAVEN00000000",
       "name": "World War Z - Raven Weapons Skin Pack",
       "discount": 30,
       "orig_cents": 499,
@@ -2656,7 +2656,7 @@
       "final_price_str": "3,49 €"
     },
     {
-      "appid": "EP6853-PPSA05425_00-DLCRAVEN00000000",
+      "appid": "EP2609-CUSA13930_00-DLCRAVEN00000000",
       "name": "World War Z - Raven Weapons Skin Pack",
       "discount": 30,
       "orig_cents": 499,
