@@ -1201,16 +1201,6 @@
       "final_price_str": "9,99 €"
     },
     {
-      "appid": "9abd8a7c80cc4493905e269da4cd1e5d",
-      "namespace": "1264f0abd70941bca6afa989a41fd57c",
-      "name": "The Curse We Made",
-      "discount": 50,
-      "orig_cents": 359,
-      "final_cents": 179,
-      "orig_price_str": "3,59 €",
-      "final_price_str": "1,79 €"
-    },
-    {
       "appid": "5b746049a8024ae3942430c28935ecac",
       "namespace": "899eb9ca9cbc4cde81b4c34ae5d094f4",
       "name": "Countless Army",
@@ -2521,6 +2511,16 @@
       "final_price_str": "17,49 €"
     },
     {
+      "appid": "2c867f0d00d745fca9e69ed603739657",
+      "namespace": "c297d2e637b14e92a03559b539dd23d5",
+      "name": "Grizzy and the Lemmings - Crazy Party",
+      "discount": 25,
+      "orig_cents": 3599,
+      "final_cents": 2699,
+      "orig_price_str": "35,99 €",
+      "final_price_str": "26,99 €"
+    },
+    {
       "appid": "439c8da488ff4d7288558f000b532659",
       "namespace": "144f5a0a7b55497eb327f2a90ccf0a15",
       "name": "Stocking Angel",
@@ -3001,5 +3001,5 @@
       "final_price_str": "8,63 €"
     }
   ],
-  "total": 1298
+  "total": 1296
 }
