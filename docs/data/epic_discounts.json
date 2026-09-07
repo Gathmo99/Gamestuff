@@ -1611,6 +1611,16 @@
       "final_price_str": "4,49 €"
     },
     {
+      "appid": "cb39df28cd994e53a6252194d3683099",
+      "namespace": "0e761952669c4b27921a9a83a995d517",
+      "name": "Deathless. The Hero Quest",
+      "discount": 50,
+      "orig_cents": 2239,
+      "final_cents": 1119,
+      "orig_price_str": "22,39 €",
+      "final_price_str": "11,19 €"
+    },
+    {
       "appid": "8f973e9b72a94bd2b6d3aa4013cefa5d",
       "namespace": "89f17acf3032497eb85fc3a503b67cf3",
       "name": "The One",
@@ -1689,16 +1699,6 @@
       "final_cents": 1499,
       "orig_price_str": "29,99 €",
       "final_price_str": "14,99 €"
-    },
-    {
-      "appid": "65afe1bae0f5449191d28d5ef63caa32",
-      "namespace": "eb9cdf6dbe4b47fc8ba474017023476a",
-      "name": "Sid Meier's Civilization® VII",
-      "discount": 50,
-      "orig_cents": 6999,
-      "final_cents": 3499,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "34,99 €"
     },
     {
       "appid": "2c75bb68cfa84aabbea3504f57197611",
@@ -3001,5 +3001,5 @@
       "final_price_str": "8,63 €"
     }
   ],
-  "total": 1299
+  "total": 1302
 }

@@ -1,16 +1,6 @@
 {
   "items": [
     {
-      "appid": "9N9Z4S1RD397",
-      "name": "Metro Saga Bundle",
-      "discount": 85,
-      "orig_cents": 5999,
-      "final_cents": 899,
-      "orig_price_str": "59,99 €",
-      "final_price_str": "8,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9MW10GX140N1",
       "name": "Hogwarts Legacy: Digitale Deluxe Edition",
       "discount": 85,
@@ -18,6 +8,16 @@
       "final_cents": 1274,
       "orig_price_str": "84,99 €",
       "final_price_str": "12,74 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9N9Z4S1RD397",
+      "name": "Metro Saga Bundle",
+      "discount": 85,
+      "orig_cents": 5999,
+      "final_cents": 899,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "8,99 €",
       "gamepass": ""
     },
     {
@@ -51,16 +51,6 @@
       "gamepass": ""
     },
     {
-      "appid": "BNQQ3WVBNZCQ",
-      "name": "Shadow of the Tomb Raider Definitive Edition",
-      "discount": 85,
-      "orig_cents": 3999,
-      "final_cents": 599,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "5,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "C4S60FPWF4XN",
       "name": "Rise of the Tomb Raider: 20 Year Celebration",
       "discount": 85,
@@ -68,6 +58,16 @@
       "final_cents": 449,
       "orig_price_str": "29,99 €",
       "final_price_str": "4,49 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "BNQQ3WVBNZCQ",
+      "name": "Shadow of the Tomb Raider Definitive Edition",
+      "discount": 85,
+      "orig_cents": 3999,
+      "final_cents": 599,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "5,99 €",
       "gamepass": ""
     },
     {
@@ -221,13 +221,13 @@
       "gamepass": ""
     },
     {
-      "appid": "9NSKMK4ZL1P9",
-      "name": "Crimson Desert Enhanced Deluxe-Edition",
+      "appid": "9NPF9F0DCVKS",
+      "name": "007 First Light - Standard Edition",
       "discount": 20,
-      "orig_cents": 7999,
-      "final_cents": 6399,
-      "orig_price_str": "79,99 €",
-      "final_price_str": "63,99 €",
+      "orig_cents": 6999,
+      "final_cents": 5599,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "55,99 €",
       "gamepass": ""
     },
     {
@@ -241,13 +241,13 @@
       "gamepass": ""
     },
     {
-      "appid": "9NPF9F0DCVKS",
-      "name": "007 First Light - Standard Edition",
+      "appid": "9NSKMK4ZL1P9",
+      "name": "Crimson Desert Enhanced Deluxe-Edition",
       "discount": 20,
-      "orig_cents": 6999,
-      "final_cents": 5599,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "55,99 €",
+      "orig_cents": 7999,
+      "final_cents": 6399,
+      "orig_price_str": "79,99 €",
+      "final_price_str": "63,99 €",
       "gamepass": ""
     }
   ],
