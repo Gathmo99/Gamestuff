@@ -281,16 +281,6 @@
       "final_price_str": "4,39 €"
     },
     {
-      "appid": "53189ea78f224d709e903fc4c518fd5a",
-      "namespace": "02603a613a5a4214967ea961edef2c2e",
-      "name": "The Knight Witch",
-      "discount": 80,
-      "orig_cents": 1999,
-      "final_cents": 399,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "3,99 €"
-    },
-    {
       "appid": "2380ff7131674e7194f4cd81067ffeba",
       "namespace": "e93b00445c57495b8bec3664fcd679c4",
       "name": "The Artful Escape",
@@ -1971,6 +1961,16 @@
       "final_price_str": "4,31 €"
     },
     {
+      "appid": "1af24f22edb9429d897343f10948b6f6",
+      "namespace": "3a3992672bb141b1967bb14343c9fd22",
+      "name": "STORROR Parkour Pro",
+      "discount": 40,
+      "orig_cents": 2499,
+      "final_cents": 1499,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "14,99 €"
+    },
+    {
       "appid": "5ff976083644413cbb21f2461e4f5463",
       "namespace": "20c1784b00a046bcba821dffd083e35f",
       "name": "FORMIDO",
@@ -3001,5 +3001,5 @@
       "final_price_str": "15,99 €"
     }
   ],
-  "total": 1318
+  "total": 1319
 }
