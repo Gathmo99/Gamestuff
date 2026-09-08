@@ -101,6 +101,16 @@
       "final_price_str": "1,79 €"
     },
     {
+      "appid": "fa91d3275c00499da1d4f2be9f3095fe",
+      "namespace": "db3e1691a7034191b5e5822e1aa4aedf",
+      "name": "Backrooms Bodycam",
+      "discount": 90,
+      "orig_cents": 219,
+      "final_cents": 21,
+      "orig_price_str": "2,19 €",
+      "final_price_str": "0,21 €"
+    },
+    {
       "appid": "91a0b419d5b741c39cc35ce3a35138c0",
       "namespace": "462451248e9640f4a211294193034dda",
       "name": "Road Redemption",
@@ -261,6 +271,16 @@
       "final_price_str": "4,79 €"
     },
     {
+      "appid": "eb5454e002764abaa00b741393aa7600",
+      "namespace": "e192ef1dbcce4fdc8cca1afb9adc05db",
+      "name": "Killer Frequency",
+      "discount": 80,
+      "orig_cents": 2499,
+      "final_cents": 499,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "4,99 €"
+    },
+    {
       "appid": "2380ff7131674e7194f4cd81067ffeba",
       "namespace": "e93b00445c57495b8bec3664fcd679c4",
       "name": "The Artful Escape",
@@ -269,26 +289,6 @@
       "final_cents": 474,
       "orig_price_str": "18,99 €",
       "final_price_str": "4,74 €"
-    },
-    {
-      "appid": "2dbc658d95464cba907532aa4f9c493e",
-      "namespace": "c6e95d6c600d415b84a4df944c09ba88",
-      "name": "Relaxing Simulator",
-      "discount": 75,
-      "orig_cents": 399,
-      "final_cents": 99,
-      "orig_price_str": "3,99 €",
-      "final_price_str": "0,99 €"
-    },
-    {
-      "appid": "53e4c1a9bda14e1f84df55dbb012d919",
-      "namespace": "928bfa8173f249e6b79d4629b42a760d",
-      "name": "Backrooms Bodycam 3",
-      "discount": 75,
-      "orig_cents": 179,
-      "final_cents": 44,
-      "orig_price_str": "1,79 €",
-      "final_price_str": "0,44 €"
     },
     {
       "appid": "4b4418cd3994431190b76acec613524c",
@@ -1001,6 +1001,16 @@
       "final_price_str": "0,44 €"
     },
     {
+      "appid": "b355239267e5445cbd657ccdcaf37a06",
+      "namespace": "59af30a1b70a4775a1ab4773aa3e6b07",
+      "name": "Five Nights In The Backrooms",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
       "appid": "f0b8a5d294ed488a9eafa2d8fc505ecb",
       "namespace": "a1c8150f9d2a47deaaa3caa16a6854b1",
       "name": "My Desktop Girlfriend",
@@ -1031,9 +1041,9 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "95972584e56142828408575485879ae4",
-      "namespace": "bb4a3d81162f46eba9e61df349b2046c",
-      "name": "Steel Shell",
+      "appid": "8a21c04f58f2463bad15c4909eb95536",
+      "namespace": "ebeef598c1b945958253e3aa3b65e078",
+      "name": "Football Referee Simulator",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1041,9 +1051,9 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "8a21c04f58f2463bad15c4909eb95536",
-      "namespace": "ebeef598c1b945958253e3aa3b65e078",
-      "name": "Football Referee Simulator",
+      "appid": "af9e9f907f4e43c1a4abbef2c83a9e72",
+      "namespace": "87b89e47fc574d6bb6e717e539ef055d",
+      "name": "Kill The Dead",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1061,6 +1071,16 @@
       "final_price_str": "0,44 €"
     },
     {
+      "appid": "1118fe197e3943aca499f12c8a0da4cf",
+      "namespace": "dc9cbb7ee5f649f5ba9d0c50c274fb29",
+      "name": "Grand Crime Miami",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
       "appid": "d4c62f0a1e464afcae488f40b2012dbd",
       "namespace": "f28ef9372daf4ca99385d5d9ab8af7f8",
       "name": "BORIS RUSSIAN BEAR",
@@ -1071,39 +1091,9 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "d10aa9befbd74811a9084de0e3b38951",
-      "namespace": "4b0ef32b54c242ecb15ee55741302041",
-      "name": "Girls In Backrooms",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
       "appid": "42e09a4bbc104bb5a7331bd390f9c9b6",
       "namespace": "6adb5b729f3f4299a536fda58f6c0c7e",
       "name": "Dinosaur World",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "6599ccc2869946d7976a184a4a2e8e3f",
-      "namespace": "ec2c3935293043c7818a92c139225819",
-      "name": "Haunted Forest",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "09d157cf14a842169ed67ce867ba3767",
-      "namespace": "6acea07493f24448872662ee2bed7ff4",
-      "name": "Dead World: Survival",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1699,6 +1689,16 @@
       "final_cents": 1499,
       "orig_price_str": "29,99 €",
       "final_price_str": "14,99 €"
+    },
+    {
+      "appid": "65afe1bae0f5449191d28d5ef63caa32",
+      "namespace": "eb9cdf6dbe4b47fc8ba474017023476a",
+      "name": "Sid Meier's Civilization® VII",
+      "discount": 50,
+      "orig_cents": 6999,
+      "final_cents": 3499,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "34,99 €"
     },
     {
       "appid": "2c75bb68cfa84aabbea3504f57197611",
@@ -3001,5 +3001,5 @@
       "final_price_str": "8,63 €"
     }
   ],
-  "total": 1302
+  "total": 1301
 }
