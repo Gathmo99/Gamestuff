@@ -211,16 +211,6 @@
       "final_price_str": "1,99 €"
     },
     {
-      "appid": "f02517c3e83341859d40c43f855d8b10",
-      "namespace": "6f54d9c63990451b93584c5f47e6df5a",
-      "name": "Lass mich sehen",
-      "discount": 80,
-      "orig_cents": 629,
-      "final_cents": 125,
-      "orig_price_str": "6,29 €",
-      "final_price_str": "1,25 €"
-    },
-    {
       "appid": "7f17daabd75a4de687033b55099681db",
       "namespace": "f56d119f5f0042a28996a39676d74b71",
       "name": "The Procession to Calvary",
@@ -279,6 +269,26 @@
       "final_cents": 499,
       "orig_price_str": "24,99 €",
       "final_price_str": "4,99 €"
+    },
+    {
+      "appid": "422ed00fef0b42efa56662c97b0e9d60",
+      "namespace": "44277238c30648d6ad4bee97e27c4a3c",
+      "name": "Sunday Gold",
+      "discount": 80,
+      "orig_cents": 2199,
+      "final_cents": 439,
+      "orig_price_str": "21,99 €",
+      "final_price_str": "4,39 €"
+    },
+    {
+      "appid": "53189ea78f224d709e903fc4c518fd5a",
+      "namespace": "02603a613a5a4214967ea961edef2c2e",
+      "name": "The Knight Witch",
+      "discount": 80,
+      "orig_cents": 1999,
+      "final_cents": 399,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "3,99 €"
     },
     {
       "appid": "2380ff7131674e7194f4cd81067ffeba",
@@ -621,6 +631,16 @@
       "final_price_str": "9,23 €"
     },
     {
+      "appid": "e423a2c00d0c4982b08e321500cde91b",
+      "namespace": "808de467790f453facdff5d90e73fbc9",
+      "name": "Loot Stack - Relics Hunter",
+      "discount": 66,
+      "orig_cents": 269,
+      "final_cents": 91,
+      "orig_price_str": "2,69 €",
+      "final_price_str": "0,91 €"
+    },
+    {
       "appid": "fdb8e45ac4404062b6f087b19e24a066",
       "namespace": "4af6cd94d78f4a0b8df2d36912460a58",
       "name": "SWORN",
@@ -889,6 +909,16 @@
       "final_cents": 999,
       "orig_price_str": "24,99 €",
       "final_price_str": "9,99 €"
+    },
+    {
+      "appid": "5b7d816812324d75aa8deb41feeac077",
+      "namespace": "dedff70705ce436cb1c19a59312822db",
+      "name": "HEAVEN SEEKER ――The Savior of This Cruel World",
+      "discount": 60,
+      "orig_cents": 1799,
+      "final_cents": 719,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "7,19 €"
     },
     {
       "appid": "5e7015b65e174329a90b50fc90194224",
@@ -1791,6 +1821,26 @@
       "final_price_str": "14,99 €"
     },
     {
+      "appid": "c248fcb3aea741fd81c25cc26412f63d",
+      "namespace": "32b9eb5136424fe0bb3185be3050f4a7",
+      "name": "Bubble Hook Mania",
+      "discount": 40,
+      "orig_cents": 89,
+      "final_cents": 53,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,53 €"
+    },
+    {
+      "appid": "7245cf96e83e463bb2f692b3274e91cc",
+      "namespace": "a8ab156bf9cb44128aed5468f2f1a976",
+      "name": "Gold Miner: Return to Glory",
+      "discount": 40,
+      "orig_cents": 89,
+      "final_cents": 53,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,53 €"
+    },
+    {
       "appid": "1dcbcd6f1ce842dca1f02a7eb4f2267f",
       "namespace": "48178cccbb65479194ec3bda2ecc8784",
       "name": "RIDE 6",
@@ -2381,29 +2431,19 @@
       "final_price_str": "24,49 €"
     },
     {
+      "appid": "9b25499206d1464e9c06a71db2aad795",
+      "namespace": "853bfa0a3de24d6f9d66f228d484ea21",
+      "name": "World Wonders: Hidden Histories Collector's Edition",
+      "discount": 30,
+      "orig_cents": 1349,
+      "final_cents": 944,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "9,44 €"
+    },
+    {
       "appid": "f00128eaf1e74447bdf1a44b3c5b9791",
       "namespace": "6bd2467cefea45f086ceec4c9d90d9bd",
       "name": "Gnomes Garden 9: Lifeseeds Collector's Edition",
-      "discount": 30,
-      "orig_cents": 1349,
-      "final_cents": 944,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "9,44 €"
-    },
-    {
-      "appid": "0500ec35d1bb45dc8813dd87781a26ac",
-      "namespace": "b9228be932df4202b462d49bd9dc5949",
-      "name": "Elven Rivers 2 New Horizons",
-      "discount": 30,
-      "orig_cents": 1349,
-      "final_cents": 944,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "9,44 €"
-    },
-    {
-      "appid": "b60bb7794d064b088c885665291b505b",
-      "namespace": "f2d689f4ef4040db96a5f4a71b9882ee",
-      "name": "New Lands 2. Collector's Edition",
       "discount": 30,
       "orig_cents": 1349,
       "final_cents": 944,
@@ -2771,16 +2811,6 @@
       "final_price_str": "14,39 €"
     },
     {
-      "appid": "7b8d68b12c2e44468bef39d76426407c",
-      "namespace": "5ee8db8741f8475998ed19612c045f47",
-      "name": "Harvest Haven: Artisan Market",
-      "discount": 20,
-      "orig_cents": 629,
-      "final_cents": 503,
-      "orig_price_str": "6,29 €",
-      "final_price_str": "5,03 €"
-    },
-    {
       "appid": "9faf1a7dce6a4b78abc4cf078056c0af",
       "namespace": "90fa458df21e4fbda3a9f84ae087fe22",
       "name": "D-topia",
@@ -2911,16 +2941,6 @@
       "final_price_str": "11,99 €"
     },
     {
-      "appid": "759eba9554cd43169f32075e9083c191",
-      "namespace": "a9f87ec07d884d7e90bb91fa9e2d4622",
-      "name": "Ghost In The Feed",
-      "discount": 20,
-      "orig_cents": 449,
-      "final_cents": 359,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "3,59 €"
-    },
-    {
       "appid": "444ef09845ef4648864490d13197dcd9",
       "namespace": "edc8ee01ccd74de3abd574325271b7f8",
       "name": "People of Note",
@@ -2951,16 +2971,6 @@
       "final_price_str": "63,99 €"
     },
     {
-      "appid": "6d532006fe034eeea84c3953c33f8753",
-      "namespace": "d8f85787b3aa4100892f1a7621cdf1f8",
-      "name": "The Cursed Legacy",
-      "discount": 20,
-      "orig_cents": 629,
-      "final_cents": 503,
-      "orig_price_str": "6,29 €",
-      "final_price_str": "5,03 €"
-    },
-    {
       "appid": "a43c8f7f417d4f25b7f47184817d7e74",
       "namespace": "71cbb57a6de44c55bae91230ababcd94",
       "name": "Unmourned",
@@ -2989,17 +2999,7 @@
       "final_cents": 1599,
       "orig_price_str": "19,99 €",
       "final_price_str": "15,99 €"
-    },
-    {
-      "appid": "1f5b83084fcb432983c23787ff86ce00",
-      "namespace": "16d039b318c7402094fb574c38b176d6",
-      "name": "RAGDORE",
-      "discount": 20,
-      "orig_cents": 1079,
-      "final_cents": 863,
-      "orig_price_str": "10,79 €",
-      "final_price_str": "8,63 €"
     }
   ],
-  "total": 1301
+  "total": 1318
 }
