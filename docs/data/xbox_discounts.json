@@ -141,13 +141,13 @@
       "gamepass": ""
     },
     {
-      "appid": "9PC1ZMD65L0T",
-      "name": "DAVE THE DIVER",
-      "discount": 50,
-      "orig_cents": 1999,
-      "final_cents": 999,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "9,99 €",
+      "appid": "9NN82NH949D5",
+      "name": "HITMAN World of Assassination",
+      "discount": 60,
+      "orig_cents": 6999,
+      "final_cents": 2799,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "27,99 €",
       "gamepass": ""
     },
     {
@@ -251,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 1619
+  "total": 1620
 }
