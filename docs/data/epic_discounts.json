@@ -2351,6 +2351,16 @@
       "final_price_str": "46,89 €"
     },
     {
+      "appid": "ca8db7b754c3476280771bd79bab3fb1",
+      "namespace": "bfa122e719064178bf2654f21705d8f4",
+      "name": "FZ: Formation Z",
+      "discount": 30,
+      "orig_cents": 2799,
+      "final_cents": 1959,
+      "orig_price_str": "27,99 €",
+      "final_price_str": "19,59 €"
+    },
+    {
       "appid": "7e6e63452d8245e0a2d3a0c1aaac98d5",
       "namespace": "419f0cc498f64103a5863a1f6f7a1980",
       "name": "A Duel Hand Disaster Trackher",
@@ -2949,16 +2959,6 @@
       "final_cents": 1919,
       "orig_price_str": "23,99 €",
       "final_price_str": "19,19 €"
-    },
-    {
-      "appid": "93fa632bf25b4361abb3a79c86e3f822",
-      "namespace": "302e7fc27b6c4f1987e500aa11b0c35a",
-      "name": "Crimson Desert Enhanced",
-      "discount": 20,
-      "orig_cents": 6999,
-      "final_cents": 5599,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "55,99 €"
     },
     {
       "appid": "297bb10765dd493eb78944e264e16b7c",
