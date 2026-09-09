@@ -251,16 +251,6 @@
       "final_price_str": "4,79 €"
     },
     {
-      "appid": "eb5454e002764abaa00b741393aa7600",
-      "namespace": "e192ef1dbcce4fdc8cca1afb9adc05db",
-      "name": "Killer Frequency",
-      "discount": 80,
-      "orig_cents": 2499,
-      "final_cents": 499,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "4,99 €"
-    },
-    {
       "appid": "2380ff7131674e7194f4cd81067ffeba",
       "namespace": "e93b00445c57495b8bec3664fcd679c4",
       "name": "The Artful Escape",
@@ -2999,7 +2989,17 @@
       "final_cents": 1599,
       "orig_price_str": "19,99 €",
       "final_price_str": "15,99 €"
+    },
+    {
+      "appid": "1f5b83084fcb432983c23787ff86ce00",
+      "namespace": "16d039b318c7402094fb574c38b176d6",
+      "name": "RAGDORE",
+      "discount": 20,
+      "orig_cents": 1079,
+      "final_cents": 863,
+      "orig_price_str": "10,79 €",
+      "final_price_str": "8,63 €"
     }
   ],
-  "total": 1319
+  "total": 1320
 }
