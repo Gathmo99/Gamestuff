@@ -235,7 +235,7 @@
       "final_price_str": "3,74 €"
     },
     {
-      "appid": "EP8208-PPSA07519_00-ISUSA00GAMEEUR01",
+      "appid": "EP8208-CUSA33560_00-ISUSA00GAMEEUR01",
       "name": "INSTANT SPORTS All-Stars",
       "discount": 85,
       "orig_cents": 2499,
@@ -244,7 +244,7 @@
       "final_price_str": "3,74 €"
     },
     {
-      "appid": "EP8208-CUSA33560_00-ISUSA00GAMEEUR01",
+      "appid": "EP8208-PPSA07519_00-ISUSA00GAMEEUR01",
       "name": "INSTANT SPORTS All-Stars",
       "discount": 85,
       "orig_cents": 2499,
@@ -451,7 +451,7 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "EP2955-CUSA28258_00-INNIGHTMARE00000",
+      "appid": "EP2955-PPSA06109_00-INNIGHTMARE00000",
       "name": "In Nightmare",
       "discount": 80,
       "orig_cents": 1999,
@@ -460,7 +460,7 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "EP2955-PPSA06109_00-INNIGHTMARE00000",
+      "appid": "EP2955-CUSA28258_00-INNIGHTMARE00000",
       "name": "In Nightmare",
       "discount": 80,
       "orig_cents": 1999,
@@ -802,7 +802,7 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "EP4312-PPSA08370_00-0212168363073978",
+      "appid": "EP4312-CUSA34426_00-0885061236571211",
       "name": "Burger Fun Mini Game Bundle",
       "discount": 70,
       "orig_cents": 1499,
@@ -811,7 +811,7 @@
       "final_price_str": "4,49 €"
     },
     {
-      "appid": "EP4312-CUSA34426_00-0885061236571211",
+      "appid": "EP4312-PPSA08370_00-0212168363073978",
       "name": "Burger Fun Mini Game Bundle",
       "discount": 70,
       "orig_cents": 1499,
@@ -1153,7 +1153,7 @@
       "final_price_str": "18,14 €"
     },
     {
-      "appid": "EP6665-PPSA08555_00-BB300DELUXE00003",
+      "appid": "EP6665-CUSA34660_00-BB300DELUXE00003",
       "name": "Blood Bowl 3 - Brutal Edition",
       "discount": 65,
       "orig_cents": 5999,
@@ -1162,7 +1162,7 @@
       "final_price_str": "20,99 €"
     },
     {
-      "appid": "EP6665-CUSA34660_00-BB300DELUXE00003",
+      "appid": "EP6665-PPSA08555_00-BB300DELUXE00003",
       "name": "Blood Bowl 3 - Brutal Edition",
       "discount": 65,
       "orig_cents": 5999,
@@ -1198,7 +1198,7 @@
       "final_price_str": "8,74 €"
     },
     {
-      "appid": "EP4389-CUSA24277_00-SPELLFORCE3CE000",
+      "appid": "EP4389-PPSA03838_00-SPELLFORCE3CE000",
       "name": "SpellForce III Reforced: Complete Edition",
       "discount": 65,
       "orig_cents": 5999,
@@ -1207,7 +1207,7 @@
       "final_price_str": "20,99 €"
     },
     {
-      "appid": "EP4389-PPSA03838_00-SPELLFORCE3CE000",
+      "appid": "EP4389-CUSA24277_00-SPELLFORCE3CE000",
       "name": "SpellForce III Reforced: Complete Edition",
       "discount": 65,
       "orig_cents": 5999,
@@ -1648,7 +1648,7 @@
       "final_price_str": "5,99 €"
     },
     {
-      "appid": "EP6718-PPSA08891_00-5174687829148845",
+      "appid": "EP6718-CUSA35111_00-0215162053175117",
       "name": "BlackJack",
       "discount": 50,
       "orig_cents": 399,
@@ -1657,7 +1657,7 @@
       "final_price_str": "1,99 €"
     },
     {
-      "appid": "EP6718-CUSA35111_00-0215162053175117",
+      "appid": "EP6718-PPSA08891_00-5174687829148845",
       "name": "BlackJack",
       "discount": 50,
       "orig_cents": 399,

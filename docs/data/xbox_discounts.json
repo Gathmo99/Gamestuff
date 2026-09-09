@@ -231,16 +231,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9PJ6RKQH3VFX",
-      "name": "Hidden Cats in Barcelona",
-      "discount": 20,
-      "orig_cents": 399,
-      "final_cents": 319,
-      "orig_price_str": "3,99 €",
-      "final_price_str": "3,19 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9NSKMK4ZL1P9",
       "name": "Crimson Desert Enhanced Deluxe-Edition",
       "discount": 20,
@@ -251,5 +241,5 @@
       "gamepass": ""
     }
   ],
-  "total": 1577
+  "total": 1578
 }
