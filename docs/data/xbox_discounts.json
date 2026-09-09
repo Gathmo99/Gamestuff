@@ -141,16 +141,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9NN82NH949D5",
-      "name": "HITMAN World of Assassination",
-      "discount": 60,
-      "orig_cents": 6999,
-      "final_cents": 2799,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "27,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9P8RQH67TTT1",
       "name": "Grand Theft Auto V (Xbox One & Xbox Series X|S)",
       "discount": 50,
@@ -178,6 +168,16 @@
       "final_cents": 2499,
       "orig_price_str": "49,99 €",
       "final_price_str": "24,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "C1QJM5XT9SXV",
+      "name": "Call of Duty®: Black Ops II",
+      "discount": 50,
+      "orig_cents": 3999,
+      "final_cents": 1999,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "19,99 €",
       "gamepass": ""
     },
     {
@@ -251,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 1476
+  "total": 1577
 }

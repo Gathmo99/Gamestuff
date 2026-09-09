@@ -10,6 +10,42 @@
       "final_price_str": "4,54 €"
     },
     {
+      "appid": "EP5470-CUSA34062_00-3743363992579314",
+      "name": "Itorah",
+      "discount": 90,
+      "orig_cents": 1999,
+      "final_cents": 199,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "1,99 €"
+    },
+    {
+      "appid": "EP5470-CUSA34220_00-1974871844301027",
+      "name": "XEL",
+      "discount": 90,
+      "orig_cents": 1899,
+      "final_cents": 189,
+      "orig_price_str": "18,99 €",
+      "final_price_str": "1,89 €"
+    },
+    {
+      "appid": "EP5470-PPSA04155_00-7447536313832063",
+      "name": "XEL",
+      "discount": 90,
+      "orig_cents": 1899,
+      "final_cents": 189,
+      "orig_price_str": "18,99 €",
+      "final_price_str": "1,89 €"
+    },
+    {
+      "appid": "EP5205-PPSA08069_00-SH3THEAWAKENEDUA",
+      "name": "Sherlock Holmes The Awakened PS4 & PS5",
+      "discount": 90,
+      "orig_cents": 3999,
+      "final_cents": 399,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "3,99 €"
+    },
+    {
       "appid": "EP0002-PPSA02410_00-D2LFBUNDLE000001",
       "name": "Destiny 2: Lightfall",
       "discount": 90,
@@ -17,6 +53,24 @@
       "final_cents": 199,
       "orig_price_str": "19,99 €",
       "final_price_str": "1,99 €"
+    },
+    {
+      "appid": "EP1018-PPSA07257_00-GOTHAMKNIGHTSDLX",
+      "name": "Gotham Knights: Deluxe Edition",
+      "discount": 90,
+      "orig_cents": 9499,
+      "final_cents": 949,
+      "orig_price_str": "94,99 €",
+      "final_price_str": "9,49 €"
+    },
+    {
+      "appid": "EP5205-CUSA17784_00-TSCSH789BUNDLE00",
+      "name": "Sherlock Holmes - Deduktion in Perfektion-Bundle",
+      "discount": 90,
+      "orig_cents": 11999,
+      "final_cents": 1199,
+      "orig_price_str": "119,99 €",
+      "final_price_str": "11,99 €"
     },
     {
       "appid": "EP1877-PPSA05626_00-FOBIA00000000000",
@@ -91,193 +145,13 @@
       "final_price_str": "1,49 €"
     },
     {
-      "appid": "EP1121-CUSA25005_00-3808050314772279",
-      "name": "FORECLOSED",
+      "appid": "EP0896-PPSA05000_00-RGBOUNCYBULLETS2",
+      "name": "Bouncy Bullets 2 PS4 & PS5",
       "discount": 90,
-      "orig_cents": 1999,
-      "final_cents": 199,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "1,99 €"
-    },
-    {
-      "appid": "EP1121-PPSA02490_00-7428927422420788",
-      "name": "FORECLOSED",
-      "discount": 90,
-      "orig_cents": 1999,
-      "final_cents": 199,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "1,99 €"
-    },
-    {
-      "appid": "EP4908-PPSA02123_00-CRISTALES0000000",
-      "name": "Cris Tales",
-      "discount": 90,
-      "orig_cents": 3999,
-      "final_cents": 399,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "3,99 €"
-    },
-    {
-      "appid": "EP1877-PPSA02818_00-CURVEDSPACE00000",
-      "name": "Curved Space",
-      "discount": 90,
-      "orig_cents": 1999,
-      "final_cents": 199,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "1,99 €"
-    },
-    {
-      "appid": "EP1121-CUSA15469_00-BHFT000000000001",
-      "name": "Buildings Have Feelings Too!",
-      "discount": 90,
-      "orig_cents": 1999,
-      "final_cents": 199,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "1,99 €"
-    },
-    {
-      "appid": "EP4062-CUSA11407_00-METROSAGABUNDLE0",
-      "name": "Metro Saga Bundle",
-      "discount": 90,
-      "orig_cents": 5999,
-      "final_cents": 599,
-      "orig_price_str": "59,99 €",
-      "final_price_str": "5,99 €"
-    },
-    {
-      "appid": "EP0002-PPSA02410_00-D2SHADOWKEEP0001",
-      "name": "Destiny 2: „Festung der Schatten“-Paket",
-      "discount": 90,
-      "orig_cents": 999,
-      "final_cents": 99,
-      "orig_price_str": "9,99 €",
-      "final_price_str": "0,99 €"
-    },
-    {
-      "appid": "EP0002-PPSA02410_00-DESTINY2FORSAKEN",
-      "name": "Destiny 2: Forsaken-Paket",
-      "discount": 90,
-      "orig_cents": 999,
-      "final_cents": 99,
-      "orig_price_str": "9,99 €",
-      "final_price_str": "0,99 €"
-    },
-    {
-      "appid": "EP0002-PPSA02410_00-D2BEYONDLIGHT001",
-      "name": "Destiny 2: „Jenseits des Lichts“-Paket",
-      "discount": 90,
-      "orig_cents": 999,
-      "final_cents": 99,
-      "orig_price_str": "9,99 €",
-      "final_price_str": "0,99 €"
-    },
-    {
-      "appid": "EP0896-CUSA17958_00-RGKNIGHTINBUNDLE",
-      "name": "Knightin'+",
-      "discount": 90,
-      "orig_cents": 599,
-      "final_cents": 59,
-      "orig_price_str": "5,99 €",
-      "final_price_str": "0,59 €"
-    },
-    {
-      "appid": "EP5539-CUSA14354_00-DARKDEVOTION0000",
-      "name": "Dark Devotion",
-      "discount": 90,
-      "orig_cents": 1999,
-      "final_cents": 199,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "1,99 €"
-    },
-    {
-      "appid": "EP5661-CUSA07492_00-THECHURCHINTHEDA",
-      "name": "The Church In The Darkness",
-      "discount": 90,
-      "orig_cents": 1999,
-      "final_cents": 199,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "1,99 €"
-    },
-    {
-      "appid": "EP0896-CUSA15333_00-MYBIGSISTERBUNDL",
-      "name": "My Big Sister",
-      "discount": 90,
-      "orig_cents": 599,
-      "final_cents": 59,
-      "orig_price_str": "5,99 €",
-      "final_price_str": "0,59 €"
-    },
-    {
-      "appid": "EP1121-CUSA14432_00-CRIMSONKEEP00001",
-      "name": "Crimson Keep",
-      "discount": 90,
-      "orig_cents": 1999,
-      "final_cents": 199,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "1,99 €"
-    },
-    {
-      "appid": "EP1121-CUSA14181_00-TWV0000000000001",
-      "name": "The Walking Vegetables: Radical Edition",
-      "discount": 90,
-      "orig_cents": 1299,
-      "final_cents": 129,
-      "orig_price_str": "12,99 €",
-      "final_price_str": "1,29 €"
-    },
-    {
-      "appid": "EP1121-CUSA13018_00-0000000000000000",
-      "name": "RIOT - Civil Unrest",
-      "discount": 90,
-      "orig_cents": 1999,
-      "final_cents": 199,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "1,99 €"
-    },
-    {
-      "appid": "EP4356-CUSA10100_00-RIDE3FULLGAME000",
-      "name": "RIDE 3",
-      "discount": 90,
-      "orig_cents": 3999,
-      "final_cents": 399,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "3,99 €"
-    },
-    {
-      "appid": "EP4356-CUSA10100_00-RIDE3GOLDEDITION",
-      "name": "RIDE 3 - Gold Edition",
-      "discount": 90,
-      "orig_cents": 6999,
-      "final_cents": 699,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "6,99 €"
-    },
-    {
-      "appid": "EP0896-CUSA12020_00-RGSHADOWOFLOOTBO",
-      "name": "Shadow of Loot Box",
-      "discount": 90,
-      "orig_cents": 799,
-      "final_cents": 79,
-      "orig_price_str": "7,99 €",
-      "final_price_str": "0,79 €"
-    },
-    {
-      "appid": "EP4293-CUSA11257_00-SUPERPIXELRACERS",
-      "name": "Super Pixel Racers",
-      "discount": 90,
-      "orig_cents": 1499,
-      "final_cents": 149,
-      "orig_price_str": "14,99 €",
-      "final_price_str": "1,49 €"
-    },
-    {
-      "appid": "EP0700-CUSA13326_00-GODEATER30000000",
-      "name": "God Eater 3",
-      "discount": 86,
-      "orig_cents": 6999,
-      "final_cents": 979,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "9,79 €"
+      "orig_cents": 499,
+      "final_cents": 49,
+      "orig_price_str": "4,99 €",
+      "final_price_str": "0,49 €"
     },
     {
       "appid": "EP4908-PPSA13888_00-TESLAGRAD1RM0000",
@@ -296,6 +170,15 @@
       "final_cents": 749,
       "orig_price_str": "49,99 €",
       "final_price_str": "7,49 €"
+    },
+    {
+      "appid": "EP4064-CUSA10869_00-2377161849826266",
+      "name": "Genesis Alpha One Deluxe Edition",
+      "discount": 85,
+      "orig_cents": 2999,
+      "final_cents": 449,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "4,49 €"
     },
     {
       "appid": "EP4908-PPSA03937_00-SOULSTICE0000000",
@@ -352,6 +235,24 @@
       "final_price_str": "3,74 €"
     },
     {
+      "appid": "EP8208-PPSA07519_00-ISUSA00GAMEEUR01",
+      "name": "INSTANT SPORTS All-Stars",
+      "discount": 85,
+      "orig_cents": 2499,
+      "final_cents": 374,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "3,74 €"
+    },
+    {
+      "appid": "EP8208-CUSA33560_00-ISUSA00GAMEEUR01",
+      "name": "INSTANT SPORTS All-Stars",
+      "discount": 85,
+      "orig_cents": 2499,
+      "final_cents": 374,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "3,74 €"
+    },
+    {
       "appid": "EP1121-PPSA07046_00-0246775824378757",
       "name": "DEATHRUN TV",
       "discount": 85,
@@ -379,6 +280,42 @@
       "final_price_str": "4,49 €"
     },
     {
+      "appid": "EP4361-PPSA05102_00-00EXPANSIONSPACK",
+      "name": "This War of Mine: All Expansions Pack",
+      "discount": 85,
+      "orig_cents": 999,
+      "final_cents": 149,
+      "orig_price_str": "9,99 €",
+      "final_price_str": "1,49 €"
+    },
+    {
+      "appid": "EP4361-PPSA05102_00-TWOMFINALCUT0001",
+      "name": "This War of Mine: Final Cut",
+      "discount": 85,
+      "orig_cents": 1999,
+      "final_cents": 299,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "2,99 €"
+    },
+    {
+      "appid": "EP1987-CUSA32058_00-5625698021492160",
+      "name": "Andro Dunos II",
+      "discount": 85,
+      "orig_cents": 1499,
+      "final_cents": 224,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "2,24 €"
+    },
+    {
+      "appid": "EP8208-CUSA32758_00-GANRYUGAMEEURPS4",
+      "name": "Ganryu 2 : Hakuma Kojiro",
+      "discount": 85,
+      "orig_cents": 1499,
+      "final_cents": 224,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "2,24 €"
+    },
+    {
       "appid": "EP1121-PPSA04769_00-0108135332891416",
       "name": "Monster Harvest",
       "discount": 85,
@@ -397,8 +334,8 @@
       "final_price_str": "3,74 €"
     },
     {
-      "appid": "EP1121-PPSA02664_00-0ALEXKIDDDXEUPS5",
-      "name": "Alex Kidd in Miracle World DX",
+      "appid": "EP6960-PPSA04957_00-8833490001228910",
+      "name": "Röki",
       "discount": 85,
       "orig_cents": 1999,
       "final_cents": 299,
@@ -406,148 +343,13 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "EP1549-CUSA27471_00-CLABS0ORC2021020",
-      "name": "Orbital Racer",
+      "appid": "EP4062-PPSA02393_00-EUDSIRONHARVEST0",
+      "name": "Iron Harvest - Complete Edition",
       "discount": 85,
-      "orig_cents": 1499,
-      "final_cents": 224,
-      "orig_price_str": "14,99 €",
-      "final_price_str": "2,24 €"
-    },
-    {
-      "appid": "EP1549-CUSA26060_00-CLABS0CDC2020110",
-      "name": "Car Demolition Clicker",
-      "discount": 85,
-      "orig_cents": 699,
-      "final_cents": 104,
-      "orig_price_str": "6,99 €",
-      "final_price_str": "1,04 €"
-    },
-    {
-      "appid": "EP1549-CUSA25956_00-CLABS0RCM2020102",
-      "name": "Radio Commander",
-      "discount": 85,
-      "orig_cents": 1499,
-      "final_cents": 224,
-      "orig_price_str": "14,99 €",
-      "final_price_str": "2,24 €"
-    },
-    {
-      "appid": "EP2696-CUSA25752_00-DUNGEONTOPPS4V10",
-      "name": "DungeonTop",
-      "discount": 85,
-      "orig_cents": 1399,
-      "final_cents": 209,
-      "orig_price_str": "13,99 €",
-      "final_price_str": "2,09 €"
-    },
-    {
-      "appid": "EP1121-CUSA20417_00-0000000MORBIDEU1",
-      "name": "Morbid: The Seven Acolytes",
-      "discount": 85,
-      "orig_cents": 2499,
-      "final_cents": 374,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "3,74 €"
-    },
-    {
-      "appid": "EP1121-PPSA02305_00-SPIRITPS5SIEE001",
-      "name": "Spirit of the North: Enhanced Edition",
-      "discount": 85,
-      "orig_cents": 2499,
-      "final_cents": 374,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "3,74 €"
-    },
-    {
-      "appid": "EP1121-CUSA19036_00-CLOUDPUNK0000001",
-      "name": "Cloudpunk",
-      "discount": 85,
-      "orig_cents": 2499,
-      "final_cents": 374,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "3,74 €"
-    },
-    {
-      "appid": "EP1121-CUSA13823_00-0000000000000000",
-      "name": "Sparklite",
-      "discount": 85,
-      "orig_cents": 2499,
-      "final_cents": 374,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "3,74 €"
-    },
-    {
-      "appid": "EP1121-CUSA15540_00-VRPPP00000000001",
-      "name": "VR Ping Pong Pro",
-      "discount": 85,
-      "orig_cents": 2499,
-      "final_cents": 374,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "3,74 €"
-    },
-    {
-      "appid": "EP8026-CUSA17633_00-VALGPS4DIRESIEE0",
-      "name": "Valfaris Full-Metal-Modus",
-      "discount": 85,
-      "orig_cents": 2499,
-      "final_cents": 374,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "3,74 €"
-    },
-    {
-      "appid": "EP1121-CUSA16677_00-STRANDEDSAILS001",
-      "name": "Stranded Sails - Explorers of the Cursed Islands",
-      "discount": 85,
-      "orig_cents": 2499,
-      "final_cents": 374,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "3,74 €"
-    },
-    {
-      "appid": "EP1121-CUSA14714_00-SOLO000000000001",
-      "name": "Solo: Islands of the Heart",
-      "discount": 85,
-      "orig_cents": 1999,
-      "final_cents": 299,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "2,99 €"
-    },
-    {
-      "appid": "EP1121-CUSA14436_00-VAPORUM000000001",
-      "name": "Vaporum",
-      "discount": 85,
-      "orig_cents": 2999,
-      "final_cents": 449,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "4,49 €"
-    },
-    {
-      "appid": "EP5099-CUSA14220_00-MASSIRA123456789",
-      "name": "Massira",
-      "discount": 85,
-      "orig_cents": 1299,
-      "final_cents": 194,
-      "orig_price_str": "12,99 €",
-      "final_price_str": "1,94 €"
-    },
-    {
-      "appid": "EP4365-CUSA11443_00-HIGHRISEEU000000",
-      "name": "Project Highrise: Architect's Edition",
-      "discount": 85,
-      "orig_cents": 2999,
-      "final_cents": 449,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "4,49 €"
-    },
-    {
-      "appid": "EP5307-CUSA23107_00-9479557434113130",
-      "name": "Dance Collider",
-      "discount": 83,
-      "orig_cents": 1699,
-      "final_cents": 288,
-      "orig_price_str": "16,99 €",
-      "final_price_str": "2,88 €"
+      "orig_cents": 4999,
+      "final_cents": 749,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "7,49 €"
     },
     {
       "appid": "EP1121-PPSA09426_00-0313122782250518",
@@ -568,8 +370,44 @@
       "final_price_str": "2,99 €"
     },
     {
+      "appid": "EP0896-PPSA07192_00-RATGAGUNMANTALES",
+      "name": "Gunman Tales PS4™ & PS5™",
+      "discount": 80,
+      "orig_cents": 699,
+      "final_cents": 139,
+      "orig_price_str": "6,99 €",
+      "final_price_str": "1,39 €"
+    },
+    {
+      "appid": "EP2866-PPSA07226_00-CATANBOARDGAMEPS",
+      "name": "CATAN® - Console Edition PS4™ & PS5®",
+      "discount": 80,
+      "orig_cents": 1499,
+      "final_cents": 299,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "2,99 €"
+    },
+    {
       "appid": "EP6853-PPSA04477_00-DKRGAMEDEPS500EU",
       "name": "Dakar Desert Rally - Deluxe Edition PS4 & PS5",
+      "discount": 80,
+      "orig_cents": 4999,
+      "final_cents": 999,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "9,99 €"
+    },
+    {
+      "appid": "EP2866-PPSA07618_00-TSW3WURZBURGROUT",
+      "name": "Train Sim World® 3: Schnellfahrstrecke Kassel - Würzburg",
+      "discount": 80,
+      "orig_cents": 3599,
+      "final_cents": 719,
+      "orig_price_str": "35,99 €",
+      "final_price_str": "7,19 €"
+    },
+    {
+      "appid": "EP0700-PPSA04323_00-JASBRMAINGAME000",
+      "name": "JoJo's Bizarre Adventure: All-Star Battle R PS4 & PS5",
       "discount": 80,
       "orig_cents": 4999,
       "final_cents": 999,
@@ -588,6 +426,15 @@
     {
       "appid": "EP4395-PPSA03447_00-AUTONAUTSPS5EU00",
       "name": "Autonauts PS4 & PS5",
+      "discount": 80,
+      "orig_cents": 1999,
+      "final_cents": 399,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "3,99 €"
+    },
+    {
+      "appid": "EP6713-PPSA03418_00-DOLMENGAMEPS5EU0",
+      "name": "Dolmen",
       "discount": 80,
       "orig_cents": 1999,
       "final_cents": 399,
@@ -667,195 +514,6 @@
       "final_price_str": "4,99 €"
     },
     {
-      "appid": "EP5002-CUSA15284_00-SP00000000000005",
-      "name": "Staffel vier Pass",
-      "discount": 80,
-      "orig_cents": 1499,
-      "final_cents": 299,
-      "orig_price_str": "14,99 €",
-      "final_price_str": "2,99 €"
-    },
-    {
-      "appid": "EP2005-PPSA03916_00-ZEROSTRAIN000000",
-      "name": "Zero Strain",
-      "discount": 80,
-      "orig_cents": 999,
-      "final_cents": 199,
-      "orig_price_str": "9,99 €",
-      "final_price_str": "1,99 €"
-    },
-    {
-      "appid": "EP5002-CUSA15284_00-SP00000000000004",
-      "name": "Power Rangers: Battle for the Grid - Saison-4-Pass",
-      "discount": 80,
-      "orig_cents": 1249,
-      "final_cents": 249,
-      "orig_price_str": "12,49 €",
-      "final_price_str": "2,49 €"
-    },
-    {
-      "appid": "EP5002-CUSA15284_00-SE00000000000002",
-      "name": "Power Rangers: Battle for the Grid Super Ausgabe",
-      "discount": 80,
-      "orig_cents": 4999,
-      "final_cents": 999,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "9,99 €"
-    },
-    {
-      "appid": "EP5002-CUSA15284_00-UG00000000000001",
-      "name": "Power Rangers: Battle for the Grid - Upgrade-Kit (Collector's zu Super Ausgabe)",
-      "discount": 80,
-      "orig_cents": 1999,
-      "final_cents": 399,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "3,99 €"
-    },
-    {
-      "appid": "EP1549-CUSA27694_00-CLABS0TMS2021031",
-      "name": "Tank Mechanic Simulator",
-      "discount": 80,
-      "orig_cents": 1999,
-      "final_cents": 399,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "3,99 €"
-    },
-    {
-      "appid": "EP0811-CUSA25817_00-3688651617334080",
-      "name": "Waves Out!",
-      "discount": 80,
-      "orig_cents": 999,
-      "final_cents": 199,
-      "orig_price_str": "9,99 €",
-      "final_price_str": "1,99 €"
-    },
-    {
-      "appid": "EP0811-CUSA17905_00-WINDFOLK00000000",
-      "name": "Windfolk: Sky is just the beginning",
-      "discount": 80,
-      "orig_cents": 1099,
-      "final_cents": 219,
-      "orig_price_str": "10,99 €",
-      "final_price_str": "2,19 €"
-    },
-    {
-      "appid": "EP2005-CUSA18562_00-ZEROSTRAIN000000",
-      "name": "Zero Strain",
-      "discount": 80,
-      "orig_cents": 999,
-      "final_cents": 199,
-      "orig_price_str": "9,99 €",
-      "final_price_str": "1,99 €"
-    },
-    {
-      "appid": "EP5002-CUSA15284_00-SP00000000000003",
-      "name": "Power Rangers: Battle for the Grid - Saison-3-Pass",
-      "discount": 80,
-      "orig_cents": 1499,
-      "final_cents": 299,
-      "orig_price_str": "14,99 €",
-      "final_price_str": "2,99 €"
-    },
-    {
-      "appid": "EP1962-CUSA15936_00-SHADOWLEGENDVR02",
-      "name": "Shadow Legend VR",
-      "discount": 80,
-      "orig_cents": 2499,
-      "final_cents": 499,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "4,99 €"
-    },
-    {
-      "appid": "EP2377-CUSA09991_00-DINOCOL000000000",
-      "name": "Jurassic World Evolution: Dinosauriersammlung",
-      "discount": 80,
-      "orig_cents": 1249,
-      "final_cents": 249,
-      "orig_price_str": "12,49 €",
-      "final_price_str": "2,49 €"
-    },
-    {
-      "appid": "EP4829-CUSA13248_00-ANCESTORSVOLUME1",
-      "name": "Ancestors: The Humankind Odyssey",
-      "discount": 80,
-      "orig_cents": 3999,
-      "final_cents": 799,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "7,99 €"
-    },
-    {
-      "appid": "EP4295-CUSA13013_00-BLACKSADUTSEU001",
-      "name": "BLACKSAD: Under the Skin",
-      "discount": 80,
-      "orig_cents": 1999,
-      "final_cents": 399,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "3,99 €"
-    },
-    {
-      "appid": "EP0177-CUSA16182_00-SMB2019EU0000001",
-      "name": "Super Monkey Ball: Banana Blitz HD",
-      "discount": 80,
-      "orig_cents": 2999,
-      "final_cents": 599,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "5,99 €"
-    },
-    {
-      "appid": "EP5002-CUSA15284_00-BFTGSP0000000002",
-      "name": "Power Rangers: Battle for the Grid - Saison-2-Pass",
-      "discount": 80,
-      "orig_cents": 1249,
-      "final_cents": 249,
-      "orig_price_str": "12,49 €",
-      "final_price_str": "2,49 €"
-    },
-    {
-      "appid": "EP4389-CUSA13260_00-MONSTERJAM1EU000",
-      "name": "Monster Jam Steel Titans",
-      "discount": 80,
-      "orig_cents": 3999,
-      "final_cents": 799,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "7,99 €"
-    },
-    {
-      "appid": "EP1001-CUSA10468_00-BORDERLANDSHD001",
-      "name": "Borderlands: Game of the Year Edition",
-      "discount": 80,
-      "orig_cents": 2999,
-      "final_cents": 599,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "5,99 €"
-    },
-    {
-      "appid": "EP5002-CUSA15284_00-BATTLEFORTHEGRID",
-      "name": "Power Rangers: Battle For The Grid",
-      "discount": 80,
-      "orig_cents": 1999,
-      "final_cents": 399,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "3,99 €"
-    },
-    {
-      "appid": "EP5002-CUSA15284_00-BATTLE4THEGRIDCE",
-      "name": "Power Rangers: Battle for the Grid – Digitale Sammleredition",
-      "discount": 80,
-      "orig_cents": 2999,
-      "final_cents": 599,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "5,99 €"
-    },
-    {
-      "appid": "EP5002-CUSA15284_00-BFTGDLC000000008",
-      "name": "Power Rangers: Battle For The Grid Saison-1-Pass",
-      "discount": 80,
-      "orig_cents": 1249,
-      "final_cents": 249,
-      "orig_price_str": "12,49 €",
-      "final_price_str": "2,49 €"
-    },
-    {
       "appid": "EP2601-PPSA13739_00-0349660830475677",
       "name": "Someday You'll Return: Director's Cut",
       "discount": 75,
@@ -863,6 +521,24 @@
       "final_cents": 624,
       "orig_price_str": "24,99 €",
       "final_price_str": "6,24 €"
+    },
+    {
+      "appid": "EP6665-PPSA07390_00-ARB00DELUXE00001",
+      "name": "Chef Life - Al Forno Edition",
+      "discount": 75,
+      "orig_cents": 4999,
+      "final_cents": 1249,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "12,49 €"
+    },
+    {
+      "appid": "EP0096-PPSA07820_00-3737584581445516",
+      "name": "Rhythm Sprout",
+      "discount": 75,
+      "orig_cents": 1499,
+      "final_cents": 374,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "3,74 €"
     },
     {
       "appid": "EP4591-PPSA07368_00-36133263LOTPS5EU",
@@ -883,6 +559,24 @@
       "final_price_str": "3,74 €"
     },
     {
+      "appid": "EP0096-PPSA07426_00-2365742178691030",
+      "name": "Hello Neighbor 2",
+      "discount": 75,
+      "orig_cents": 3999,
+      "final_cents": 999,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "9,99 €"
+    },
+    {
+      "appid": "EP0096-PPSA08194_00-1498387693768159",
+      "name": "Asterigos: Curse of the Stars Deluxe Edition",
+      "discount": 75,
+      "orig_cents": 4499,
+      "final_cents": 1124,
+      "orig_price_str": "44,99 €",
+      "final_price_str": "11,24 €"
+    },
+    {
       "appid": "EP1470-PPSA07324_00-WBDRAGONSTRAPPS5",
       "name": "Wonder Boy: The Dragon's Trap",
       "discount": 75,
@@ -901,6 +595,60 @@
       "final_price_str": "4,99 €"
     },
     {
+      "appid": "EP0096-CUSA28642_00-1999548259803352",
+      "name": "Trash Sailors",
+      "discount": 75,
+      "orig_cents": 1999,
+      "final_cents": 499,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "4,99 €"
+    },
+    {
+      "appid": "EP0096-CUSA32425_00-6472011712820587",
+      "name": "Undungeon",
+      "discount": 75,
+      "orig_cents": 1999,
+      "final_cents": 499,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "4,99 €"
+    },
+    {
+      "appid": "EP0096-PPSA07240_00-1770654870627972",
+      "name": "SpiderHeck",
+      "discount": 75,
+      "orig_cents": 1499,
+      "final_cents": 374,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "3,74 €"
+    },
+    {
+      "appid": "EP0096-PPSA06713_00-7528275909127422",
+      "name": "Justice Sucks",
+      "discount": 75,
+      "orig_cents": 1999,
+      "final_cents": 499,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "4,99 €"
+    },
+    {
+      "appid": "EP2866-PPSA07618_00-TSW3CAJONPASSROU",
+      "name": "Train Sim World® 3: Cajon Pass: Barstow - San Bernardino",
+      "discount": 75,
+      "orig_cents": 3599,
+      "final_cents": 899,
+      "orig_price_str": "35,99 €",
+      "final_price_str": "8,99 €"
+    },
+    {
+      "appid": "EP0096-PPSA05407_00-9524255431063884",
+      "name": "Tinykin",
+      "discount": 75,
+      "orig_cents": 2499,
+      "final_cents": 624,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "6,24 €"
+    },
+    {
       "appid": "EP4062-PPSA02807_00-SAINTSROW00PS5EU",
       "name": "Saints Row PS4&PS5",
       "discount": 75,
@@ -908,6 +656,33 @@
       "final_cents": 749,
       "orig_price_str": "29,99 €",
       "final_price_str": "7,49 €"
+    },
+    {
+      "appid": "EP0096-PPSA05588_00-000000000BLUESUN",
+      "name": "Hellpoint - Blue Sun",
+      "discount": 75,
+      "orig_cents": 999,
+      "final_cents": 249,
+      "orig_price_str": "9,99 €",
+      "final_price_str": "2,49 €"
+    },
+    {
+      "appid": "EP0096-CUSA17801_00-000000000BLUESUN",
+      "name": "Hellpoint - Blue Sun",
+      "discount": 75,
+      "orig_cents": 999,
+      "final_cents": 249,
+      "orig_price_str": "9,99 €",
+      "final_price_str": "2,49 €"
+    },
+    {
+      "appid": "EP0096-CUSA24061_00-7337279529673750",
+      "name": "Kill It With Fire: Exterminator Edition",
+      "discount": 75,
+      "orig_cents": 1999,
+      "final_cents": 499,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "4,99 €"
     },
     {
       "appid": "EP2005-PPSA06007_00-QUINTUSABSENTTRU",
@@ -928,6 +703,33 @@
       "final_price_str": "9,99 €"
     },
     {
+      "appid": "EP5562-CUSA28497_00-LOCKDOWN00000000",
+      "name": "Vaporum: Lockdown",
+      "discount": 75,
+      "orig_cents": 2199,
+      "final_cents": 549,
+      "orig_price_str": "21,99 €",
+      "final_price_str": "5,49 €"
+    },
+    {
+      "appid": "EP4139-CUSA17732_00-EOSMAKEITCOUNTEU",
+      "name": "Empire of Sin - Make it Count",
+      "discount": 75,
+      "orig_cents": 1499,
+      "final_cents": 374,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "3,74 €"
+    },
+    {
+      "appid": "EP4139-CUSA15495_00-STA0000000000000",
+      "name": "Surviving the Aftermath",
+      "discount": 75,
+      "orig_cents": 2999,
+      "final_cents": 749,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "7,49 €"
+    },
+    {
       "appid": "EP0700-PPSA02594_00-SMGDARKPICTURESC",
       "name": "The Dark Pictures Anthology: House of Ashes PS4 & PS5",
       "discount": 75,
@@ -946,123 +748,6 @@
       "final_price_str": "9,99 €"
     },
     {
-      "appid": "EP4064-CUSA25244_00-CROWNTRICK000000",
-      "name": "Crown Trick",
-      "discount": 75,
-      "orig_cents": 1999,
-      "final_cents": 499,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "4,99 €"
-    },
-    {
-      "appid": "EP4591-CUSA29182_00-0233851011745540",
-      "name": "Lamentum",
-      "discount": 75,
-      "orig_cents": 1599,
-      "final_cents": 399,
-      "orig_price_str": "15,99 €",
-      "final_price_str": "3,99 €"
-    },
-    {
-      "appid": "EP0290-PPSA02855_00-TRIBESDELUXE0000",
-      "name": "Tribes of Midgard Digital Deluxe PS4 & PS5",
-      "discount": 75,
-      "orig_cents": 2999,
-      "final_cents": 749,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "7,49 €"
-    },
-    {
-      "appid": "EP2005-PPSA03756_00-DRUNKENFIST00000",
-      "name": "Drunken Fist",
-      "discount": 75,
-      "orig_cents": 799,
-      "final_cents": 199,
-      "orig_price_str": "7,99 €",
-      "final_price_str": "1,99 €"
-    },
-    {
-      "appid": "EP2005-CUSA24644_00-DRUNKENFIST00000",
-      "name": "Drunken Fist",
-      "discount": 75,
-      "orig_cents": 799,
-      "final_cents": 199,
-      "orig_price_str": "7,99 €",
-      "final_price_str": "1,99 €"
-    },
-    {
-      "appid": "EP4176-PPSA02117_00-8201964206903574",
-      "name": "Observer: System Redux",
-      "discount": 75,
-      "orig_cents": 2999,
-      "final_cents": 749,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "7,49 €"
-    },
-    {
-      "appid": "EP4897-CUSA24279_00-0036561794692215",
-      "name": "Sweet Witches",
-      "discount": 75,
-      "orig_cents": 999,
-      "final_cents": 249,
-      "orig_price_str": "9,99 €",
-      "final_price_str": "2,49 €"
-    },
-    {
-      "appid": "EP2005-CUSA19031_00-MACROTIS00000000",
-      "name": "Macrotis: A Mother's Journey",
-      "discount": 75,
-      "orig_cents": 1199,
-      "final_cents": 299,
-      "orig_price_str": "11,99 €",
-      "final_price_str": "2,99 €"
-    },
-    {
-      "appid": "EP4060-CUSA17619_00-AZURLANECW000000",
-      "name": "Azur Lane: Crosswave",
-      "discount": 75,
-      "orig_cents": 3999,
-      "final_cents": 999,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "9,99 €"
-    },
-    {
-      "appid": "EP4008-CUSA17267_00-AO2SIEE000000000",
-      "name": "AO Tennis 2",
-      "discount": 75,
-      "orig_cents": 2999,
-      "final_cents": 749,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "7,49 €"
-    },
-    {
-      "appid": "EP3643-CUSA16703_00-GRISPS4SIEE00000",
-      "name": "GRIS",
-      "discount": 75,
-      "orig_cents": 1699,
-      "final_cents": 424,
-      "orig_price_str": "16,99 €",
-      "final_price_str": "4,24 €"
-    },
-    {
-      "appid": "EP5539-CUSA14353_00-BLAZINGCHROMEPS4",
-      "name": "Blazing Chrome",
-      "discount": 75,
-      "orig_cents": 1699,
-      "final_cents": 424,
-      "orig_price_str": "16,99 €",
-      "final_price_str": "4,24 €"
-    },
-    {
-      "appid": "EP4062-CUSA07180_00-KCDDLCCOLLECTION",
-      "name": "Kingdom Come: Deliverance - DLC Collection",
-      "discount": 75,
-      "orig_cents": 1999,
-      "final_cents": 499,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "4,99 €"
-    },
-    {
       "appid": "EP2005-PPSA04606_00-LUCIDCYCLE000000",
       "name": "Lucid Cycle PS4 & PS5",
       "discount": 72,
@@ -1070,6 +755,24 @@
       "final_cents": 195,
       "orig_price_str": "6,99 €",
       "final_price_str": "1,95 €"
+    },
+    {
+      "appid": "EP0896-PPSA10590_00-RATALAGABILLY101",
+      "name": "Billy 101 PS4™ & PS5™",
+      "discount": 70,
+      "orig_cents": 499,
+      "final_cents": 149,
+      "orig_price_str": "4,99 €",
+      "final_price_str": "1,49 €"
+    },
+    {
+      "appid": "EP0896-PPSA14309_00-STEELDEFIERRATGA",
+      "name": "Steel Defier PS4™ & PS5™",
+      "discount": 70,
+      "orig_cents": 499,
+      "final_cents": 149,
+      "orig_price_str": "4,99 €",
+      "final_price_str": "1,49 €"
     },
     {
       "appid": "EP2005-PPSA10995_00-TWICEREBORN00000",
@@ -1083,6 +786,15 @@
     {
       "appid": "EP6718-PPSA12399_00-8699178712697377",
       "name": "Alterity Experience",
+      "discount": 70,
+      "orig_cents": 999,
+      "final_cents": 299,
+      "orig_price_str": "9,99 €",
+      "final_price_str": "2,99 €"
+    },
+    {
+      "appid": "EP0896-PPSA11269_00-TRENCHESRATALAIK",
+      "name": "Trenches PS4™ & PS5™",
       "discount": 70,
       "orig_cents": 999,
       "final_cents": 299,
@@ -1108,6 +820,24 @@
       "final_price_str": "4,49 €"
     },
     {
+      "appid": "EP0896-PPSA09246_00-RATAGAPANDAPUNCH",
+      "name": "Panda Punch PS4™ & PS5™",
+      "discount": 70,
+      "orig_cents": 499,
+      "final_cents": 149,
+      "orig_price_str": "4,99 €",
+      "final_price_str": "1,49 €"
+    },
+    {
+      "appid": "EP2866-PPSA07618_00-TSW3XMASHOLIDAYX",
+      "name": "Train Sim World® 3: The Holiday Express - Runaway Elf",
+      "discount": 70,
+      "orig_cents": 999,
+      "final_cents": 299,
+      "orig_price_str": "9,99 €",
+      "final_price_str": "2,99 €"
+    },
+    {
       "appid": "EP0896-PPSA10383_00-RGPETITEADVENTUR",
       "name": "Petite Adventure PS4™ & PS5™",
       "discount": 70,
@@ -1115,6 +845,42 @@
       "final_cents": 149,
       "orig_price_str": "4,99 €",
       "final_price_str": "1,49 €"
+    },
+    {
+      "appid": "EP5410-CUSA16790_00-2ZDELUXEEDITIONB",
+      "name": "Quest Hunter: Deluxe Edition",
+      "discount": 70,
+      "orig_cents": 3999,
+      "final_cents": 1199,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "11,99 €"
+    },
+    {
+      "appid": "EP2866-PPSA07618_00-TSW3BIRCROSSCITY",
+      "name": "Train Sim World® 3: Birmingham Cross-City Line: Lichfield - Bromsgrove & Redditch",
+      "discount": 70,
+      "orig_cents": 3599,
+      "final_cents": 1079,
+      "orig_price_str": "35,99 €",
+      "final_price_str": "10,79 €"
+    },
+    {
+      "appid": "EP3643-PPSA10123_00-RTMIPS5SIEE00000",
+      "name": "Return to Monkey Island",
+      "discount": 70,
+      "orig_cents": 2499,
+      "final_cents": 749,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "7,49 €"
+    },
+    {
+      "appid": "EP6665-PPSA07579_00-WRCG000000000000",
+      "name": "WRC Generations – The FIA WRC Official Game",
+      "discount": 70,
+      "orig_cents": 3999,
+      "final_cents": 1199,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "11,99 €"
     },
     {
       "appid": "EP6704-PPSA08307_00-9442511552792122",
@@ -1144,6 +910,96 @@
       "final_price_str": "2,99 €"
     },
     {
+      "appid": "EP2866-PPSA07618_00-TSW3GRWESTERNEXP",
+      "name": "Train Sim World® 3: Great Western Express",
+      "discount": 70,
+      "orig_cents": 2999,
+      "final_cents": 899,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "8,99 €"
+    },
+    {
+      "appid": "EP2866-PPSA07618_00-TSW3RUHRSIEGNORD",
+      "name": "Train Sim World® 3: Ruhr Sieg Nord",
+      "discount": 70,
+      "orig_cents": 2499,
+      "final_cents": 749,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "7,49 €"
+    },
+    {
+      "appid": "EP2866-PPSA07618_00-TSW3WESTSOMERSET",
+      "name": "Train Sim World® 3: West Somerset Railway",
+      "discount": 70,
+      "orig_cents": 2499,
+      "final_cents": 749,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "7,49 €"
+    },
+    {
+      "appid": "EP2866-PPSA07618_00-TSW3CLINCHFIELDR",
+      "name": "Train Sim World® 3: Clinchfield Railroad: Elkhorn - Dante",
+      "discount": 70,
+      "orig_cents": 2999,
+      "final_cents": 899,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "8,99 €"
+    },
+    {
+      "appid": "EP2866-PPSA07618_00-TSW3HARLEMLINEUS",
+      "name": "Train Sim World® 3: Harlem Line: Grand Central Terminal - North White Plains",
+      "discount": 70,
+      "orig_cents": 2999,
+      "final_cents": 899,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "8,99 €"
+    },
+    {
+      "appid": "EP2866-PPSA07618_00-TSW3CANADIANNOAK",
+      "name": "Train Sim World® 3: Canadian National Oakville Subdivision: Hamilton - Oakville",
+      "discount": 70,
+      "orig_cents": 2499,
+      "final_cents": 749,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "7,49 €"
+    },
+    {
+      "appid": "EP2866-PPSA07618_00-TSW3CATHCARTLINE",
+      "name": "Train Sim World®: Cathcart Circle Line: Glasgow - Newton & Neilston TSW2 & TSW3 Compatible",
+      "discount": 70,
+      "orig_cents": 2999,
+      "final_cents": 899,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "8,99 €"
+    },
+    {
+      "appid": "EP0896-PPSA08552_00-RATADUNGEONSLIME",
+      "name": "Dungeon Slime Collection PS4 & PS5",
+      "discount": 70,
+      "orig_cents": 499,
+      "final_cents": 149,
+      "orig_price_str": "4,99 €",
+      "final_price_str": "1,49 €"
+    },
+    {
+      "appid": "EP5609-CUSA31547_00-8949231962824211",
+      "name": "Das Spiel Des Lebens 2",
+      "discount": 70,
+      "orig_cents": 2999,
+      "final_cents": 899,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "8,99 €"
+    },
+    {
+      "appid": "EP4837-PPSA02962_00-ROBOTREBELLION00",
+      "name": "Deep Rock Galactic - Robot Rebellion Pack",
+      "discount": 70,
+      "orig_cents": 799,
+      "final_cents": 239,
+      "orig_price_str": "7,99 €",
+      "final_price_str": "2,39 €"
+    },
+    {
       "appid": "EP5539-CUSA29073_00-7040277275145224",
       "name": "Young Souls",
       "discount": 70,
@@ -1151,6 +1007,15 @@
       "final_cents": 749,
       "orig_price_str": "24,99 €",
       "final_price_str": "7,49 €"
+    },
+    {
+      "appid": "EP0006-PPSA03864_00-DELUXEEDITION000",
+      "name": "GRID Legends Deluxe Edition PS4 & PS5",
+      "discount": 70,
+      "orig_cents": 8999,
+      "final_cents": 2699,
+      "orig_price_str": "89,99 €",
+      "final_price_str": "26,99 €"
     },
     {
       "appid": "EP2005-PPSA05243_00-BEATSOULS0000000",
@@ -1171,8 +1036,8 @@
       "final_price_str": "5,99 €"
     },
     {
-      "appid": "EP2005-PPSA04548_00-ROGUEEXPLORER000",
-      "name": "Rogue Explorer PS4 & PS5",
+      "appid": "EP4837-PPSA02962_00-3485020448523566",
+      "name": "Deep Rock Galactic - Dark Future Pack",
       "discount": 70,
       "orig_cents": 799,
       "final_cents": 239,
@@ -1180,26 +1045,44 @@
       "final_price_str": "2,39 €"
     },
     {
-      "appid": "EP5686-CUSA27749_00-2505986130656078",
-      "name": "Clone Drone in the Danger Zone",
+      "appid": "EP4837-PPSA02962_00-2230277827949920",
+      "name": "Deep Rock Galactic - Dawn of the Dread Pack",
       "discount": 70,
-      "orig_cents": 1999,
-      "final_cents": 599,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "5,99 €"
+      "orig_cents": 799,
+      "final_cents": 239,
+      "orig_price_str": "7,99 €",
+      "final_price_str": "2,39 €"
     },
     {
-      "appid": "EP2005-PPSA03293_00-KINGDOMOFARCADIA",
-      "name": "Kingdom of Arcadia PS4 & PS5",
+      "appid": "EP4837-PPSA02962_00-9149901069708662",
+      "name": "Deep Rock Galactic - MegaCorp Pack",
       "discount": 70,
-      "orig_cents": 599,
-      "final_cents": 179,
-      "orig_price_str": "5,99 €",
-      "final_price_str": "1,79 €"
+      "orig_cents": 799,
+      "final_cents": 239,
+      "orig_price_str": "7,99 €",
+      "final_price_str": "2,39 €"
     },
     {
-      "appid": "EP4897-CUSA23967_00-STEAMPUNKTOWER21",
-      "name": "Steampunk Tower 2",
+      "appid": "EP4837-PPSA02962_00-DRGRIVALTECPS5EU",
+      "name": "Deep Rock Galactic - Rival Tech",
+      "discount": 70,
+      "orig_cents": 799,
+      "final_cents": 239,
+      "orig_price_str": "7,99 €",
+      "final_price_str": "2,39 €"
+    },
+    {
+      "appid": "EP4837-PPSA02962_00-3842398008492980",
+      "name": "Deep Rock Galactic - Roughneck Pack",
+      "discount": 70,
+      "orig_cents": 799,
+      "final_cents": 239,
+      "orig_price_str": "7,99 €",
+      "final_price_str": "2,39 €"
+    },
+    {
+      "appid": "EP4837-PPSA02962_00-DRGSTARTERPPS5EU",
+      "name": "Deep Rock Galactic - Starter Pack",
       "discount": 70,
       "orig_cents": 999,
       "final_cents": 299,
@@ -1207,44 +1090,17 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "EP4396-CUSA19592_00-SHINGDELUXEEU001",
-      "name": "Shing! Digital Deluxe Edition. Game + OST + PS4 Dynamic Theme",
+      "appid": "EP4837-PPSA02962_00-SUPPORTEREUROPS5",
+      "name": "Deep Rock Galactic - Supporter Upgrade",
       "discount": 70,
-      "orig_cents": 2499,
-      "final_cents": 749,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "7,49 €"
+      "orig_cents": 1499,
+      "final_cents": 449,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "4,49 €"
     },
     {
-      "appid": "EP1018-PPSA01619_00-SHECHARACTER0000",
-      "name": "Sheeva",
-      "discount": 70,
-      "orig_cents": 599,
-      "final_cents": 179,
-      "orig_price_str": "5,99 €",
-      "final_price_str": "1,79 €"
-    },
-    {
-      "appid": "EP1018-PPSA01619_00-SINCHARACTER0000",
-      "name": "Sindel",
-      "discount": 70,
-      "orig_cents": 599,
-      "final_cents": 179,
-      "orig_price_str": "5,99 €",
-      "final_price_str": "1,79 €"
-    },
-    {
-      "appid": "EP4001-PPSA01551_00-DIRTFIVEPS5EDITI",
-      "name": "DIRT 5 PS4 & PS5",
-      "discount": 70,
-      "orig_cents": 6999,
-      "final_cents": 2099,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "20,99 €"
-    },
-    {
-      "appid": "EP4897-CUSA23908_00-6623971583508952",
-      "name": "Grood",
+      "appid": "EP2005-PPSA05054_00-WITHOUTESCAPE000",
+      "name": "Without Escape",
       "discount": 70,
       "orig_cents": 499,
       "final_cents": 149,
@@ -1252,26 +1108,8 @@
       "final_price_str": "1,49 €"
     },
     {
-      "appid": "EP4897-CUSA20259_00-THEGREATPERHAPS1",
-      "name": "The Great Perhaps",
-      "discount": 70,
-      "orig_cents": 999,
-      "final_cents": 299,
-      "orig_price_str": "9,99 €",
-      "final_price_str": "2,99 €"
-    },
-    {
-      "appid": "EP1018-CUSA11379_00-SHECHARACTER0000",
-      "name": "Sheeva",
-      "discount": 70,
-      "orig_cents": 599,
-      "final_cents": 179,
-      "orig_price_str": "5,99 €",
-      "final_price_str": "1,79 €"
-    },
-    {
-      "appid": "EP4837-CUSA12064_00-HUNTDOWN00000001",
-      "name": "Huntdown",
+      "appid": "EP1270-PPSA04347_00-00000000AGLPS5EU",
+      "name": "A Gummy's Life",
       "discount": 70,
       "orig_cents": 1999,
       "final_cents": 599,
@@ -1279,31 +1117,13 @@
       "final_price_str": "5,99 €"
     },
     {
-      "appid": "EP1018-CUSA11379_00-SINCHARACTER0000",
-      "name": "Sindel",
+      "appid": "EP0177-PPSA03775_00-ALLINONEPASS1003",
+      "name": "Lost Judgment Season Pass",
       "discount": 70,
-      "orig_cents": 599,
-      "final_cents": 179,
-      "orig_price_str": "5,99 €",
-      "final_price_str": "1,79 €"
-    },
-    {
-      "appid": "EP4591-CUSA11218_00-LOSTCASTLE000000",
-      "name": "Lost Castle",
-      "discount": 70,
-      "orig_cents": 999,
-      "final_cents": 299,
-      "orig_price_str": "9,99 €",
-      "final_price_str": "2,99 €"
-    },
-    {
-      "appid": "EP2475-CUSA12810_00-PERSONA3DEU00000",
-      "name": "Persona 3: Dancing in Moonlight",
-      "discount": 70,
-      "orig_cents": 2999,
-      "final_cents": 899,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "8,99 €"
+      "orig_cents": 3499,
+      "final_cents": 1049,
+      "orig_price_str": "34,99 €",
+      "final_price_str": "10,49 €"
     },
     {
       "appid": "EP6853-PPSA05425_00-WWZGAME000000PS5",
@@ -1315,6 +1135,15 @@
       "final_price_str": "13,19 €"
     },
     {
+      "appid": "EP0006-PPSA02423_00-HAZELIGHTBUNDLE5",
+      "name": "Hazelight-Bundle",
+      "discount": 67,
+      "orig_cents": 5999,
+      "final_cents": 1979,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "19,79 €"
+    },
+    {
       "appid": "EP1003-PPSA03747_00-SKY10ANNIVERSARY",
       "name": "The Elder Scrolls V: Skyrim Anniversary Edition - PS5 & PS4",
       "discount": 67,
@@ -1322,6 +1151,42 @@
       "final_cents": 1814,
       "orig_price_str": "54,99 €",
       "final_price_str": "18,14 €"
+    },
+    {
+      "appid": "EP6665-PPSA08555_00-BB300DELUXE00003",
+      "name": "Blood Bowl 3 - Brutal Edition",
+      "discount": 65,
+      "orig_cents": 5999,
+      "final_cents": 2099,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "20,99 €"
+    },
+    {
+      "appid": "EP6665-CUSA34660_00-BB300DELUXE00003",
+      "name": "Blood Bowl 3 - Brutal Edition",
+      "discount": 65,
+      "orig_cents": 5999,
+      "final_cents": 2099,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "20,99 €"
+    },
+    {
+      "appid": "EP2866-PPSA07618_00-TSW3HAURHEINRUHR",
+      "name": "Train Sim World® 3: Hauptstrecke Rhein-Ruhr",
+      "discount": 65,
+      "orig_cents": 2999,
+      "final_cents": 1049,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "10,49 €"
+    },
+    {
+      "appid": "EP2005-PPSA05330_00-RICKHENDERSON000",
+      "name": "Rick Henderson PS4 & PS5",
+      "discount": 65,
+      "orig_cents": 799,
+      "final_cents": 279,
+      "orig_price_str": "7,99 €",
+      "final_price_str": "2,79 €"
     },
     {
       "appid": "EP0177-PPSA03490_00-HINOKAMISET00002",
@@ -1351,7 +1216,7 @@
       "final_price_str": "20,99 €"
     },
     {
-      "appid": "EP0290-PPSA01349_00-GODFALLULTIMATE0",
+      "appid": "EP0290-CUSA26922_00-GODFALLULTIMATE0",
       "name": "Godfall Ultimate Edition",
       "discount": 65,
       "orig_cents": 3999,
@@ -1360,7 +1225,7 @@
       "final_price_str": "13,99 €"
     },
     {
-      "appid": "EP0290-CUSA26922_00-GODFALLULTIMATE0",
+      "appid": "EP0290-PPSA01349_00-GODFALLULTIMATE0",
       "name": "Godfall Ultimate Edition",
       "discount": 65,
       "orig_cents": 3999,
@@ -1405,58 +1270,13 @@
       "final_price_str": "3,49 €"
     },
     {
-      "appid": "EP4897-CUSA27894_00-2290802326927961",
-      "name": "WeakWood Throne",
+      "appid": "EP4060-CUSA26856_00-MARYSKELTERFIN00",
+      "name": "Mary Skelter Finale",
       "discount": 65,
-      "orig_cents": 499,
-      "final_cents": 174,
-      "orig_price_str": "4,99 €",
-      "final_price_str": "1,74 €"
-    },
-    {
-      "appid": "EP4897-CUSA25541_00-9434239514976816",
-      "name": "Guards",
-      "discount": 65,
-      "orig_cents": 499,
-      "final_cents": 174,
-      "orig_price_str": "4,99 €",
-      "final_price_str": "1,74 €"
-    },
-    {
-      "appid": "EP4897-CUSA20258_00-DEADDUNGEON00000",
-      "name": "Dead Dungeon",
-      "discount": 65,
-      "orig_cents": 499,
-      "final_cents": 174,
-      "orig_price_str": "4,99 €",
-      "final_price_str": "1,74 €"
-    },
-    {
-      "appid": "EP3729-CUSA18003_00-SUPERKOROTAMA000",
-      "name": "Super Korotama",
-      "discount": 65,
-      "orig_cents": 499,
-      "final_cents": 174,
-      "orig_price_str": "4,99 €",
-      "final_price_str": "1,74 €"
-    },
-    {
-      "appid": "EP0002-CUSA12085_00-SPYROCRASHBUND01",
-      "name": "Spyro™ + Crash Remastered Spiele-Bundle",
-      "discount": 65,
-      "orig_cents": 6999,
-      "final_cents": 2449,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "24,49 €"
-    },
-    {
-      "appid": "EP3594-CUSA09835_00-DAZWSMALLBBUNDLE",
-      "name": "DAZW Small Bundle",
-      "discount": 61,
-      "orig_cents": 99,
-      "final_cents": 39,
-      "orig_price_str": "0,99 €",
-      "final_price_str": "0,39 €"
+      "orig_cents": 4999,
+      "final_cents": 1749,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "17,49 €"
     },
     {
       "appid": "EP4886-PPSA15216_00-0917831880536645",
@@ -1466,6 +1286,15 @@
       "final_cents": 799,
       "orig_price_str": "19,99 €",
       "final_price_str": "7,99 €"
+    },
+    {
+      "appid": "EP4886-PPSA15216_00-0725792543890273",
+      "name": "Tin Can - Supporter Edition",
+      "discount": 60,
+      "orig_cents": 2199,
+      "final_cents": 879,
+      "orig_price_str": "21,99 €",
+      "final_price_str": "8,79 €"
     },
     {
       "appid": "EP2696-CUSA41135_00-0758701172123666",
@@ -1513,6 +1342,24 @@
       "final_price_str": "1,99 €"
     },
     {
+      "appid": "EP0896-PPSA10724_00-RAGAMHEADBANGERS",
+      "name": "Headbangers in Holiday Hell PS4™ & PS5™",
+      "discount": 60,
+      "orig_cents": 599,
+      "final_cents": 239,
+      "orig_price_str": "5,99 €",
+      "final_price_str": "2,39 €"
+    },
+    {
+      "appid": "EP5439-CUSA14212_00-GZEASTEUWEAPONSP",
+      "name": "Generation Zero ® - Eastern European Weapons Pack",
+      "discount": 60,
+      "orig_cents": 499,
+      "final_cents": 199,
+      "orig_price_str": "4,99 €",
+      "final_price_str": "1,99 €"
+    },
+    {
       "appid": "EP0900-CUSA29547_00-4103461541053748",
       "name": "Chained Echoes",
       "discount": 60,
@@ -1520,6 +1367,15 @@
       "final_cents": 999,
       "orig_price_str": "24,99 €",
       "final_price_str": "9,99 €"
+    },
+    {
+      "appid": "EP5439-CUSA14212_00-GZCAMOWEAPSKINPA",
+      "name": "Generation Zero ® - Camo Weapon Skins Pack",
+      "discount": 60,
+      "orig_cents": 399,
+      "final_cents": 159,
+      "orig_price_str": "3,99 €",
+      "final_price_str": "1,59 €"
     },
     {
       "appid": "EP4040-PPSA03848_00-CHALLENGEPACKPS5",
@@ -1531,6 +1387,24 @@
       "final_price_str": "4,39 €"
     },
     {
+      "appid": "EP0896-PPSA10119_00-7DAYSOFROSERAGAM",
+      "name": "7 Days of Rose PS4 & PS5",
+      "discount": 60,
+      "orig_cents": 499,
+      "final_cents": 199,
+      "orig_price_str": "4,99 €",
+      "final_price_str": "1,99 €"
+    },
+    {
+      "appid": "EP4829-PPSA02327_00-OLLIWORLDDLC0004",
+      "name": "OlliOlli World: Finding the Flowzone (PS4/PS5)",
+      "discount": 60,
+      "orig_cents": 749,
+      "final_cents": 299,
+      "orig_price_str": "7,49 €",
+      "final_price_str": "2,99 €"
+    },
+    {
       "appid": "EP0082-PPSA05881_00-DFCSTD000000005E",
       "name": "The DioField Chronicle PS4 & PS5",
       "discount": 60,
@@ -1538,6 +1412,96 @@
       "final_cents": 2399,
       "orig_price_str": "59,99 €",
       "final_price_str": "23,99 €"
+    },
+    {
+      "appid": "EP2866-PPSA07618_00-TSW3EASTCOASTWAY",
+      "name": "Train Sim World® 3: East Coastway: Brighton - Eastbourne & Seaford",
+      "discount": 60,
+      "orig_cents": 2999,
+      "final_cents": 1199,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "11,99 €"
+    },
+    {
+      "appid": "EP2866-PPSA07618_00-TSW3SOUTHHIGHEXT",
+      "name": "Train Sim World® 3: Southeastern Highspeed: London St Pancras - Ashford Intl & Faversham",
+      "discount": 60,
+      "orig_cents": 3599,
+      "final_cents": 1439,
+      "orig_price_str": "35,99 €",
+      "final_price_str": "14,39 €"
+    },
+    {
+      "appid": "EP2866-PPSA07618_00-TSW3LIVRPOOLCREW",
+      "name": "Train Sim World® 3: Spirit of Steam: Liverpool Lime Street - Crewe",
+      "discount": 60,
+      "orig_cents": 3599,
+      "final_cents": 1439,
+      "orig_price_str": "35,99 €",
+      "final_price_str": "14,39 €"
+    },
+    {
+      "appid": "EP2866-PPSA07618_00-TSW3DRESDENCHEMN",
+      "name": "Train Sim World® 3: Tharandter Rampe: Dresden - Chemnitz",
+      "discount": 60,
+      "orig_cents": 2999,
+      "final_cents": 1199,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "11,99 €"
+    },
+    {
+      "appid": "EP5439-CUSA14212_00-TACTICALEQUIPMNT",
+      "name": "Generation Zero® - Tactical Equipment Pack",
+      "discount": 60,
+      "orig_cents": 599,
+      "final_cents": 239,
+      "orig_price_str": "5,99 €",
+      "final_price_str": "2,39 €"
+    },
+    {
+      "appid": "EP4829-PPSA02327_00-OLLIWORLDDLC0003",
+      "name": "OlliOlli World: VOID Riders (PS4/PS5)",
+      "discount": 60,
+      "orig_cents": 749,
+      "final_cents": 299,
+      "orig_price_str": "7,49 €",
+      "final_price_str": "2,99 €"
+    },
+    {
+      "appid": "EP5439-CUSA14212_00-RESISTANCEWEAPON",
+      "name": "Generation Zero® - Resistance Weapons Pack",
+      "discount": 60,
+      "orig_cents": 399,
+      "final_cents": 159,
+      "orig_price_str": "3,99 €",
+      "final_price_str": "1,59 €"
+    },
+    {
+      "appid": "EP5439-CUSA14212_00-BASESUPPORTPACKS",
+      "name": "Generation Zero® - Base Support Pack",
+      "discount": 60,
+      "orig_cents": 499,
+      "final_cents": 199,
+      "orig_price_str": "4,99 €",
+      "final_price_str": "1,99 €"
+    },
+    {
+      "appid": "EP1001-PPSA01493_00-TTWSSTANDPS5SIEE",
+      "name": "Tiny Tinas Wonderlands: Next-Level-Edition",
+      "discount": 60,
+      "orig_cents": 2999,
+      "final_cents": 1199,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "11,99 €"
+    },
+    {
+      "appid": "EP5439-CUSA14212_00-GZ0USWEAPONPACK2",
+      "name": "Generation Zero® - US Weapons Pack 2",
+      "discount": 60,
+      "orig_cents": 299,
+      "final_cents": 119,
+      "orig_price_str": "2,99 €",
+      "final_price_str": "1,19 €"
     },
     {
       "appid": "EP4040-PPSA03848_00-2020GTWORLDLCPS5",
@@ -1576,6 +1540,15 @@
       "final_price_str": "5,19 €"
     },
     {
+      "appid": "EP5439-CUSA14212_00-GZ0BASEDEFENSEPK",
+      "name": "Generation Zero® - Base Defense Pack",
+      "discount": 60,
+      "orig_cents": 399,
+      "final_cents": 159,
+      "orig_price_str": "3,99 €",
+      "final_price_str": "1,59 €"
+    },
+    {
       "appid": "EP8062-PPSA03861_00-5987585141479782",
       "name": "CATS OF WAR",
       "discount": 60,
@@ -1585,177 +1558,6 @@
       "final_price_str": "3,59 €"
     },
     {
-      "appid": "EP2609-CUSA13930_00-WWZEXPLORER000EU",
-      "name": "World War Z - Explorer Weapon Skins Pack",
-      "discount": 60,
-      "orig_cents": 499,
-      "final_cents": 199,
-      "orig_price_str": "4,99 €",
-      "final_price_str": "1,99 €"
-    },
-    {
-      "appid": "EP2609-CUSA13930_00-WWZZEKEDLC0000EU",
-      "name": "World War Z - Zeke Hunter Weapons Pack",
-      "discount": 60,
-      "orig_cents": 499,
-      "final_cents": 199,
-      "orig_price_str": "4,99 €",
-      "final_price_str": "1,99 €"
-    },
-    {
-      "appid": "EP8062-PPSA02760_00-6475207641337657",
-      "name": "RACING BROS",
-      "discount": 60,
-      "orig_cents": 899,
-      "final_cents": 359,
-      "orig_price_str": "8,99 €",
-      "final_price_str": "3,59 €"
-    },
-    {
-      "appid": "EP8062-PPSA05373_00-9775821432955732",
-      "name": "The Angry 4",
-      "discount": 60,
-      "orig_cents": 1499,
-      "final_cents": 599,
-      "orig_price_str": "14,99 €",
-      "final_price_str": "5,99 €"
-    },
-    {
-      "appid": "EP2005-PPSA04730_00-POKERBATTLE00000",
-      "name": "Poker Pretty Girls Battle: Fantasy World Edition",
-      "discount": 60,
-      "orig_cents": 599,
-      "final_cents": 239,
-      "orig_price_str": "5,99 €",
-      "final_price_str": "2,39 €"
-    },
-    {
-      "appid": "EP8162-CUSA26333_00-0912274410955460",
-      "name": "Blair Witch: VR Edition",
-      "discount": 60,
-      "orig_cents": 2999,
-      "final_cents": 1199,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "11,99 €"
-    },
-    {
-      "appid": "EP2005-CUSA27611_00-POKERBATTLE00000",
-      "name": "Poker Pretty Girls Battle: Fantasy World Edition",
-      "discount": 60,
-      "orig_cents": 599,
-      "final_cents": 239,
-      "orig_price_str": "5,99 €",
-      "final_price_str": "2,39 €"
-    },
-    {
-      "appid": "EP2377-PPSA01735_00-PLANETCOASTUDIOS",
-      "name": "Planet Coaster: Studiopaket",
-      "discount": 60,
-      "orig_cents": 999,
-      "final_cents": 399,
-      "orig_price_str": "9,99 €",
-      "final_price_str": "3,99 €"
-    },
-    {
-      "appid": "EP0177-PPSA02384_00-YLADHEU000000000",
-      "name": "Yakuza: Like a Dragon Hero Edition PS4 & PS5",
-      "discount": 60,
-      "orig_cents": 2499,
-      "final_cents": 999,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "9,99 €"
-    },
-    {
-      "appid": "EP2696-CUSA25859_00-ONESTRIKEPS4V100",
-      "name": "One Strike",
-      "discount": 60,
-      "orig_cents": 499,
-      "final_cents": 199,
-      "orig_price_str": "4,99 €",
-      "final_price_str": "1,99 €"
-    },
-    {
-      "appid": "EP4897-CUSA24624_00-3496007729659491",
-      "name": "Drawngeon: Dungeons of Ink and Paper",
-      "discount": 60,
-      "orig_cents": 499,
-      "final_cents": 199,
-      "orig_price_str": "4,99 €",
-      "final_price_str": "1,99 €"
-    },
-    {
-      "appid": "EP8062-CUSA20191_00-3001199027585589",
-      "name": "DASHBALL",
-      "discount": 60,
-      "orig_cents": 999,
-      "final_cents": 399,
-      "orig_price_str": "9,99 €",
-      "final_price_str": "3,99 €"
-    },
-    {
-      "appid": "EP4001-CUSA12747_00-DIRTRALLY2SDELUX",
-      "name": "DiRT Rally 2.0 - Game of the Year Edition",
-      "discount": 60,
-      "orig_cents": 4999,
-      "final_cents": 1999,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "19,99 €"
-    },
-    {
-      "appid": "EP3594-CUSA09835_00-DAZWGAMEANDPACKS",
-      "name": "DEAD AHEAD: ZOMBIE WARFARE&3 Packs",
-      "discount": 60,
-      "orig_cents": 2999,
-      "final_cents": 1199,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "11,99 €"
-    },
-    {
-      "appid": "EP3594-CUSA09835_00-DAZWCIRCUSBUNDLE",
-      "name": "DEAD AHEAD:ZOMBIE WARFARE&Circus Bundle",
-      "discount": 60,
-      "orig_cents": 2199,
-      "final_cents": 879,
-      "orig_price_str": "21,99 €",
-      "final_price_str": "8,79 €"
-    },
-    {
-      "appid": "EP3594-CUSA09835_00-DAZWSWATBNDL0000",
-      "name": "DEAD AHEAD:ZOMBIE WARFARE&SWAT Bundle",
-      "discount": 60,
-      "orig_cents": 2499,
-      "final_cents": 999,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "9,99 €"
-    },
-    {
-      "appid": "EP3594-CUSA09835_00-DAZWSUPERMILTR00",
-      "name": "DEAD AHEAD:ZOMBIE WARFARE Super Military Pack",
-      "discount": 60,
-      "orig_cents": 1599,
-      "final_cents": 639,
-      "orig_price_str": "15,99 €",
-      "final_price_str": "6,39 €"
-    },
-    {
-      "appid": "EP1001-CUSA13873_00-BARKERBASEGAME00",
-      "name": "Carnival Games®",
-      "discount": 60,
-      "orig_cents": 1999,
-      "final_cents": 799,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "7,99 €"
-    },
-    {
-      "appid": "EP3594-CUSA09835_00-DAZWSTARTERBNDL0",
-      "name": "DEAD AHEAD:ZOMBIE WARFARE Starter Bundle",
-      "discount": 60,
-      "orig_cents": 2099,
-      "final_cents": 839,
-      "orig_price_str": "20,99 €",
-      "final_price_str": "8,39 €"
-    },
-    {
       "appid": "EP1549-PPSA02401_00-0390571744337777",
       "name": "Car Mechanic Simulator 2021 - Drag Racing DLC",
       "discount": 55,
@@ -1763,15 +1565,6 @@
       "final_cents": 674,
       "orig_price_str": "14,99 €",
       "final_price_str": "6,74 €"
-    },
-    {
-      "appid": "EP1931-CUSA28867_00-2021005000101050",
-      "name": "Kerzenmännchen",
-      "discount": 55,
-      "orig_cents": 2499,
-      "final_cents": 1124,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "11,24 €"
     },
     {
       "appid": "EP7541-CUSA41038_00-0178533101746802",
@@ -1801,6 +1594,15 @@
       "final_price_str": "4,99 €"
     },
     {
+      "appid": "EP6470-PPSA12438_00-FURRYTANGRAMLITE",
+      "name": "Furry Tangram Lite  PS4™ & PS5™",
+      "discount": 50,
+      "orig_cents": 199,
+      "final_cents": 99,
+      "orig_price_str": "1,99 €",
+      "final_price_str": "0,99 €"
+    },
+    {
       "appid": "EP0811-PPSA08390_00-6694905533248743",
       "name": "TAPE: Unveil the Memories",
       "discount": 50,
@@ -1817,6 +1619,15 @@
       "final_cents": 349,
       "orig_price_str": "6,99 €",
       "final_price_str": "3,49 €"
+    },
+    {
+      "appid": "EP1001-PPSA03500_00-CYPRESPS4SIEEDLX",
+      "name": "New Tales from the Borderlands: Deluxe Edition",
+      "discount": 50,
+      "orig_cents": 4999,
+      "final_cents": 2499,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "24,99 €"
     },
     {
       "appid": "EP6718-CUSA35782_00-1702081596169373",
@@ -1855,6 +1666,33 @@
       "final_price_str": "1,99 €"
     },
     {
+      "appid": "EP3597-PPSA09727_00-LETTERBOXBYPOWGI",
+      "name": "Letterbox by POWGI PS4 & PS5",
+      "discount": 50,
+      "orig_cents": 799,
+      "final_cents": 399,
+      "orig_price_str": "7,99 €",
+      "final_price_str": "3,99 €"
+    },
+    {
+      "appid": "EP8916-PPSA04117_00-9255130884400824",
+      "name": "Shantae and the Pirate's Curse",
+      "discount": 50,
+      "orig_cents": 1999,
+      "final_cents": 999,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "9,99 €"
+    },
+    {
+      "appid": "EP4291-CUSA15859_00-THEHUNTGAME00045",
+      "name": "Hunt: Showdown 1896 – The Penitent",
+      "discount": 50,
+      "orig_cents": 999,
+      "final_cents": 499,
+      "orig_price_str": "9,99 €",
+      "final_price_str": "4,99 €"
+    },
+    {
       "appid": "EP8151-CUSA35627_00-0407305687414252",
       "name": "Last Beat Enhanced",
       "discount": 50,
@@ -1871,6 +1709,15 @@
       "final_cents": 1499,
       "orig_price_str": "29,99 €",
       "final_price_str": "14,99 €"
+    },
+    {
+      "appid": "EP4139-CUSA15495_00-STA0000000000006",
+      "name": "Surviving the Aftermath: New Alliances",
+      "discount": 50,
+      "orig_cents": 1499,
+      "final_cents": 749,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "7,49 €"
     },
     {
       "appid": "EP8151-CUSA34692_00-3249711398104833",
@@ -2170,6 +2017,15 @@
       "final_price_str": "0,99 €"
     },
     {
+      "appid": "EP3597-PPSA08007_00-SIXTYWORDSBYPOWG",
+      "name": "Sixty Words by POWGI PS4 & PS5",
+      "discount": 50,
+      "orig_cents": 799,
+      "final_cents": 399,
+      "orig_price_str": "7,99 €",
+      "final_price_str": "3,99 €"
+    },
+    {
       "appid": "EP4064-CUSA33247_00-SLES038040000000",
       "name": "Worms World Party [PS1 Emulation]",
       "discount": 50,
@@ -2179,6 +2035,15 @@
       "final_price_str": "2,49 €"
     },
     {
+      "appid": "EP1004-PPSA01721_00-GTAVCROSSGENBUND",
+      "name": "Grand Theft Auto V (PS4™ & PS5™)",
+      "discount": 50,
+      "orig_cents": 3999,
+      "final_cents": 1999,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "19,99 €"
+    },
+    {
       "appid": "EP0700-CUSA08767_00-NTBSSPASS0000005",
       "name": "NARUTO TO BORUTO: SHINOBI STRIKER Season Pass 5",
       "discount": 50,
@@ -2186,6 +2051,24 @@
       "final_cents": 749,
       "orig_price_str": "14,99 €",
       "final_price_str": "7,49 €"
+    },
+    {
+      "appid": "EP1004-PPSA01721_00-GTAOSTANDALONE01",
+      "name": "Grand Theft Auto Online (PlayStation®5)",
+      "discount": 50,
+      "orig_cents": 1999,
+      "final_cents": 999,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "9,99 €"
+    },
+    {
+      "appid": "EP3597-PPSA06627_00-WORDBREAKERPOWGI",
+      "name": "Wordbreaker by POWGI PS4 & PS5",
+      "discount": 50,
+      "orig_cents": 799,
+      "final_cents": 399,
+      "orig_price_str": "7,99 €",
+      "final_price_str": "3,99 €"
     },
     {
       "appid": "EP5539-CUSA30994_00-INFERNAXTACSIEE0",
@@ -2233,6 +2116,24 @@
       "final_price_str": "3,99 €"
     },
     {
+      "appid": "EP6197-CUSA29612_00-8207439093790097",
+      "name": "Formula Retro Racing",
+      "discount": 50,
+      "orig_cents": 599,
+      "final_cents": 299,
+      "orig_price_str": "5,99 €",
+      "final_price_str": "2,99 €"
+    },
+    {
+      "appid": "EP1001-CUSA30036_00-000PAWPAWSIEEPS4",
+      "name": "Tiny Tinas Sturm auf die Drachenfestung: Ein einmaliges Wonderlands-Abenteuer",
+      "discount": 50,
+      "orig_cents": 999,
+      "final_cents": 499,
+      "orig_price_str": "9,99 €",
+      "final_price_str": "4,99 €"
+    },
+    {
       "appid": "EP8151-CUSA31034_00-5946621996456740",
       "name": "Ghost Sweeper",
       "discount": 50,
@@ -2242,6 +2143,15 @@
       "final_price_str": "2,49 €"
     },
     {
+      "appid": "EP8916-PPSA04119_00-5532510806615494",
+      "name": "Shantae: Half-Genie Hero - Ultimate Edition",
+      "discount": 50,
+      "orig_cents": 2999,
+      "final_cents": 1499,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "14,99 €"
+    },
+    {
       "appid": "EP4040-PPSA03685_00-HALLOWEENPACKDLC",
       "name": "Ghostrunner: Halloween Pack",
       "discount": 50,
@@ -2249,6 +2159,24 @@
       "final_cents": 249,
       "orig_price_str": "4,99 €",
       "final_price_str": "2,49 €"
+    },
+    {
+      "appid": "EP3597-PPSA04798_00-FLOWERSBYPOWGI00",
+      "name": "Flowers by POWGI PS4 & PS5",
+      "discount": 50,
+      "orig_cents": 799,
+      "final_cents": 399,
+      "orig_price_str": "7,99 €",
+      "final_price_str": "3,99 €"
+    },
+    {
+      "appid": "EP6470-PPSA04917_00-SAKURANOVA000000",
+      "name": "Sakura Nova PS4 & PS5",
+      "discount": 50,
+      "orig_cents": 1199,
+      "final_cents": 599,
+      "orig_price_str": "11,99 €",
+      "final_price_str": "5,99 €"
     },
     {
       "appid": "EP4040-PPSA03685_00-JACKSBUNDLE00000",
@@ -2287,157 +2215,49 @@
       "final_price_str": "0,99 €"
     },
     {
-      "appid": "EP4040-CUSA24169_00-JACKSBUNDLE00000",
-      "name": "Ghostrunner: Jack's Bundle",
-      "discount": 50,
-      "orig_cents": 799,
-      "final_cents": 399,
-      "orig_price_str": "7,99 €",
-      "final_price_str": "3,99 €"
+      "appid": "EP3359-CUSA08368_00-THCOTWHIRSCHVTCP",
+      "name": "theHunter: Call of the Wild™ - Hirschfelden Veteran Cosmetic Pack",
+      "discount": 45,
+      "orig_cents": 299,
+      "final_cents": 164,
+      "orig_price_str": "2,99 €",
+      "final_price_str": "1,64 €"
     },
     {
-      "appid": "EP4040-CUSA24169_00-VANITYPACK000002",
-      "name": "Ghostrunner: Neon-Pack",
-      "discount": 50,
-      "orig_cents": 499,
-      "final_cents": 249,
-      "orig_price_str": "4,99 €",
-      "final_price_str": "2,49 €"
-    },
-    {
-      "appid": "EP2005-CUSA20484_00-METALOIDORIGIN00",
-      "name": "Metaloid: Origin",
-      "discount": 50,
-      "orig_cents": 499,
-      "final_cents": 249,
-      "orig_price_str": "4,99 €",
-      "final_price_str": "2,49 €"
-    },
-    {
-      "appid": "EP4291-CUSA15859_00-THEHUNTGAME00027",
-      "name": "Hunt: Showdown 1896 - The Wolf at the Door",
-      "discount": 50,
-      "orig_cents": 999,
-      "final_cents": 499,
-      "orig_price_str": "9,99 €",
-      "final_price_str": "4,99 €"
-    },
-    {
-      "appid": "EP8151-CUSA26936_00-8624131550839176",
-      "name": "The Skylia Prophecy",
-      "discount": 50,
-      "orig_cents": 699,
-      "final_cents": 349,
-      "orig_price_str": "6,99 €",
-      "final_price_str": "3,49 €"
-    },
-    {
-      "appid": "EP4040-CUSA24169_00-VANITYPACK000001",
-      "name": "Ghostrunner: Metall-Ochsen-Pack",
-      "discount": 50,
-      "orig_cents": 499,
-      "final_cents": 249,
-      "orig_price_str": "4,99 €",
-      "final_price_str": "2,49 €"
-    },
-    {
-      "appid": "EP2696-CUSA25840_00-NOTNOTPS4V100000",
-      "name": "Not Not - A Brain Buster",
-      "discount": 50,
-      "orig_cents": 199,
-      "final_cents": 99,
-      "orig_price_str": "1,99 €",
-      "final_price_str": "0,99 €"
-    },
-    {
-      "appid": "EP4040-CUSA24169_00-VANITYPACK000000",
-      "name": "Ghostrunner: Winterpaket",
-      "discount": 50,
-      "orig_cents": 199,
-      "final_cents": 99,
-      "orig_price_str": "1,99 €",
-      "final_price_str": "0,99 €"
-    },
-    {
-      "appid": "EP8151-CUSA25255_00-9566364947769264",
-      "name": "Rusty Spout Rescue Adventure",
-      "discount": 50,
-      "orig_cents": 699,
-      "final_cents": 349,
-      "orig_price_str": "6,99 €",
-      "final_price_str": "3,49 €"
-    },
-    {
-      "appid": "EP0916-CUSA19483_00-0000000000000002",
-      "name": "Switch 'N' Shoot",
-      "discount": 50,
+      "appid": "EP3359-CUSA08368_00-THCOTWHUNTPOWERP",
+      "name": "theHunter: Call of the Wild™ - Hunter Power Pack",
+      "discount": 45,
       "orig_cents": 399,
-      "final_cents": 199,
+      "final_cents": 219,
       "orig_price_str": "3,99 €",
-      "final_price_str": "1,99 €"
+      "final_price_str": "2,19 €"
     },
     {
-      "appid": "EP4908-CUSA13262_00-ARYSECRETSEASONS",
-      "name": "Ary and the Secret of Seasons",
-      "discount": 50,
-      "orig_cents": 3999,
-      "final_cents": 1999,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "19,99 €"
+      "appid": "EP3359-CUSA08368_00-THCOTWNEWEMVETCP",
+      "name": "theHunter: Call of the Wild™ - New England Veteran Cosmetic Pack",
+      "discount": 45,
+      "orig_cents": 299,
+      "final_cents": 164,
+      "orig_price_str": "2,99 €",
+      "final_price_str": "1,64 €"
     },
     {
-      "appid": "EP4365-CUSA07632_00-7431024023630612",
-      "name": "Railway Empire - Complete Collection",
-      "discount": 50,
-      "orig_cents": 3999,
-      "final_cents": 1999,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "19,99 €"
-    },
-    {
-      "appid": "EP0177-CUSA06211_00-MDATA39CSFT0M006",
-      "name": "Hatsune Miku: Project DIVA Future Tone Mega Mix Encore Pack",
-      "discount": 50,
-      "orig_cents": 1499,
-      "final_cents": 749,
-      "orig_price_str": "14,99 €",
-      "final_price_str": "7,49 €"
-    },
-    {
-      "appid": "EP9000-CUSA16206_00-00000000MIMVRDLX",
-      "name": "Marvel's Iron Man VR: Digital Deluxe Edition",
-      "discount": 50,
-      "orig_cents": 4999,
-      "final_cents": 2499,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "24,99 €"
-    },
-    {
-      "appid": "EP2058-CUSA16788_00-PBAPROBOWLING000",
-      "name": "PBA Pro Bowling",
-      "discount": 50,
-      "orig_cents": 1499,
-      "final_cents": 749,
-      "orig_price_str": "14,99 €",
-      "final_price_str": "7,49 €"
-    },
-    {
-      "appid": "EP9000-CUSA07410_00-0000000GODOFWARN",
-      "name": "God of War™",
-      "discount": 50,
+      "appid": "EP6194-CUSA25317_00-9615120543371414",
+      "name": "STRIDE",
+      "discount": 45,
       "orig_cents": 1999,
-      "final_cents": 999,
+      "final_cents": 1099,
       "orig_price_str": "19,99 €",
-      "final_price_str": "9,99 €"
+      "final_price_str": "10,99 €"
     },
     {
-      "appid": "EP0177-CUSA06211_00-MIKUFTSNOW201819",
-      "name": "Hatsune Miku: Project DIVA Future Tone Snow Miku Pack",
-      "discount": 50,
-      "orig_cents": 699,
-      "final_cents": 349,
-      "orig_price_str": "6,99 €",
-      "final_price_str": "3,49 €"
+      "appid": "EP4136-CUSA25074_00-BSECTORBAALSIEE1",
+      "name": "Warhammer 40,000: Battlesector",
+      "discount": 45,
+      "orig_cents": 3499,
+      "final_cents": 1924,
+      "orig_price_str": "34,99 €",
+      "final_price_str": "19,24 €"
     },
     {
       "appid": "EP0546-CUSA35034_00-WATERMARGINPS4EU",
@@ -2521,6 +2341,15 @@
       "final_price_str": "4,79 €"
     },
     {
+      "appid": "EP4291-CUSA15859_00-THEHUNTGAME00039",
+      "name": "Hunt: Showdown 1896 - Meridian Turncoat",
+      "discount": 40,
+      "orig_cents": 999,
+      "final_cents": 599,
+      "orig_price_str": "9,99 €",
+      "final_price_str": "5,99 €"
+    },
+    {
       "appid": "EP4312-PPSA07330_00-1730514678213064",
       "name": "Burger Break",
       "discount": 40,
@@ -2537,33 +2366,6 @@
       "final_cents": 479,
       "orig_price_str": "7,99 €",
       "final_price_str": "4,79 €"
-    },
-    {
-      "appid": "EP2609-CUSA13930_00-WWZDLCAM000000EU",
-      "name": "WWZ Upgrade to Aftermath",
-      "discount": 40,
-      "orig_cents": 1999,
-      "final_cents": 1199,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "11,99 €"
-    },
-    {
-      "appid": "EP9000-CUSA10249_00-THELASTOFUS2DLUX",
-      "name": "The Last of Us Part II Digital Deluxe Edition",
-      "discount": 40,
-      "orig_cents": 4999,
-      "final_cents": 2999,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "29,99 €"
-    },
-    {
-      "appid": "EP1494-CUSA12458_00-EARTHFALLDELUXE0",
-      "name": "Earthfall™ Deluxe",
-      "discount": 40,
-      "orig_cents": 2999,
-      "final_cents": 1799,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "17,99 €"
     },
     {
       "appid": "EP6704-CUSA29664_00-GODSTRIKEGAME001",
@@ -2629,6 +2431,24 @@
       "final_price_str": "3,49 €"
     },
     {
+      "appid": "EP7550-CUSA42558_00-0718859659710858",
+      "name": "3D Table Soccer Foosball",
+      "discount": 30,
+      "orig_cents": 499,
+      "final_cents": 349,
+      "orig_price_str": "4,99 €",
+      "final_price_str": "3,49 €"
+    },
+    {
+      "appid": "EP4529-PPSA04444_00-SNIPERELITE5SP02",
+      "name": "Sniper Elite 5 Season Pass Two",
+      "discount": 30,
+      "orig_cents": 2999,
+      "final_cents": 2099,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "20,99 €"
+    },
+    {
       "appid": "EP5813-PPSA14265_00-0658350809602013",
       "name": "Remoteness",
       "discount": 30,
@@ -2645,6 +2465,33 @@
       "final_cents": 1399,
       "orig_price_str": "19,99 €",
       "final_price_str": "13,99 €"
+    },
+    {
+      "appid": "EP7550-CUSA41164_00-0361277801754447",
+      "name": "Offroad Moto Bike",
+      "discount": 30,
+      "orig_cents": 399,
+      "final_cents": 279,
+      "orig_price_str": "3,99 €",
+      "final_price_str": "2,79 €"
+    },
+    {
+      "appid": "EP7550-CUSA41203_00-0187700422964711",
+      "name": "Egg Runner",
+      "discount": 30,
+      "orig_cents": 249,
+      "final_cents": 174,
+      "orig_price_str": "2,49 €",
+      "final_price_str": "1,74 €"
+    },
+    {
+      "appid": "EP4291-CUSA15859_00-THEHUNTGAME00049",
+      "name": "Hunt: Showdown 1896 - La Luz Mala",
+      "discount": 30,
+      "orig_cents": 999,
+      "final_cents": 699,
+      "orig_price_str": "9,99 €",
+      "final_price_str": "6,99 €"
     },
     {
       "appid": "EP2609-CUSA13930_00-DLCRAVEN00000000",
@@ -2665,6 +2512,114 @@
       "final_price_str": "3,49 €"
     },
     {
+      "appid": "EP7550-CUSA40486_00-0466187692138731",
+      "name": "WWII Tank Battle Arena",
+      "discount": 30,
+      "orig_cents": 499,
+      "final_cents": 349,
+      "orig_price_str": "4,99 €",
+      "final_price_str": "3,49 €"
+    },
+    {
+      "appid": "EP7550-CUSA39155_00-9395307670636406",
+      "name": "Superpanda",
+      "discount": 30,
+      "orig_cents": 399,
+      "final_cents": 279,
+      "orig_price_str": "3,99 €",
+      "final_price_str": "2,79 €"
+    },
+    {
+      "appid": "EP7550-CUSA38305_00-4434531325641824",
+      "name": "Curling",
+      "discount": 30,
+      "orig_cents": 799,
+      "final_cents": 559,
+      "orig_price_str": "7,99 €",
+      "final_price_str": "5,59 €"
+    },
+    {
+      "appid": "EP7550-CUSA37452_00-3257587828038641",
+      "name": "World Soccer Cup 2022",
+      "discount": 30,
+      "orig_cents": 499,
+      "final_cents": 349,
+      "orig_price_str": "4,99 €",
+      "final_price_str": "3,49 €"
+    },
+    {
+      "appid": "EP7550-CUSA36501_00-5893827646639060",
+      "name": "Offroad Racing",
+      "discount": 30,
+      "orig_cents": 499,
+      "final_cents": 349,
+      "orig_price_str": "4,99 €",
+      "final_price_str": "3,49 €"
+    },
+    {
+      "appid": "EP7550-CUSA37877_00-1503558463253451",
+      "name": "Free Throw Basketball",
+      "discount": 30,
+      "orig_cents": 499,
+      "final_cents": 349,
+      "orig_price_str": "4,99 €",
+      "final_price_str": "3,49 €"
+    },
+    {
+      "appid": "EP7550-CUSA37727_00-6263474854911910",
+      "name": "Hunter Shooting Camp",
+      "discount": 30,
+      "orig_cents": 999,
+      "final_cents": 699,
+      "orig_price_str": "9,99 €",
+      "final_price_str": "6,99 €"
+    },
+    {
+      "appid": "EP7550-CUSA36884_00-9916040728399532",
+      "name": "Bubble Bubble Ocean",
+      "discount": 30,
+      "orig_cents": 499,
+      "final_cents": 349,
+      "orig_price_str": "4,99 €",
+      "final_price_str": "3,49 €"
+    },
+    {
+      "appid": "EP7550-CUSA37174_00-0303913024847259",
+      "name": "Urban Street Fighting",
+      "discount": 30,
+      "orig_cents": 499,
+      "final_cents": 349,
+      "orig_price_str": "4,99 €",
+      "final_price_str": "3,49 €"
+    },
+    {
+      "appid": "EP7550-CUSA35665_00-7568329890190650",
+      "name": "International Boxing",
+      "discount": 30,
+      "orig_cents": 499,
+      "final_cents": 349,
+      "orig_price_str": "4,99 €",
+      "final_price_str": "3,49 €"
+    },
+    {
+      "appid": "EP7550-CUSA34593_00-4932614555456409",
+      "name": "Bocce - Boccia",
+      "discount": 30,
+      "orig_cents": 799,
+      "final_cents": 559,
+      "orig_price_str": "7,99 €",
+      "final_price_str": "5,59 €"
+    },
+    {
+      "appid": "EP0546-CUSA33570_00-HIMEHERCOLLECTEU",
+      "name": "Him & Her Collection",
+      "discount": 30,
+      "orig_cents": 399,
+      "final_cents": 279,
+      "orig_price_str": "3,99 €",
+      "final_price_str": "2,79 €"
+    },
+    {
       "appid": "EP4312-PPSA08370_00-0184769801435278",
       "name": "Burger Fun",
       "discount": 30,
@@ -2683,6 +2638,15 @@
       "final_price_str": "2,51 €"
     },
     {
+      "appid": "EP4529-PPSA04444_00-SNIPERELITE5SP00",
+      "name": "Sniper Elite 5 Season Pass One",
+      "discount": 30,
+      "orig_cents": 3499,
+      "final_cents": 2449,
+      "orig_price_str": "34,99 €",
+      "final_price_str": "24,49 €"
+    },
+    {
       "appid": "EP6738-PPSA07780_00-0164863067548588",
       "name": "FINAL SWORD",
       "discount": 30,
@@ -2692,13 +2656,49 @@
       "final_price_str": "11,89 €"
     },
     {
-      "appid": "EP0102-CUSA30640_00-CAS2WALLPAPERDLC",
-      "name": "Capcom Arcade 2nd Stadium: Display Frames Set 1",
-      "discount": 25,
-      "orig_cents": 99,
-      "final_cents": 74,
-      "orig_price_str": "0,99 €",
-      "final_price_str": "0,74 €"
+      "appid": "EP7550-CUSA33903_00-7665627901792307",
+      "name": "Galagi Shooter PS4 & PS5",
+      "discount": 30,
+      "orig_cents": 249,
+      "final_cents": 174,
+      "orig_price_str": "2,49 €",
+      "final_price_str": "1,74 €"
+    },
+    {
+      "appid": "EP7550-CUSA33776_00-2091976118631433",
+      "name": "Breakin Bricks",
+      "discount": 30,
+      "orig_cents": 499,
+      "final_cents": 349,
+      "orig_price_str": "4,99 €",
+      "final_price_str": "3,49 €"
+    },
+    {
+      "appid": "EP7550-CUSA33470_00-5135857784014559",
+      "name": "Clay Skeet Shooting PS4 & PS5",
+      "discount": 30,
+      "orig_cents": 499,
+      "final_cents": 349,
+      "orig_price_str": "4,99 €",
+      "final_price_str": "3,49 €"
+    },
+    {
+      "appid": "EP7550-CUSA32139_00-0432753763688551",
+      "name": "International Table Tennis PS4 & PS5",
+      "discount": 30,
+      "orig_cents": 499,
+      "final_cents": 349,
+      "orig_price_str": "4,99 €",
+      "final_price_str": "3,49 €"
+    },
+    {
+      "appid": "EP7550-CUSA31867_00-2707693119189858",
+      "name": "SPACETIME ODISSEY PS4 & PS5",
+      "discount": 30,
+      "orig_cents": 649,
+      "final_cents": 454,
+      "orig_price_str": "6,49 €",
+      "final_price_str": "4,54 €"
     }
   ],
   "total": 1700
