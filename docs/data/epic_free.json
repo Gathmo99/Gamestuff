@@ -1,10 +1,16 @@
 {
   "items": [
     {
-      "appid": "b8cc76ce7d6645f0a282b843a072cc78",
-      "name": "Alone With You",
+      "appid": "c76046dddcdb43619c33ce0395941033",
+      "name": "Luftrausers",
       "orig_cents": 899,
       "orig_price_str": "8,99 €"
+    },
+    {
+      "appid": "e9bb092228f544c582e2c9395fae96f3",
+      "name": "Astral Ascent",
+      "orig_cents": 2450,
+      "orig_price_str": "24,50 €"
     }
   ]
 }

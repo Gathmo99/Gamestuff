@@ -1,13 +1,23 @@
 {
   "items": [
     {
-      "appid": "b8cc76ce7d6645f0a282b843a072cc78",
-      "namespace": "cb87ac984c3c4c19b0a4e3e89048f187",
-      "name": "Alone With You",
+      "appid": "c76046dddcdb43619c33ce0395941033",
+      "namespace": "639daf403b554ee9b02eee5eedafc302",
+      "name": "Luftrausers",
       "discount": 100,
       "orig_cents": 899,
       "final_cents": 0,
       "orig_price_str": "8,99 €",
+      "final_price_str": "0,00 €"
+    },
+    {
+      "appid": "e9bb092228f544c582e2c9395fae96f3",
+      "namespace": "0cb5817d554740e8bedf9ceea32522bd",
+      "name": "Astral Ascent",
+      "discount": 100,
+      "orig_cents": 2450,
+      "final_cents": 0,
+      "orig_price_str": "24,50 €",
       "final_price_str": "0,00 €"
     },
     {
@@ -259,16 +269,6 @@
       "final_cents": 499,
       "orig_price_str": "24,99 €",
       "final_price_str": "4,99 €"
-    },
-    {
-      "appid": "422ed00fef0b42efa56662c97b0e9d60",
-      "namespace": "44277238c30648d6ad4bee97e27c4a3c",
-      "name": "Sunday Gold",
-      "discount": 80,
-      "orig_cents": 2199,
-      "final_cents": 439,
-      "orig_price_str": "21,99 €",
-      "final_price_str": "4,39 €"
     },
     {
       "appid": "2380ff7131674e7194f4cd81067ffeba",
@@ -3001,5 +3001,5 @@
       "final_price_str": "3,59 €"
     }
   ],
-  "total": 1319
+  "total": 1321
 }

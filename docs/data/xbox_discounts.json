@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "appid": "9N26VC8F7MZT",
+      "name": "Afterimage",
+      "discount": 90,
+      "orig_cents": 2499,
+      "final_cents": 249,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "2,49 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9MW10GX140N1",
       "name": "Hogwarts Legacy: Digitale Deluxe Edition",
       "discount": 85,
@@ -91,6 +101,46 @@
       "gamepass": ""
     },
     {
+      "appid": "BZK0PF5LXPDV",
+      "name": "DEUS EX: HUMAN REVOLUTION",
+      "discount": 85,
+      "orig_cents": 1499,
+      "final_cents": 224,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "2,24 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NP2B6V2KPXD",
+      "name": "Metro Exodus Gold Edition",
+      "discount": 85,
+      "orig_cents": 3999,
+      "final_cents": 599,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "5,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "BNBWFH89FCF1",
+      "name": "Kingdom Come: Deliverance",
+      "discount": 80,
+      "orig_cents": 2999,
+      "final_cents": 599,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "5,99 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "9N0102B834ZM",
+      "name": "Fantasy Dash",
+      "discount": 68,
+      "orig_cents": 309,
+      "final_cents": 99,
+      "orig_price_str": "3,09 €",
+      "final_price_str": "0,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9NN82NH949D5",
       "name": "HITMAN World of Assassination",
       "discount": 60,
@@ -98,6 +148,16 @@
       "final_cents": 2799,
       "orig_price_str": "69,99 €",
       "final_price_str": "27,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9PBHX1S4DGZ4",
+      "name": "Kingdom Come: Deliverance II - Royal Edition",
+      "discount": 60,
+      "orig_cents": 8999,
+      "final_cents": 3599,
+      "orig_price_str": "89,99 €",
+      "final_price_str": "35,99 €",
       "gamepass": ""
     },
     {
@@ -151,6 +211,36 @@
       "gamepass": "Xbox"
     },
     {
+      "appid": "9NDXTBZMZFST",
+      "name": "John Carpenter's Toxic Commando - Blood Edition",
+      "discount": 30,
+      "orig_cents": 4999,
+      "final_cents": 3499,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "34,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NMT6XFN0LVD",
+      "name": "Monster Hunter Wilds",
+      "discount": 25,
+      "orig_cents": 3999,
+      "final_cents": 2999,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "29,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NFJRH7WM33M",
+      "name": "EA SPORTS™ Madden NFL 27 Deluxe Edition",
+      "discount": 25,
+      "orig_cents": 10999,
+      "final_cents": 8249,
+      "orig_price_str": "109,99 €",
+      "final_price_str": "82,49 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9NPF9F0DCVKS",
       "name": "007 First Light - Standard Edition",
       "discount": 20,
@@ -161,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 1862
+  "total": 920
 }
