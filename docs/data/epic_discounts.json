@@ -251,26 +251,6 @@
       "final_price_str": "0,53 €"
     },
     {
-      "appid": "ac057a59b7a841f1a17db4473cf20765",
-      "namespace": "cd053a8104444485ad00ceb98eb4aecd",
-      "name": "X-Morph Defense Complete Edition",
-      "discount": 80,
-      "orig_cents": 2399,
-      "final_cents": 479,
-      "orig_price_str": "23,99 €",
-      "final_price_str": "4,79 €"
-    },
-    {
-      "appid": "eb5454e002764abaa00b741393aa7600",
-      "namespace": "e192ef1dbcce4fdc8cca1afb9adc05db",
-      "name": "Killer Frequency",
-      "discount": 80,
-      "orig_cents": 2499,
-      "final_cents": 499,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "4,99 €"
-    },
-    {
       "appid": "2380ff7131674e7194f4cd81067ffeba",
       "namespace": "e93b00445c57495b8bec3664fcd679c4",
       "name": "The Artful Escape",
@@ -1551,6 +1531,16 @@
       "final_price_str": "17,49 €"
     },
     {
+      "appid": "226835e6ad724003a0da729d57f3d4e0",
+      "namespace": "9aef8a4b03674ce4b61922d7d13995af",
+      "name": "MindsEye",
+      "discount": 50,
+      "orig_cents": 3549,
+      "final_cents": 1774,
+      "orig_price_str": "35,49 €",
+      "final_price_str": "17,74 €"
+    },
+    {
       "appid": "cff197e3afc54133ad9b54a641d03eb7",
       "namespace": "5989c9eb81cb4d61a3fcfd0b313a8059",
       "name": "Voidsayer",
@@ -1691,16 +1681,6 @@
       "final_price_str": "14,99 €"
     },
     {
-      "appid": "65afe1bae0f5449191d28d5ef63caa32",
-      "namespace": "eb9cdf6dbe4b47fc8ba474017023476a",
-      "name": "Sid Meier's Civilization® VII",
-      "discount": 50,
-      "orig_cents": 6999,
-      "final_cents": 3499,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "34,99 €"
-    },
-    {
       "appid": "2c75bb68cfa84aabbea3504f57197611",
       "namespace": "de2550653b9146cbbabbc4c628870d51",
       "name": "Formula Legends",
@@ -1719,16 +1699,6 @@
       "final_cents": 1484,
       "orig_price_str": "26,99 €",
       "final_price_str": "14,84 €"
-    },
-    {
-      "appid": "ac9d70b5060d4471b5ab6fad076bec1b",
-      "namespace": "7e999b7f8b6a41c0933fdd304e9e7258",
-      "name": "Summer Dates",
-      "discount": 45,
-      "orig_cents": 359,
-      "final_cents": 197,
-      "orig_price_str": "3,59 €",
-      "final_price_str": "1,97 €"
     },
     {
       "appid": "9c5ab335b1d2455b8c78d493c17a203f",
@@ -2081,16 +2051,6 @@
       "final_price_str": "8,09 €"
     },
     {
-      "appid": "5e1994a259b54816b9a20e6e193298c2",
-      "namespace": "fe7271d3a3da49c6924e38388ed3174a",
-      "name": "Cabernet",
-      "discount": 40,
-      "orig_cents": 1799,
-      "final_cents": 1079,
-      "orig_price_str": "17,99 €",
-      "final_price_str": "10,79 €"
-    },
-    {
       "appid": "9302075851314876b2a02b14299a5dd3",
       "namespace": "c75aa92cb8074dc0904736670b93a425",
       "name": "Umpteenth Photo",
@@ -2129,6 +2089,16 @@
       "final_cents": 1299,
       "orig_price_str": "19,99 €",
       "final_price_str": "12,99 €"
+    },
+    {
+      "appid": "444bdda719ca4f0788ae900ec468fc8b",
+      "namespace": "d20e3f9e78404dbd9ed96ff4c8a5886e",
+      "name": "The teacher fell in love with me 2",
+      "discount": 35,
+      "orig_cents": 809,
+      "final_cents": 525,
+      "orig_price_str": "8,09 €",
+      "final_price_str": "5,25 €"
     },
     {
       "appid": "f1f747c4c9fd4209843b9171ac281334",
@@ -2511,6 +2481,16 @@
       "final_price_str": "24,49 €"
     },
     {
+      "appid": "76be7127c0f443b08cf849e892f7b65a",
+      "namespace": "08d6df03616c42388556ce5fc1366d3d",
+      "name": "WUCHANG: Fallen Feathers",
+      "discount": 30,
+      "orig_cents": 4999,
+      "final_cents": 3499,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "34,99 €"
+    },
+    {
       "appid": "c7b717385af44dbb990d9ff1203ec8a4",
       "namespace": "1bf0d3f6f04e4e778518170f69c5ba78",
       "name": "Nanomon Virtual Pet",
@@ -2559,6 +2539,16 @@
       "final_cents": 2699,
       "orig_price_str": "35,99 €",
       "final_price_str": "26,99 €"
+    },
+    {
+      "appid": "af0bac92ab4c4c0f9ed6b36025916ded",
+      "namespace": "095f6c7801d14240b31e732cc3e87008",
+      "name": "Fell in love with coser 15",
+      "discount": 25,
+      "orig_cents": 359,
+      "final_cents": 269,
+      "orig_price_str": "3,59 €",
+      "final_price_str": "2,69 €"
     },
     {
       "appid": "439c8da488ff4d7288558f000b532659",
@@ -2739,6 +2729,16 @@
       "final_cents": 336,
       "orig_price_str": "4,49 €",
       "final_price_str": "3,36 €"
+    },
+    {
+      "appid": "8aa26b2559204e7a84c8ad67baa36bb4",
+      "namespace": "677e7dc2e6ac411eab713d81eb991a0f",
+      "name": "Blades of Fire",
+      "discount": 25,
+      "orig_cents": 3999,
+      "final_cents": 2999,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "29,99 €"
     },
     {
       "appid": "e5d61d50b5fe4abeafe342abc273e72a",
@@ -3001,5 +3001,5 @@
       "final_price_str": "3,59 €"
     }
   ],
-  "total": 1321
+  "total": 1341
 }

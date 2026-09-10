@@ -1,13 +1,53 @@
 {
   "items": [
     {
-      "appid": "9N26VC8F7MZT",
-      "name": "Afterimage",
+      "appid": "BQQWKGXZGJ17",
+      "name": "Injustice™ 2 - Legendary Edition",
       "discount": 90,
-      "orig_cents": 2499,
-      "final_cents": 249,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "2,49 €",
+      "orig_cents": 5999,
+      "final_cents": 599,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "5,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "BRGLM9V090GW",
+      "name": "Homefront®: The Revolution",
+      "discount": 90,
+      "orig_cents": 1999,
+      "final_cents": 199,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "1,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9PNGDKFN7CVQ",
+      "name": "XIII",
+      "discount": 90,
+      "orig_cents": 1999,
+      "final_cents": 199,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "1,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "BT0N6ZXZJC82",
+      "name": "Gear.Club Unlimited 2 - Ultimate Edition",
+      "discount": 90,
+      "orig_cents": 2999,
+      "final_cents": 299,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "2,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "BPD060GWC3T0",
+      "name": "LEGO® Marvel Collection",
+      "discount": 85,
+      "orig_cents": 5999,
+      "final_cents": 899,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "8,99 €",
       "gamepass": ""
     },
     {
@@ -18,6 +58,46 @@
       "final_cents": 1274,
       "orig_price_str": "84,99 €",
       "final_price_str": "12,74 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "BQXTS0SX4W0N",
+      "name": "Tomb Raider: Definitive Edition",
+      "discount": 85,
+      "orig_cents": 1999,
+      "final_cents": 299,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "2,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "C4H36B87SVL1",
+      "name": "Batman: Arkham Collection",
+      "discount": 85,
+      "orig_cents": 5999,
+      "final_cents": 899,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "8,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NZLPG7P5KSS",
+      "name": "A Quiet Place: The Road Ahead",
+      "discount": 85,
+      "orig_cents": 2999,
+      "final_cents": 449,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "4,49 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9PG26DBX43L1",
+      "name": "Mortal Kombat 11 Ultimate",
+      "discount": 85,
+      "orig_cents": 5999,
+      "final_cents": 899,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "8,99 €",
       "gamepass": ""
     },
     {
@@ -41,23 +121,23 @@
       "gamepass": ""
     },
     {
-      "appid": "BQXTS0SX4W0N",
-      "name": "Tomb Raider: Definitive Edition",
+      "appid": "9NQ6CHXKNJ3K",
+      "name": "Under The Waves",
       "discount": 85,
-      "orig_cents": 1999,
-      "final_cents": 299,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "2,99 €",
+      "orig_cents": 2999,
+      "final_cents": 449,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "4,49 €",
       "gamepass": ""
     },
     {
-      "appid": "C3BVG9LGGV75",
-      "name": "Metro Exodus Gold Edition",
+      "appid": "9NBGKZ46Z2SC",
+      "name": "Ghostbusters: The Video Game Remastered",
       "discount": 85,
-      "orig_cents": 3999,
-      "final_cents": 599,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "5,99 €",
+      "orig_cents": 2999,
+      "final_cents": 449,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "4,49 €",
       "gamepass": ""
     },
     {
@@ -81,63 +161,23 @@
       "gamepass": ""
     },
     {
-      "appid": "BQT9LF5VCDPC",
-      "name": "Saints Row IV: Re-Elected & Gat out of Hell",
-      "discount": 85,
-      "orig_cents": 2999,
-      "final_cents": 449,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "4,49 €",
+      "appid": "9NRQVQ7ZRM7Z",
+      "name": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "discount": 75,
+      "orig_cents": 4999,
+      "final_cents": 1249,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "12,49 €",
       "gamepass": ""
     },
     {
-      "appid": "BPPTRQZRJ341",
-      "name": "Metro 2033 Redux",
-      "discount": 85,
-      "orig_cents": 1999,
-      "final_cents": 299,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "2,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "BZK0PF5LXPDV",
-      "name": "DEUS EX: HUMAN REVOLUTION",
-      "discount": 85,
-      "orig_cents": 1499,
-      "final_cents": 224,
-      "orig_price_str": "14,99 €",
-      "final_price_str": "2,24 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9NP2B6V2KPXD",
-      "name": "Metro Exodus Gold Edition",
-      "discount": 85,
-      "orig_cents": 3999,
-      "final_cents": 599,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "5,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "BNBWFH89FCF1",
-      "name": "Kingdom Come: Deliverance",
-      "discount": 80,
-      "orig_cents": 2999,
-      "final_cents": 599,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "5,99 €",
-      "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "9N0102B834ZM",
-      "name": "Fantasy Dash",
-      "discount": 68,
-      "orig_cents": 309,
-      "final_cents": 99,
-      "orig_price_str": "3,09 €",
-      "final_price_str": "0,99 €",
+      "appid": "9PM4J1VW57XQ",
+      "name": "Destiny 2: The Collection",
+      "discount": 70,
+      "orig_cents": 6999,
+      "final_cents": 2099,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "20,99 €",
       "gamepass": ""
     },
     {
@@ -148,16 +188,6 @@
       "final_cents": 2799,
       "orig_price_str": "69,99 €",
       "final_price_str": "27,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9PBHX1S4DGZ4",
-      "name": "Kingdom Come: Deliverance II - Royal Edition",
-      "discount": 60,
-      "orig_cents": 8999,
-      "final_cents": 3599,
-      "orig_price_str": "89,99 €",
-      "final_price_str": "35,99 €",
       "gamepass": ""
     },
     {
@@ -181,6 +211,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9NP9F7WWKRP1",
+      "name": "FINAL FANTASY VII REBIRTH",
+      "discount": 50,
+      "orig_cents": 5999,
+      "final_cents": 2999,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "29,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "C1QJM5XT9SXV",
       "name": "Call of Duty®: Black Ops II",
       "discount": 50,
@@ -188,56 +228,6 @@
       "final_cents": 1999,
       "orig_price_str": "39,99 €",
       "final_price_str": "19,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "C2WKJJ9F5936",
-      "name": "Fable II",
-      "discount": 50,
-      "orig_cents": 1999,
-      "final_cents": 999,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "9,99 €",
-      "gamepass": "Xbox"
-    },
-    {
-      "appid": "BR46KM4D5B9L",
-      "name": "Fable III",
-      "discount": 50,
-      "orig_cents": 1999,
-      "final_cents": 999,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "9,99 €",
-      "gamepass": "Xbox"
-    },
-    {
-      "appid": "9NDXTBZMZFST",
-      "name": "John Carpenter's Toxic Commando - Blood Edition",
-      "discount": 30,
-      "orig_cents": 4999,
-      "final_cents": 3499,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "34,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9NMT6XFN0LVD",
-      "name": "Monster Hunter Wilds",
-      "discount": 25,
-      "orig_cents": 3999,
-      "final_cents": 2999,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "29,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9NFJRH7WM33M",
-      "name": "EA SPORTS™ Madden NFL 27 Deluxe Edition",
-      "discount": 25,
-      "orig_cents": 10999,
-      "final_cents": 8249,
-      "orig_price_str": "109,99 €",
-      "final_price_str": "82,49 €",
       "gamepass": ""
     },
     {
@@ -249,7 +239,17 @@
       "orig_price_str": "69,99 €",
       "final_price_str": "55,99 €",
       "gamepass": ""
+    },
+    {
+      "appid": "9PPKR9N31BW6",
+      "name": "SpeedRunners 2: King of Speed",
+      "discount": 20,
+      "orig_cents": 1499,
+      "final_cents": 1199,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "11,99 €",
+      "gamepass": "PC + Xbox"
     }
   ],
-  "total": 920
+  "total": 926
 }
