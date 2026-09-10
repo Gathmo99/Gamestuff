@@ -261,6 +261,16 @@
       "final_price_str": "4,99 €"
     },
     {
+      "appid": "422ed00fef0b42efa56662c97b0e9d60",
+      "namespace": "44277238c30648d6ad4bee97e27c4a3c",
+      "name": "Sunday Gold",
+      "discount": 80,
+      "orig_cents": 2199,
+      "final_cents": 439,
+      "orig_price_str": "21,99 €",
+      "final_price_str": "4,39 €"
+    },
+    {
       "appid": "2380ff7131674e7194f4cd81067ffeba",
       "namespace": "e93b00445c57495b8bec3664fcd679c4",
       "name": "The Artful Escape",
@@ -1171,16 +1181,6 @@
       "final_price_str": "2,24 €"
     },
     {
-      "appid": "3c8828ef1eb9429bb143f4b58b5138cc",
-      "namespace": "6ce9cadbab474f07928e3035473289d2",
-      "name": "FATAL FURY: City of the Wolves – Standard Edition",
-      "discount": 50,
-      "orig_cents": 1999,
-      "final_cents": 999,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "9,99 €"
-    },
-    {
       "appid": "5b746049a8024ae3942430c28935ecac",
       "namespace": "899eb9ca9cbc4cde81b4c34ae5d094f4",
       "name": "Countless Army",
@@ -1989,16 +1989,6 @@
       "final_cents": 3599,
       "orig_price_str": "59,99 €",
       "final_price_str": "35,99 €"
-    },
-    {
-      "appid": "7d5e0945b6e54678935019a601eded02",
-      "namespace": "d2ddaaf936a949b1947cd0a3383399da",
-      "name": "Evergreen Valley: The Parkour Game",
-      "discount": 40,
-      "orig_cents": 289,
-      "final_cents": 173,
-      "orig_price_str": "2,89 €",
-      "final_price_str": "1,73 €"
     },
     {
       "appid": "d27b87422bc04fd89aaf4b408ff72a52",
@@ -2999,7 +2989,17 @@
       "final_cents": 863,
       "orig_price_str": "10,79 €",
       "final_price_str": "8,63 €"
+    },
+    {
+      "appid": "82e09a5c5385460c98f3ff492630fe66",
+      "namespace": "800e20416d31459bae851f46972b9ab2",
+      "name": "ComputerKeyboard",
+      "discount": 20,
+      "orig_cents": 449,
+      "final_cents": 359,
+      "orig_price_str": "4,49 €",
+      "final_price_str": "3,59 €"
     }
   ],
-  "total": 1320
+  "total": 1319
 }
