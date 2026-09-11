@@ -41,6 +41,26 @@
       "gamepass": ""
     },
     {
+      "appid": "C4BZ7X545J1T",
+      "name": "Worms W.M.D",
+      "discount": 90,
+      "orig_cents": 2999,
+      "final_cents": 299,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "2,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9P5FNP2NJ6XW",
+      "name": "Gotham Knights: Deluxe Edition",
+      "discount": 90,
+      "orig_cents": 9499,
+      "final_cents": 949,
+      "orig_price_str": "94,99 €",
+      "final_price_str": "9,49 €",
+      "gamepass": ""
+    },
+    {
       "appid": "BPD060GWC3T0",
       "name": "LEGO® Marvel Collection",
       "discount": 85,
@@ -58,16 +78,6 @@
       "final_cents": 1274,
       "orig_price_str": "84,99 €",
       "final_price_str": "12,74 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "BQXTS0SX4W0N",
-      "name": "Tomb Raider: Definitive Edition",
-      "discount": 85,
-      "orig_cents": 1999,
-      "final_cents": 299,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "2,99 €",
       "gamepass": ""
     },
     {
@@ -101,26 +111,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9N9Z4S1RD397",
-      "name": "Metro Saga Bundle",
-      "discount": 85,
-      "orig_cents": 5999,
-      "final_cents": 899,
-      "orig_price_str": "59,99 €",
-      "final_price_str": "8,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9PGLL77C201J",
-      "name": "Marvel's Guardians of the Galaxy",
-      "discount": 85,
-      "orig_cents": 6998,
-      "final_cents": 1049,
-      "orig_price_str": "69,98 €",
-      "final_price_str": "10,49 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9NQ6CHXKNJ3K",
       "name": "Under The Waves",
       "discount": 85,
@@ -141,23 +131,23 @@
       "gamepass": ""
     },
     {
-      "appid": "C4S60FPWF4XN",
-      "name": "Rise of the Tomb Raider: 20 Year Celebration",
+      "appid": "9NS0RX8F5865",
+      "name": "Hell is Us - Deluxe Edition",
       "discount": 85,
-      "orig_cents": 2999,
-      "final_cents": 449,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "4,49 €",
+      "orig_cents": 7999,
+      "final_cents": 1199,
+      "orig_price_str": "79,99 €",
+      "final_price_str": "11,99 €",
       "gamepass": ""
     },
     {
-      "appid": "BNQQ3WVBNZCQ",
-      "name": "Shadow of the Tomb Raider Definitive Edition",
+      "appid": "9N8NZMCCC1KG",
+      "name": "World War Z: Aftermath - Deluxe Edition",
       "discount": 85,
-      "orig_cents": 3999,
-      "final_cents": 599,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "5,99 €",
+      "orig_cents": 4999,
+      "final_cents": 749,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "7,49 €",
       "gamepass": ""
     },
     {
@@ -189,6 +179,16 @@
       "orig_price_str": "69,99 €",
       "final_price_str": "27,99 €",
       "gamepass": ""
+    },
+    {
+      "appid": "BQVQTL3PCH05",
+      "name": "No Man's Sky",
+      "discount": 60,
+      "orig_cents": 4999,
+      "final_cents": 1999,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "19,99 €",
+      "gamepass": "PC + Xbox"
     },
     {
       "appid": "9P8RQH67TTT1",
@@ -251,5 +251,5 @@
       "gamepass": "PC + Xbox"
     }
   ],
-  "total": 967
+  "total": 951
 }
