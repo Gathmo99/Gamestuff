@@ -291,16 +291,6 @@
       "final_price_str": "0,89 €"
     },
     {
-      "appid": "df3e9567dfec4c66a818a1dba0c504af",
-      "namespace": "3896d3f8efe34b29b7ecb17f88f33a29",
-      "name": "Dragon Front: Adventures",
-      "discount": 75,
-      "orig_cents": 1799,
-      "final_cents": 449,
-      "orig_price_str": "17,99 €",
-      "final_price_str": "4,49 €"
-    },
-    {
       "appid": "8763b80dee414d06975a08b504f4e71c",
       "namespace": "9e396ca4c0e2403e953e54715b05223d",
       "name": "GALACTIC ARCANUM",
@@ -2051,6 +2041,16 @@
       "final_price_str": "8,09 €"
     },
     {
+      "appid": "5e1994a259b54816b9a20e6e193298c2",
+      "namespace": "fe7271d3a3da49c6924e38388ed3174a",
+      "name": "Cabernet",
+      "discount": 40,
+      "orig_cents": 1799,
+      "final_cents": 1079,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "10,79 €"
+    },
+    {
       "appid": "9302075851314876b2a02b14299a5dd3",
       "namespace": "c75aa92cb8074dc0904736670b93a425",
       "name": "Umpteenth Photo",
@@ -3001,5 +3001,5 @@
       "final_price_str": "3,59 €"
     }
   ],
-  "total": 1344
+  "total": 1343
 }
