@@ -118,7 +118,7 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "EP4008-PPSA02113_00-WTASIEE000000000",
+      "appid": "EP4008-CUSA16782_00-WTASIEE000000000",
       "name": "Werewolf: The Apocalypse – Earthblood",
       "discount": 90,
       "orig_cents": 2999,
@@ -127,7 +127,7 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "EP4008-CUSA16782_00-WTASIEE000000000",
+      "appid": "EP4008-PPSA02113_00-WTASIEE000000000",
       "name": "Werewolf: The Apocalypse – Earthblood",
       "discount": 90,
       "orig_cents": 2999,
@@ -739,7 +739,7 @@
       "final_price_str": "6,24 €"
     },
     {
-      "appid": "EP0096-CUSA17801_00-000000000BLUESUN",
+      "appid": "EP0096-PPSA05588_00-000000000BLUESUN",
       "name": "Hellpoint - Blue Sun",
       "discount": 75,
       "orig_cents": 999,
@@ -748,7 +748,7 @@
       "final_price_str": "2,49 €"
     },
     {
-      "appid": "EP0096-PPSA05588_00-000000000BLUESUN",
+      "appid": "EP0096-CUSA17801_00-000000000BLUESUN",
       "name": "Hellpoint - Blue Sun",
       "discount": 75,
       "orig_cents": 999,
