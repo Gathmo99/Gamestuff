@@ -281,16 +281,6 @@
       "final_price_str": "4,49 €"
     },
     {
-      "appid": "0b252197298441ffa1bc91f8f353e443",
-      "namespace": "658d7b77a4d8466a882f0ca7782430fc",
-      "name": "Afterschool: Reel Danger",
-      "discount": 75,
-      "orig_cents": 359,
-      "final_cents": 89,
-      "orig_price_str": "3,59 €",
-      "final_price_str": "0,89 €"
-    },
-    {
       "appid": "8763b80dee414d06975a08b504f4e71c",
       "namespace": "9e396ca4c0e2403e953e54715b05223d",
       "name": "GALACTIC ARCANUM",
@@ -1681,6 +1671,16 @@
       "final_price_str": "14,84 €"
     },
     {
+      "appid": "ac9d70b5060d4471b5ab6fad076bec1b",
+      "namespace": "7e999b7f8b6a41c0933fdd304e9e7258",
+      "name": "Summer Dates",
+      "discount": 45,
+      "orig_cents": 359,
+      "final_cents": 197,
+      "orig_price_str": "3,59 €",
+      "final_price_str": "1,97 €"
+    },
+    {
       "appid": "9c5ab335b1d2455b8c78d493c17a203f",
       "namespace": "a39b5c89fbcb44278924f9cab93dd234",
       "name": "ASYLUM",
@@ -3001,5 +3001,5 @@
       "final_price_str": "3,59 €"
     }
   ],
-  "total": 1345
+  "total": 1344
 }
