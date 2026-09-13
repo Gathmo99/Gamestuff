@@ -271,6 +271,16 @@
       "final_price_str": "4,39 €"
     },
     {
+      "appid": "53189ea78f224d709e903fc4c518fd5a",
+      "namespace": "02603a613a5a4214967ea961edef2c2e",
+      "name": "The Knight Witch",
+      "discount": 80,
+      "orig_cents": 1999,
+      "final_cents": 399,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "3,99 €"
+    },
+    {
       "appid": "2380ff7131674e7194f4cd81067ffeba",
       "namespace": "e93b00445c57495b8bec3664fcd679c4",
       "name": "The Artful Escape",
@@ -1299,16 +1309,6 @@
       "final_cents": 999,
       "orig_price_str": "19,99 €",
       "final_price_str": "9,99 €"
-    },
-    {
-      "appid": "a0bfa081c4aa4cacb59e6f512c130dc1",
-      "namespace": "a14a02aa3c8143729605eaf7c93d7501",
-      "name": "Battlefield™ 6",
-      "discount": 50,
-      "orig_cents": 6999,
-      "final_cents": 3499,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "34,99 €"
     },
     {
       "appid": "e99d26b9d0944378b8e71e8290f28512",
@@ -3001,5 +3001,5 @@
       "final_price_str": "3,59 €"
     }
   ],
-  "total": 1335
+  "total": 1332
 }
