@@ -251,6 +251,26 @@
       "final_price_str": "4,79 €"
     },
     {
+      "appid": "eb5454e002764abaa00b741393aa7600",
+      "namespace": "e192ef1dbcce4fdc8cca1afb9adc05db",
+      "name": "Killer Frequency",
+      "discount": 80,
+      "orig_cents": 2499,
+      "final_cents": 499,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "4,99 €"
+    },
+    {
+      "appid": "422ed00fef0b42efa56662c97b0e9d60",
+      "namespace": "44277238c30648d6ad4bee97e27c4a3c",
+      "name": "Sunday Gold",
+      "discount": 80,
+      "orig_cents": 2199,
+      "final_cents": 439,
+      "orig_price_str": "21,99 €",
+      "final_price_str": "4,39 €"
+    },
+    {
       "appid": "2380ff7131674e7194f4cd81067ffeba",
       "namespace": "e93b00445c57495b8bec3664fcd679c4",
       "name": "The Artful Escape",
@@ -879,46 +899,6 @@
       "final_cents": 1088,
       "orig_price_str": "24,19 €",
       "final_price_str": "10,88 €"
-    },
-    {
-      "appid": "4ac91c18b8ee49a181cd218a765788af",
-      "namespace": "29453eb95ab346f8b0c198b0a4030329",
-      "name": "Cavern of Dreams",
-      "discount": 55,
-      "orig_cents": 1169,
-      "final_cents": 526,
-      "orig_price_str": "11,69 €",
-      "final_price_str": "5,26 €"
-    },
-    {
-      "appid": "d4613d85ca514d85b56dace04a63079b",
-      "namespace": "bd6a72350fcc44a4a85e19065c989e8e",
-      "name": "Go Mecha Ball",
-      "discount": 55,
-      "orig_cents": 1799,
-      "final_cents": 809,
-      "orig_price_str": "17,99 €",
-      "final_price_str": "8,09 €"
-    },
-    {
-      "appid": "fb86769d4908427986ca9f7d94b581c2",
-      "namespace": "dfe95c9009f548b0b167b3d65cc91979",
-      "name": "OTXO",
-      "discount": 55,
-      "orig_cents": 1349,
-      "final_cents": 607,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "6,07 €"
-    },
-    {
-      "appid": "a6e25c6390bf4b3aa0c78e3c8b24023d",
-      "namespace": "8d8f8c68d1fe44b8a62df38dd239c2a0",
-      "name": "Tiny Terry's Turbo Trip",
-      "discount": 55,
-      "orig_cents": 1619,
-      "final_cents": 728,
-      "orig_price_str": "16,19 €",
-      "final_price_str": "7,28 €"
     },
     {
       "appid": "d00f4c29c794458580a0855d3543bfb4",
@@ -1649,6 +1629,16 @@
       "final_cents": 1499,
       "orig_price_str": "29,99 €",
       "final_price_str": "14,99 €"
+    },
+    {
+      "appid": "65afe1bae0f5449191d28d5ef63caa32",
+      "namespace": "eb9cdf6dbe4b47fc8ba474017023476a",
+      "name": "Sid Meier's Civilization® VII",
+      "discount": 50,
+      "orig_cents": 6999,
+      "final_cents": 3499,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "34,99 €"
     },
     {
       "appid": "2c75bb68cfa84aabbea3504f57197611",
@@ -2571,6 +2561,16 @@
       "final_price_str": "10,11 €"
     },
     {
+      "appid": "84e5f35d9cdf4d0a99df152984130fa3",
+      "namespace": "90abbb77fe434ec39e3a4b8c1b3d2eec",
+      "name": "The Last Citadel",
+      "discount": 25,
+      "orig_cents": 1349,
+      "final_cents": 1011,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "10,11 €"
+    },
+    {
       "appid": "86359b18c7794ba4ab1e319824c854bd",
       "namespace": "6ee27a9aae044b3294cb3c0409632479",
       "name": "Deer & Boy",
@@ -3001,5 +3001,5 @@
       "final_price_str": "3,59 €"
     }
   ],
-  "total": 1344
+  "total": 1339
 }
