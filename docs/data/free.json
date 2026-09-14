@@ -1,3 +1,14 @@
 {
-  "items": []
+  "items": [
+    {
+      "appid": "447700",
+      "name": "Crystal Crisis",
+      "discount": 100,
+      "orig_price_str": "16,79€",
+      "final_price_str": "0,00€",
+      "orig_cents": 1679,
+      "final_cents": 0,
+      "gamepass": ""
+    }
+  ]
 }

@@ -101,6 +101,16 @@
       "final_price_str": "0,21 €"
     },
     {
+      "appid": "6de712080a284d0699b6502e4600c484",
+      "namespace": "750727a7afd247478c8ba527de78cefd",
+      "name": "LoDR",
+      "discount": 85,
+      "orig_cents": 1349,
+      "final_cents": 202,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "2,02 €"
+    },
+    {
       "appid": "91a0b419d5b741c39cc35ce3a35138c0",
       "namespace": "462451248e9640f4a211294193034dda",
       "name": "Road Redemption",
@@ -2759,16 +2769,6 @@
       "final_cents": 863,
       "orig_price_str": "10,79 €",
       "final_price_str": "8,63 €"
-    },
-    {
-      "appid": "7d0ce32cee924c30bb72c08a85ebe57b",
-      "namespace": "09018ada7be84adba85480017027d1e7",
-      "name": "Breathedge 2",
-      "discount": 20,
-      "orig_cents": 1999,
-      "final_cents": 1599,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "15,99 €"
     },
     {
       "appid": "1b6255df54154a378a2cc6e2dcd8c57f",
