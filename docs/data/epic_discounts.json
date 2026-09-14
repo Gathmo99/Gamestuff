@@ -31,16 +31,6 @@
       "final_price_str": "0,89 €"
     },
     {
-      "appid": "355125c69cd441e8acb5813e8c00087d",
-      "namespace": "e77822cfdc4a4f31bda674e3b155349e",
-      "name": "Hexguardian",
-      "discount": 90,
-      "orig_cents": 1079,
-      "final_cents": 107,
-      "orig_price_str": "10,79 €",
-      "final_price_str": "1,07 €"
-    },
-    {
       "appid": "342c874445404a0caf96f07fdbf8d55b",
       "namespace": "ea8cb10bb9ca45ea9ed2049421393af7",
       "name": "The Green Light",
@@ -291,6 +281,16 @@
       "final_price_str": "4,74 €"
     },
     {
+      "appid": "95b6875f9b7f40a39b8d476ca642c655",
+      "namespace": "84a0cce87ad54db4830c2394e732fe80",
+      "name": "Backrooms Pools",
+      "discount": 75,
+      "orig_cents": 179,
+      "final_cents": 44,
+      "orig_price_str": "1,79 €",
+      "final_price_str": "0,44 €"
+    },
+    {
       "appid": "4b4418cd3994431190b76acec613524c",
       "namespace": "e6d61dbe4b434f2bab11109f8f1ab748",
       "name": "Go To Sleep",
@@ -431,6 +431,16 @@
       "final_price_str": "3,37 €"
     },
     {
+      "appid": "8880d2adbd27498883f0a3265dc66473",
+      "namespace": "915b00759eab42f2a0d8859dd2ca3d89",
+      "name": "Backrooms Hide And Seek",
+      "discount": 75,
+      "orig_cents": 179,
+      "final_cents": 44,
+      "orig_price_str": "1,79 €",
+      "final_price_str": "0,44 €"
+    },
+    {
       "appid": "843cbe6a2b6a448c8b62f2f4dca06daf",
       "namespace": "4226a003e0f7413081c2f2dfb13a27c1",
       "name": "sqwrk",
@@ -479,16 +489,6 @@
       "final_cents": 107,
       "orig_price_str": "3,59 €",
       "final_price_str": "1,07 €"
-    },
-    {
-      "appid": "436bd24946b34e9792449f1d41989454",
-      "namespace": "7d0ad96b326943a599dde07a9503c54c",
-      "name": "PlateUp!",
-      "discount": 70,
-      "orig_cents": 1799,
-      "final_cents": 539,
-      "orig_price_str": "17,99 €",
-      "final_price_str": "5,39 €"
     },
     {
       "appid": "fb722544c8314c45bf9a42c66b2a5a73",
@@ -681,6 +681,16 @@
       "final_price_str": "4,82 €"
     },
     {
+      "appid": "01b003ee88d342a4b17f29eb0f886035",
+      "namespace": "fcba6b461efc4602bbb0d4b736f7f0a7",
+      "name": "Big Helmet Heroes",
+      "discount": 65,
+      "orig_cents": 2499,
+      "final_cents": 874,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "8,74 €"
+    },
+    {
       "appid": "ff355e78448247178f119592a2524914",
       "namespace": "4ab72c796e154260af981b35a0b27be2",
       "name": "Darwin's Paradox!",
@@ -759,16 +769,6 @@
       "final_cents": 999,
       "orig_price_str": "24,99 €",
       "final_price_str": "9,99 €"
-    },
-    {
-      "appid": "5793f45f2da64458aadced69ce94db86",
-      "namespace": "5a32e8d84b7342699a7275f08815a33e",
-      "name": "Kaya's Prophecy",
-      "discount": 60,
-      "orig_cents": 1259,
-      "final_cents": 503,
-      "orig_price_str": "12,59 €",
-      "final_price_str": "5,03 €"
     },
     {
       "appid": "adc3f1354b3a45b1bf288a7bea8baf73",
@@ -951,9 +951,9 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "b355239267e5445cbd657ccdcaf37a06",
-      "namespace": "59af30a1b70a4775a1ab4773aa3e6b07",
-      "name": "Five Nights In The Backrooms",
+      "appid": "006a94e9395e42249c504fff33a9de30",
+      "namespace": "7c003d7a76cc42279dd786ad672ab63c",
+      "name": "Five Nights In The Mall",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -961,9 +961,9 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "f0b8a5d294ed488a9eafa2d8fc505ecb",
-      "namespace": "a1c8150f9d2a47deaaa3caa16a6854b1",
-      "name": "My Desktop Girlfriend",
+      "appid": "b355239267e5445cbd657ccdcaf37a06",
+      "namespace": "59af30a1b70a4775a1ab4773aa3e6b07",
+      "name": "Five Nights In The Backrooms",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1004,6 +1004,16 @@
       "appid": "1118fe197e3943aca499f12c8a0da4cf",
       "namespace": "dc9cbb7ee5f649f5ba9d0c50c274fb29",
       "name": "Grand Crime Miami",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "a5dcf67d3cb44ea39cdec4b086ce9f82",
+      "namespace": "4e35f306181e4604847b7b4866921d77",
+      "name": "Cat Karting",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1179,16 +1189,6 @@
       "final_cents": 499,
       "orig_price_str": "9,99 €",
       "final_price_str": "4,99 €"
-    },
-    {
-      "appid": "fabc80eda4af4edd9d34c040e1c457b9",
-      "namespace": "957a28bc8d3448a99f3efce9dabe15b3",
-      "name": "The Royal Writ",
-      "discount": 50,
-      "orig_cents": 1349,
-      "final_cents": 674,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "6,74 €"
     },
     {
       "appid": "90ca3e2e6b614a5f85f47e61f36d044c",
@@ -2731,6 +2731,16 @@
       "final_price_str": "29,99 €"
     },
     {
+      "appid": "313dc7b9fe3a436395193dbd0f90c170",
+      "namespace": "1756a9d2e1af45548dc0186a287d5a32",
+      "name": "Mining Rail Adventure",
+      "discount": 20,
+      "orig_cents": 2419,
+      "final_cents": 1935,
+      "orig_price_str": "24,19 €",
+      "final_price_str": "19,35 €"
+    },
+    {
       "appid": "e5d61d50b5fe4abeafe342abc273e72a",
       "namespace": "a736108eeba14dd0bdda08d963e8663e",
       "name": "Curse of Pirates",
@@ -2759,16 +2769,6 @@
       "final_cents": 1599,
       "orig_price_str": "19,99 €",
       "final_price_str": "15,99 €"
-    },
-    {
-      "appid": "93617a31676b48dd908419efdac3be99",
-      "namespace": "75bd9275293b4d09b8d1208e2c9f8886",
-      "name": "PAW Patrol™ Helfer auf vier Pfoten: Dinowelt",
-      "discount": 20,
-      "orig_cents": 3999,
-      "final_cents": 3199,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "31,99 €"
     },
     {
       "appid": "1b6255df54154a378a2cc6e2dcd8c57f",
@@ -3001,5 +3001,5 @@
       "final_price_str": "6,39 €"
     }
   ],
-  "total": 1332
+  "total": 1318
 }
