@@ -41,13 +41,13 @@
       "gamepass": ""
     },
     {
-      "appid": "C4BZ7X545J1T",
-      "name": "Worms W.M.D",
+      "appid": "BT7M0N12GN51",
+      "name": "Call of Juarez Gunslinger",
       "discount": 90,
-      "orig_cents": 2999,
-      "final_cents": 299,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "2,99 €",
+      "orig_cents": 1439,
+      "final_cents": 143,
+      "orig_price_str": "14,39 €",
+      "final_price_str": "1,43 €",
       "gamepass": ""
     },
     {
@@ -111,16 +111,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9NQ6CHXKNJ3K",
-      "name": "Under The Waves",
-      "discount": 85,
-      "orig_cents": 2999,
-      "final_cents": 449,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "4,49 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9NBGKZ46Z2SC",
       "name": "Ghostbusters: The Video Game Remastered",
       "discount": 85,
@@ -131,13 +121,13 @@
       "gamepass": ""
     },
     {
-      "appid": "9NS0RX8F5865",
-      "name": "Hell is Us - Deluxe Edition",
+      "appid": "9NQ6CHXKNJ3K",
+      "name": "Under The Waves",
       "discount": 85,
-      "orig_cents": 7999,
-      "final_cents": 1199,
-      "orig_price_str": "79,99 €",
-      "final_price_str": "11,99 €",
+      "orig_cents": 2999,
+      "final_cents": 449,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "4,49 €",
       "gamepass": ""
     },
     {
@@ -161,6 +151,26 @@
       "gamepass": ""
     },
     {
+      "appid": "C492DG1TQQ09",
+      "name": "Call of Duty®: Black Ops III - Zombies Chronicles Edition",
+      "discount": 75,
+      "orig_cents": 6999,
+      "final_cents": 1749,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "17,49 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9N7JCPPCPN37",
+      "name": "Resident Evil 4",
+      "discount": 75,
+      "orig_cents": 3999,
+      "final_cents": 999,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "9,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9PM4J1VW57XQ",
       "name": "Destiny 2: The Collection",
       "discount": 70,
@@ -168,16 +178,6 @@
       "final_cents": 2099,
       "orig_price_str": "69,99 €",
       "final_price_str": "20,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9NN82NH949D5",
-      "name": "HITMAN World of Assassination",
-      "discount": 60,
-      "orig_cents": 6999,
-      "final_cents": 2799,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "27,99 €",
       "gamepass": ""
     },
     {
@@ -189,6 +189,16 @@
       "orig_price_str": "49,99 €",
       "final_price_str": "19,99 €",
       "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "9NN82NH949D5",
+      "name": "HITMAN World of Assassination",
+      "discount": 60,
+      "orig_cents": 6999,
+      "final_cents": 2799,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "27,99 €",
+      "gamepass": ""
     },
     {
       "appid": "9P8RQH67TTT1",
@@ -239,16 +249,6 @@
       "orig_price_str": "69,99 €",
       "final_price_str": "55,99 €",
       "gamepass": ""
-    },
-    {
-      "appid": "9PPKR9N31BW6",
-      "name": "SpeedRunners 2: King of Speed",
-      "discount": 20,
-      "orig_cents": 1499,
-      "final_cents": 1199,
-      "orig_price_str": "14,99 €",
-      "final_price_str": "11,99 €",
-      "gamepass": "PC + Xbox"
     }
   ],
   "total": 895
