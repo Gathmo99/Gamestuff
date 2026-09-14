@@ -151,6 +151,16 @@
       "final_price_str": "0,89 €"
     },
     {
+      "appid": "3d10f32b87b94b769524cd44a12e634a",
+      "namespace": "aca2ee0619aa482791f0a71dbf3eeac0",
+      "name": "Rustler - Grand Theft Horse",
+      "discount": 80,
+      "orig_cents": 2239,
+      "final_cents": 447,
+      "orig_price_str": "22,39 €",
+      "final_price_str": "4,47 €"
+    },
+    {
       "appid": "e6ba66595ac44188b69ce5ed15d13b82",
       "namespace": "955298a66e774a858d59e4fb83562c1b",
       "name": "Trine Enchanted Edition",
@@ -219,6 +229,16 @@
       "final_cents": 89,
       "orig_price_str": "4,49 €",
       "final_price_str": "0,89 €"
+    },
+    {
+      "appid": "913af1ed18e24007ab5fd2bc2092c175",
+      "namespace": "9f981e2c861e4a8fbd0eab89541ac8e6",
+      "name": "112 Operator",
+      "discount": 80,
+      "orig_cents": 2239,
+      "final_cents": 447,
+      "orig_price_str": "22,39 €",
+      "final_price_str": "4,47 €"
     },
     {
       "appid": "431ef6a0c3fd4aaab390ceb2f1904bc3",
@@ -439,16 +459,6 @@
       "final_cents": 337,
       "orig_price_str": "13,49 €",
       "final_price_str": "3,37 €"
-    },
-    {
-      "appid": "8880d2adbd27498883f0a3265dc66473",
-      "namespace": "915b00759eab42f2a0d8859dd2ca3d89",
-      "name": "Backrooms Hide And Seek",
-      "discount": 75,
-      "orig_cents": 179,
-      "final_cents": 44,
-      "orig_price_str": "1,79 €",
-      "final_price_str": "0,44 €"
     },
     {
       "appid": "843cbe6a2b6a448c8b62f2f4dca06daf",
@@ -689,16 +699,6 @@
       "final_cents": 482,
       "orig_price_str": "13,79 €",
       "final_price_str": "4,82 €"
-    },
-    {
-      "appid": "01b003ee88d342a4b17f29eb0f886035",
-      "namespace": "fcba6b461efc4602bbb0d4b736f7f0a7",
-      "name": "Big Helmet Heroes",
-      "discount": 65,
-      "orig_cents": 2499,
-      "final_cents": 874,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "8,74 €"
     },
     {
       "appid": "ff355e78448247178f119592a2524914",
@@ -1349,6 +1349,16 @@
       "final_cents": 1349,
       "orig_price_str": "26,99 €",
       "final_price_str": "13,49 €"
+    },
+    {
+      "appid": "2f5e315a02564ffd9c6c496c2301615d",
+      "namespace": "024e99e2bdbe49a6bd291d6789239561",
+      "name": "Dying Light: The Beast",
+      "discount": 50,
+      "orig_cents": 5999,
+      "final_cents": 2999,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "29,99 €"
     },
     {
       "appid": "6d7bfc121f4747da81aa5ed1c9303992",
@@ -2741,6 +2751,16 @@
       "final_price_str": "29,99 €"
     },
     {
+      "appid": "0301a11416294225bd03b354990dcf6e",
+      "namespace": "74d48dd68be249aab319a2f9bca2dc0e",
+      "name": "Sigilfarer: A Dice-Rolling Roguelite",
+      "discount": 20,
+      "orig_cents": 1079,
+      "final_cents": 863,
+      "orig_price_str": "10,79 €",
+      "final_price_str": "8,63 €"
+    },
+    {
       "appid": "313dc7b9fe3a436395193dbd0f90c170",
       "namespace": "1756a9d2e1af45548dc0186a287d5a32",
       "name": "Mining Rail Adventure",
@@ -2759,16 +2779,6 @@
       "final_cents": 719,
       "orig_price_str": "8,99 €",
       "final_price_str": "7,19 €"
-    },
-    {
-      "appid": "4c2fe1aa0037421d8a99690cb010d49e",
-      "namespace": "a2a4bd5acfe340c88ba592fc1f703999",
-      "name": "The Beauty and the CEO",
-      "discount": 20,
-      "orig_cents": 1079,
-      "final_cents": 863,
-      "orig_price_str": "10,79 €",
-      "final_price_str": "8,63 €"
     },
     {
       "appid": "1b6255df54154a378a2cc6e2dcd8c57f",
@@ -2989,17 +2999,7 @@
       "final_cents": 359,
       "orig_price_str": "4,49 €",
       "final_price_str": "3,59 €"
-    },
-    {
-      "appid": "b0ecd5f18e054166adba795588c93405",
-      "namespace": "664e97d44f7f49d1b883413d15670071",
-      "name": "Storebound",
-      "discount": 20,
-      "orig_cents": 799,
-      "final_cents": 639,
-      "orig_price_str": "7,99 €",
-      "final_price_str": "6,39 €"
     }
   ],
-  "total": 1318
+  "total": 1321
 }
