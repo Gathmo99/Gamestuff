@@ -391,6 +391,16 @@
       "final_price_str": "3,74 €"
     },
     {
+      "appid": "8fd0a802ed5748119282bd1bb2a5be34",
+      "namespace": "5da4301570a24f5b866aeae92569e5e4",
+      "name": "MUSHROOMAN",
+      "discount": 75,
+      "orig_cents": 179,
+      "final_cents": 44,
+      "orig_price_str": "1,79 €",
+      "final_price_str": "0,44 €"
+    },
+    {
       "appid": "70743bc1d3cc427da8b55e1bc79ca95c",
       "namespace": "4f97805eeaf3401095c8baba3bbfa566",
       "name": "Soulslinger: Envoy of Death",
@@ -971,6 +981,16 @@
       "final_price_str": "0,44 €"
     },
     {
+      "appid": "a1ef8a92dd8b450ba4472b3cbf424b0c",
+      "namespace": "5ca95d21db94459293b04fe3799945e6",
+      "name": "100 Nights In The Forest",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
       "appid": "b355239267e5445cbd657ccdcaf37a06",
       "namespace": "59af30a1b70a4775a1ab4773aa3e6b07",
       "name": "Five Nights In The Backrooms",
@@ -1034,16 +1054,6 @@
       "appid": "358807be564e4328a0a40cd12225af74",
       "namespace": "dfe09240d3794901ba97f6ebeb700c1d",
       "name": "WINTER SADNESS SIMULATOR",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "d4c62f0a1e464afcae488f40b2012dbd",
-      "namespace": "f28ef9372daf4ca99385d5d9ab8af7f8",
-      "name": "BORIS RUSSIAN BEAR",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -2531,16 +2541,6 @@
       "final_price_str": "17,49 €"
     },
     {
-      "appid": "2c867f0d00d745fca9e69ed603739657",
-      "namespace": "c297d2e637b14e92a03559b539dd23d5",
-      "name": "Grizzy and the Lemmings - Crazy Party",
-      "discount": 25,
-      "orig_cents": 3599,
-      "final_cents": 2699,
-      "orig_price_str": "35,99 €",
-      "final_price_str": "26,99 €"
-    },
-    {
       "appid": "af0bac92ab4c4c0f9ed6b36025916ded",
       "namespace": "095f6c7801d14240b31e732cc3e87008",
       "name": "Fell in love with coser 15",
@@ -3001,5 +3001,5 @@
       "final_price_str": "3,59 €"
     }
   ],
-  "total": 1321
+  "total": 1320
 }

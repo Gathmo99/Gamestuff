@@ -51,16 +51,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9P5FNP2NJ6XW",
-      "name": "Gotham Knights: Deluxe Edition",
-      "discount": 90,
-      "orig_cents": 9499,
-      "final_cents": 949,
-      "orig_price_str": "94,99 €",
-      "final_price_str": "9,49 €",
-      "gamepass": ""
-    },
-    {
       "appid": "BPD060GWC3T0",
       "name": "LEGO® Marvel Collection",
       "discount": 85,
@@ -131,16 +121,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9N8NZMCCC1KG",
-      "name": "World War Z: Aftermath - Deluxe Edition",
-      "discount": 85,
-      "orig_cents": 4999,
-      "final_cents": 749,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "7,49 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9NRQVQ7ZRM7Z",
       "name": "FINAL FANTASY VII REMAKE INTERGRADE",
       "discount": 75,
@@ -178,6 +158,16 @@
       "final_cents": 2099,
       "orig_price_str": "69,99 €",
       "final_price_str": "20,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9PNN223H8MLZ",
+      "name": "FINAL FANTASY XVI",
+      "discount": 60,
+      "orig_cents": 5999,
+      "final_cents": 2399,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "23,99 €",
       "gamepass": ""
     },
     {
@@ -249,7 +239,17 @@
       "orig_price_str": "69,99 €",
       "final_price_str": "55,99 €",
       "gamepass": ""
+    },
+    {
+      "appid": "9PKS8XZC74X5",
+      "name": "Hell Let Loose: Vietnam",
+      "discount": 10,
+      "orig_cents": 3999,
+      "final_cents": 3599,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "35,99 €",
+      "gamepass": ""
     }
   ],
-  "total": 895
+  "total": 1077
 }
