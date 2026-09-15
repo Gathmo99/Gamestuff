@@ -211,6 +211,16 @@
       "final_price_str": "6,27 €"
     },
     {
+      "appid": "e1479081ced8495e97ea6ba9b6ec0abe",
+      "namespace": "d3f636e8c3424609806936603a6e6ba8",
+      "name": "Poly Plaza ULTIMATE",
+      "discount": 80,
+      "orig_cents": 449,
+      "final_cents": 89,
+      "orig_price_str": "4,49 €",
+      "final_price_str": "0,89 €"
+    },
+    {
       "appid": "51715275f5f54ab3a9feaa8f1227c474",
       "namespace": "1c17d97a5ba24be7946ab2250c771413",
       "name": "Planet Alpha",
@@ -279,26 +289,6 @@
       "final_cents": 479,
       "orig_price_str": "23,99 €",
       "final_price_str": "4,79 €"
-    },
-    {
-      "appid": "eb5454e002764abaa00b741393aa7600",
-      "namespace": "e192ef1dbcce4fdc8cca1afb9adc05db",
-      "name": "Killer Frequency",
-      "discount": 80,
-      "orig_cents": 2499,
-      "final_cents": 499,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "4,99 €"
-    },
-    {
-      "appid": "422ed00fef0b42efa56662c97b0e9d60",
-      "namespace": "44277238c30648d6ad4bee97e27c4a3c",
-      "name": "Sunday Gold",
-      "discount": 80,
-      "orig_cents": 2199,
-      "final_cents": 439,
-      "orig_price_str": "21,99 €",
-      "final_price_str": "4,39 €"
     },
     {
       "appid": "2380ff7131674e7194f4cd81067ffeba",
@@ -731,6 +721,16 @@
       "final_price_str": "9,59 €"
     },
     {
+      "appid": "dcf3c8cc55854f309c5f32d9a7f60207",
+      "namespace": "17082e3fa470458fb68c4c8eea658dc9",
+      "name": "Screamer",
+      "discount": 60,
+      "orig_cents": 5999,
+      "final_cents": 2399,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "23,99 €"
+    },
+    {
       "appid": "39204d7fbcec45a599460be7a3da125e",
       "namespace": "f9a52ef9049a44cb83f1828df8e326d5",
       "name": "Kickback Clicker",
@@ -1079,6 +1079,16 @@
       "final_cents": 629,
       "orig_price_str": "12,59 €",
       "final_price_str": "6,29 €"
+    },
+    {
+      "appid": "26769ccdaf9a4ce1a97d91f16c0cb5bf",
+      "namespace": "dae3b680039e4315aeca28d59c081758",
+      "name": "DEADWAVE",
+      "discount": 50,
+      "orig_cents": 899,
+      "final_cents": 449,
+      "orig_price_str": "8,99 €",
+      "final_price_str": "4,49 €"
     },
     {
       "appid": "9669bdf92baf4402b50ff34d4bfed66b",
@@ -1651,16 +1661,6 @@
       "final_price_str": "14,99 €"
     },
     {
-      "appid": "65afe1bae0f5449191d28d5ef63caa32",
-      "namespace": "eb9cdf6dbe4b47fc8ba474017023476a",
-      "name": "Sid Meier's Civilization® VII",
-      "discount": 50,
-      "orig_cents": 6999,
-      "final_cents": 3499,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "34,99 €"
-    },
-    {
       "appid": "2c75bb68cfa84aabbea3504f57197611",
       "namespace": "de2550653b9146cbbabbc4c628870d51",
       "name": "Formula Legends",
@@ -2201,16 +2201,6 @@
       "final_price_str": "6,49 €"
     },
     {
-      "appid": "67e076fc9d5b4ecaa3409c79d29cabdd",
-      "namespace": "e6ffee40e3424026b27f75c785d199e1",
-      "name": "Soulmask",
-      "discount": 35,
-      "orig_cents": 2999,
-      "final_cents": 1949,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "19,49 €"
-    },
-    {
       "appid": "c82a8a4a664d43df882b130e06066010",
       "namespace": "d53159b0a47c43d08a92968a6fd9cd78",
       "name": "KIBORG",
@@ -2401,9 +2391,9 @@
       "final_price_str": "24,49 €"
     },
     {
-      "appid": "9b25499206d1464e9c06a71db2aad795",
-      "namespace": "853bfa0a3de24d6f9d66f228d484ea21",
-      "name": "World Wonders: Hidden Histories Collector's Edition",
+      "appid": "f2797a33262e4a1795ab4b350cc6a9b8",
+      "namespace": "a6c324f6d20244fe829559c856fe17db",
+      "name": "Travel Cuisine 3: The Sea of Flavours Collector's Edition",
       "discount": 30,
       "orig_cents": 1349,
       "final_cents": 944,
@@ -2569,6 +2559,16 @@
       "final_cents": 1011,
       "orig_price_str": "13,49 €",
       "final_price_str": "10,11 €"
+    },
+    {
+      "appid": "aa1488884739483090bb66f7d671a380",
+      "namespace": "03bf702ea29144bd917d3b76e1653b2e",
+      "name": "Restore Your Island",
+      "discount": 25,
+      "orig_cents": 1169,
+      "final_cents": 876,
+      "orig_price_str": "11,69 €",
+      "final_price_str": "8,76 €"
     },
     {
       "appid": "84e5f35d9cdf4d0a99df152984130fa3",
@@ -3001,5 +3001,5 @@
       "final_price_str": "3,59 €"
     }
   ],
-  "total": 1321
+  "total": 1323
 }
