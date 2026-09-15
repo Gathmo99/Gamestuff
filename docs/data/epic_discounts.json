@@ -291,16 +291,6 @@
       "final_price_str": "4,79 €"
     },
     {
-      "appid": "2380ff7131674e7194f4cd81067ffeba",
-      "namespace": "e93b00445c57495b8bec3664fcd679c4",
-      "name": "The Artful Escape",
-      "discount": 75,
-      "orig_cents": 1899,
-      "final_cents": 474,
-      "orig_price_str": "18,99 €",
-      "final_price_str": "4,74 €"
-    },
-    {
       "appid": "95b6875f9b7f40a39b8d476ca642c655",
       "namespace": "84a0cce87ad54db4830c2394e732fe80",
       "name": "Backrooms Pools",
@@ -641,16 +631,6 @@
       "final_price_str": "3,14 €"
     },
     {
-      "appid": "20451914248a4294b072ec7435e48258",
-      "namespace": "f5e6a883809e41ecbb7db0552664e1e7",
-      "name": "A Memoir Blue",
-      "discount": 65,
-      "orig_cents": 749,
-      "final_cents": 262,
-      "orig_price_str": "7,49 €",
-      "final_price_str": "2,62 €"
-    },
-    {
       "appid": "c6479f31043943d0b1710cc5983f53c6",
       "namespace": "59d27ef047494b999bf0b04ddc471a07",
       "name": "Clone Drone in the Danger Zone",
@@ -709,16 +689,6 @@
       "final_cents": 999,
       "orig_price_str": "24,99 €",
       "final_price_str": "9,99 €"
-    },
-    {
-      "appid": "c35aa246a2c94ace8552f145c9fe8a35",
-      "namespace": "e73809f5694a4acc88de2119725afed8",
-      "name": "Neon White",
-      "discount": 60,
-      "orig_cents": 2399,
-      "final_cents": 959,
-      "orig_price_str": "23,99 €",
-      "final_price_str": "9,59 €"
     },
     {
       "appid": "dcf3c8cc55854f309c5f32d9a7f60207",
@@ -1141,16 +1111,6 @@
       "final_price_str": "4,49 €"
     },
     {
-      "appid": "f8a20a859fde4a4cbab708ad4a44bac8",
-      "namespace": "ed1ebeb19f1a4c81bcacfdb590779f1f",
-      "name": "Neverending Nightmares",
-      "discount": 50,
-      "orig_cents": 1349,
-      "final_cents": 674,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "6,74 €"
-    },
-    {
       "appid": "637b02b5abcc458b9deb85d397facca1",
       "namespace": "62502c9be51443498f3e4da4a68fc804",
       "name": "Directive Zero",
@@ -1179,16 +1139,6 @@
       "final_cents": 999,
       "orig_price_str": "19,99 €",
       "final_price_str": "9,99 €"
-    },
-    {
-      "appid": "64b1b184de3146d49c4260b843e7dfa0",
-      "namespace": "edc3097975be4060a03967828ba181cf",
-      "name": "Stray",
-      "discount": 50,
-      "orig_cents": 2849,
-      "final_cents": 1424,
-      "orig_price_str": "28,49 €",
-      "final_price_str": "14,24 €"
     },
     {
       "appid": "7482df959d4e4cd6bda57a0efc98a76a",
@@ -1659,6 +1609,16 @@
       "final_cents": 1499,
       "orig_price_str": "29,99 €",
       "final_price_str": "14,99 €"
+    },
+    {
+      "appid": "65afe1bae0f5449191d28d5ef63caa32",
+      "namespace": "eb9cdf6dbe4b47fc8ba474017023476a",
+      "name": "Sid Meier's Civilization® VII",
+      "discount": 50,
+      "orig_cents": 6999,
+      "final_cents": 3499,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "34,99 €"
     },
     {
       "appid": "2c75bb68cfa84aabbea3504f57197611",
@@ -2601,16 +2561,6 @@
       "final_price_str": "13,49 €"
     },
     {
-      "appid": "e591ae34a7cf48309102b60e233a2dd5",
-      "namespace": "3a6e14723b4b4cb1a9c0625e368f3dec",
-      "name": "Phonopolis",
-      "discount": 25,
-      "orig_cents": 2199,
-      "final_cents": 1649,
-      "orig_price_str": "21,99 €",
-      "final_price_str": "16,49 €"
-    },
-    {
       "appid": "5ee6b13eb94b4d5eae904f6f5e7d6a95",
       "namespace": "d2c80ca3a948416fb4840a7dfa2ab1de",
       "name": "Adorable Adventures",
@@ -2871,16 +2821,6 @@
       "final_price_str": "23,99 €"
     },
     {
-      "appid": "0a1e0d7933d74730b73b465f30674e71",
-      "namespace": "39808df6405d4088b530d024a89aee55",
-      "name": "Mixtape",
-      "discount": 20,
-      "orig_cents": 1899,
-      "final_cents": 1519,
-      "orig_price_str": "18,99 €",
-      "final_price_str": "15,19 €"
-    },
-    {
       "appid": "ec147e0da41347fe8a559706d7a2acf0",
       "namespace": "9cbe91d966cc4219b07b68acfaf69a9f",
       "name": "TerraTech Legion",
@@ -2999,7 +2939,67 @@
       "final_cents": 359,
       "orig_price_str": "4,49 €",
       "final_price_str": "3,59 €"
+    },
+    {
+      "appid": "b0ecd5f18e054166adba795588c93405",
+      "namespace": "664e97d44f7f49d1b883413d15670071",
+      "name": "Storebound",
+      "discount": 20,
+      "orig_cents": 799,
+      "final_cents": 639,
+      "orig_price_str": "7,99 €",
+      "final_price_str": "6,39 €"
+    },
+    {
+      "appid": "be1f65851eaf4ad098bd6937e7bca09c",
+      "namespace": "01d3594d0bfe4497a15bc81da2c3f017",
+      "name": "Printfarm Simulator",
+      "discount": 20,
+      "orig_cents": 539,
+      "final_cents": 431,
+      "orig_price_str": "5,39 €",
+      "final_price_str": "4,31 €"
+    },
+    {
+      "appid": "d8f371ec6cb4447cb7c6a0bf4ff1ebb3",
+      "namespace": "3c4699b140554fa5ad48a9413b06159a",
+      "name": "Lord Ambermaze",
+      "discount": 20,
+      "orig_cents": 1349,
+      "final_cents": 1079,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "10,79 €"
+    },
+    {
+      "appid": "78c9f8071de241ae9d4a257af65dd3b7",
+      "namespace": "53a1654e4024470f916e4a0f7e79d99c",
+      "name": "Puzzle Quest - Immortal Edition",
+      "discount": 20,
+      "orig_cents": 1499,
+      "final_cents": 1199,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "11,99 €"
+    },
+    {
+      "appid": "504edbcd26ae4320a2d1443a989539fd",
+      "namespace": "61be2100faf0452f96d23fba88f03b67",
+      "name": "MushDash",
+      "discount": 20,
+      "orig_cents": 359,
+      "final_cents": 287,
+      "orig_price_str": "3,59 €",
+      "final_price_str": "2,87 €"
+    },
+    {
+      "appid": "6585be062e7744b3a8803856ae8af1df",
+      "namespace": "01ad5d6fa6cf40e9a1dd04192fac6ad7",
+      "name": "SpaceSlog",
+      "discount": 20,
+      "orig_cents": 2549,
+      "final_cents": 2039,
+      "orig_price_str": "25,49 €",
+      "final_price_str": "20,39 €"
     }
   ],
-  "total": 1323
+  "total": 1322
 }
