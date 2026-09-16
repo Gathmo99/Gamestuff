@@ -793,7 +793,7 @@
       "final_price_str": "4,99 €"
     },
     {
-      "appid": "EP1482-PPSA03315_00-3899031076458834",
+      "appid": "EP1482-CUSA27326_00-7592298397743398",
       "name": "Operation: Tango",
       "discount": 75,
       "orig_cents": 1699,
@@ -802,7 +802,7 @@
       "final_price_str": "4,24 €"
     },
     {
-      "appid": "EP1482-CUSA27326_00-7592298397743398",
+      "appid": "EP1482-PPSA03315_00-3899031076458834",
       "name": "Operation: Tango",
       "discount": 75,
       "orig_cents": 1699,
@@ -1306,7 +1306,7 @@
       "final_price_str": "10,19 €"
     },
     {
-      "appid": "EP6665-PPSA08555_00-BB300DELUXE00003",
+      "appid": "EP6665-CUSA34660_00-BB300DELUXE00003",
       "name": "Blood Bowl 3 - Brutal Edition",
       "discount": 65,
       "orig_cents": 5999,
@@ -1315,7 +1315,7 @@
       "final_price_str": "20,99 €"
     },
     {
-      "appid": "EP6665-CUSA34660_00-BB300DELUXE00003",
+      "appid": "EP6665-PPSA08555_00-BB300DELUXE00003",
       "name": "Blood Bowl 3 - Brutal Edition",
       "discount": 65,
       "orig_cents": 5999,

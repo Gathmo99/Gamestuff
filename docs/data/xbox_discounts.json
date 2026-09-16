@@ -41,16 +41,6 @@
       "gamepass": ""
     },
     {
-      "appid": "BT7M0N12GN51",
-      "name": "Call of Juarez Gunslinger",
-      "discount": 90,
-      "orig_cents": 1439,
-      "final_cents": 143,
-      "orig_price_str": "14,39 €",
-      "final_price_str": "1,43 €",
-      "gamepass": ""
-    },
-    {
       "appid": "BPD060GWC3T0",
       "name": "LEGO® Marvel Collection",
       "discount": 85,
@@ -181,16 +171,6 @@
       "gamepass": "PC + Xbox"
     },
     {
-      "appid": "9NN82NH949D5",
-      "name": "HITMAN World of Assassination",
-      "discount": 60,
-      "orig_cents": 6999,
-      "final_cents": 2799,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "27,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9P8RQH67TTT1",
       "name": "Grand Theft Auto V (Xbox One & Xbox Series X|S)",
       "discount": 50,
@@ -228,16 +208,6 @@
       "final_cents": 1999,
       "orig_price_str": "39,99 €",
       "final_price_str": "19,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9NPF9F0DCVKS",
-      "name": "007 First Light - Standard Edition",
-      "discount": 20,
-      "orig_cents": 6999,
-      "final_cents": 5599,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "55,99 €",
       "gamepass": ""
     },
     {
