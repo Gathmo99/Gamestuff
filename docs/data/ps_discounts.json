@@ -37,15 +37,6 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "EP0002-PPSA02410_00-D2LFBUNDLE000001",
-      "name": "Destiny 2: Lightfall",
-      "discount": 90,
-      "orig_cents": 1999,
-      "final_cents": 199,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "1,99 €"
-    },
-    {
       "appid": "EP1018-PPSA07257_00-GOTHAMKNIGHTSDLX",
       "name": "Gotham Knights: Deluxe Edition",
       "discount": 90,
@@ -62,24 +53,6 @@
       "final_cents": 1199,
       "orig_price_str": "119,99 €",
       "final_price_str": "11,99 €"
-    },
-    {
-      "appid": "EP0002-PPSA02410_00-D2WITCHQUEEN0001",
-      "name": "Destiny 2: Die Hexenkönigin",
-      "discount": 90,
-      "orig_cents": 1999,
-      "final_cents": 199,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "1,99 €"
-    },
-    {
-      "appid": "EP0002-PPSA02410_00-D230PACK00000001",
-      "name": "Destiny 2-Paket: 30 Jahre Bungie",
-      "discount": 90,
-      "orig_cents": 1499,
-      "final_cents": 149,
-      "orig_price_str": "14,99 €",
-      "final_price_str": "1,49 €"
     },
     {
       "appid": "EP0896-PPSA05000_00-RGBOUNCYBULLETS2",
@@ -118,7 +91,7 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "EP4008-CUSA16782_00-WTASIEE000000000",
+      "appid": "EP4008-PPSA02113_00-WTASIEE000000000",
       "name": "Werewolf: The Apocalypse – Earthblood",
       "discount": 90,
       "orig_cents": 2999,
@@ -127,7 +100,7 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "EP4008-PPSA02113_00-WTASIEE000000000",
+      "appid": "EP4008-CUSA16782_00-WTASIEE000000000",
       "name": "Werewolf: The Apocalypse – Earthblood",
       "discount": 90,
       "orig_cents": 2999,
@@ -152,33 +125,6 @@
       "final_cents": 49,
       "orig_price_str": "4,99 €",
       "final_price_str": "0,49 €"
-    },
-    {
-      "appid": "EP0002-PPSA02410_00-D2SHADOWKEEP0001",
-      "name": "Destiny 2: „Festung der Schatten“-Paket",
-      "discount": 90,
-      "orig_cents": 999,
-      "final_cents": 99,
-      "orig_price_str": "9,99 €",
-      "final_price_str": "0,99 €"
-    },
-    {
-      "appid": "EP0002-PPSA02410_00-DESTINY2FORSAKEN",
-      "name": "Destiny 2: Forsaken-Paket",
-      "discount": 90,
-      "orig_cents": 999,
-      "final_cents": 99,
-      "orig_price_str": "9,99 €",
-      "final_price_str": "0,99 €"
-    },
-    {
-      "appid": "EP0002-PPSA02410_00-D2BEYONDLIGHT001",
-      "name": "Destiny 2: „Jenseits des Lichts“-Paket",
-      "discount": 90,
-      "orig_cents": 999,
-      "final_cents": 99,
-      "orig_price_str": "9,99 €",
-      "final_price_str": "0,99 €"
     },
     {
       "appid": "EP1018-PPSA01619_00-MK11ULTIMATEKOLL",
@@ -325,6 +271,15 @@
       "final_price_str": "7,79 €"
     },
     {
+      "appid": "EP0700-CUSA11202_00-BLACKCLOVERDIGDX",
+      "name": "BLACK CLOVER: QUARTET KNIGHTS Deluxe Edition",
+      "discount": 87,
+      "orig_cents": 7499,
+      "final_cents": 974,
+      "orig_price_str": "74,99 €",
+      "final_price_str": "9,74 €"
+    },
+    {
       "appid": "EP4064-CUSA10869_00-2377161849826266",
       "name": "Genesis Alpha One Deluxe Edition",
       "discount": 85,
@@ -467,6 +422,15 @@
       "final_cents": 449,
       "orig_price_str": "29,99 €",
       "final_price_str": "4,49 €"
+    },
+    {
+      "appid": "EP0700-CUSA09884_00-SOULCAL6DLX00001",
+      "name": "SOULCALIBUR Ⅵ Deluxe Edition",
+      "discount": 84,
+      "orig_cents": 9999,
+      "final_cents": 1599,
+      "orig_price_str": "99,99 €",
+      "final_price_str": "15,99 €"
     },
     {
       "appid": "EP0896-PPSA07192_00-RATGAGUNMANTALES",
@@ -647,6 +611,24 @@
       "final_cents": 599,
       "orig_price_str": "29,99 €",
       "final_price_str": "5,99 €"
+    },
+    {
+      "appid": "EP1004-CUSA08519_00-RDR2ULTMEDTNBUND",
+      "name": "Red Dead Redemption 2: Ultimate Edition",
+      "discount": 80,
+      "orig_cents": 9999,
+      "final_cents": 1999,
+      "orig_price_str": "99,99 €",
+      "final_price_str": "19,99 €"
+    },
+    {
+      "appid": "EP2866-CUSA12376_00-FSWDIGDELUXE0001",
+      "name": "Fishing Sim World: Pro Tour Deluxe Edition",
+      "discount": 80,
+      "orig_cents": 2499,
+      "final_cents": 499,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "4,99 €"
     },
     {
       "appid": "EP6665-PPSA07390_00-ARB00DELUXE00001",
@@ -989,6 +971,15 @@
       "final_cents": 874,
       "orig_price_str": "34,99 €",
       "final_price_str": "8,74 €"
+    },
+    {
+      "appid": "EP2029-CUSA11858_00-0000000000000000",
+      "name": "Deployment",
+      "discount": 75,
+      "orig_cents": 199,
+      "final_cents": 49,
+      "orig_price_str": "1,99 €",
+      "final_price_str": "0,49 €"
     },
     {
       "appid": "EP0896-PPSA10590_00-RATALAGABILLY101",
@@ -1394,6 +1385,15 @@
       "final_cents": 1049,
       "orig_price_str": "29,99 €",
       "final_price_str": "10,49 €"
+    },
+    {
+      "appid": "EP2005-CUSA13677_00-FASTSTRIKERCROSS",
+      "name": "Fast Striker [Cross-Buy]",
+      "discount": 65,
+      "orig_cents": 699,
+      "final_cents": 244,
+      "orig_price_str": "6,99 €",
+      "final_price_str": "2,44 €"
     },
     {
       "appid": "EP4886-PPSA15216_00-0725792543890273",
@@ -2224,6 +2224,42 @@
       "final_price_str": "3,99 €"
     },
     {
+      "appid": "EP3597-CUSA13984_00-WORDSUDOKUBUNDLE",
+      "name": "Word Sudoku by POWGI",
+      "discount": 50,
+      "orig_cents": 799,
+      "final_cents": 399,
+      "orig_price_str": "7,99 €",
+      "final_price_str": "3,99 €"
+    },
+    {
+      "appid": "EP4040-CUSA06287_00-PKSPVANITY050000",
+      "name": "Portal Knights – Glücksringebox",
+      "discount": 50,
+      "orig_cents": 299,
+      "final_cents": 149,
+      "orig_price_str": "2,99 €",
+      "final_price_str": "1,49 €"
+    },
+    {
+      "appid": "EP4040-CUSA06287_00-PKSPO02000000000",
+      "name": "Portal Knights – Gold-Thron-Paket",
+      "discount": 50,
+      "orig_cents": 399,
+      "final_cents": 199,
+      "orig_price_str": "3,99 €",
+      "final_price_str": "1,99 €"
+    },
+    {
+      "appid": "EP4040-CUSA06287_00-PKSPVANITY060000",
+      "name": "Portal Knights - Pechringebox",
+      "discount": 50,
+      "orig_cents": 299,
+      "final_cents": 149,
+      "orig_price_str": "2,99 €",
+      "final_price_str": "1,49 €"
+    },
+    {
       "appid": "EP3359-CUSA08368_00-THCOTWHIRSCHVTCP",
       "name": "theHunter: Call of the Wild™ - Hirschfelden Veteran Cosmetic Pack",
       "discount": 45,
@@ -2357,6 +2393,15 @@
       "final_cents": 439,
       "orig_price_str": "7,99 €",
       "final_price_str": "4,39 €"
+    },
+    {
+      "appid": "EP3359-CUSA08368_00-THCOTWDUCKDLC000",
+      "name": "theHunter: Call of the Wild - Duck and Cover Pack",
+      "discount": 45,
+      "orig_cents": 399,
+      "final_cents": 219,
+      "orig_price_str": "3,99 €",
+      "final_price_str": "2,19 €"
     },
     {
       "appid": "EP4291-CUSA15859_00-THEHUNTGAME00039",
@@ -2654,51 +2699,6 @@
       "final_cents": 454,
       "orig_price_str": "6,49 €",
       "final_price_str": "4,54 €"
-    },
-    {
-      "appid": "EP7550-CUSA31973_00-7369504557742386",
-      "name": "Top Gun Air Combat PS4 & PS5",
-      "discount": 30,
-      "orig_cents": 899,
-      "final_cents": 629,
-      "orig_price_str": "8,99 €",
-      "final_price_str": "6,29 €"
-    },
-    {
-      "appid": "EP4136-CUSA25074_00-BSECTORDLCSIEE04",
-      "name": "Warhammer 40,000: Battlesector - Sisters of Battle",
-      "discount": 25,
-      "orig_cents": 1499,
-      "final_cents": 1124,
-      "orig_price_str": "14,99 €",
-      "final_price_str": "11,24 €"
-    },
-    {
-      "appid": "EP4136-CUSA25074_00-BSECTORDLCSIEE03",
-      "name": "Warhammer 40,000: Battlesector - Necrons",
-      "discount": 25,
-      "orig_cents": 1499,
-      "final_cents": 1124,
-      "orig_price_str": "14,99 €",
-      "final_price_str": "11,24 €"
-    },
-    {
-      "appid": "EP4136-CUSA25074_00-BSECTORDLCSIEE01",
-      "name": "Warhammer 40,000: Battlesector - Blood Angels Elite",
-      "discount": 20,
-      "orig_cents": 159,
-      "final_cents": 127,
-      "orig_price_str": "1,59 €",
-      "final_price_str": "1,27 €"
-    },
-    {
-      "appid": "EP4136-CUSA25074_00-BSECTORDLCSIEE02",
-      "name": "Warhammer 40,000: Battlesector - Tyranid Elite",
-      "discount": 20,
-      "orig_cents": 159,
-      "final_cents": 127,
-      "orig_price_str": "1,59 €",
-      "final_price_str": "1,27 €"
     }
   ],
   "total": 1703
