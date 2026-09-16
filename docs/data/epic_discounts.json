@@ -281,16 +281,6 @@
       "final_price_str": "0,53 €"
     },
     {
-      "appid": "ac057a59b7a841f1a17db4473cf20765",
-      "namespace": "cd053a8104444485ad00ceb98eb4aecd",
-      "name": "X-Morph Defense Complete Edition",
-      "discount": 80,
-      "orig_cents": 2399,
-      "final_cents": 479,
-      "orig_price_str": "23,99 €",
-      "final_price_str": "4,79 €"
-    },
-    {
       "appid": "2380ff7131674e7194f4cd81067ffeba",
       "namespace": "e93b00445c57495b8bec3664fcd679c4",
       "name": "The Artful Escape",
@@ -2751,6 +2741,16 @@
       "final_price_str": "29,99 €"
     },
     {
+      "appid": "11a68919c2524134bef76a371d654070",
+      "namespace": "0d24faf082074fe79ed5d0aae8f40833",
+      "name": "Professional Ship Simulator",
+      "discount": 20,
+      "orig_cents": 3699,
+      "final_cents": 2959,
+      "orig_price_str": "36,99 €",
+      "final_price_str": "29,59 €"
+    },
+    {
       "appid": "0301a11416294225bd03b354990dcf6e",
       "namespace": "74d48dd68be249aab319a2f9bca2dc0e",
       "name": "Sigilfarer: A Dice-Rolling Roguelite",
@@ -3001,5 +3001,5 @@
       "final_price_str": "3,59 €"
     }
   ],
-  "total": 1325
+  "total": 1326
 }
