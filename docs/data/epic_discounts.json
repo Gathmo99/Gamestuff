@@ -31,6 +31,16 @@
       "final_price_str": "0,00 €"
     },
     {
+      "appid": "bdfa6e449c614ae8a5ffbabb2aac52bf",
+      "namespace": "89d445a56a744535a52ff914d91a3e0e",
+      "name": "Bunny Hopper",
+      "discount": 95,
+      "orig_cents": 1529,
+      "final_cents": 76,
+      "orig_price_str": "15,29 €",
+      "final_price_str": "0,76 €"
+    },
+    {
       "appid": "01788ca3ba2c43958b5d70939df5aa97",
       "namespace": "a1999b7ecf184f63b4dceba2bbdc4b2c",
       "name": "Countrytale 2010",
@@ -39,6 +49,16 @@
       "final_cents": 89,
       "orig_price_str": "17,99 €",
       "final_price_str": "0,89 €"
+    },
+    {
+      "appid": "7df6c82dff564d8eb04fc20687e2c6ad",
+      "namespace": "36e5e8e78ef04e63b204a224ee3a780f",
+      "name": "Firelight Fantasy: Phoenix Crew",
+      "discount": 94,
+      "orig_cents": 1349,
+      "final_cents": 80,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "0,80 €"
     },
     {
       "appid": "342c874445404a0caf96f07fdbf8d55b",
@@ -109,16 +129,6 @@
       "final_cents": 21,
       "orig_price_str": "2,19 €",
       "final_price_str": "0,21 €"
-    },
-    {
-      "appid": "876a9cdb5af34ede93abd68d674d61df",
-      "namespace": "dfb858df511648288eabf4cb9e78f36f",
-      "name": "Vambrace Cold Soul",
-      "discount": 90,
-      "orig_cents": 2499,
-      "final_cents": 249,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "2,49 €"
     },
     {
       "appid": "6de712080a284d0699b6502e4600c484",
@@ -361,6 +371,16 @@
       "final_price_str": "4,49 €"
     },
     {
+      "appid": "7a19e98f5f164af19df5617a2a7fcca3",
+      "namespace": "0f21ad7c4d834ec4bb6d8d72b2e6ea4a",
+      "name": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
+      "discount": 75,
+      "orig_cents": 999,
+      "final_cents": 249,
+      "orig_price_str": "9,99 €",
+      "final_price_str": "2,49 €"
+    },
+    {
       "appid": "8763b80dee414d06975a08b504f4e71c",
       "namespace": "9e396ca4c0e2403e953e54715b05223d",
       "name": "GALACTIC ARCANUM",
@@ -501,16 +521,6 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "b7defa60111643e8885ba6ed40369ef1",
-      "namespace": "1081c13fdb2449dcb2d8f348b5660879",
-      "name": "PROJECT_ROGUE",
-      "discount": 75,
-      "orig_cents": 359,
-      "final_cents": 89,
-      "orig_price_str": "3,59 €",
-      "final_price_str": "0,89 €"
-    },
-    {
       "appid": "843cbe6a2b6a448c8b62f2f4dca06daf",
       "namespace": "4226a003e0f7413081c2f2dfb13a27c1",
       "name": "sqwrk",
@@ -641,16 +651,6 @@
       "final_price_str": "9,23 €"
     },
     {
-      "appid": "3d11f228c8a442318bc17abf13f7db3b",
-      "namespace": "bc51d32ca88b41bda1e50f5876c0b16e",
-      "name": "The Stone of Madness",
-      "discount": 67,
-      "orig_cents": 2699,
-      "final_cents": 890,
-      "orig_price_str": "26,99 €",
-      "final_price_str": "8,90 €"
-    },
-    {
       "appid": "e423a2c00d0c4982b08e321500cde91b",
       "namespace": "808de467790f453facdff5d90e73fbc9",
       "name": "Loot Stack - Relics Hunter",
@@ -739,16 +739,6 @@
       "final_cents": 874,
       "orig_price_str": "24,99 €",
       "final_price_str": "8,74 €"
-    },
-    {
-      "appid": "01113b776fcb494d81bf33a23c9fdd85",
-      "namespace": "8000cbe7d303418296044b7af84b6fdf",
-      "name": "Heart of the Machine",
-      "discount": 65,
-      "orig_cents": 2999,
-      "final_cents": 1049,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "10,49 €"
     },
     {
       "appid": "ff355e78448247178f119592a2524914",
@@ -941,24 +931,14 @@
       "final_price_str": "7,19 €"
     },
     {
-      "appid": "bd73c71db1a94add9fdc7b80c2166db5",
-      "namespace": "60ac50acc18b4b64bad86a84eb576c0e",
-      "name": "Vagnerun",
+      "appid": "6c304c4e3d174813b7a2b0ce7e417cf9",
+      "namespace": "14a28903e3d14bd5aa3e6dbf10868126",
+      "name": "Assassin’s Creed Shadows",
       "discount": 60,
-      "orig_cents": 449,
-      "final_cents": 179,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "1,79 €"
-    },
-    {
-      "appid": "b681625321de4d7192242980bc747619",
-      "namespace": "0062f9caeb7743f2b6f65c4b5a982e80",
-      "name": "MISSION ETERNAL SOULS",
-      "discount": 55,
-      "orig_cents": 89,
-      "final_cents": 40,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,40 €"
+      "orig_cents": 6999,
+      "final_cents": 2799,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "27,99 €"
     },
     {
       "appid": "6b7a161cf64d4ea282ca162ec25d7ec5",
@@ -1681,16 +1661,6 @@
       "final_price_str": "34,99 €"
     },
     {
-      "appid": "9de7e073abf94a34b75ba34397cddb23",
-      "namespace": "283988bcb09342d3901d99f3cc22ca77",
-      "name": "Citizen Sleeper 2: Starward Vector",
-      "discount": 50,
-      "orig_cents": 2239,
-      "final_cents": 1119,
-      "orig_price_str": "22,39 €",
-      "final_price_str": "11,19 €"
-    },
-    {
       "appid": "2c75bb68cfa84aabbea3504f57197611",
       "namespace": "de2550653b9146cbbabbc4c628870d51",
       "name": "Formula Legends",
@@ -1769,6 +1739,16 @@
       "final_cents": 3599,
       "orig_price_str": "59,99 €",
       "final_price_str": "35,99 €"
+    },
+    {
+      "appid": "ecb21734ed294d8fba5cfe60271f9b7f",
+      "namespace": "45cdd171a32c47298f160d525aaa13e9",
+      "name": "Rayman: 30th Anniversary Edition",
+      "discount": 40,
+      "orig_cents": 1999,
+      "final_cents": 1199,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "11,99 €"
     },
     {
       "appid": "d7226d619dd5453d9272b2849d7a1665",
@@ -2111,6 +2091,16 @@
       "final_price_str": "17,54 €"
     },
     {
+      "appid": "73810c22c5f8449d8955bcd3e0108793",
+      "namespace": "525cf92ef772437e98805aeb6e234b2a",
+      "name": "Anno 117: Pax Romana",
+      "discount": 35,
+      "orig_cents": 5999,
+      "final_cents": 3899,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "38,99 €"
+    },
+    {
       "appid": "cd72045db1714270982bffee4d8ada4f",
       "namespace": "2a6f359ac1fb46caa6b812ca0c46deb2",
       "name": "Anima: Gate of Memories I-II Remaster",
@@ -2279,16 +2269,6 @@
       "final_cents": 4689,
       "orig_price_str": "69,99 €",
       "final_price_str": "46,89 €"
-    },
-    {
-      "appid": "5143c451be9b4e1ab9f3a0296d0bf5e7",
-      "namespace": "b2818b59c0bb420e9647983dfd254931",
-      "name": "Marvel's Spider-Man 2",
-      "discount": 33,
-      "orig_cents": 5999,
-      "final_cents": 4019,
-      "orig_price_str": "59,99 €",
-      "final_price_str": "40,19 €"
     },
     {
       "appid": "ca8db7b754c3476280771bd79bab3fb1",
@@ -2521,16 +2501,6 @@
       "final_price_str": "17,49 €"
     },
     {
-      "appid": "9c85260358bf4b0b904b918b83fb875f",
-      "namespace": "18acdc7f52434fef808ab4f2dee5b86a",
-      "name": "The Crust",
-      "discount": 30,
-      "orig_cents": 2699,
-      "final_cents": 1889,
-      "orig_price_str": "26,99 €",
-      "final_price_str": "18,89 €"
-    },
-    {
       "appid": "af0bac92ab4c4c0f9ed6b36025916ded",
       "namespace": "095f6c7801d14240b31e732cc3e87008",
       "name": "Fell in love with coser 15",
@@ -2579,6 +2549,16 @@
       "final_cents": 1011,
       "orig_price_str": "13,49 €",
       "final_price_str": "10,11 €"
+    },
+    {
+      "appid": "66d272114a674327a410b99325b6bdd7",
+      "namespace": "6d6f3f7c49484f37a4025b2c35fb5228",
+      "name": "Monopoly: Star Wars™ Heroes vs. Villains",
+      "discount": 25,
+      "orig_cents": 2999,
+      "final_cents": 2249,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "22,49 €"
     },
     {
       "appid": "86359b18c7794ba4ab1e319824c854bd",
@@ -2749,6 +2729,16 @@
       "final_cents": 2999,
       "orig_price_str": "39,99 €",
       "final_price_str": "29,99 €"
+    },
+    {
+      "appid": "00039fa9904c429abd22fc0853be5f91",
+      "namespace": "4083178e557a456c9f9967f566e34b94",
+      "name": "The teacher fell in love with me 3",
+      "discount": 20,
+      "orig_cents": 1079,
+      "final_cents": 863,
+      "orig_price_str": "10,79 €",
+      "final_price_str": "8,63 €"
     },
     {
       "appid": "11a68919c2524134bef76a371d654070",
@@ -2999,7 +2989,17 @@
       "final_cents": 431,
       "orig_price_str": "5,39 €",
       "final_price_str": "4,31 €"
+    },
+    {
+      "appid": "d8f371ec6cb4447cb7c6a0bf4ff1ebb3",
+      "namespace": "3c4699b140554fa5ad48a9413b06159a",
+      "name": "Lord Ambermaze",
+      "discount": 20,
+      "orig_cents": 1349,
+      "final_cents": 1079,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "10,79 €"
     }
   ],
-  "total": 1298
+  "total": 1388
 }
