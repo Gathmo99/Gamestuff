@@ -1911,6 +1911,16 @@
       "final_price_str": "2,24 €"
     },
     {
+      "appid": "688cde7a7298459da4ac3736ae4e9968",
+      "namespace": "bc92b04c050a4b15b6a989747964207d",
+      "name": "ENDLESS Legend™ 2",
+      "discount": 50,
+      "orig_cents": 4999,
+      "final_cents": 2499,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "24,99 €"
+    },
+    {
       "appid": "a60c9ba8b83447ce997a380b5920c5e5",
       "namespace": "1bbeed72097247c6b799d3bfbee36c82",
       "name": "UNYIELDER",
@@ -2081,6 +2091,16 @@
       "final_price_str": "0,48 €"
     },
     {
+      "appid": "a38e202381b545dfa7aa8ddbf3217f87",
+      "namespace": "1666530d8fe54592a16b7e7f2a3d909c",
+      "name": "Doctor Ximen Qing HD",
+      "discount": 45,
+      "orig_cents": 1169,
+      "final_cents": 642,
+      "orig_price_str": "11,69 €",
+      "final_price_str": "6,42 €"
+    },
+    {
       "appid": "3de25d0eaa7f4b9dbb3fa3f08fd55746",
       "namespace": "1c0e80ffead94d1f911254d457ebb48b",
       "name": "Keylocker | Turn Based Cyberpunk Action",
@@ -2139,6 +2159,16 @@
       "final_cents": 1199,
       "orig_price_str": "19,99 €",
       "final_price_str": "11,99 €"
+    },
+    {
+      "appid": "5f5c2202b2d34721a6d236c85fc515f2",
+      "namespace": "4774311bd2724f6cba218090760f52e6",
+      "name": "Arcadia Fallen",
+      "discount": 40,
+      "orig_cents": 2239,
+      "final_cents": 1343,
+      "orig_price_str": "22,39 €",
+      "final_price_str": "13,43 €"
     },
     {
       "appid": "c248fcb3aea741fd81c25cc26412f63d",
@@ -2661,6 +2691,16 @@
       "final_price_str": "10,79 €"
     },
     {
+      "appid": "68414c8c504a43fa944e697a3a87575b",
+      "namespace": "c75d66f9ac744b4380a63fb1e6dd60ac",
+      "name": "Arcadia Fallen II",
+      "discount": 20,
+      "orig_cents": 2699,
+      "final_cents": 2159,
+      "orig_price_str": "26,99 €",
+      "final_price_str": "21,59 €"
+    },
+    {
       "appid": "48bc3d84929c45d8a60de66e1c08cee9",
       "namespace": "bc5fa4838ef74a9ba5d0f270c3c863fb",
       "name": "Dead Pets: A Punk Rock Slice of Life Sim",
@@ -2749,17 +2789,7 @@
       "final_cents": 5399,
       "orig_price_str": "59,99 €",
       "final_price_str": "53,99 €"
-    },
-    {
-      "appid": "550d878dec4c44feb8e260d58228caf5",
-      "namespace": "8725f612ae4a46cea29df47ef6cdfdbf",
-      "name": "Stay Reserved, Beauty",
-      "discount": 10,
-      "orig_cents": 1169,
-      "final_cents": 1052,
-      "orig_price_str": "11,69 €",
-      "final_price_str": "10,52 €"
     }
   ],
-  "total": 276
+  "total": 279
 }
