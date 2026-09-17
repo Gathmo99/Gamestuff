@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "appid": "C4BZ7X545J1T",
+      "name": "Worms W.M.D",
+      "discount": 90,
+      "orig_cents": 2999,
+      "final_cents": 299,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "2,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NSLQMF111VP",
+      "name": "Golf With Your Friends - Starter Edition",
+      "discount": 90,
+      "orig_cents": 2699,
+      "final_cents": 269,
+      "orig_price_str": "26,99 €",
+      "final_price_str": "2,69 €",
+      "gamepass": ""
+    },
+    {
       "appid": "C4H36B87SVL1",
       "name": "Batman: Arkham Collection",
       "discount": 85,
@@ -8,6 +28,26 @@
       "final_cents": 899,
       "orig_price_str": "59,99 €",
       "final_price_str": "8,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "C5FN9WF5Z4LH",
+      "name": "Space Invaders: IG",
+      "discount": 85,
+      "orig_cents": 949,
+      "final_cents": 142,
+      "orig_price_str": "9,49 €",
+      "final_price_str": "1,42 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "BQ2NNLQPS8RS",
+      "name": "A Plague Tale: Innocence",
+      "discount": 80,
+      "orig_cents": 3999,
+      "final_cents": 799,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "7,99 €",
       "gamepass": ""
     },
     {
@@ -41,6 +81,36 @@
       "gamepass": ""
     },
     {
+      "appid": "9P5QVB59FXRR",
+      "name": "Call of Duty®: Black Ops III - Zombies Chronicles Edition (Windows)",
+      "discount": 75,
+      "orig_cents": 5999,
+      "final_cents": 1499,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "14,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NQNDD3H7N6Z",
+      "name": "FINAL FANTASY VII REMAKE INTERGRADE Digital Deluxe Edition",
+      "discount": 75,
+      "orig_cents": 6999,
+      "final_cents": 1749,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "17,49 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9N8117TM8JL3",
+      "name": "Diablo® IV - Standard Edition",
+      "discount": 75,
+      "orig_cents": 5999,
+      "final_cents": 1499,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "14,99 €",
+      "gamepass": "Xbox"
+    },
+    {
       "appid": "9PNN223H8MLZ",
       "name": "FINAL FANTASY XVI",
       "discount": 60,
@@ -48,6 +118,16 @@
       "final_cents": 2399,
       "orig_price_str": "59,99 €",
       "final_price_str": "23,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9N8MPZL62QKB",
+      "name": "PGA TOUR 2K25 Pro Edition",
+      "discount": 55,
+      "orig_cents": 5999,
+      "final_cents": 2699,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "26,99 €",
       "gamepass": ""
     },
     {
@@ -71,6 +151,96 @@
       "gamepass": ""
     },
     {
+      "appid": "BVMGCSX6XPC9",
+      "name": "Call of Duty®: Black Ops",
+      "discount": 50,
+      "orig_cents": 3999,
+      "final_cents": 1999,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "19,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NKC1Z4Z92VN",
+      "name": "Grand Theft Auto Online",
+      "discount": 50,
+      "orig_cents": 1999,
+      "final_cents": 999,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "9,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9N8KMNW6942X",
+      "name": "Call of Duty®: Black Ops 7 - Cross-Gen-Bundle",
+      "discount": 50,
+      "orig_cents": 7999,
+      "final_cents": 3999,
+      "orig_price_str": "79,99 €",
+      "final_price_str": "39,99 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "C4P9QWXCHKNJ",
+      "name": "Call of Duty®: World at War",
+      "discount": 50,
+      "orig_cents": 2999,
+      "final_cents": 1499,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "14,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "C2NNGCPR2XP8",
+      "name": "Call of Duty®: Modern Warfare® 2",
+      "discount": 50,
+      "orig_cents": 2999,
+      "final_cents": 1499,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "14,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "BXZLCHZT8NDF",
+      "name": "Call of Duty®: Modern Warfare® 3",
+      "discount": 50,
+      "orig_cents": 2999,
+      "final_cents": 1499,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "14,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NMFWR0NRLZS",
+      "name": "Resident Evil Requiem",
+      "discount": 35,
+      "orig_cents": 7999,
+      "final_cents": 5199,
+      "orig_price_str": "79,99 €",
+      "final_price_str": "51,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9MWLQQK52CPP",
+      "name": "The Exit 8",
+      "discount": 30,
+      "orig_cents": 399,
+      "final_cents": 279,
+      "orig_price_str": "3,99 €",
+      "final_price_str": "2,79 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NMT6XFN0LVD",
+      "name": "Monster Hunter Wilds",
+      "discount": 25,
+      "orig_cents": 3999,
+      "final_cents": 2999,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "29,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9PKS8XZC74X5",
       "name": "Hell Let Loose: Vietnam",
       "discount": 10,
@@ -81,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 1169
+  "total": 1050
 }

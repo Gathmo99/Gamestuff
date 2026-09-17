@@ -487,7 +487,7 @@
       "final_price_str": "1,99 €"
     },
     {
-      "appid": "EP4008-CUSA23640_00-RIMS000000000000",
+      "appid": "EP4008-PPSA02715_00-RIMSSIEE00000000",
       "name": "RiMS Racing",
       "discount": 80,
       "orig_cents": 2999,
@@ -496,7 +496,7 @@
       "final_price_str": "5,99 €"
     },
     {
-      "appid": "EP4008-PPSA02715_00-RIMSSIEE00000000",
+      "appid": "EP4008-CUSA23640_00-RIMS000000000000",
       "name": "RiMS Racing",
       "discount": 80,
       "orig_cents": 2999,

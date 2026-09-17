@@ -1,16 +1,16 @@
 {
   "items": [
     {
-      "appid": "c76046dddcdb43619c33ce0395941033",
-      "name": "Luftrausers",
-      "orig_cents": 899,
-      "orig_price_str": "8,99 €"
+      "appid": "8a20c6c8d5b5417e800c687e9d72013e",
+      "name": "Mindcop",
+      "orig_cents": 1499,
+      "orig_price_str": "14,99 €"
     },
     {
-      "appid": "e9bb092228f544c582e2c9395fae96f3",
-      "name": "Astral Ascent",
-      "orig_cents": 2450,
-      "orig_price_str": "24,50 €"
+      "appid": "b9ff3f98367a45cdac289dff6683a2bc",
+      "name": "Shogun Showdown",
+      "orig_cents": 1349,
+      "orig_price_str": "13,49 €"
     }
   ]
 }
