@@ -703,7 +703,7 @@
     {
       "appid": "c071ea77ba2f4983b4515eae0f4216b6",
       "namespace": "cf87285950ba492bbdc370b9d265ea36",
-      "name": "FAR CRY 4",
+      "name": "FARCRY 4",
       "discount": 80,
       "orig_cents": 2999,
       "final_cents": 599,
@@ -914,6 +914,16 @@
       "appid": "dc763559d59d401381b21724e6945db2",
       "namespace": "1093790870b043cdbae03d91d76d9ae6",
       "name": "Tom Clancy's Rainbow Six Extraction",
+      "discount": 75,
+      "orig_cents": 3999,
+      "final_cents": 999,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "9,99 €"
+    },
+    {
+      "appid": "d0f6b4b32c2349918f1e38a6a13e3cd4",
+      "namespace": "6f43ab8025ad42d18510aa91e9eb688b",
+      "name": "FINAL FANTASY VII REMAKE INTERGRADE",
       "discount": 75,
       "orig_cents": 3999,
       "final_cents": 999,
@@ -1151,6 +1161,16 @@
       "final_price_str": "2,49 €"
     },
     {
+      "appid": "55140cb3539c42518819d200828dd416",
+      "namespace": "e9a679451d094c1ba3d008b6a01adec5",
+      "name": "FINAL FANTASY VII REBIRTH",
+      "discount": 70,
+      "orig_cents": 4999,
+      "final_cents": 1499,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "14,99 €"
+    },
+    {
       "appid": "b9179b4d1ad84012a1d3f6f41adaa139",
       "namespace": "5099c5ef163b4932b95e70f7298b07d5",
       "name": "Eiyuden Chronicle: Hundred Heroes",
@@ -1231,6 +1251,16 @@
       "final_price_str": "2,99 €"
     },
     {
+      "appid": "cd8a6077d45d4a439b7ee170e80f1e69",
+      "namespace": "a472b0f2f2a5493d960a941f01cf3393",
+      "name": "Forspoken",
+      "discount": 70,
+      "orig_cents": 7999,
+      "final_cents": 2399,
+      "orig_price_str": "79,99 €",
+      "final_price_str": "23,99 €"
+    },
+    {
       "appid": "2110e7d568594d2a96c19f87baf1f9ca",
       "namespace": "fc3ec7982b584a4291d7943204ea424b",
       "name": "Assassin's Creed Chronicles: India",
@@ -1269,6 +1299,56 @@
       "final_cents": 749,
       "orig_price_str": "24,99 €",
       "final_price_str": "7,49 €"
+    },
+    {
+      "appid": "e80dfd8e2cb64960991d0849f9a836e0",
+      "namespace": "9c8ca95368b84b6fb5f2192e7f7484a3",
+      "name": "NEO: The World Ends with You",
+      "discount": 70,
+      "orig_cents": 5999,
+      "final_cents": 1799,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "17,99 €"
+    },
+    {
+      "appid": "b1f40ae872c44df582ee1374b9f8311d",
+      "namespace": "c8ff067c1c984cd7ab1998e8a9afc8b6",
+      "name": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue",
+      "discount": 70,
+      "orig_cents": 5999,
+      "final_cents": 1799,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "17,99 €"
+    },
+    {
+      "appid": "6904d1bb60dc41b19b56f459bb57ebf9",
+      "namespace": "4158b699dd70447a981fee752d970a3e",
+      "name": "KINGDOM HEARTS HD 1.5 + 2.5 ReMIX",
+      "discount": 70,
+      "orig_cents": 4999,
+      "final_cents": 1499,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "14,99 €"
+    },
+    {
+      "appid": "9636eeea8fb3441eb0272f54551d5aef",
+      "namespace": "0712176b5e3e49bfa8866c0ee1359f2d",
+      "name": "KINGDOM HEARTS III + Re Mind (DLC)",
+      "discount": 70,
+      "orig_cents": 5999,
+      "final_cents": 1799,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "17,99 €"
+    },
+    {
+      "appid": "f51ebf66eb42420bba6cdd7d87cf56af",
+      "namespace": "1c4745021d4243a783b459d928b9088f",
+      "name": "OCTOPATH TRAVELER™",
+      "discount": 70,
+      "orig_cents": 5399,
+      "final_cents": 1619,
+      "orig_price_str": "53,99 €",
+      "final_price_str": "16,19 €"
     },
     {
       "appid": "d7346eea46ef4d109b459ef71ddc09e9",
@@ -1411,6 +1491,16 @@
       "final_price_str": "11,99 €"
     },
     {
+      "appid": "14ebe37d1a34437ea29162bd8684cb97",
+      "namespace": "845587cb91e54ce6b682d4c9975c8b07",
+      "name": "FINAL FANTASY XVI",
+      "discount": 60,
+      "orig_cents": 4999,
+      "final_cents": 1999,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "19,99 €"
+    },
+    {
       "appid": "9e65261d0cf74170b704c8b70ca59fc3",
       "namespace": "64c04bc14ae04334bc9d6dcadbadaab2",
       "name": "Vagneria",
@@ -1501,6 +1591,16 @@
       "final_price_str": "7,99 €"
     },
     {
+      "appid": "8ca783f3939e453ca456550ab72fc6c1",
+      "namespace": "d2b282a6b53e409a8f8329d3d3356f21",
+      "name": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+      "discount": 60,
+      "orig_cents": 3999,
+      "final_cents": 1599,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "15,99 €"
+    },
+    {
       "appid": "101627971acc4962b8353df58ff0da2f",
       "namespace": "e5e398f1f7ca42aaa6cb7b6c7b4d1029",
       "name": "Discovery Tour: Viking Age",
@@ -1519,6 +1619,16 @@
       "final_cents": 599,
       "orig_price_str": "14,99 €",
       "final_price_str": "5,99 €"
+    },
+    {
+      "appid": "d294725796114096a9d1da9914bb1a1f",
+      "namespace": "3671db367c594e2ab5020105dc52dc65",
+      "name": "KINGDOM HEARTS Melody of Memory",
+      "discount": 60,
+      "orig_cents": 5999,
+      "final_cents": 2399,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "23,99 €"
     },
     {
       "appid": "0067751df1d944fdbde06a883fc4a0e8",
@@ -1829,6 +1939,16 @@
       "final_cents": 499,
       "orig_price_str": "9,99 €",
       "final_price_str": "4,99 €"
+    },
+    {
+      "appid": "10423f6206ae42d9acb0f02ac1c45d8d",
+      "namespace": "94a50905f377470c84c8e4b7c38f9cdd",
+      "name": "DRAGON QUEST® XI S: Streiter des Schicksals",
+      "discount": 50,
+      "orig_cents": 3999,
+      "final_cents": 1999,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "19,99 €"
     },
     {
       "appid": "46b393b6aed04d7e962a33f2d752a3bd",
@@ -2151,6 +2271,16 @@
       "final_price_str": "38,99 €"
     },
     {
+      "appid": "40980262fdb24c149094f3febfe84cb6",
+      "namespace": "f14e8d865ad04b93a5df850ce7a59fe2",
+      "name": "Trash Goblin",
+      "discount": 33,
+      "orig_cents": 1799,
+      "final_cents": 1205,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "12,05 €"
+    },
+    {
       "appid": "76cd108ce4354545bd825e181262dbad",
       "namespace": "1311a5735ed844c0b3c47027cab321f0",
       "name": "Doki Doki Literature Club Plus!",
@@ -2411,6 +2541,16 @@
       "final_price_str": "16,99 €"
     },
     {
+      "appid": "bc3968eae7e94b0587c7f8e70fea1c8f",
+      "namespace": "b8ed92712b144348ab90d37be4af748d",
+      "name": "Nightwater",
+      "discount": 10,
+      "orig_cents": 1349,
+      "final_cents": 1214,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "12,14 €"
+    },
+    {
       "appid": "f14c917704054b49bcbceef3eb532569",
       "namespace": "c904c831dfef44bc99f6d1e1a405475e",
       "name": "PATLABOR the Case Files",
@@ -2441,5 +2581,5 @@
       "final_price_str": "53,99 €"
     }
   ],
-  "total": 244
+  "total": 258
 }
