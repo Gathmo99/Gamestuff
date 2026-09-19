@@ -41,16 +41,6 @@
       "final_price_str": "0,76 €"
     },
     {
-      "appid": "01788ca3ba2c43958b5d70939df5aa97",
-      "namespace": "a1999b7ecf184f63b4dceba2bbdc4b2c",
-      "name": "Countrytale 2010",
-      "discount": 95,
-      "orig_cents": 1799,
-      "final_cents": 89,
-      "orig_price_str": "17,99 €",
-      "final_price_str": "0,89 €"
-    },
-    {
       "appid": "06842fae9b074c3ca5c15013558806b0",
       "namespace": "7a91bdd7c9ea41e6b5605baeb399c2ec",
       "name": "Hell Division",
@@ -2011,16 +2001,6 @@
       "final_price_str": "10,79 €"
     },
     {
-      "appid": "f72ac926b4a64d729d565377fe75e512",
-      "namespace": "b0ef08873d724978be4720ed7940c0ac",
-      "name": "Ginger Puzzle",
-      "discount": 40,
-      "orig_cents": 179,
-      "final_cents": 107,
-      "orig_price_str": "1,79 €",
-      "final_price_str": "1,07 €"
-    },
-    {
       "appid": "ecb21734ed294d8fba5cfe60271f9b7f",
       "namespace": "45cdd171a32c47298f160d525aaa13e9",
       "name": "Rayman: 30th Anniversary Edition",
@@ -2581,5 +2561,5 @@
       "final_price_str": "53,99 €"
     }
   ],
-  "total": 258
+  "total": 256
 }
