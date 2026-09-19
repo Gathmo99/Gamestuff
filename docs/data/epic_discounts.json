@@ -2271,6 +2271,16 @@
       "final_price_str": "8,36 €"
     },
     {
+      "appid": "88fa1585189a4c5c9af3458ecb91fcd3",
+      "namespace": "9f0021e242b1425f9fb44b31fcf980af",
+      "name": "Football Academy Manager",
+      "discount": 30,
+      "orig_cents": 1349,
+      "final_cents": 944,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "9,44 €"
+    },
+    {
       "appid": "ca8db7b754c3476280771bd79bab3fb1",
       "namespace": "bfa122e719064178bf2654f21705d8f4",
       "name": "FZ: Formation Z",
@@ -2349,16 +2359,6 @@
       "final_cents": 876,
       "orig_price_str": "11,69 €",
       "final_price_str": "8,76 €"
-    },
-    {
-      "appid": "84e5f35d9cdf4d0a99df152984130fa3",
-      "namespace": "90abbb77fe434ec39e3a4b8c1b3d2eec",
-      "name": "The Last Citadel",
-      "discount": 25,
-      "orig_cents": 1349,
-      "final_cents": 1011,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "10,11 €"
     },
     {
       "appid": "66d272114a674327a410b99325b6bdd7",
