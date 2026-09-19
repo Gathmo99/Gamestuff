@@ -2551,6 +2551,16 @@
       "final_price_str": "9,71 €"
     },
     {
+      "appid": "8470d00e743f46938ddbbea113212ec7",
+      "namespace": "299450630eac42c8af464edb3cd6041e",
+      "name": "Puppergeist",
+      "discount": 10,
+      "orig_cents": 449,
+      "final_cents": 404,
+      "orig_price_str": "4,49 €",
+      "final_price_str": "4,04 €"
+    },
+    {
       "appid": "e548e8ea76754cd3925765e35d0a5eb9",
       "namespace": "f70e5faa37d24a97b79f24cfd9bcb6fc",
       "name": "Assassin's Creed Black Flag Resynced",
@@ -2561,5 +2571,5 @@
       "final_price_str": "53,99 €"
     }
   ],
-  "total": 256
+  "total": 257
 }
