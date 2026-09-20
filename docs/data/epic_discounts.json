@@ -111,16 +111,6 @@
       "final_price_str": "1,79 €"
     },
     {
-      "appid": "f189fa585937439d93f2dcc9775c8617",
-      "namespace": "f9bc208b965c4fb7afd0c842d764fc37",
-      "name": "Sherlock Holmes The Awakened",
-      "discount": 90,
-      "orig_cents": 3999,
-      "final_cents": 399,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "3,99 €"
-    },
-    {
       "appid": "dd98ea5250204ae2b03b3befbdcbb561",
       "namespace": "9d56883e7b1a45bca132db9427cf4a22",
       "name": "Arctico",
@@ -141,16 +131,6 @@
       "final_price_str": "5,99 €"
     },
     {
-      "appid": "06722250068b4161a0ec25e86be99061",
-      "namespace": "699c2dc3694c4156befa26cad5c65505",
-      "name": "Sherlock Holmes Chapter One",
-      "discount": 90,
-      "orig_cents": 4499,
-      "final_cents": 449,
-      "orig_price_str": "44,99 €",
-      "final_price_str": "4,49 €"
-    },
-    {
       "appid": "34cc0c5f0b874ac4b03cbe59fe3f87d0",
       "namespace": "83d6990f16444655866b04be562bf589",
       "name": "Riders Republic",
@@ -161,16 +141,6 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "dfae164155c84664b9040dd802bb2669",
-      "namespace": "cinnamon",
-      "name": "Sherlock Holmes: The Devil’s Daughter",
-      "discount": 90,
-      "orig_cents": 2999,
-      "final_cents": 299,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "2,99 €"
-    },
-    {
       "appid": "e42093ff3c434f618b8f2c50039eaece",
       "namespace": "4b35838425c74992ad42e1276b2161ca",
       "name": "Immortals Fenyx Rising Standard-Edition",
@@ -179,16 +149,6 @@
       "final_cents": 399,
       "orig_price_str": "39,99 €",
       "final_price_str": "3,99 €"
-    },
-    {
-      "appid": "afadb715390a4593acdca79dae94b60a",
-      "namespace": "23f3da2016b94461a7bd7e2eb46aa0f9",
-      "name": "Sherlock Holmes: Crimes and Punishments",
-      "discount": 90,
-      "orig_cents": 2999,
-      "final_cents": 299,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "2,99 €"
     },
     {
       "appid": "88be15452fea4ebf9e211deb291e8189",
@@ -229,16 +189,6 @@
       "final_cents": 202,
       "orig_price_str": "13,49 €",
       "final_price_str": "2,02 €"
-    },
-    {
-      "appid": "47253abbbc8f4b3b9cb0f4da4d2e547d",
-      "namespace": "middlemist",
-      "name": "The Sinking City",
-      "discount": 85,
-      "orig_cents": 3999,
-      "final_cents": 599,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "5,99 €"
     },
     {
       "appid": "ad6747beddc7415f8f9210c5d62a69ee",
@@ -2491,5 +2441,5 @@
       "final_price_str": "53,99 €"
     }
   ],
-  "total": 249
+  "total": 244
 }
