@@ -1641,6 +1641,66 @@
       "final_price_str": "0,44 €"
     },
     {
+      "appid": "50fc0bf4ed91420d8a3286ce9becb8c7",
+      "namespace": "363d0b06fb134d5b8c2794f488a694b8",
+      "name": "Bulletrooms",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "3a8c63f9271f4f07a186ee4f51896978",
+      "namespace": "42671f8f7f0d4810b1e4674f881824b5",
+      "name": "One Night With Kawaii",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "489755d403ba4e8b9298bdfa96f1b125",
+      "namespace": "a4c3c3f2087744a8b43ba268837bd6f2",
+      "name": "Exit: Left or Right",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "0e3cd2f9537a40f5b61e5281a51d9534",
+      "namespace": "9d986837984c476195398f37ba7446dd",
+      "name": "Birch Simulator",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "cdfa36e1f51443f28307415eb5b3379f",
+      "namespace": "3582d65783144a76a49256c3ac01444d",
+      "name": "Car Mechanic - City Driving",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "b094d09fcb024a97be5db4c1972527dc",
+      "namespace": "ee30a29b65554c92a720ad1c8d3e4b18",
+      "name": "Nextbots In The Backrooms",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
       "appid": "26769ccdaf9a4ce1a97d91f16c0cb5bf",
       "namespace": "dae3b680039e4315aeca28d59c081758",
       "name": "DEADWAVE",
@@ -2441,5 +2501,5 @@
       "final_price_str": "53,99 €"
     }
   ],
-  "total": 244
+  "total": 250
 }
