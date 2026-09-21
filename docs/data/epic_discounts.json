@@ -1051,16 +1051,6 @@
       "final_price_str": "8,99 €"
     },
     {
-      "appid": "8b5c0571766f483fb9b802a8b597a432",
-      "namespace": "e7e4e7b976e44a93885278cfd11e9d3a",
-      "name": "Cynosure",
-      "discount": 70,
-      "orig_cents": 1181,
-      "final_cents": 354,
-      "orig_price_str": "11,81 €",
-      "final_price_str": "3,54 €"
-    },
-    {
       "appid": "94c1d94dcfbd493eb0fa8b65072e9c03",
       "namespace": "9bcf5a4dc1d54cb6ab1a42f3a70c5cf4",
       "name": "Assassin's Creed® Mirage",
@@ -2381,16 +2371,6 @@
       "final_price_str": "7,19 €"
     },
     {
-      "appid": "e4253f47bcb64fd0a2dada5036e63f48",
-      "namespace": "22944fe6683d417cb87b6d1fba4fbb91",
-      "name": "Better Mart Simulator",
-      "discount": 20,
-      "orig_cents": 1349,
-      "final_cents": 1079,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "10,79 €"
-    },
-    {
       "appid": "68414c8c504a43fa944e697a3a87575b",
       "namespace": "c75d66f9ac744b4380a63fb1e6dd60ac",
       "name": "Arcadia Fallen II",
@@ -2501,5 +2481,5 @@
       "final_price_str": "53,99 €"
     }
   ],
-  "total": 250
+  "total": 248
 }
