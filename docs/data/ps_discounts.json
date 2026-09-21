@@ -10,7 +10,7 @@
       "final_price_str": "1,99 €"
     },
     {
-      "appid": "EP5470-CUSA34220_00-1974871844301027",
+      "appid": "EP5470-PPSA04155_00-7447536313832063",
       "name": "XEL",
       "discount": 90,
       "orig_cents": 1899,
@@ -19,7 +19,7 @@
       "final_price_str": "1,89 €"
     },
     {
-      "appid": "EP5470-PPSA04155_00-7447536313832063",
+      "appid": "EP5470-CUSA34220_00-1974871844301027",
       "name": "XEL",
       "discount": 90,
       "orig_cents": 1899,
@@ -1297,7 +1297,7 @@
       "final_price_str": "10,19 €"
     },
     {
-      "appid": "EP6665-CUSA34660_00-BB300DELUXE00003",
+      "appid": "EP6665-PPSA08555_00-BB300DELUXE00003",
       "name": "Blood Bowl 3 - Brutal Edition",
       "discount": 65,
       "orig_cents": 5999,
@@ -1306,7 +1306,7 @@
       "final_price_str": "20,99 €"
     },
     {
-      "appid": "EP6665-PPSA08555_00-BB300DELUXE00003",
+      "appid": "EP6665-CUSA34660_00-BB300DELUXE00003",
       "name": "Blood Bowl 3 - Brutal Edition",
       "discount": 65,
       "orig_cents": 5999,
