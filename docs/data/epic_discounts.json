@@ -2251,6 +2251,16 @@
       "final_price_str": "9,44 €"
     },
     {
+      "appid": "f57e92bad03c40dcb49b14c0eb3d3ad3",
+      "namespace": "f01e94386f3141d583b60da78e1bdd61",
+      "name": "Copa City: Matchday Manager",
+      "discount": 30,
+      "orig_cents": 2499,
+      "final_cents": 1749,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "17,49 €"
+    },
+    {
       "appid": "d9b8129ff16342d7aecf40b4c069878b",
       "namespace": "1c777f998b15401c9d531165af4c9396",
       "name": "Brew",
@@ -2521,5 +2531,5 @@
       "final_price_str": "53,99 €"
     }
   ],
-  "total": 253
+  "total": 254
 }
