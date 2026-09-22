@@ -1391,16 +1391,6 @@
       "final_price_str": "1,99 €"
     },
     {
-      "appid": "4fb95c3f11754061b2b1a94e60d848bd",
-      "namespace": "2df8b055a5674c8e9211fc51f8efd210",
-      "name": "Arranger: A Role-Puzzling Adventure",
-      "discount": 60,
-      "orig_cents": 1799,
-      "final_cents": 719,
-      "orig_price_str": "17,99 €",
-      "final_price_str": "7,19 €"
-    },
-    {
       "appid": "a30a6eb80b1142c78760d6b2f569e616",
       "namespace": "1f631325713047fc8ec24312c5516155",
       "name": "1001 Jigsaw. Cute Cats 2",
@@ -1534,6 +1524,16 @@
       "appid": "a0a4e6460d4548b38f100b31764dcacf",
       "namespace": "46abcd0cbb8d49929e8cadd50d666547",
       "name": "Commando:  Hell's Target 3D",
+      "discount": 55,
+      "orig_cents": 89,
+      "final_cents": 40,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,40 €"
+    },
+    {
+      "appid": "5b65fe1a95c7491f990621f0006b8d38",
+      "namespace": "e06eaabb7e9c47fe87c7f75d27fddedf",
+      "name": "Red Mission",
       "discount": 55,
       "orig_cents": 89,
       "final_cents": 40,
