@@ -131,16 +131,6 @@
       "final_price_str": "1,79 €"
     },
     {
-      "appid": "3ceadb8101fb4950a9de85b31ed12f29",
-      "namespace": "188fb42582e24d20b0a876ed817efd69",
-      "name": "SOULVARS",
-      "discount": 90,
-      "orig_cents": 1799,
-      "final_cents": 179,
-      "orig_price_str": "17,99 €",
-      "final_price_str": "1,79 €"
-    },
-    {
       "appid": "dd98ea5250204ae2b03b3befbdcbb561",
       "namespace": "9d56883e7b1a45bca132db9427cf4a22",
       "name": "Arctico",
@@ -1361,16 +1351,6 @@
       "final_price_str": "5,59 €"
     },
     {
-      "appid": "5b7d816812324d75aa8deb41feeac077",
-      "namespace": "dedff70705ce436cb1c19a59312822db",
-      "name": "HEAVEN SEEKER ――The Savior of This Cruel World",
-      "discount": 60,
-      "orig_cents": 1799,
-      "final_cents": 719,
-      "orig_price_str": "17,99 €",
-      "final_price_str": "7,19 €"
-    },
-    {
       "appid": "6c304c4e3d174813b7a2b0ce7e417cf9",
       "namespace": "14a28903e3d14bd5aa3e6dbf10868126",
       "name": "Assassin’s Creed Shadows",
@@ -1779,16 +1759,6 @@
       "final_cents": 2499,
       "orig_price_str": "49,99 €",
       "final_price_str": "24,99 €"
-    },
-    {
-      "appid": "a60c9ba8b83447ce997a380b5920c5e5",
-      "namespace": "1bbeed72097247c6b799d3bfbee36c82",
-      "name": "UNYIELDER",
-      "discount": 50,
-      "orig_cents": 2239,
-      "final_cents": 1119,
-      "orig_price_str": "22,39 €",
-      "final_price_str": "11,19 €"
     },
     {
       "appid": "2f5e315a02564ffd9c6c496c2301615d",
@@ -2541,5 +2511,5 @@
       "final_price_str": "53,99 €"
     }
   ],
-  "total": 255
+  "total": 252
 }

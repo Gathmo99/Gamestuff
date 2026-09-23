@@ -41,6 +41,16 @@
       "gamepass": ""
     },
     {
+      "appid": "BQW8J8XM62JW",
+      "name": "RESIDENT EVIL CODE: Veronica X",
+      "discount": 85,
+      "orig_cents": 1999,
+      "final_cents": 299,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "2,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "BQ2NNLQPS8RS",
       "name": "A Plague Tale: Innocence",
       "discount": 80,
@@ -131,6 +141,16 @@
       "gamepass": ""
     },
     {
+      "appid": "C27H5T4HD4WW",
+      "name": "Assetto Corsa",
+      "discount": 75,
+      "orig_cents": 2999,
+      "final_cents": 749,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "7,49 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9PNN223H8MLZ",
       "name": "FINAL FANTASY XVI",
       "discount": 60,
@@ -138,6 +158,16 @@
       "final_cents": 2399,
       "orig_price_str": "59,99 €",
       "final_price_str": "23,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NHDF1Q6HGMH",
+      "name": "KINGDOM HEARTS - HD 1.5+2.5 ReMIX -",
+      "discount": 60,
+      "orig_cents": 4999,
+      "final_cents": 1999,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "19,99 €",
       "gamepass": ""
     },
     {
@@ -171,6 +201,26 @@
       "gamepass": ""
     },
     {
+      "appid": "9NKC1Z4Z92VN",
+      "name": "Grand Theft Auto Online",
+      "discount": 50,
+      "orig_cents": 1999,
+      "final_cents": 999,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "9,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9N3L5FF8M6SW",
+      "name": "Red Dead Online",
+      "discount": 50,
+      "orig_cents": 1999,
+      "final_cents": 999,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "9,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9NMFWR0NRLZS",
       "name": "Resident Evil Requiem",
       "discount": 35,
@@ -201,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 1056
+  "total": 982
 }
