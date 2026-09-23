@@ -291,6 +291,16 @@
       "final_price_str": "2,39 €"
     },
     {
+      "appid": "2aa893533da449c7b146c72880a414b3",
+      "namespace": "ace4435645d9489cacfbb422b7c1c817",
+      "name": "SAMURAI SHODOWN",
+      "discount": 85,
+      "orig_cents": 4999,
+      "final_cents": 749,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "7,49 €"
+    },
+    {
       "appid": "b14d60867fc34e6687e20f1cb98d6d74",
       "namespace": "cbbb7e8728a3476f97e44f3856c3cb13",
       "name": "Anno 2205 – Standard Edition",
@@ -1411,16 +1421,6 @@
       "final_price_str": "1,79 €"
     },
     {
-      "appid": "3a45040e46604d3ba63a8f89ffb33e12",
-      "namespace": "9fb0adc767184d57ae4d6f4dc47235ba",
-      "name": "Unholy Village",
-      "discount": 60,
-      "orig_cents": 499,
-      "final_cents": 199,
-      "orig_price_str": "4,99 €",
-      "final_price_str": "1,99 €"
-    },
-    {
       "appid": "12bc396a4c904ebc9db002bcee13832a",
       "namespace": "0246b51e02da40329ad6d20f5c8dc631",
       "name": "Brothers: A Tale of Two Sons Remake",
@@ -2201,14 +2201,14 @@
       "final_price_str": "0,53 €"
     },
     {
-      "appid": "dcb817440a9a4253867f591fa143d511",
-      "namespace": "dae7e3d714b741379ff7c0e0d16c794e",
-      "name": "Shujinkou",
-      "discount": 35,
-      "orig_cents": 5399,
-      "final_cents": 3509,
-      "orig_price_str": "53,99 €",
-      "final_price_str": "35,09 €"
+      "appid": "63bab12c3bb14ddb9a22772af3b13763",
+      "namespace": "8c8e5cf1a9ed4b039329c8530720b82c",
+      "name": "Baito Fight!!: Part-time Devil Hunter",
+      "discount": 38,
+      "orig_cents": 719,
+      "final_cents": 445,
+      "orig_price_str": "7,19 €",
+      "final_price_str": "4,45 €"
     },
     {
       "appid": "444bdda719ca4f0788ae900ec468fc8b",

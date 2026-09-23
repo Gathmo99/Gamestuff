@@ -10,7 +10,7 @@
       "final_price_str": "1,99 €"
     },
     {
-      "appid": "EP5470-CUSA34220_00-1974871844301027",
+      "appid": "EP5470-PPSA04155_00-7447536313832063",
       "name": "XEL",
       "discount": 90,
       "orig_cents": 1899,
@@ -19,7 +19,7 @@
       "final_price_str": "1,89 €"
     },
     {
-      "appid": "EP5470-PPSA04155_00-7447536313832063",
+      "appid": "EP5470-CUSA34220_00-1974871844301027",
       "name": "XEL",
       "discount": 90,
       "orig_cents": 1899,
@@ -1342,7 +1342,7 @@
       "final_price_str": "12,59 €"
     },
     {
-      "appid": "EP3785-CUSA29337_00-OMD3BUNDLE000001",
+      "appid": "EP3785-CUSA27976_00-OMD3BUNDLE000001",
       "name": "Orcs Must Die! 3-Bundle",
       "discount": 65,
       "orig_cents": 3599,
@@ -1351,7 +1351,7 @@
       "final_price_str": "12,59 €"
     },
     {
-      "appid": "EP3785-CUSA27976_00-OMD3BUNDLE000001",
+      "appid": "EP3785-CUSA29337_00-OMD3BUNDLE000001",
       "name": "Orcs Must Die! 3-Bundle",
       "discount": 65,
       "orig_cents": 3599,
@@ -1909,7 +1909,7 @@
       "final_price_str": "19,99 €"
     },
     {
-      "appid": "EP4060-CUSA32315_00-DELUXEEDITION000",
+      "appid": "EP4060-PPSA06565_00-DELUXEEDITION000",
       "name": "Dusk Diver 2 Digital Deluxe Edition",
       "discount": 50,
       "orig_cents": 5999,
@@ -1918,7 +1918,7 @@
       "final_price_str": "29,99 €"
     },
     {
-      "appid": "EP4060-PPSA06565_00-DELUXEEDITION000",
+      "appid": "EP4060-CUSA32315_00-DELUXEEDITION000",
       "name": "Dusk Diver 2 Digital Deluxe Edition",
       "discount": 50,
       "orig_cents": 5999,

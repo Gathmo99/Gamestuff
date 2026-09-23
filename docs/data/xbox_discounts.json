@@ -81,16 +81,6 @@
       "gamepass": "PC + Xbox"
     },
     {
-      "appid": "C492DG1TQQ09",
-      "name": "Call of Duty®: Black Ops III - Zombies Chronicles Edition",
-      "discount": 75,
-      "orig_cents": 6999,
-      "final_cents": 1749,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "17,49 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9N7JCPPCPN37",
       "name": "Resident Evil 4",
       "discount": 75,
@@ -119,16 +109,6 @@
       "orig_price_str": "19,99 €",
       "final_price_str": "4,99 €",
       "gamepass": ""
-    },
-    {
-      "appid": "9N8117TM8JL3",
-      "name": "Diablo® IV - Standard Edition",
-      "discount": 75,
-      "orig_cents": 5999,
-      "final_cents": 1499,
-      "orig_price_str": "59,99 €",
-      "final_price_str": "14,99 €",
-      "gamepass": "Xbox"
     },
     {
       "appid": "BXCVNFBPZHXQ",
@@ -161,16 +141,6 @@
       "gamepass": ""
     },
     {
-      "appid": "C1QJM5XT9SXV",
-      "name": "Call of Duty®: Black Ops II",
-      "discount": 50,
-      "orig_cents": 3999,
-      "final_cents": 1999,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "19,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9NCQG87CH81N",
       "name": "Borderlands®4 Super Deluxe Edition",
       "discount": 50,
@@ -188,26 +158,6 @@
       "final_cents": 2999,
       "orig_price_str": "59,99 €",
       "final_price_str": "29,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9N8KMNW6942X",
-      "name": "Call of Duty®: Black Ops 7 - Cross-Gen-Bundle",
-      "discount": 50,
-      "orig_cents": 7999,
-      "final_cents": 3999,
-      "orig_price_str": "79,99 €",
-      "final_price_str": "39,99 €",
-      "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "BVMGCSX6XPC9",
-      "name": "Call of Duty®: Black Ops",
-      "discount": 50,
-      "orig_cents": 3999,
-      "final_cents": 1999,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "19,99 €",
       "gamepass": ""
     },
     {
@@ -251,5 +201,5 @@
       "gamepass": ""
     }
   ],
-  "total": 1055
+  "total": 1056
 }
