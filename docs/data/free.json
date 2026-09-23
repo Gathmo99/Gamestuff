@@ -1,24 +1,3 @@
 {
-  "items": [
-    {
-      "appid": "2484180",
-      "name": "Deadshot",
-      "discount": 100,
-      "orig_price_str": "5,19€",
-      "final_price_str": "0,00€",
-      "orig_cents": 519,
-      "final_cents": 0,
-      "gamepass": ""
-    },
-    {
-      "appid": "2000040",
-      "name": "Space Menace",
-      "discount": 100,
-      "orig_price_str": "7,19€",
-      "final_price_str": "0,00€",
-      "orig_cents": 719,
-      "final_cents": 0,
-      "gamepass": ""
-    }
-  ]
+  "items": []
 }

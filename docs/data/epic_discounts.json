@@ -1771,16 +1771,6 @@
       "final_price_str": "29,99 €"
     },
     {
-      "appid": "226835e6ad724003a0da729d57f3d4e0",
-      "namespace": "9aef8a4b03674ce4b61922d7d13995af",
-      "name": "MindsEye",
-      "discount": 50,
-      "orig_cents": 3549,
-      "final_cents": 1774,
-      "orig_price_str": "35,49 €",
-      "final_price_str": "17,74 €"
-    },
-    {
       "appid": "7477bbf88bae4827879e3e0ce89bf008",
       "namespace": "67bd9edaa00e4166aecdaebba247b457",
       "name": "Fxxkbar Kim",
@@ -2451,16 +2441,6 @@
       "final_price_str": "3,36 €"
     },
     {
-      "appid": "658a0ff5936b4d59bdd00f145a60b41d",
-      "namespace": "7da6960306564b37a8143fd090131c0a",
-      "name": "Cosmic Fear",
-      "discount": 15,
-      "orig_cents": 1999,
-      "final_cents": 1699,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "16,99 €"
-    },
-    {
       "appid": "bc3968eae7e94b0587c7f8e70fea1c8f",
       "namespace": "b8ed92712b144348ab90d37be4af748d",
       "name": "Nightwater",
@@ -2511,5 +2491,5 @@
       "final_price_str": "53,99 €"
     }
   ],
-  "total": 252
+  "total": 250
 }
