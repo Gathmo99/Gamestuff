@@ -41,6 +41,16 @@
       "final_price_str": "0,76 €"
     },
     {
+      "appid": "2e1b4da476d9450593a4f966a2f0191f",
+      "namespace": "7b3ddf2a418543d7a29eafb03a0e020e",
+      "name": "Hyper Warehouse Simulator",
+      "discount": 95,
+      "orig_cents": 719,
+      "final_cents": 35,
+      "orig_price_str": "7,19 €",
+      "final_price_str": "0,35 €"
+    },
+    {
       "appid": "9a78977722974513b86e3378209b2f6f",
       "namespace": "b859d03955d0401e984b81c5e7a15654",
       "name": "Worker Simulator",
@@ -2531,5 +2541,5 @@
       "final_price_str": "53,99 €"
     }
   ],
-  "total": 254
+  "total": 255
 }
