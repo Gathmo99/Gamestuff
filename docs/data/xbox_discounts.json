@@ -1,16 +1,6 @@
 {
   "items": [
     {
-      "appid": "C4BZ7X545J1T",
-      "name": "Worms W.M.D",
-      "discount": 90,
-      "orig_cents": 2999,
-      "final_cents": 299,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "2,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9N14G09PWG74",
       "name": "Golf With Your Friends",
       "discount": 90,
@@ -21,6 +11,16 @@
       "gamepass": ""
     },
     {
+      "appid": "C4BZ7X545J1T",
+      "name": "Worms W.M.D",
+      "discount": 90,
+      "orig_cents": 2999,
+      "final_cents": 299,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "2,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9NP83DTS8T4W",
       "name": "Golf With Your Friends - Ultimate Edition",
       "discount": 90,
@@ -28,16 +28,6 @@
       "final_cents": 549,
       "orig_price_str": "54,99 €",
       "final_price_str": "5,49 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9NSLQMF111VP",
-      "name": "Golf With Your Friends - Starter Edition",
-      "discount": 90,
-      "orig_cents": 2699,
-      "final_cents": 269,
-      "orig_price_str": "26,99 €",
-      "final_price_str": "2,69 €",
       "gamepass": ""
     },
     {
@@ -61,6 +51,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9NH5HHR5W9WX",
+      "name": "Worms Armageddon: Anniversary Edition",
+      "discount": 80,
+      "orig_cents": 2499,
+      "final_cents": 499,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "4,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "BP8WDV3T37N7",
       "name": "Overcooked",
       "discount": 80,
@@ -71,14 +71,14 @@
       "gamepass": ""
     },
     {
-      "appid": "C2N9CS4FS1QR",
-      "name": "Tom Clancy's Ghost Recon Wildlands",
+      "appid": "9P4811KBD5R9",
+      "name": "JoJo's Bizarre Adventure: All-Star Battle R",
       "discount": 80,
       "orig_cents": 4999,
       "final_cents": 999,
       "orig_price_str": "49,99 €",
       "final_price_str": "9,99 €",
-      "gamepass": "PC + Xbox"
+      "gamepass": ""
     },
     {
       "appid": "9N44WK3WV2HJ",
@@ -98,6 +98,16 @@
       "final_cents": 1749,
       "orig_price_str": "69,99 €",
       "final_price_str": "17,49 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9PP2NCZ72C79",
+      "name": "Overcooked! All You Can Eat",
+      "discount": 70,
+      "orig_cents": 3999,
+      "final_cents": 1199,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "11,99 €",
       "gamepass": ""
     },
     {
@@ -131,13 +141,23 @@
       "gamepass": "PC + Xbox"
     },
     {
-      "appid": "C261457LCNMJ",
-      "name": "The Witcher 3: Wild Hunt – Complete Edition",
-      "discount": 50,
-      "orig_cents": 4999,
-      "final_cents": 2499,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "24,99 €",
+      "appid": "9P6ZXP2ZRQCV",
+      "name": "Grand Theft Auto V Enhanced (PC) & CashCard „Der Weiße Hai“ im Bundle",
+      "discount": 55,
+      "orig_cents": 4499,
+      "final_cents": 2024,
+      "orig_price_str": "44,99 €",
+      "final_price_str": "20,24 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9N9RV75RKSL5",
+      "name": "HITMAN World of Assassination Deluxe Edition",
+      "discount": 55,
+      "orig_cents": 9999,
+      "final_cents": 4499,
+      "orig_price_str": "99,99 €",
+      "final_price_str": "44,99 €",
       "gamepass": ""
     },
     {
@@ -151,6 +171,16 @@
       "gamepass": ""
     },
     {
+      "appid": "C261457LCNMJ",
+      "name": "The Witcher 3: Wild Hunt – Complete Edition",
+      "discount": 50,
+      "orig_cents": 4999,
+      "final_cents": 2499,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "24,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9NQ0MVSLV0G7",
       "name": "Grand Theft Auto V & CashCard „Der Weiße Hai“ im Bundle",
       "discount": 50,
@@ -158,6 +188,16 @@
       "final_cents": 2499,
       "orig_price_str": "49,99 €",
       "final_price_str": "24,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9MWQ4NQ5WX37",
+      "name": "Doki Doki Literature Club Plus!",
+      "discount": 33,
+      "orig_cents": 1499,
+      "final_cents": 1004,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "10,04 €",
       "gamepass": ""
     },
     {
@@ -188,46 +228,6 @@
       "final_cents": 1999,
       "orig_price_str": "24,99 €",
       "final_price_str": "19,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9N6J4RNFPKKL",
-      "name": "Halo: Campaign Evolved – Standard Edition",
-      "discount": 20,
-      "orig_cents": 5999,
-      "final_cents": 4799,
-      "orig_price_str": "59,99 €",
-      "final_price_str": "47,99 €",
-      "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "9N4XW3N02MNJ",
-      "name": "Forza Horizon 6 Premium Edition",
-      "discount": 20,
-      "orig_cents": 11999,
-      "final_cents": 9599,
-      "orig_price_str": "119,99 €",
-      "final_price_str": "95,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9NTNTC2V151G",
-      "name": "Together: Moon Escape",
-      "discount": 15,
-      "orig_cents": 999,
-      "final_cents": 849,
-      "orig_price_str": "9,99 €",
-      "final_price_str": "8,49 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9N57PMNM3F55",
-      "name": "Assassin's Creed Black Flag Resynced Deluxe Edition",
-      "discount": 15,
-      "orig_cents": 6999,
-      "final_cents": 5949,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "59,49 €",
       "gamepass": ""
     },
     {

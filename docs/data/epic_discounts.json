@@ -521,16 +521,6 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "be5600439b434624802764f704755cde",
-      "namespace": "708f57aaa04b42ef885be16c8288f0ac",
-      "name": "Ghostrunner 2",
-      "discount": 80,
-      "orig_cents": 3999,
-      "final_cents": 799,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "7,99 €"
-    },
-    {
       "appid": "325325affa8a470eb10c6b067aeb0665",
       "namespace": "65e4752cd52f4294aca9f238fb056c22",
       "name": "Inside Soccer",
@@ -951,16 +941,6 @@
       "final_price_str": "8,99 €"
     },
     {
-      "appid": "b9179b4d1ad84012a1d3f6f41adaa139",
-      "namespace": "5099c5ef163b4932b95e70f7298b07d5",
-      "name": "Eiyuden Chronicle: Hundred Heroes",
-      "discount": 70,
-      "orig_cents": 4999,
-      "final_cents": 1499,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "14,99 €"
-    },
-    {
       "appid": "3820838712904b0994c5dc0681cca36d",
       "namespace": "0de089d70ff5482285814bb5df921541",
       "name": "Not Another Weekend",
@@ -1221,16 +1201,6 @@
       "final_price_str": "9,99 €"
     },
     {
-      "appid": "12bc396a4c904ebc9db002bcee13832a",
-      "namespace": "0246b51e02da40329ad6d20f5c8dc631",
-      "name": "Brothers: A Tale of Two Sons Remake",
-      "discount": 60,
-      "orig_cents": 1999,
-      "final_cents": 799,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "7,99 €"
-    },
-    {
       "appid": "3f01d43e63cc45d28c6c3864b61b63f1",
       "namespace": "d5507cf7f5784a24ac44bff891ffa8e3",
       "name": "Pirate Mosaic Puzzle. Caribbean Treasures",
@@ -1339,6 +1309,26 @@
       "final_cents": 1599,
       "orig_price_str": "39,99 €",
       "final_price_str": "15,99 €"
+    },
+    {
+      "appid": "f54a97df22c944eb8e7c534a705ce634",
+      "namespace": "19d61df85a76492f82c4b59fa8f8f9eb",
+      "name": "The House of Da Vinci",
+      "discount": 60,
+      "orig_cents": 1999,
+      "final_cents": 799,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "7,99 €"
+    },
+    {
+      "appid": "eb351744c91e40bdbe0086a5884763a0",
+      "namespace": "fde00727b4604d38863e187674a16a29",
+      "name": "Mystery Solitaire. Grimm's Tales",
+      "discount": 60,
+      "orig_cents": 449,
+      "final_cents": 179,
+      "orig_price_str": "4,49 €",
+      "final_price_str": "1,79 €"
     },
     {
       "appid": "a0a4e6460d4548b38f100b31764dcacf",
@@ -2251,6 +2241,46 @@
       "final_price_str": "1,34 €"
     },
     {
+      "appid": "e0655206cac84c3386fec0c1ed931c8f",
+      "namespace": "f4be56a88fff45fb8ffb1f05f1c76467",
+      "name": "The Front",
+      "discount": 50,
+      "orig_cents": 1799,
+      "final_cents": 899,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "8,99 €"
+    },
+    {
+      "appid": "093af6432d794de59a4f35baa82565d0",
+      "namespace": "b5e9e4c391cb41cda4e5c974e9b8835f",
+      "name": "Journey Into Darkness",
+      "discount": 50,
+      "orig_cents": 449,
+      "final_cents": 224,
+      "orig_price_str": "4,49 €",
+      "final_price_str": "2,24 €"
+    },
+    {
+      "appid": "81ef749d8ad54335a382bce84615ac02",
+      "namespace": "6bd33f792d3d4350ab80acb891597df8",
+      "name": "The House of Da Vinci 3",
+      "discount": 50,
+      "orig_cents": 1999,
+      "final_cents": 999,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "9,99 €"
+    },
+    {
+      "appid": "6b75fed45ae24b418af01fa13919b5a0",
+      "namespace": "4a0076f825604014b0540bb5d957d3bb",
+      "name": "The House of Da Vinci 2",
+      "discount": 50,
+      "orig_cents": 1999,
+      "final_cents": 999,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "9,99 €"
+    },
+    {
       "appid": "52b6e69a165c4e10ba306f3b29a5579a",
       "namespace": "ce37450ae2f9431cacb23244a0d8ac76",
       "name": "PROTOBOT",
@@ -2349,16 +2379,6 @@
       "final_cents": 1199,
       "orig_price_str": "19,99 €",
       "final_price_str": "11,99 €"
-    },
-    {
-      "appid": "5f5c2202b2d34721a6d236c85fc515f2",
-      "namespace": "4774311bd2724f6cba218090760f52e6",
-      "name": "Arcadia Fallen",
-      "discount": 40,
-      "orig_cents": 2239,
-      "final_cents": 1343,
-      "orig_price_str": "22,39 €",
-      "final_price_str": "13,43 €"
     },
     {
       "appid": "5efaf3bbf0884ce2912123fc320ca2e4",
@@ -2601,6 +2621,16 @@
       "final_price_str": "0,53 €"
     },
     {
+      "appid": "e9b1073e4f5d4fb8a4bf3b3004ed2b1f",
+      "namespace": "ee72cd979c3c4fa99c162e8cd7a03f28",
+      "name": "Garbage Truck Driving Simulator",
+      "discount": 40,
+      "orig_cents": 89,
+      "final_cents": 53,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,53 €"
+    },
+    {
       "appid": "63bab12c3bb14ddb9a22772af3b13763",
       "namespace": "8c8e5cf1a9ed4b039329c8530720b82c",
       "name": "Baito Fight!!: Part-time Devil Hunter",
@@ -2691,6 +2721,16 @@
       "final_price_str": "12,05 €"
     },
     {
+      "appid": "b9c120e2910a4130a6e79faf2986434b",
+      "namespace": "7713e3fa4b234e0d8f553044205d53b6",
+      "name": "The Last of Us™ Part II Remastered",
+      "discount": 33,
+      "orig_cents": 4999,
+      "final_cents": 3349,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "33,49 €"
+    },
+    {
       "appid": "88fa1585189a4c5c9af3458ecb91fcd3",
       "namespace": "9f0021e242b1425f9fb44b31fcf980af",
       "name": "Football Academy Manager",
@@ -2739,16 +2779,6 @@
       "final_cents": 1259,
       "orig_price_str": "17,99 €",
       "final_price_str": "12,59 €"
-    },
-    {
-      "appid": "76be7127c0f443b08cf849e892f7b65a",
-      "namespace": "08d6df03616c42388556ce5fc1366d3d",
-      "name": "WUCHANG: Fallen Feathers",
-      "discount": 30,
-      "orig_cents": 4999,
-      "final_cents": 3499,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "34,99 €"
     },
     {
       "appid": "5284bbdea101419fbb0cb5c76d43da08",
@@ -2891,16 +2921,6 @@
       "final_price_str": "18,74 €"
     },
     {
-      "appid": "8aa26b2559204e7a84c8ad67baa36bb4",
-      "namespace": "677e7dc2e6ac411eab713d81eb991a0f",
-      "name": "Blades of Fire",
-      "discount": 25,
-      "orig_cents": 3999,
-      "final_cents": 2999,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "29,99 €"
-    },
-    {
       "appid": "871012a0d52b434ea19528992ebaf468",
       "namespace": "3880ec67d75643da816c9feabb168010",
       "name": "Union of Gnomes",
@@ -2979,27 +2999,7 @@
       "final_cents": 1199,
       "orig_price_str": "14,99 €",
       "final_price_str": "11,99 €"
-    },
-    {
-      "appid": "00039fa9904c429abd22fc0853be5f91",
-      "namespace": "4083178e557a456c9f9967f566e34b94",
-      "name": "The teacher fell in love with me 3",
-      "discount": 20,
-      "orig_cents": 1079,
-      "final_cents": 863,
-      "orig_price_str": "10,79 €",
-      "final_price_str": "8,63 €"
-    },
-    {
-      "appid": "11a68919c2524134bef76a371d654070",
-      "namespace": "0d24faf082074fe79ed5d0aae8f40833",
-      "name": "Professional Ship Simulator",
-      "discount": 20,
-      "orig_cents": 3699,
-      "final_cents": 2959,
-      "orig_price_str": "36,99 €",
-      "final_price_str": "29,59 €"
     }
   ],
-  "total": 469
+  "total": 452
 }
