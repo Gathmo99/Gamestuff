@@ -1,16 +1,16 @@
 {
   "items": [
     {
-      "appid": "8a20c6c8d5b5417e800c687e9d72013e",
-      "name": "Mindcop",
-      "orig_cents": 1499,
-      "orig_price_str": "14,99 €"
+      "appid": "7c14bf0cffdd43be968fdcf28e5af653",
+      "name": "Astrea Six Sided Oracles",
+      "orig_cents": 2239,
+      "orig_price_str": "22,39 €"
     },
     {
-      "appid": "b9ff3f98367a45cdac289dff6683a2bc",
-      "name": "Shogun Showdown",
-      "orig_cents": 1349,
-      "orig_price_str": "13,49 €"
+      "appid": "6d99eae44d724baf84d6261a7a0f05d2",
+      "name": "Mechabellum",
+      "orig_cents": 1479,
+      "orig_price_str": "14,79 €"
     }
   ]
 }
