@@ -41,16 +41,6 @@
       "gamepass": ""
     },
     {
-      "appid": "BQW8J8XM62JW",
-      "name": "RESIDENT EVIL CODE: Veronica X",
-      "discount": 85,
-      "orig_cents": 1999,
-      "final_cents": 299,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "2,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "BQ2NNLQPS8RS",
       "name": "A Plague Tale: Innocence",
       "discount": 80,
@@ -201,18 +191,18 @@
       "gamepass": ""
     },
     {
-      "appid": "9NKC1Z4Z92VN",
-      "name": "Grand Theft Auto Online",
+      "appid": "C261457LCNMJ",
+      "name": "The Witcher 3: Wild Hunt – Complete Edition",
       "discount": 50,
-      "orig_cents": 1999,
-      "final_cents": 999,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "9,99 €",
+      "orig_cents": 4999,
+      "final_cents": 2499,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "24,99 €",
       "gamepass": ""
     },
     {
-      "appid": "9N3L5FF8M6SW",
-      "name": "Red Dead Online",
+      "appid": "9NKC1Z4Z92VN",
+      "name": "Grand Theft Auto Online",
       "discount": 50,
       "orig_cents": 1999,
       "final_cents": 999,
@@ -241,6 +231,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9N431PX143P8",
+      "name": "Forza Horizon 6 Standard Edition",
+      "discount": 20,
+      "orig_cents": 6999,
+      "final_cents": 5599,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "55,99 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
       "appid": "9PKS8XZC74X5",
       "name": "Hell Let Loose: Vietnam",
       "discount": 10,
@@ -251,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 982
+  "total": 1333
 }
