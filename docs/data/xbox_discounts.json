@@ -31,16 +31,6 @@
       "gamepass": ""
     },
     {
-      "appid": "C3FDP0NTC0JM",
-      "name": "Turok",
-      "discount": 85,
-      "orig_cents": 1999,
-      "final_cents": 299,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "2,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9PHKPWK001RB",
       "name": "The Escapists 2 - Game of the Year Edition",
       "discount": 80,
@@ -98,6 +88,16 @@
       "final_cents": 1749,
       "orig_price_str": "69,99 €",
       "final_price_str": "17,49 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9PP2NCZ72C79",
+      "name": "Overcooked! All You Can Eat",
+      "discount": 70,
+      "orig_cents": 3999,
+      "final_cents": 1199,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "11,99 €",
       "gamepass": ""
     },
     {
@@ -251,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 824
+  "total": 792
 }

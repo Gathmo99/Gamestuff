@@ -316,7 +316,7 @@
       "final_price_str": "4,99 €"
     },
     {
-      "appid": "EP4295-CUSA28433_00-BASSPS40000000EU",
+      "appid": "EP4295-PPSA03979_00-BASSPS50000000EU",
       "name": "Beyond a Steel Sky",
       "discount": 80,
       "orig_cents": 1999,
@@ -325,7 +325,7 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "EP4295-PPSA03979_00-BASSPS50000000EU",
+      "appid": "EP4295-CUSA28433_00-BASSPS40000000EU",
       "name": "Beyond a Steel Sky",
       "discount": 80,
       "orig_cents": 1999,
@@ -631,7 +631,7 @@
       "final_price_str": "9,99 €"
     },
     {
-      "appid": "EP4293-CUSA32097_00-ASTNCPS4SIEE0000",
+      "appid": "EP4293-PPSA06409_00-ASTNCPS5SIEE0000",
       "name": "Arcade Spirits: The New Challengers",
       "discount": 75,
       "orig_cents": 1999,
@@ -640,7 +640,7 @@
       "final_price_str": "4,99 €"
     },
     {
-      "appid": "EP4293-PPSA06409_00-ASTNCPS5SIEE0000",
+      "appid": "EP4293-CUSA32097_00-ASTNCPS4SIEE0000",
       "name": "Arcade Spirits: The New Challengers",
       "discount": 75,
       "orig_cents": 1999,
@@ -2512,7 +2512,7 @@
       "final_price_str": "8,99 €"
     },
     {
-      "appid": "EP3446-PPSA07370_00-7964977575636485",
+      "appid": "EP3446-CUSA33324_00-3151337674646164",
       "name": "MADiSON",
       "discount": 40,
       "orig_cents": 3499,
@@ -2521,7 +2521,7 @@
       "final_price_str": "20,99 €"
     },
     {
-      "appid": "EP3446-CUSA33324_00-3151337674646164",
+      "appid": "EP3446-PPSA07370_00-7964977575636485",
       "name": "MADiSON",
       "discount": 40,
       "orig_cents": 3499,
