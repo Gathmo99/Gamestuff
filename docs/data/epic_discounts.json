@@ -1321,16 +1321,6 @@
       "final_price_str": "7,99 €"
     },
     {
-      "appid": "eb351744c91e40bdbe0086a5884763a0",
-      "namespace": "fde00727b4604d38863e187674a16a29",
-      "name": "Mystery Solitaire. Grimm's Tales",
-      "discount": 60,
-      "orig_cents": 449,
-      "final_cents": 179,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "1,79 €"
-    },
-    {
       "appid": "a0a4e6460d4548b38f100b31764dcacf",
       "namespace": "46abcd0cbb8d49929e8cadd50d666547",
       "name": "Commando:  Hell's Target 3D",
@@ -2951,6 +2941,16 @@
       "final_price_str": "14,62 €"
     },
     {
+      "appid": "dd52d14e27014cafa5b11354951d01d3",
+      "namespace": "525754de21b74ed19da2f5be4129cf17",
+      "name": "Border Police: Contraband Simulator 2026",
+      "discount": 20,
+      "orig_cents": 1169,
+      "final_cents": 935,
+      "orig_price_str": "11,69 €",
+      "final_price_str": "9,35 €"
+    },
+    {
       "appid": "0fc17c71ac7a416ab1c145fb32dedc16",
       "namespace": "54ea66f07369484985a042d24090d995",
       "name": "Island Survival: Craft, Build, Grow",
@@ -3001,5 +3001,5 @@
       "final_price_str": "9,35 €"
     }
   ],
-  "total": 453
+  "total": 454
 }
