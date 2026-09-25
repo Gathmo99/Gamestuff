@@ -1311,16 +1311,6 @@
       "final_price_str": "15,99 €"
     },
     {
-      "appid": "f54a97df22c944eb8e7c534a705ce634",
-      "namespace": "19d61df85a76492f82c4b59fa8f8f9eb",
-      "name": "The House of Da Vinci",
-      "discount": 60,
-      "orig_cents": 1999,
-      "final_cents": 799,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "7,99 €"
-    },
-    {
       "appid": "a0a4e6460d4548b38f100b31764dcacf",
       "namespace": "46abcd0cbb8d49929e8cadd50d666547",
       "name": "Commando:  Hell's Target 3D",
@@ -2851,6 +2841,16 @@
       "final_price_str": "12,59 €"
     },
     {
+      "appid": "70b54067cc064acfb55039c63e392c18",
+      "namespace": "835ee7e7b2914c579dda3dc05e44ebf4",
+      "name": "Lamp Clicker",
+      "discount": 25,
+      "orig_cents": 269,
+      "final_cents": 201,
+      "orig_price_str": "2,69 €",
+      "final_price_str": "2,01 €"
+    },
+    {
       "appid": "852ce18fcbe74e80af5574e93e29a0c8",
       "namespace": "6e43da2bca8f40ccb81fbb1057e7871a",
       "name": "It Reaches",
@@ -3001,5 +3001,5 @@
       "final_price_str": "9,35 €"
     }
   ],
-  "total": 454
+  "total": 455
 }
