@@ -2731,6 +2731,16 @@
       "final_price_str": "33,49 €"
     },
     {
+      "appid": "d50e1642b69f4f338f45cf619eecdf45",
+      "namespace": "53523f3916f84e5d9576fa737ecae5e6",
+      "name": "Bunny Battle",
+      "discount": 30,
+      "orig_cents": 89,
+      "final_cents": 62,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,62 €"
+    },
+    {
       "appid": "88fa1585189a4c5c9af3458ecb91fcd3",
       "namespace": "9f0021e242b1425f9fb44b31fcf980af",
       "name": "Football Academy Manager",
@@ -2989,17 +2999,7 @@
       "final_cents": 935,
       "orig_price_str": "11,69 €",
       "final_price_str": "9,35 €"
-    },
-    {
-      "appid": "12b4d1ade84749a798a6a03f7b7dafeb",
-      "namespace": "e83bf748d3ce4f0f8ccdedbb726afb6f",
-      "name": "Dealer's Life Legend",
-      "discount": 20,
-      "orig_cents": 1499,
-      "final_cents": 1199,
-      "orig_price_str": "14,99 €",
-      "final_price_str": "11,99 €"
     }
   ],
-  "total": 452
+  "total": 453
 }

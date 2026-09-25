@@ -101,16 +101,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9PP2NCZ72C79",
-      "name": "Overcooked! All You Can Eat",
-      "discount": 70,
-      "orig_cents": 3999,
-      "final_cents": 1199,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "11,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9N0102B834ZM",
       "name": "Fantasy Dash",
       "discount": 68,
@@ -191,6 +181,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9PL9P3QZMRBM",
+      "name": "Starfield Premium Edition",
+      "discount": 40,
+      "orig_cents": 6999,
+      "final_cents": 4199,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "41,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9MWQ4NQ5WX37",
       "name": "Doki Doki Literature Club Plus!",
       "discount": 33,
@@ -251,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 793
+  "total": 824
 }
