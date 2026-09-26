@@ -61,16 +61,6 @@
       "final_price_str": "0,89 €"
     },
     {
-      "appid": "9a78977722974513b86e3378209b2f6f",
-      "namespace": "b859d03955d0401e984b81c5e7a15654",
-      "name": "Worker Simulator",
-      "discount": 95,
-      "orig_cents": 1349,
-      "final_cents": 67,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "0,67 €"
-    },
-    {
       "appid": "976299e0abfc47b4bbd9ecc9264292b1",
       "namespace": "5ba511dbf4c840f79b97eb39f776ab93",
       "name": "Adventures of Astronaut Max",
@@ -129,6 +119,16 @@
       "final_cents": 35,
       "orig_price_str": "3,59 €",
       "final_price_str": "0,35 €"
+    },
+    {
+      "appid": "266ce7800f324a4b9e24077d7ff68e8f",
+      "namespace": "24cc2d573b584bd193de6cc321289f9d",
+      "name": "Chrono Stranded",
+      "discount": 90,
+      "orig_cents": 449,
+      "final_cents": 44,
+      "orig_price_str": "4,49 €",
+      "final_price_str": "0,44 €"
     },
     {
       "appid": "bbed2037da784b5690e4a50826961197",
@@ -251,6 +251,16 @@
       "final_price_str": "2,02 €"
     },
     {
+      "appid": "b7c6449af86c47c4a873a62d0e30c0dc",
+      "namespace": "28b88370465c4c67b583b1b7d5c7e725",
+      "name": "Fell in Love with a California Girl",
+      "discount": 85,
+      "orig_cents": 359,
+      "final_cents": 53,
+      "orig_price_str": "3,59 €",
+      "final_price_str": "0,53 €"
+    },
+    {
       "appid": "d23b299851824244a9fc6fd3f733b39e",
       "namespace": "17fd3ea945ad482190387b6b55b42633",
       "name": "Hero of the Kingdom",
@@ -259,6 +269,16 @@
       "final_cents": 107,
       "orig_price_str": "7,19 €",
       "final_price_str": "1,07 €"
+    },
+    {
+      "appid": "fb65c2ea05174e618cd52068d3cb2c1b",
+      "namespace": "a5d808aff2a144048d1f842e0db6ad12",
+      "name": "Alpträume aus der Gruft",
+      "discount": 85,
+      "orig_cents": 359,
+      "final_cents": 53,
+      "orig_price_str": "3,59 €",
+      "final_price_str": "0,53 €"
     },
     {
       "appid": "04af3a634c384e2ea5c703cb482a0fba",
@@ -1711,16 +1731,6 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "cdfa36e1f51443f28307415eb5b3379f",
-      "namespace": "3582d65783144a76a49256c3ac01444d",
-      "name": "Car Mechanic - City Driving",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
       "appid": "855dd9976cd344e3ba1f2c2f9d81fcdd",
       "namespace": "b78cfb363f3e4ef9992a55da29cfbc70",
       "name": "Bus Simulator Car Driving",
@@ -2244,16 +2254,6 @@
       "appid": "81ef749d8ad54335a382bce84615ac02",
       "namespace": "6bd33f792d3d4350ab80acb891597df8",
       "name": "The House of Da Vinci 3",
-      "discount": 50,
-      "orig_cents": 1999,
-      "final_cents": 999,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "9,99 €"
-    },
-    {
-      "appid": "6b75fed45ae24b418af01fa13919b5a0",
-      "namespace": "4a0076f825604014b0540bb5d957d3bb",
-      "name": "The House of Da Vinci 2",
       "discount": 50,
       "orig_cents": 1999,
       "final_cents": 999,
@@ -3001,5 +3001,5 @@
       "final_price_str": "9,35 €"
     }
   ],
-  "total": 455
+  "total": 456
 }
