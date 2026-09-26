@@ -261,6 +261,16 @@
       "final_price_str": "0,53 €"
     },
     {
+      "appid": "0e18d59caa564c74bbf982bd670e8501",
+      "namespace": "9d526342864b44ba86674bd7d4bd8eee",
+      "name": "New Year Simulator 2025",
+      "discount": 85,
+      "orig_cents": 1619,
+      "final_cents": 242,
+      "orig_price_str": "16,19 €",
+      "final_price_str": "2,42 €"
+    },
+    {
       "appid": "d23b299851824244a9fc6fd3f733b39e",
       "namespace": "17fd3ea945ad482190387b6b55b42633",
       "name": "Hero of the Kingdom",
@@ -2241,26 +2251,6 @@
       "final_price_str": "8,99 €"
     },
     {
-      "appid": "093af6432d794de59a4f35baa82565d0",
-      "namespace": "b5e9e4c391cb41cda4e5c974e9b8835f",
-      "name": "Journey Into Darkness",
-      "discount": 50,
-      "orig_cents": 449,
-      "final_cents": 224,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "2,24 €"
-    },
-    {
-      "appid": "81ef749d8ad54335a382bce84615ac02",
-      "namespace": "6bd33f792d3d4350ab80acb891597df8",
-      "name": "The House of Da Vinci 3",
-      "discount": 50,
-      "orig_cents": 1999,
-      "final_cents": 999,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "9,99 €"
-    },
-    {
       "appid": "52b6e69a165c4e10ba306f3b29a5579a",
       "namespace": "ce37450ae2f9431cacb23244a0d8ac76",
       "name": "PROTOBOT",
@@ -2999,7 +2989,17 @@
       "final_cents": 935,
       "orig_price_str": "11,69 €",
       "final_price_str": "9,35 €"
+    },
+    {
+      "appid": "12b4d1ade84749a798a6a03f7b7dafeb",
+      "namespace": "e83bf748d3ce4f0f8ccdedbb726afb6f",
+      "name": "Dealer's Life Legend",
+      "discount": 20,
+      "orig_cents": 1499,
+      "final_cents": 1199,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "11,99 €"
     }
   ],
-  "total": 456
+  "total": 458
 }
