@@ -241,6 +241,16 @@
       "final_price_str": "1,34 €"
     },
     {
+      "appid": "aad9b8c3f0f7404f94de645a0857fb85",
+      "namespace": "7d9cb4fa8c4b488d86c7e9dec37318d5",
+      "name": "Suicide Guy",
+      "discount": 90,
+      "orig_cents": 719,
+      "final_cents": 71,
+      "orig_price_str": "7,19 €",
+      "final_price_str": "0,71 €"
+    },
+    {
       "appid": "6de712080a284d0699b6502e4600c484",
       "namespace": "750727a7afd247478c8ba527de78cefd",
       "name": "LoDR",
@@ -619,16 +629,6 @@
       "final_cents": 199,
       "orig_price_str": "9,99 €",
       "final_price_str": "1,99 €"
-    },
-    {
-      "appid": "95b6875f9b7f40a39b8d476ca642c655",
-      "namespace": "84a0cce87ad54db4830c2394e732fe80",
-      "name": "Backrooms Pools",
-      "discount": 75,
-      "orig_cents": 179,
-      "final_cents": 44,
-      "orig_price_str": "1,79 €",
-      "final_price_str": "0,44 €"
     },
     {
       "appid": "7a19e98f5f164af19df5617a2a7fcca3",
@@ -1381,16 +1381,6 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "006a94e9395e42249c504fff33a9de30",
-      "namespace": "7c003d7a76cc42279dd786ad672ab63c",
-      "name": "Five Nights In The Mall",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
       "appid": "2db823f45cb54bb4befffa676ce7b10a",
       "namespace": "9f0fa810ec4c4378af102f379810f1e8",
       "name": "Animatronics Playtime",
@@ -1451,16 +1441,6 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "a5dcf67d3cb44ea39cdec4b086ce9f82",
-      "namespace": "4e35f306181e4604847b7b4866921d77",
-      "name": "Cat Karting",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
       "appid": "c21d29fcb4cc46a08b2b2e6ca1987992",
       "namespace": "093f57ad07fa411db44bb801a500214e",
       "name": "GOP STOP AUTO",
@@ -1474,6 +1454,16 @@
       "appid": "607c5808945c4f32a5ad0fe8379f4017",
       "namespace": "7f39eb885ae14748bfef81bd2e0b832b",
       "name": "Free Kick Football: 3D Soccer",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "86303bc468d94fc4ab7fdfc8cf5d1f9a",
+      "namespace": "29b2af6e39e143ed9925859e9969b4f3",
+      "name": "Anime Reaper",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1504,16 +1494,6 @@
       "appid": "81c8cc0daf724268aea2174c2c386624",
       "namespace": "469a0b93db634bf1850919d8109ced6e",
       "name": "Town Market Simulator 2025",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "ec12e20bde414f088a4695dd3db7f7cc",
-      "namespace": "a588422986774a3c9b71f0ed66d6d0d0",
-      "name": "Dead Rush",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1671,16 +1651,6 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "0e3cd2f9537a40f5b61e5281a51d9534",
-      "namespace": "9d986837984c476195398f37ba7446dd",
-      "name": "Birch Simulator",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
       "appid": "2e76133cf93e401f813a6f06b7988155",
       "namespace": "a72869e83a604578b9f22003c19ba3f8",
       "name": "ATV Offroad Simulator 24",
@@ -1764,16 +1734,6 @@
       "appid": "85aa53ab558c4873a46a7351e4b20875",
       "namespace": "7d390fde40884ae884583cbd10fce130",
       "name": "City Ambulance Car Driving",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "b094d09fcb024a97be5db4c1972527dc",
-      "namespace": "ee30a29b65554c92a720ad1c8d3e4b18",
-      "name": "Nextbots In The Backrooms",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -2251,6 +2211,36 @@
       "final_price_str": "8,99 €"
     },
     {
+      "appid": "093af6432d794de59a4f35baa82565d0",
+      "namespace": "b5e9e4c391cb41cda4e5c974e9b8835f",
+      "name": "Journey Into Darkness",
+      "discount": 50,
+      "orig_cents": 449,
+      "final_cents": 224,
+      "orig_price_str": "4,49 €",
+      "final_price_str": "2,24 €"
+    },
+    {
+      "appid": "81ef749d8ad54335a382bce84615ac02",
+      "namespace": "6bd33f792d3d4350ab80acb891597df8",
+      "name": "The House of Da Vinci 3",
+      "discount": 50,
+      "orig_cents": 1999,
+      "final_cents": 999,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "9,99 €"
+    },
+    {
+      "appid": "6b75fed45ae24b418af01fa13919b5a0",
+      "namespace": "4a0076f825604014b0540bb5d957d3bb",
+      "name": "The House of Da Vinci 2",
+      "discount": 50,
+      "orig_cents": 1999,
+      "final_cents": 999,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "9,99 €"
+    },
+    {
       "appid": "52b6e69a165c4e10ba306f3b29a5579a",
       "namespace": "ce37450ae2f9431cacb23244a0d8ac76",
       "name": "PROTOBOT",
@@ -2584,6 +2574,16 @@
       "appid": "d612327f0d2c46f6ab1b4082876bba0f",
       "namespace": "36669b93a631455abfc52bbed2c84f8d",
       "name": "Police Car Escape Simulator",
+      "discount": 40,
+      "orig_cents": 89,
+      "final_cents": 53,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,53 €"
+    },
+    {
+      "appid": "e9b1073e4f5d4fb8a4bf3b3004ed2b1f",
+      "namespace": "ee72cd979c3c4fa99c162e8cd7a03f28",
+      "name": "Garbage Truck Driving Simulator",
       "discount": 40,
       "orig_cents": 89,
       "final_cents": 53,
@@ -3001,5 +3001,5 @@
       "final_price_str": "11,99 €"
     }
   ],
-  "total": 460
+  "total": 455
 }
