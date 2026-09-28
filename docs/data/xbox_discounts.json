@@ -11,6 +11,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9NP83DTS8T4W",
+      "name": "Golf With Your Friends - Ultimate Edition",
+      "discount": 90,
+      "orig_cents": 5499,
+      "final_cents": 549,
+      "orig_price_str": "54,99 €",
+      "final_price_str": "5,49 €",
+      "gamepass": ""
+    },
+    {
       "appid": "C4BZ7X545J1T",
       "name": "Worms W.M.D",
       "discount": 90,
@@ -21,13 +31,23 @@
       "gamepass": ""
     },
     {
-      "appid": "9NP83DTS8T4W",
-      "name": "Golf With Your Friends - Ultimate Edition",
+      "appid": "BSXLFN5QQZSC",
+      "name": "Watch Dogs®2",
       "discount": 90,
-      "orig_cents": 5499,
-      "final_cents": 549,
-      "orig_price_str": "54,99 €",
-      "final_price_str": "5,49 €",
+      "orig_cents": 4999,
+      "final_cents": 499,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "4,99 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "9P4811KBD5R9",
+      "name": "JoJo's Bizarre Adventure: All-Star Battle R",
+      "discount": 80,
+      "orig_cents": 4999,
+      "final_cents": 999,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "9,99 €",
       "gamepass": ""
     },
     {
@@ -41,34 +61,14 @@
       "gamepass": ""
     },
     {
-      "appid": "9NH5HHR5W9WX",
-      "name": "Worms Armageddon: Anniversary Edition",
-      "discount": 80,
-      "orig_cents": 2499,
-      "final_cents": 499,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "4,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "BP8WDV3T37N7",
-      "name": "Overcooked",
-      "discount": 80,
-      "orig_cents": 1599,
-      "final_cents": 319,
-      "orig_price_str": "15,99 €",
-      "final_price_str": "3,19 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9P4811KBD5R9",
-      "name": "JoJo's Bizarre Adventure: All-Star Battle R",
+      "appid": "C2N9CS4FS1QR",
+      "name": "Tom Clancy's Ghost Recon Wildlands",
       "discount": 80,
       "orig_cents": 4999,
       "final_cents": 999,
       "orig_price_str": "49,99 €",
       "final_price_str": "9,99 €",
-      "gamepass": ""
+      "gamepass": "PC + Xbox"
     },
     {
       "appid": "9N44WK3WV2HJ",
@@ -91,23 +91,23 @@
       "gamepass": ""
     },
     {
-      "appid": "9PP2NCZ72C79",
-      "name": "Overcooked! All You Can Eat",
-      "discount": 70,
-      "orig_cents": 3999,
-      "final_cents": 1199,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "11,99 €",
+      "appid": "BZC8PXK6S00G",
+      "name": "Assassin's Creed",
+      "discount": 75,
+      "orig_cents": 999,
+      "final_cents": 249,
+      "orig_price_str": "9,99 €",
+      "final_price_str": "2,49 €",
       "gamepass": ""
     },
     {
-      "appid": "9N0102B834ZM",
-      "name": "Fantasy Dash",
-      "discount": 68,
-      "orig_cents": 309,
-      "final_cents": 99,
-      "orig_price_str": "3,09 €",
-      "final_price_str": "0,99 €",
+      "appid": "9PBN02CTMRTH",
+      "name": "The Elder Scrolls V: Skyrim Anniversary Edition",
+      "discount": 67,
+      "orig_cents": 5499,
+      "final_cents": 1814,
+      "orig_price_str": "54,99 €",
+      "final_price_str": "18,14 €",
       "gamepass": ""
     },
     {
@@ -129,6 +129,16 @@
       "orig_price_str": "19,99 €",
       "final_price_str": "7,99 €",
       "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "9P42LWGMC7K4",
+      "name": "Assassin's Creed Shadows",
+      "discount": 60,
+      "orig_cents": 7999,
+      "final_cents": 3199,
+      "orig_price_str": "79,99 €",
+      "final_price_str": "31,99 €",
+      "gamepass": ""
     },
     {
       "appid": "9P6ZXP2ZRQCV",
@@ -188,16 +198,6 @@
       "final_cents": 4199,
       "orig_price_str": "69,99 €",
       "final_price_str": "41,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9MWQ4NQ5WX37",
-      "name": "Doki Doki Literature Club Plus!",
-      "discount": 33,
-      "orig_cents": 1499,
-      "final_cents": 1004,
-      "orig_price_str": "14,99 €",
-      "final_price_str": "10,04 €",
       "gamepass": ""
     },
     {
