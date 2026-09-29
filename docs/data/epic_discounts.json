@@ -1501,26 +1501,6 @@
       "final_price_str": "3,19 €"
     },
     {
-      "appid": "71592a2f10894f048d04afe0cd063149",
-      "namespace": "87945ed7ad5b4689acb230bef0f92d18",
-      "name": "Upaon A Snakes Journey",
-      "discount": 60,
-      "orig_cents": 199,
-      "final_cents": 79,
-      "orig_price_str": "1,99 €",
-      "final_price_str": "0,79 €"
-    },
-    {
-      "appid": "8ca783f3939e453ca456550ab72fc6c1",
-      "namespace": "d2b282a6b53e409a8f8329d3d3356f21",
-      "name": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
-      "discount": 60,
-      "orig_cents": 3999,
-      "final_cents": 1599,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "15,99 €"
-    },
-    {
       "appid": "fcf73f62e2464b9e9e248f72b465c1a3",
       "namespace": "10aa3c43a96642b3845f741a169c95b3",
       "name": "EARTH DEFENSE FORCE ６",
@@ -1784,6 +1764,16 @@
       "appid": "489755d403ba4e8b9298bdfa96f1b125",
       "namespace": "a4c3c3f2087744a8b43ba268837bd6f2",
       "name": "Exit: Left or Right",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "de05f60752584dc3bbfa89138c12cee2",
+      "namespace": "e1094f6a687543c9ab4543dcba655554",
+      "name": "Street Fighting Simulator",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -2851,6 +2841,16 @@
       "final_price_str": "12,59 €"
     },
     {
+      "appid": "9a8a198de3d14907aedf1e862419a4b5",
+      "namespace": "6ec7d089f18f4d1a8698dc490bed3743",
+      "name": "Backrooms The Forest",
+      "discount": 26,
+      "orig_cents": 89,
+      "final_cents": 66,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,66 €"
+    },
+    {
       "appid": "70b54067cc064acfb55039c63e392c18",
       "namespace": "835ee7e7b2914c579dda3dc05e44ebf4",
       "name": "Lamp Clicker",
@@ -3001,5 +3001,5 @@
       "final_price_str": "9,35 €"
     }
   ],
-  "total": 428
+  "total": 430
 }
