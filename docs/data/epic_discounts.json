@@ -231,16 +231,6 @@
       "final_price_str": "1,34 €"
     },
     {
-      "appid": "aad9b8c3f0f7404f94de645a0857fb85",
-      "namespace": "7d9cb4fa8c4b488d86c7e9dec37318d5",
-      "name": "Suicide Guy",
-      "discount": 90,
-      "orig_cents": 719,
-      "final_cents": 71,
-      "orig_price_str": "7,19 €",
-      "final_price_str": "0,71 €"
-    },
-    {
       "appid": "15a1d72c10ff46f396d9666f904ecb80",
       "namespace": "b4565296c22549e4830c13bc7506642d",
       "name": "FARCRY 6",
@@ -249,6 +239,16 @@
       "final_cents": 599,
       "orig_price_str": "59,99 €",
       "final_price_str": "5,99 €"
+    },
+    {
+      "appid": "c4fcf94df63b4db0b6f9c6eff77c1b10",
+      "namespace": "bf5708c386744107b8a8a24ac707dd0e",
+      "name": "Battlefield V Definitive Edition",
+      "discount": 90,
+      "orig_cents": 4999,
+      "final_cents": 499,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "4,99 €"
     },
     {
       "appid": "6de712080a284d0699b6502e4600c484",
@@ -1171,6 +1171,16 @@
       "final_price_str": "3,59 €"
     },
     {
+      "appid": "4a2158fa61c14c4f838350c573b6fdaa",
+      "namespace": "993226fad45b4f5e85fae066c6aa5fc5",
+      "name": "APICO",
+      "discount": 70,
+      "orig_cents": 1599,
+      "final_cents": 479,
+      "orig_price_str": "15,99 €",
+      "final_price_str": "4,79 €"
+    },
+    {
       "appid": "d6bc7c7b619e451da515e2f2731b8bc5",
       "namespace": "e8f7fa1572fd4c2a9e6cc855878684f9",
       "name": "Enypnion Redreamed",
@@ -1281,16 +1291,6 @@
       "final_price_str": "27,99 €"
     },
     {
-      "appid": "bd73c71db1a94add9fdc7b80c2166db5",
-      "namespace": "60ac50acc18b4b64bad86a84eb576c0e",
-      "name": "Vagnerun",
-      "discount": 60,
-      "orig_cents": 449,
-      "final_cents": 179,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "1,79 €"
-    },
-    {
       "appid": "4985149065774851b3f2cb7855fc7950",
       "namespace": "2730f9e6c3d442c6bb3ceb93027c9ba3",
       "name": "NEW MONOPOLY®",
@@ -1319,16 +1319,6 @@
       "final_cents": 1999,
       "orig_price_str": "49,99 €",
       "final_price_str": "19,99 €"
-    },
-    {
-      "appid": "9e65261d0cf74170b704c8b70ca59fc3",
-      "namespace": "64c04bc14ae04334bc9d6dcadbadaab2",
-      "name": "Vagneria",
-      "discount": 60,
-      "orig_cents": 449,
-      "final_cents": 179,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "1,79 €"
     },
     {
       "appid": "6af8944d232a457b897c18c815230c01",
@@ -2481,6 +2471,16 @@
       "final_price_str": "16,49 €"
     },
     {
+      "appid": "73777bec6edf4592a0fc2e74ecd62473",
+      "namespace": "ec47caf26e574aa882d96fc924afc291",
+      "name": "The Jackbox Party Starter",
+      "discount": 45,
+      "orig_cents": 1999,
+      "final_cents": 1099,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "10,99 €"
+    },
+    {
       "appid": "0f201075fab34d5a9cbca8efe736ecac",
       "namespace": "32c762b1296840549ae7570c44c84a80",
       "name": "Pawbay",
@@ -3001,5 +3001,5 @@
       "final_price_str": "9,35 €"
     }
   ],
-  "total": 431
+  "total": 428
 }

@@ -191,16 +191,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9PL9P3QZMRBM",
-      "name": "Starfield Premium Edition",
-      "discount": 40,
-      "orig_cents": 6999,
-      "final_cents": 4199,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "41,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9MWLQQK52CPP",
       "name": "The Exit 8",
       "discount": 30,
@@ -231,6 +221,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9N57PMNM3F55",
+      "name": "Assassin's Creed Black Flag Resynced Deluxe Edition",
+      "discount": 15,
+      "orig_cents": 6999,
+      "final_cents": 5949,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "59,49 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9PKS8XZC74X5",
       "name": "Hell Let Loose: Vietnam",
       "discount": 10,
@@ -251,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 806
+  "total": 909
 }
