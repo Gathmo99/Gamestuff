@@ -21,16 +21,6 @@
       "gamepass": ""
     },
     {
-      "appid": "C4BZ7X545J1T",
-      "name": "Worms W.M.D",
-      "discount": 90,
-      "orig_cents": 2999,
-      "final_cents": 299,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "2,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "BSXLFN5QQZSC",
       "name": "Watch Dogs®2",
       "discount": 90,
@@ -41,24 +31,34 @@
       "gamepass": "PC + Xbox"
     },
     {
-      "appid": "9P4811KBD5R9",
-      "name": "JoJo's Bizarre Adventure: All-Star Battle R",
-      "discount": 80,
-      "orig_cents": 4999,
-      "final_cents": 999,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "9,99 €",
+      "appid": "9P7M6CRC96J0",
+      "name": "IMMORTALS FENYX RISING - GOLD EDITION",
+      "discount": 90,
+      "orig_cents": 5999,
+      "final_cents": 599,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "5,99 €",
       "gamepass": ""
     },
     {
-      "appid": "9PHKPWK001RB",
-      "name": "The Escapists 2 - Game of the Year Edition",
-      "discount": 80,
-      "orig_cents": 2699,
-      "final_cents": 539,
-      "orig_price_str": "26,99 €",
-      "final_price_str": "5,39 €",
+      "appid": "9P9NVPF9KM3P",
+      "name": "MXGP 2020 - The Official Motocross Videogame",
+      "discount": 90,
+      "orig_cents": 2999,
+      "final_cents": 299,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "2,99 €",
       "gamepass": ""
+    },
+    {
+      "appid": "BVQ3V30ZXVT5",
+      "name": "Tom Clancy's The Division 2",
+      "discount": 85,
+      "orig_cents": 2999,
+      "final_cents": 449,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "4,49 €",
+      "gamepass": "PC + Xbox"
     },
     {
       "appid": "C2N9CS4FS1QR",
@@ -108,6 +108,16 @@
       "final_cents": 1814,
       "orig_price_str": "54,99 €",
       "final_price_str": "18,14 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NH5HHR5W9WX",
+      "name": "Worms Armageddon: Anniversary Edition",
+      "discount": 67,
+      "orig_cents": 2499,
+      "final_cents": 824,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "8,24 €",
       "gamepass": ""
     },
     {
@@ -172,7 +182,7 @@
     },
     {
       "appid": "C261457LCNMJ",
-      "name": "The Witcher 3: Wild Hunt – Complete Edition",
+      "name": "The Witcher 3: Wild Hunt — Remastered",
       "discount": 50,
       "orig_cents": 4999,
       "final_cents": 2499,
@@ -188,6 +198,16 @@
       "final_cents": 2499,
       "orig_price_str": "49,99 €",
       "final_price_str": "24,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9MWQ4NQ5WX37",
+      "name": "Doki Doki Literature Club Plus!",
+      "discount": 33,
+      "orig_cents": 1499,
+      "final_cents": 1004,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "10,04 €",
       "gamepass": ""
     },
     {
@@ -211,16 +231,6 @@
       "gamepass": "PC + Xbox"
     },
     {
-      "appid": "9NZG1T895SR4",
-      "name": "FEROCIOUS",
-      "discount": 20,
-      "orig_cents": 2499,
-      "final_cents": 1999,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "19,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9N57PMNM3F55",
       "name": "Assassin's Creed Black Flag Resynced Deluxe Edition",
       "discount": 15,
@@ -228,16 +238,6 @@
       "final_cents": 5949,
       "orig_price_str": "69,99 €",
       "final_price_str": "59,49 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9PKS8XZC74X5",
-      "name": "Hell Let Loose: Vietnam",
-      "discount": 10,
-      "orig_cents": 3999,
-      "final_cents": 3599,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "35,99 €",
       "gamepass": ""
     },
     {
@@ -251,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 909
+  "total": 710
 }

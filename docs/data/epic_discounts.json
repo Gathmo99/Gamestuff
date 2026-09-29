@@ -251,16 +251,6 @@
       "final_price_str": "4,99 €"
     },
     {
-      "appid": "6de712080a284d0699b6502e4600c484",
-      "namespace": "750727a7afd247478c8ba527de78cefd",
-      "name": "LoDR",
-      "discount": 85,
-      "orig_cents": 1349,
-      "final_cents": 202,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "2,02 €"
-    },
-    {
       "appid": "b7c6449af86c47c4a873a62d0e30c0dc",
       "namespace": "28b88370465c4c67b583b1b7d5c7e725",
       "name": "Fell in Love with a California Girl",
@@ -2994,6 +2984,16 @@
       "appid": "43e10e1cd62a43359e2cd6cbdafba157",
       "namespace": "a66389ad6c0145749e9b110194c2e8b5",
       "name": "BODY CAM 2026",
+      "discount": 20,
+      "orig_cents": 1169,
+      "final_cents": 935,
+      "orig_price_str": "11,69 €",
+      "final_price_str": "9,35 €"
+    },
+    {
+      "appid": "f954fc6639ed44769503298926ff163e",
+      "namespace": "9f0bc404e6504fb59e5bc266f75f880d",
+      "name": "Truck Simulator Cargo Driver 2026 - EURO",
       "discount": 20,
       "orig_cents": 1169,
       "final_cents": 935,
