@@ -61,6 +61,16 @@
       "gamepass": "PC + Xbox"
     },
     {
+      "appid": "9PBNGCVBGML0",
+      "name": "FARCRY 6",
+      "discount": 85,
+      "orig_cents": 6999,
+      "final_cents": 1049,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "10,49 €",
+      "gamepass": "Xbox"
+    },
+    {
       "appid": "C2N9CS4FS1QR",
       "name": "Tom Clancy's Ghost Recon Wildlands",
       "discount": 80,
@@ -161,16 +171,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9N9RV75RKSL5",
-      "name": "HITMAN World of Assassination Deluxe Edition",
-      "discount": 55,
-      "orig_cents": 9999,
-      "final_cents": 4499,
-      "orig_price_str": "99,99 €",
-      "final_price_str": "44,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9NKC1Z4Z92VN",
       "name": "Grand Theft Auto Online",
       "discount": 50,
@@ -251,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 706
+  "total": 703
 }

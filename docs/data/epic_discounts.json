@@ -311,6 +311,26 @@
       "final_price_str": "2,39 €"
     },
     {
+      "appid": "48d93d7352f64c8b8210db5b9e12cc5d",
+      "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
+      "name": "Total War: WARHAMMER III",
+      "discount": 85,
+      "orig_cents": 5999,
+      "final_cents": 899,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "8,99 €"
+    },
+    {
+      "appid": "a49971c7199b4059a8925542fdb6d347",
+      "namespace": "eb815835951e4165854edf057dfbacdd",
+      "name": "Not Tonight 2",
+      "discount": 85,
+      "orig_cents": 1599,
+      "final_cents": 239,
+      "orig_price_str": "15,99 €",
+      "final_price_str": "2,39 €"
+    },
+    {
       "appid": "58c01786974f4887a2af8c17453dcf44",
       "namespace": "f3e4631b2bb042ddb383f83e10ca0eb1",
       "name": "Poly Plaza 2",
@@ -941,6 +961,16 @@
       "final_price_str": "2,99 €"
     },
     {
+      "appid": "5eb235d12fbc42b88c030ce1797429af",
+      "namespace": "41ac9425cf1a4867b2b73c9838dbc6f2",
+      "name": "Nowhere Prophet",
+      "discount": 75,
+      "orig_cents": 1999,
+      "final_cents": 499,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "4,99 €"
+    },
+    {
       "appid": "ff8b6307daee4bda86136e17a0e759b2",
       "namespace": "319f44ad1aa041e58a0c8b4bed868adb",
       "name": "Need for Speed™ Payback - Deluxe Edition",
@@ -1549,16 +1579,6 @@
       "final_cents": 2639,
       "orig_price_str": "59,99 €",
       "final_price_str": "26,39 €"
-    },
-    {
-      "appid": "a0a4e6460d4548b38f100b31764dcacf",
-      "namespace": "46abcd0cbb8d49929e8cadd50d666547",
-      "name": "Commando:  Hell's Target 3D",
-      "discount": 55,
-      "orig_cents": 89,
-      "final_cents": 40,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,40 €"
     },
     {
       "appid": "5b65fe1a95c7491f990621f0006b8d38",
@@ -2531,16 +2551,6 @@
       "final_price_str": "9,71 €"
     },
     {
-      "appid": "1af24f22edb9429d897343f10948b6f6",
-      "namespace": "3a3992672bb141b1967bb14343c9fd22",
-      "name": "STORROR Parkour Pro",
-      "discount": 40,
-      "orig_cents": 2499,
-      "final_cents": 1499,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "14,99 €"
-    },
-    {
       "appid": "1eb05b912ea7490a9fb1946dc65268c6",
       "namespace": "833ef2482db54a19a83c264f5371f550",
       "name": "Eriksholm: The Stolen Dream",
@@ -2791,16 +2801,6 @@
       "final_price_str": "5,03 €"
     },
     {
-      "appid": "9c85260358bf4b0b904b918b83fb875f",
-      "namespace": "18acdc7f52434fef808ab4f2dee5b86a",
-      "name": "The Crust",
-      "discount": 30,
-      "orig_cents": 2699,
-      "final_cents": 1889,
-      "orig_price_str": "26,99 €",
-      "final_price_str": "18,89 €"
-    },
-    {
       "appid": "e309523a6fee42f39686a4c7fb275a5b",
       "namespace": "b06f6a823a51449893281d1b51038c22",
       "name": "Deck of Souls",
@@ -3001,5 +3001,5 @@
       "final_price_str": "11,99 €"
     }
   ],
-  "total": 426
+  "total": 423
 }
