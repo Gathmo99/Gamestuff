@@ -171,6 +171,16 @@
       "final_price_str": "2,99 €"
     },
     {
+      "appid": "cdab83484ebe44609fc8fe95ad5ec99d",
+      "namespace": "090ac4b263f44ea79418069fddfb0d9b",
+      "name": "Devil's Island",
+      "discount": 90,
+      "orig_cents": 1079,
+      "final_cents": 107,
+      "orig_price_str": "10,79 €",
+      "final_price_str": "1,07 €"
+    },
+    {
       "appid": "a7b8a3a7da9b42aba9d94d8d2096c1b7",
       "namespace": "4d7b7a63e2f4443bb29486d8f4db941b",
       "name": "Lysfanga: The Time Shift Warrior",
@@ -304,26 +314,6 @@
       "appid": "e6a2d9c2deb840ee8d90b4c6b59bb400",
       "namespace": "26b9eeb6f649400d9b1d0426b7de9823",
       "name": "Soccer Story",
-      "discount": 85,
-      "orig_cents": 1599,
-      "final_cents": 239,
-      "orig_price_str": "15,99 €",
-      "final_price_str": "2,39 €"
-    },
-    {
-      "appid": "48d93d7352f64c8b8210db5b9e12cc5d",
-      "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
-      "name": "Total War: WARHAMMER III",
-      "discount": 85,
-      "orig_cents": 5999,
-      "final_cents": 899,
-      "orig_price_str": "59,99 €",
-      "final_price_str": "8,99 €"
-    },
-    {
-      "appid": "a49971c7199b4059a8925542fdb6d347",
-      "namespace": "eb815835951e4165854edf057dfbacdd",
-      "name": "Not Tonight 2",
       "discount": 85,
       "orig_cents": 1599,
       "final_cents": 239,
@@ -519,6 +509,16 @@
       "final_cents": 399,
       "orig_price_str": "19,99 €",
       "final_price_str": "3,99 €"
+    },
+    {
+      "appid": "2f9b3f889f1c4500a312627e54842bd3",
+      "namespace": "f5f9d01a03724f3fbb7c4281fa39fb15",
+      "name": "The Mystery Of The Moon",
+      "discount": 80,
+      "orig_cents": 5399,
+      "final_cents": 1079,
+      "orig_price_str": "53,99 €",
+      "final_price_str": "10,79 €"
     },
     {
       "appid": "7deb3f39776e452a916203238b7f81d7",
@@ -961,16 +961,6 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "5eb235d12fbc42b88c030ce1797429af",
-      "namespace": "41ac9425cf1a4867b2b73c9838dbc6f2",
-      "name": "Nowhere Prophet",
-      "discount": 75,
-      "orig_cents": 1999,
-      "final_cents": 499,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "4,99 €"
-    },
-    {
       "appid": "ff8b6307daee4bda86136e17a0e759b2",
       "namespace": "319f44ad1aa041e58a0c8b4bed868adb",
       "name": "Need for Speed™ Payback - Deluxe Edition",
@@ -1279,16 +1269,6 @@
       "final_cents": 346,
       "orig_price_str": "9,89 €",
       "final_price_str": "3,46 €"
-    },
-    {
-      "appid": "535fe103b77b47b19bc80dc9d794b83e",
-      "namespace": "b9dc20c9c82142f39378eee96ab7aaf7",
-      "name": "Red Ronin",
-      "discount": 65,
-      "orig_cents": 599,
-      "final_cents": 209,
-      "orig_price_str": "5,99 €",
-      "final_price_str": "2,09 €"
     },
     {
       "appid": "3084d60748f543a1bb8d3854dde05d30",
@@ -2241,6 +2221,16 @@
       "final_price_str": "2,49 €"
     },
     {
+      "appid": "377aee4a2fc2432f8a4fe6101442f38b",
+      "namespace": "dc66053dbf6248cfbcb8c9a406b54dfb",
+      "name": "Red Planet Rampart",
+      "discount": 50,
+      "orig_cents": 1079,
+      "final_cents": 539,
+      "orig_price_str": "10,79 €",
+      "final_price_str": "5,39 €"
+    },
+    {
       "appid": "7fb9741a5bd44733a6e2c04d5f6e4c0e",
       "namespace": "d205843ad0a54884aead72ad4d50c161",
       "name": "Lost Artifacts 6: Mysterious Book Collector's Edition",
@@ -2751,6 +2741,16 @@
       "final_price_str": "6,29 €"
     },
     {
+      "appid": "0582d542bb6a4581af778d046485ecc0",
+      "namespace": "5a94d427238c47c98d57223d25c589d5",
+      "name": "Love in the books",
+      "discount": 30,
+      "orig_cents": 1169,
+      "final_cents": 818,
+      "orig_price_str": "11,69 €",
+      "final_price_str": "8,18 €"
+    },
+    {
       "appid": "f57e92bad03c40dcb49b14c0eb3d3ad3",
       "namespace": "f01e94386f3141d583b60da78e1bdd61",
       "name": "Copa City: Matchday Manager",
@@ -2794,6 +2794,16 @@
       "appid": "ef51fa7831a84fe1a8d3f1ba3d1b4f50",
       "namespace": "3dc8e81212584e74b3bcf40d2be80bca",
       "name": "Lucky Lord: The Coin Pusher of Fate",
+      "discount": 30,
+      "orig_cents": 719,
+      "final_cents": 503,
+      "orig_price_str": "7,19 €",
+      "final_price_str": "5,03 €"
+    },
+    {
+      "appid": "8dfd24605cf7452aa41db78c1900041a",
+      "namespace": "a5af1c76dbe24f589852db5ce0f87b0a",
+      "name": "Gasriesen Odyssey",
       "discount": 30,
       "orig_cents": 719,
       "final_cents": 503,
@@ -2989,17 +2999,7 @@
       "final_cents": 935,
       "orig_price_str": "11,69 €",
       "final_price_str": "9,35 €"
-    },
-    {
-      "appid": "12b4d1ade84749a798a6a03f7b7dafeb",
-      "namespace": "e83bf748d3ce4f0f8ccdedbb726afb6f",
-      "name": "Dealer's Life Legend",
-      "discount": 20,
-      "orig_cents": 1499,
-      "final_cents": 1199,
-      "orig_price_str": "14,99 €",
-      "final_price_str": "11,99 €"
     }
   ],
-  "total": 423
+  "total": 426
 }
