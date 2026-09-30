@@ -591,6 +591,16 @@
       "final_price_str": "1,99 €"
     },
     {
+      "appid": "fb08eca7e2bf4b9d9ec81741bd4cca7a",
+      "namespace": "a7f4119f59764bfa99910c8f232a6878",
+      "name": "Hot American Dream",
+      "discount": 75,
+      "orig_cents": 179,
+      "final_cents": 44,
+      "orig_price_str": "1,79 €",
+      "final_price_str": "0,44 €"
+    },
+    {
       "appid": "7a19e98f5f164af19df5617a2a7fcca3",
       "namespace": "0f21ad7c4d834ec4bb6d8d72b2e6ea4a",
       "name": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
@@ -614,16 +624,6 @@
       "appid": "abcfae76a18c401c8ae5b37c759f8e16",
       "namespace": "095bb72741aa4e18a069ce0d2739e941",
       "name": "DOORS OF HORROR",
-      "discount": 75,
-      "orig_cents": 179,
-      "final_cents": 44,
-      "orig_price_str": "1,79 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "8fd0a802ed5748119282bd1bb2a5be34",
-      "namespace": "5da4301570a24f5b866aeae92569e5e4",
-      "name": "MUSHROOMAN",
       "discount": 75,
       "orig_cents": 179,
       "final_cents": 44,
@@ -929,6 +929,16 @@
       "final_cents": 79,
       "orig_price_str": "3,19 €",
       "final_price_str": "0,79 €"
+    },
+    {
+      "appid": "95ce782135c541fba5e0dbf766980e66",
+      "namespace": "286af74903fa418d931df4916c59779d",
+      "name": "Princess Farmer",
+      "discount": 75,
+      "orig_cents": 1199,
+      "final_cents": 299,
+      "orig_price_str": "11,99 €",
+      "final_price_str": "2,99 €"
     },
     {
       "appid": "ff8b6307daee4bda86136e17a0e759b2",
@@ -1241,6 +1251,16 @@
       "final_price_str": "3,46 €"
     },
     {
+      "appid": "535fe103b77b47b19bc80dc9d794b83e",
+      "namespace": "b9dc20c9c82142f39378eee96ab7aaf7",
+      "name": "Red Ronin",
+      "discount": 65,
+      "orig_cents": 599,
+      "final_cents": 209,
+      "orig_price_str": "5,99 €",
+      "final_price_str": "2,09 €"
+    },
+    {
       "appid": "3084d60748f543a1bb8d3854dde05d30",
       "namespace": "49f558eae2784de4b462252750c7ec5d",
       "name": "Wave Gods: Ammo Night",
@@ -1501,6 +1521,26 @@
       "final_price_str": "3,19 €"
     },
     {
+      "appid": "71592a2f10894f048d04afe0cd063149",
+      "namespace": "87945ed7ad5b4689acb230bef0f92d18",
+      "name": "Upaon A Snakes Journey",
+      "discount": 60,
+      "orig_cents": 199,
+      "final_cents": 79,
+      "orig_price_str": "1,99 €",
+      "final_price_str": "0,79 €"
+    },
+    {
+      "appid": "8ca783f3939e453ca456550ab72fc6c1",
+      "namespace": "d2b282a6b53e409a8f8329d3d3356f21",
+      "name": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
+      "discount": 60,
+      "orig_cents": 3999,
+      "final_cents": 1599,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "15,99 €"
+    },
+    {
       "appid": "fcf73f62e2464b9e9e248f72b465c1a3",
       "namespace": "10aa3c43a96642b3845f741a169c95b3",
       "name": "EARTH DEFENSE FORCE ６",
@@ -1544,26 +1584,6 @@
       "appid": "f58162b0ccb44d6ab848b93a05ce3916",
       "namespace": "5a6446b8b3174eedaf4183b5033aca0e",
       "name": "Market Simulator: Miami Beach",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "2db823f45cb54bb4befffa676ce7b10a",
-      "namespace": "9f0fa810ec4c4378af102f379810f1e8",
-      "name": "Animatronics Playtime",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "a1ef8a92dd8b450ba4472b3cbf424b0c",
-      "namespace": "5ca95d21db94459293b04fe3799945e6",
-      "name": "100 Nights In The Forest",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1671,6 +1691,16 @@
       "final_price_str": "0,44 €"
     },
     {
+      "appid": "b931ef10acf4499f9dffcc3d8b9a2ddf",
+      "namespace": "02a7abe0a4c74a5281b526d92f43ee37",
+      "name": "Neon Driver",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
       "appid": "55d1643a7e0947ee9b73b2cc6501ed97",
       "namespace": "de2a49fbb000427fad5fdacaf40cd459",
       "name": "Snake Classic 3D Reborn",
@@ -1744,26 +1774,6 @@
       "appid": "50fc0bf4ed91420d8a3286ce9becb8c7",
       "namespace": "363d0b06fb134d5b8c2794f488a694b8",
       "name": "Bulletrooms",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "3a8c63f9271f4f07a186ee4f51896978",
-      "namespace": "42671f8f7f0d4810b1e4674f881824b5",
-      "name": "One Night With Kawaii",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "489755d403ba4e8b9298bdfa96f1b125",
-      "namespace": "a4c3c3f2087744a8b43ba268837bd6f2",
-      "name": "Exit: Left or Right",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -2381,16 +2391,6 @@
       "final_price_str": "29,99 €"
     },
     {
-      "appid": "52b6e69a165c4e10ba306f3b29a5579a",
-      "namespace": "ce37450ae2f9431cacb23244a0d8ac76",
-      "name": "PROTOBOT",
-      "discount": 46,
-      "orig_cents": 89,
-      "final_cents": 48,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,48 €"
-    },
-    {
       "appid": "a38e202381b545dfa7aa8ddbf3217f87",
       "namespace": "1666530d8fe54592a16b7e7f2a3d909c",
       "name": "Doctor Ximen Qing HD",
@@ -2861,16 +2861,6 @@
       "final_price_str": "2,01 €"
     },
     {
-      "appid": "852ce18fcbe74e80af5574e93e29a0c8",
-      "namespace": "6e43da2bca8f40ccb81fbb1057e7871a",
-      "name": "It Reaches",
-      "discount": 25,
-      "orig_cents": 1169,
-      "final_cents": 876,
-      "orig_price_str": "11,69 €",
-      "final_price_str": "8,76 €"
-    },
-    {
       "appid": "6f3bedcd3be64dfb862a3508b182108c",
       "namespace": "44b4312f660440909669494451497c93",
       "name": "Werde Kaiser! Mein Planetenimperium der Billionen Schönheiten",
@@ -2999,7 +2989,17 @@
       "final_cents": 935,
       "orig_price_str": "11,69 €",
       "final_price_str": "9,35 €"
+    },
+    {
+      "appid": "12b4d1ade84749a798a6a03f7b7dafeb",
+      "namespace": "e83bf748d3ce4f0f8ccdedbb726afb6f",
+      "name": "Dealer's Life Legend",
+      "discount": 20,
+      "orig_cents": 1499,
+      "final_cents": 1199,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "11,99 €"
     }
   ],
-  "total": 430
+  "total": 426
 }
