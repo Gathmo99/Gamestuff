@@ -81,26 +81,6 @@
       "gamepass": "PC + Xbox"
     },
     {
-      "appid": "9N44WK3WV2HJ",
-      "name": "Hell Let Loose",
-      "discount": 75,
-      "orig_cents": 4999,
-      "final_cents": 1249,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "12,49 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9MXRRMJHNK7L",
-      "name": "Hell Let Loose - Ultimate Edition",
-      "discount": 75,
-      "orig_cents": 6999,
-      "final_cents": 1749,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "17,49 €",
-      "gamepass": ""
-    },
-    {
       "appid": "BZC8PXK6S00G",
       "name": "Assassin's Creed",
       "discount": 75,
@@ -111,6 +91,16 @@
       "gamepass": ""
     },
     {
+      "appid": "C26NJ29TKZ1W",
+      "name": "Tom Clancy's Splinter Cell: Blacklist",
+      "discount": 70,
+      "orig_cents": 1999,
+      "final_cents": 599,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "5,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9PBN02CTMRTH",
       "name": "The Elder Scrolls V: Skyrim Anniversary Edition",
       "discount": 67,
@@ -118,16 +108,6 @@
       "final_cents": 1814,
       "orig_price_str": "54,99 €",
       "final_price_str": "18,14 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9NH5HHR5W9WX",
-      "name": "Worms Armageddon: Anniversary Edition",
-      "discount": 67,
-      "orig_cents": 2499,
-      "final_cents": 824,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "8,24 €",
       "gamepass": ""
     },
     {
@@ -159,6 +139,16 @@
       "orig_price_str": "79,99 €",
       "final_price_str": "31,99 €",
       "gamepass": ""
+    },
+    {
+      "appid": "9NKX70BBCDRN",
+      "name": "Forza Horizon 5 Standard Edition",
+      "discount": 60,
+      "orig_cents": 6999,
+      "final_cents": 2799,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "27,99 €",
+      "gamepass": "PC + Xbox"
     },
     {
       "appid": "9P6ZXP2ZRQCV",
@@ -231,6 +221,16 @@
       "gamepass": "PC + Xbox"
     },
     {
+      "appid": "9N6J4RNFPKKL",
+      "name": "Halo: Campaign Evolved – Standard Edition",
+      "discount": 20,
+      "orig_cents": 5999,
+      "final_cents": 4799,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "47,99 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
       "appid": "9N57PMNM3F55",
       "name": "Assassin's Creed Black Flag Resynced Deluxe Edition",
       "discount": 15,
@@ -251,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 696
+  "total": 731
 }
