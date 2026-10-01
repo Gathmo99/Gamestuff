@@ -91,6 +91,26 @@
       "gamepass": ""
     },
     {
+      "appid": "BQ1W1T1FC14W",
+      "name": "The Elder Scrolls V: Skyrim Special Edition",
+      "discount": 75,
+      "orig_cents": 3999,
+      "final_cents": 999,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "9,99 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "BVJLKDG2TX8H",
+      "name": "Overcooked! 2",
+      "discount": 75,
+      "orig_cents": 2499,
+      "final_cents": 624,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "6,24 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
       "appid": "C26NJ29TKZ1W",
       "name": "Tom Clancy's Splinter Cell: Blacklist",
       "discount": 70,
@@ -151,26 +171,6 @@
       "gamepass": "PC + Xbox"
     },
     {
-      "appid": "9P6ZXP2ZRQCV",
-      "name": "Grand Theft Auto V Enhanced (PC) & CashCard „Der Weiße Hai“ im Bundle",
-      "discount": 55,
-      "orig_cents": 4499,
-      "final_cents": 2024,
-      "orig_price_str": "44,99 €",
-      "final_price_str": "20,24 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9NKC1Z4Z92VN",
-      "name": "Grand Theft Auto Online",
-      "discount": 50,
-      "orig_cents": 1999,
-      "final_cents": 999,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "9,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "C261457LCNMJ",
       "name": "The Witcher 3: Wild Hunt — Remastered",
       "discount": 50,
@@ -181,26 +181,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9NQ0MVSLV0G7",
-      "name": "Grand Theft Auto V & CashCard „Der Weiße Hai“ im Bundle",
-      "discount": 50,
-      "orig_cents": 4999,
-      "final_cents": 2499,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "24,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9MWQ4NQ5WX37",
-      "name": "Doki Doki Literature Club Plus!",
-      "discount": 33,
-      "orig_cents": 1499,
-      "final_cents": 1004,
-      "orig_price_str": "14,99 €",
-      "final_price_str": "10,04 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9MWLQQK52CPP",
       "name": "The Exit 8",
       "discount": 30,
@@ -208,6 +188,16 @@
       "final_cents": 279,
       "orig_price_str": "3,99 €",
       "final_price_str": "2,79 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9P3PT7PQJD0M",
+      "name": "HELLDIVERS™ 2",
+      "discount": 25,
+      "orig_cents": 3999,
+      "final_cents": 2999,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "29,99 €",
       "gamepass": ""
     },
     {
@@ -249,7 +239,17 @@
       "orig_price_str": "59,99 €",
       "final_price_str": "53,99 €",
       "gamepass": ""
+    },
+    {
+      "appid": "9MT63LSFZPDL",
+      "name": "Moving Simulator",
+      "discount": 10,
+      "orig_cents": 799,
+      "final_cents": 719,
+      "orig_price_str": "7,99 €",
+      "final_price_str": "7,19 €",
+      "gamepass": ""
     }
   ],
-  "total": 731
+  "total": 685
 }
