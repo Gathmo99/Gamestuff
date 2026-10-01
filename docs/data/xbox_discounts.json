@@ -41,6 +41,16 @@
       "gamepass": ""
     },
     {
+      "appid": "BZFK7WNK7R4M",
+      "name": "Watch Dogs®2 – Gold Edition",
+      "discount": 90,
+      "orig_cents": 7999,
+      "final_cents": 799,
+      "orig_price_str": "79,99 €",
+      "final_price_str": "7,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9P9NVPF9KM3P",
       "name": "MXGP 2020 - The Official Motocross Videogame",
       "discount": 90,
@@ -48,6 +58,16 @@
       "final_cents": 299,
       "orig_price_str": "29,99 €",
       "final_price_str": "2,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "BXZG8RW2ZMNC",
+      "name": "Steep X Games Gold Edition",
+      "discount": 90,
+      "orig_cents": 3999,
+      "final_cents": 399,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "3,99 €",
       "gamepass": ""
     },
     {
@@ -69,6 +89,16 @@
       "orig_price_str": "69,99 €",
       "final_price_str": "10,49 €",
       "gamepass": "Xbox"
+    },
+    {
+      "appid": "C2127MDWMZTB",
+      "name": "WATCH_DOGS™ COMPLETE EDITION",
+      "discount": 85,
+      "orig_cents": 2999,
+      "final_cents": 449,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "4,49 €",
+      "gamepass": ""
     },
     {
       "appid": "C2N9CS4FS1QR",
@@ -101,14 +131,14 @@
       "gamepass": "PC + Xbox"
     },
     {
-      "appid": "BVJLKDG2TX8H",
-      "name": "Overcooked! 2",
+      "appid": "BP58JN2GVQS8",
+      "name": "Tom Clancy's Splinter Cell® Conviction™",
       "discount": 75,
-      "orig_cents": 2499,
-      "final_cents": 624,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "6,24 €",
-      "gamepass": "PC + Xbox"
+      "orig_cents": 1999,
+      "final_cents": 499,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "4,99 €",
+      "gamepass": ""
     },
     {
       "appid": "C26NJ29TKZ1W",
@@ -141,16 +171,6 @@
       "gamepass": "PC + Xbox"
     },
     {
-      "appid": "9PB3RHWXB9MR",
-      "name": "Tom Clancy‘s Rainbow Six Siege – Elite Edition",
-      "discount": 60,
-      "orig_cents": 1999,
-      "final_cents": 799,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "7,99 €",
-      "gamepass": "PC + Xbox"
-    },
-    {
       "appid": "9P42LWGMC7K4",
       "name": "Assassin's Creed Shadows",
       "discount": 60,
@@ -159,6 +179,16 @@
       "orig_price_str": "79,99 €",
       "final_price_str": "31,99 €",
       "gamepass": ""
+    },
+    {
+      "appid": "9PB3RHWXB9MR",
+      "name": "Tom Clancy‘s Rainbow Six Siege – Elite Edition",
+      "discount": 60,
+      "orig_cents": 1999,
+      "final_cents": 799,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "7,99 €",
+      "gamepass": "PC + Xbox"
     },
     {
       "appid": "9NKX70BBCDRN",
@@ -211,16 +241,6 @@
       "gamepass": "PC + Xbox"
     },
     {
-      "appid": "9N6J4RNFPKKL",
-      "name": "Halo: Campaign Evolved – Standard Edition",
-      "discount": 20,
-      "orig_cents": 5999,
-      "final_cents": 4799,
-      "orig_price_str": "59,99 €",
-      "final_price_str": "47,99 €",
-      "gamepass": "PC + Xbox"
-    },
-    {
       "appid": "9N57PMNM3F55",
       "name": "Assassin's Creed Black Flag Resynced Deluxe Edition",
       "discount": 15,
@@ -229,27 +249,7 @@
       "orig_price_str": "69,99 €",
       "final_price_str": "59,49 €",
       "gamepass": ""
-    },
-    {
-      "appid": "9MXQ1PFK7NC0",
-      "name": "Assassin's Creed Black Flag Resynced",
-      "discount": 10,
-      "orig_cents": 5999,
-      "final_cents": 5399,
-      "orig_price_str": "59,99 €",
-      "final_price_str": "53,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9MT63LSFZPDL",
-      "name": "Moving Simulator",
-      "discount": 10,
-      "orig_cents": 799,
-      "final_cents": 719,
-      "orig_price_str": "7,99 €",
-      "final_price_str": "7,19 €",
-      "gamepass": ""
     }
   ],
-  "total": 685
+  "total": 687
 }

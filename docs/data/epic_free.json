@@ -1,16 +1,16 @@
 {
   "items": [
     {
-      "appid": "7c14bf0cffdd43be968fdcf28e5af653",
-      "name": "Astrea Six Sided Oracles",
-      "orig_cents": 2239,
-      "orig_price_str": "22,39 €"
+      "appid": "7ae00c3e89174012b175cc73b4737723",
+      "name": "System Shock 2: 25th Anniversary Remaster",
+      "orig_cents": 2699,
+      "orig_price_str": "26,99 €"
     },
     {
-      "appid": "6d99eae44d724baf84d6261a7a0f05d2",
-      "name": "Mechabellum",
-      "orig_cents": 1479,
-      "orig_price_str": "14,79 €"
+      "appid": "af4c34934afe4db0870b8a1d82dceb94",
+      "name": "BURIED STARS",
+      "orig_cents": 3399,
+      "orig_price_str": "33,99 €"
     }
   ]
 }
