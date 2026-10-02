@@ -641,6 +641,16 @@
       "final_price_str": "5,99 €"
     },
     {
+      "appid": "643b7a2210bb4f4f97d5c96b6af3995f",
+      "namespace": "08c03f2a2b794478a6b73c0a3e9b2b29",
+      "name": "Bud Spencer and Terence Hill – Slaps and Beans",
+      "discount": 77,
+      "orig_cents": 1998,
+      "final_cents": 459,
+      "orig_price_str": "19,98 €",
+      "final_price_str": "4,59 €"
+    },
+    {
       "appid": "fb08eca7e2bf4b9d9ec81741bd4cca7a",
       "namespace": "a7f4119f59764bfa99910c8f232a6878",
       "name": "Hot American Dream",
@@ -2701,6 +2711,16 @@
       "final_price_str": "3,49 €"
     },
     {
+      "appid": "4416296a17d445ea9587adde810f8324",
+      "namespace": "a17543496ad14e79809aa99ca972d478",
+      "name": "Escape from Duckov",
+      "discount": 30,
+      "orig_cents": 1799,
+      "final_cents": 1259,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "12,59 €"
+    },
+    {
       "appid": "5284bbdea101419fbb0cb5c76d43da08",
       "namespace": "cac94ef220c44773a29ebc3804c26d39",
       "name": "The Dream Within",
@@ -2941,16 +2961,6 @@
       "final_price_str": "9,35 €"
     },
     {
-      "appid": "43e10e1cd62a43359e2cd6cbdafba157",
-      "namespace": "a66389ad6c0145749e9b110194c2e8b5",
-      "name": "BODY CAM 2026",
-      "discount": 20,
-      "orig_cents": 1169,
-      "final_cents": 935,
-      "orig_price_str": "11,69 €",
-      "final_price_str": "9,35 €"
-    },
-    {
       "appid": "0b255d47e9334a28a07291ff5dc04f1b",
       "namespace": "ae86370297884eb18da907ab1e93c4de",
       "name": "Our Free World",
@@ -2989,17 +2999,7 @@
       "final_cents": 863,
       "orig_price_str": "10,79 €",
       "final_price_str": "8,63 €"
-    },
-    {
-      "appid": "b114f13ba18d40ee97cf7a01db0c4d2b",
-      "namespace": "a7df0d0665164dfba4ad2fd8c3f4c67d",
-      "name": "Comedy Night",
-      "discount": 20,
-      "orig_cents": 449,
-      "final_cents": 359,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "3,59 €"
     }
   ],
-  "total": 355
+  "total": 354
 }
