@@ -601,16 +601,6 @@
       "final_price_str": "1,99 €"
     },
     {
-      "appid": "82b6c15d49f54a4685ee826f6c26c0a9",
-      "namespace": "6a9d6df3f6f74983a7d77861ccfcf50b",
-      "name": "Ranch Simulator",
-      "discount": 80,
-      "orig_cents": 2099,
-      "final_cents": 419,
-      "orig_price_str": "20,99 €",
-      "final_price_str": "4,19 €"
-    },
-    {
       "appid": "fb08eca7e2bf4b9d9ec81741bd4cca7a",
       "namespace": "a7f4119f59764bfa99910c8f232a6878",
       "name": "Hot American Dream",
@@ -2999,7 +2989,17 @@
       "final_cents": 359,
       "orig_price_str": "4,49 €",
       "final_price_str": "3,59 €"
+    },
+    {
+      "appid": "ae31602283a34767aa8c882dfdc63f8b",
+      "namespace": "25ec506837b24d7287733af0621909dc",
+      "name": "Dead End: Escape Your Fears",
+      "discount": 20,
+      "orig_cents": 1799,
+      "final_cents": 1439,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "14,39 €"
     }
   ],
-  "total": 365
+  "total": 366
 }
