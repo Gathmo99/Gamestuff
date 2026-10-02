@@ -532,7 +532,7 @@
       "final_price_str": "7,49 €"
     },
     {
-      "appid": "EP8026-CUSA32095_00-7260435753656631",
+      "appid": "EP8026-PPSA06408_00-6769334895654571",
       "name": "Trifox",
       "discount": 75,
       "orig_cents": 1999,
@@ -541,7 +541,7 @@
       "final_price_str": "4,99 €"
     },
     {
-      "appid": "EP8026-PPSA06408_00-6769334895654571",
+      "appid": "EP8026-CUSA32095_00-7260435753656631",
       "name": "Trifox",
       "discount": 75,
       "orig_cents": 1999,
@@ -577,7 +577,7 @@
       "final_price_str": "1,49 €"
     },
     {
-      "appid": "EP4385-PPSA05594_00-KAOLVL0100000000",
+      "appid": "EP4385-CUSA30891_00-KAOLVL0100000000",
       "name": "Kao the Kangaroo: Oh! Well DLC",
       "discount": 75,
       "orig_cents": 499,
@@ -586,7 +586,7 @@
       "final_price_str": "1,24 €"
     },
     {
-      "appid": "EP4385-CUSA30891_00-KAOLVL0100000000",
+      "appid": "EP4385-PPSA05594_00-KAOLVL0100000000",
       "name": "Kao the Kangaroo: Oh! Well DLC",
       "discount": 75,
       "orig_cents": 499,
@@ -2512,7 +2512,7 @@
       "final_price_str": "8,99 €"
     },
     {
-      "appid": "EP3446-PPSA07370_00-7964977575636485",
+      "appid": "EP3446-CUSA33324_00-3151337674646164",
       "name": "MADiSON",
       "discount": 40,
       "orig_cents": 3499,
@@ -2521,7 +2521,7 @@
       "final_price_str": "20,99 €"
     },
     {
-      "appid": "EP3446-CUSA33324_00-3151337674646164",
+      "appid": "EP3446-PPSA07370_00-7964977575636485",
       "name": "MADiSON",
       "discount": 40,
       "orig_cents": 3499,
