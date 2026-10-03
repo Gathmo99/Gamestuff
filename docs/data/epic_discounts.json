@@ -241,16 +241,6 @@
       "final_price_str": "4,99 €"
     },
     {
-      "appid": "a85bd01b67184c4c83f03f05404e07a8",
-      "namespace": "52f57f57120c440fad9bfa0e6c279317",
-      "name": "Battlefield™ 2042",
-      "discount": 90,
-      "orig_cents": 5999,
-      "final_cents": 599,
-      "orig_price_str": "59,99 €",
-      "final_price_str": "5,99 €"
-    },
-    {
       "appid": "b7c6449af86c47c4a873a62d0e30c0dc",
       "namespace": "28b88370465c4c67b583b1b7d5c7e725",
       "name": "Fell in Love with a California Girl",
@@ -321,29 +311,19 @@
       "final_price_str": "4,49 €"
     },
     {
+      "appid": "814dc3d7620b4003b35af562f1d1aff5",
+      "namespace": "087e76c9e4ba4fc8bacc75b794cc27b2",
+      "name": "What The Duck",
+      "discount": 85,
+      "orig_cents": 1999,
+      "final_cents": 299,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "2,99 €"
+    },
+    {
       "appid": "e6a2d9c2deb840ee8d90b4c6b59bb400",
       "namespace": "26b9eeb6f649400d9b1d0426b7de9823",
       "name": "Soccer Story",
-      "discount": 85,
-      "orig_cents": 1599,
-      "final_cents": 239,
-      "orig_price_str": "15,99 €",
-      "final_price_str": "2,39 €"
-    },
-    {
-      "appid": "48d93d7352f64c8b8210db5b9e12cc5d",
-      "namespace": "dda64c2956b54f1ba3cd97f6aaee775f",
-      "name": "Total War: WARHAMMER III",
-      "discount": 85,
-      "orig_cents": 5999,
-      "final_cents": 899,
-      "orig_price_str": "59,99 €",
-      "final_price_str": "8,99 €"
-    },
-    {
-      "appid": "a49971c7199b4059a8925542fdb6d347",
-      "namespace": "eb815835951e4165854edf057dfbacdd",
-      "name": "Not Tonight 2",
       "discount": 85,
       "orig_cents": 1599,
       "final_cents": 239,
@@ -571,6 +551,16 @@
       "final_price_str": "3,99 €"
     },
     {
+      "appid": "1fa2bf1e908f4b62a5772b6daefc2a19",
+      "namespace": "664885023b1443f799f03a9b94937fda",
+      "name": "Tools Up! Ultimate Edition",
+      "discount": 80,
+      "orig_cents": 3139,
+      "final_cents": 627,
+      "orig_price_str": "31,39 €",
+      "final_price_str": "6,27 €"
+    },
+    {
       "appid": "2f9b3f889f1c4500a312627e54842bd3",
       "namespace": "f5f9d01a03724f3fbb7c4281fa39fb15",
       "name": "The Mystery Of The Moon",
@@ -601,6 +591,36 @@
       "final_price_str": "3,23 €"
     },
     {
+      "appid": "62ec36dad2734ad0b72f2caaaebec3ef",
+      "namespace": "5897959368ac4350989ed0bdef86e78d",
+      "name": "The Hong Kong Massacre",
+      "discount": 80,
+      "orig_cents": 1999,
+      "final_cents": 399,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "3,99 €"
+    },
+    {
+      "appid": "eebbc1f3b1d349c0a163ed82fe7795bd",
+      "namespace": "fae3c63acffa4e4b8e2401ba0bb9b92c",
+      "name": "Splatter - Zombiecalypse Now",
+      "discount": 80,
+      "orig_cents": 799,
+      "final_cents": 159,
+      "orig_price_str": "7,99 €",
+      "final_price_str": "1,59 €"
+    },
+    {
+      "appid": "42f8d140e48d4e3fadc7fb30ed8b945a",
+      "namespace": "fd92e8d792904875afa7e85614ae6072",
+      "name": "ATONE: Heart of the Elder Tree",
+      "discount": 80,
+      "orig_cents": 1499,
+      "final_cents": 299,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "2,99 €"
+    },
+    {
       "appid": "cbbb30f87bdf4859bc9194780d86b03f",
       "namespace": "9e46ce76e796420a89e04e0d6cad61f4",
       "name": "Effie",
@@ -619,26 +639,6 @@
       "final_cents": 199,
       "orig_price_str": "9,99 €",
       "final_price_str": "1,99 €"
-    },
-    {
-      "appid": "82b6c15d49f54a4685ee826f6c26c0a9",
-      "namespace": "6a9d6df3f6f74983a7d77861ccfcf50b",
-      "name": "Ranch Simulator",
-      "discount": 80,
-      "orig_cents": 2099,
-      "final_cents": 419,
-      "orig_price_str": "20,99 €",
-      "final_price_str": "4,19 €"
-    },
-    {
-      "appid": "4f5fc46773204263addc7aaa76601b4a",
-      "namespace": "a83aedcdb7304b51802d41c5ca308ef2",
-      "name": "Farmer's Dynasty",
-      "discount": 80,
-      "orig_cents": 2999,
-      "final_cents": 599,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "5,99 €"
     },
     {
       "appid": "fb08eca7e2bf4b9d9ec81741bd4cca7a",
@@ -861,36 +861,6 @@
       "final_price_str": "0,79 €"
     },
     {
-      "appid": "95ce782135c541fba5e0dbf766980e66",
-      "namespace": "286af74903fa418d931df4916c59779d",
-      "name": "Princess Farmer",
-      "discount": 75,
-      "orig_cents": 1199,
-      "final_cents": 299,
-      "orig_price_str": "11,99 €",
-      "final_price_str": "2,99 €"
-    },
-    {
-      "appid": "5eb235d12fbc42b88c030ce1797429af",
-      "namespace": "41ac9425cf1a4867b2b73c9838dbc6f2",
-      "name": "Nowhere Prophet",
-      "discount": 75,
-      "orig_cents": 1999,
-      "final_cents": 499,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "4,99 €"
-    },
-    {
-      "appid": "bb3ce2b4668b4b22aae989f4508f0b71",
-      "namespace": "0c321ac6d5fe49139c153253b60702f4",
-      "name": "Total War: WARHAMMER",
-      "discount": 75,
-      "orig_cents": 5999,
-      "final_cents": 1499,
-      "orig_price_str": "59,99 €",
-      "final_price_str": "14,99 €"
-    },
-    {
       "appid": "ff8b6307daee4bda86136e17a0e759b2",
       "namespace": "319f44ad1aa041e58a0c8b4bed868adb",
       "name": "Need for Speed™ Payback - Deluxe Edition",
@@ -1011,6 +981,26 @@
       "final_price_str": "5,09 €"
     },
     {
+      "appid": "295c0629ab7543059028396a2bc0451b",
+      "namespace": "81d1fa85a9e34c6bbd0b9ba93cf39371",
+      "name": "Everdream Valley",
+      "discount": 70,
+      "orig_cents": 2499,
+      "final_cents": 749,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "7,49 €"
+    },
+    {
+      "appid": "58060b5bbf564d72816e141474c253a9",
+      "namespace": "f85394bc37b94bebaed95a675b0e6e82",
+      "name": "Flame Keeper",
+      "discount": 70,
+      "orig_cents": 1199,
+      "final_cents": 359,
+      "orig_price_str": "11,99 €",
+      "final_price_str": "3,59 €"
+    },
+    {
       "appid": "618061bfbbf741c899c1b8cbfbeb94dd",
       "namespace": "7c28c10036b04d78b04f614e21e116e3",
       "name": "Onsen Master",
@@ -1081,6 +1071,16 @@
       "final_price_str": "6,99 €"
     },
     {
+      "appid": "61b530b54ce04ddc970d1836954927bf",
+      "namespace": "c3a896e5dfd740309a3069cb32835592",
+      "name": "The Cub",
+      "discount": 65,
+      "orig_cents": 1499,
+      "final_cents": 524,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "5,24 €"
+    },
+    {
       "appid": "5f20f2a5f50847fb9aec86de523cc940",
       "namespace": "e9573f687fb24b56ba22562657ef1225",
       "name": "Need for Speed™ Rivals: Complete Edition",
@@ -1109,26 +1109,6 @@
       "final_cents": 346,
       "orig_price_str": "9,89 €",
       "final_price_str": "3,46 €"
-    },
-    {
-      "appid": "535fe103b77b47b19bc80dc9d794b83e",
-      "namespace": "b9dc20c9c82142f39378eee96ab7aaf7",
-      "name": "Red Ronin",
-      "discount": 65,
-      "orig_cents": 599,
-      "final_cents": 209,
-      "orig_price_str": "5,99 €",
-      "final_price_str": "2,09 €"
-    },
-    {
-      "appid": "d3d423fc1a58400fb08443c9942756af",
-      "namespace": "d74efb08c7f449928fcdfdba1dcbda48",
-      "name": "Let's Build a Zoo",
-      "discount": 65,
-      "orig_cents": 1599,
-      "final_cents": 559,
-      "orig_price_str": "15,99 €",
-      "final_price_str": "5,59 €"
     },
     {
       "appid": "356ff57fd07a437bb0316e5262a21bfa",
@@ -1251,6 +1231,16 @@
       "final_price_str": "5,39 €"
     },
     {
+      "appid": "af98bd7a8d444d98b878df1877972b3b",
+      "namespace": "d705b04f61c04c5ebe30c7314d34a377",
+      "name": "Operation Polygon Storm",
+      "discount": 60,
+      "orig_cents": 1499,
+      "final_cents": 599,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "5,99 €"
+    },
+    {
       "appid": "6af8944d232a457b897c18c815230c01",
       "namespace": "f6abe1ada70746a9b45ed1e806bca7e2",
       "name": "Dungeon Keeper™ 2",
@@ -1309,6 +1299,16 @@
       "final_cents": 71,
       "orig_price_str": "1,79 €",
       "final_price_str": "0,71 €"
+    },
+    {
+      "appid": "bfc63d2f960a40ab935e2b69a58255ba",
+      "namespace": "b5b28db11da348249e78e1ed040d0368",
+      "name": "Ready.Steady.Ship!",
+      "discount": 60,
+      "orig_cents": 1499,
+      "final_cents": 599,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "5,99 €"
     },
     {
       "appid": "dfa6ef06dada4025b0fb93a1802ccbed",
@@ -1469,16 +1469,6 @@
       "final_cents": 79,
       "orig_price_str": "1,99 €",
       "final_price_str": "0,79 €"
-    },
-    {
-      "appid": "c2d0976209bd4407a5e79b5062ed1850",
-      "namespace": "9a66c93dabb74d3aaf910fa7f23c64fd",
-      "name": "Diplomacy is Not an Option",
-      "discount": 60,
-      "orig_cents": 2899,
-      "final_cents": 1159,
-      "orig_price_str": "28,99 €",
-      "final_price_str": "11,59 €"
     },
     {
       "appid": "fcf73f62e2464b9e9e248f72b465c1a3",
@@ -2831,6 +2821,16 @@
       "final_price_str": "2,01 €"
     },
     {
+      "appid": "697e10728b8d442da997f4f562e2bf31",
+      "namespace": "a07b9f4519464d1b92b620320e37138b",
+      "name": "Gallipoli",
+      "discount": 25,
+      "orig_cents": 2999,
+      "final_cents": 2249,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "22,49 €"
+    },
+    {
       "appid": "6f3bedcd3be64dfb862a3508b182108c",
       "namespace": "44b4312f660440909669494451497c93",
       "name": "Werde Kaiser! Mein Planetenimperium der Billionen Schönheiten",
@@ -3001,5 +3001,5 @@
       "final_price_str": "8,63 €"
     }
   ],
-  "total": 355
+  "total": 369
 }
