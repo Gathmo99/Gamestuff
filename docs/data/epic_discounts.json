@@ -641,16 +641,6 @@
       "final_price_str": "5,99 €"
     },
     {
-      "appid": "643b7a2210bb4f4f97d5c96b6af3995f",
-      "namespace": "08c03f2a2b794478a6b73c0a3e9b2b29",
-      "name": "Bud Spencer and Terence Hill – Slaps and Beans",
-      "discount": 77,
-      "orig_cents": 1998,
-      "final_cents": 459,
-      "orig_price_str": "19,98 €",
-      "final_price_str": "4,59 €"
-    },
-    {
       "appid": "fb08eca7e2bf4b9d9ec81741bd4cca7a",
       "namespace": "a7f4119f59764bfa99910c8f232a6878",
       "name": "Hot American Dream",
@@ -1299,6 +1289,16 @@
       "final_cents": 215,
       "orig_price_str": "5,39 €",
       "final_price_str": "2,15 €"
+    },
+    {
+      "appid": "f4550b821c34409b8b3ceb0414881d1f",
+      "namespace": "1409385ad20c4ba48849a6cc0973db4a",
+      "name": "Boti - Byteland Overclocked",
+      "discount": 60,
+      "orig_cents": 1799,
+      "final_cents": 719,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "7,19 €"
     },
     {
       "appid": "512ceace5844474bb2415d0bc8dab40e",
@@ -3001,5 +3001,5 @@
       "final_price_str": "8,63 €"
     }
   ],
-  "total": 354
+  "total": 355
 }
