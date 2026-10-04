@@ -861,6 +861,16 @@
       "final_price_str": "0,79 €"
     },
     {
+      "appid": "95ce782135c541fba5e0dbf766980e66",
+      "namespace": "286af74903fa418d931df4916c59779d",
+      "name": "Princess Farmer",
+      "discount": 75,
+      "orig_cents": 1199,
+      "final_cents": 299,
+      "orig_price_str": "11,99 €",
+      "final_price_str": "2,99 €"
+    },
+    {
       "appid": "ff8b6307daee4bda86136e17a0e759b2",
       "namespace": "319f44ad1aa041e58a0c8b4bed868adb",
       "name": "Need for Speed™ Payback - Deluxe Edition",
@@ -1511,6 +1521,16 @@
       "final_price_str": "0,44 €"
     },
     {
+      "appid": "0f7637234bb74ed3827e5e22a0041886",
+      "namespace": "8e96d0390a4f4bddb9370875354dbfaf",
+      "name": "Femboy Forest",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
       "appid": "f58162b0ccb44d6ab848b93a05ce3916",
       "namespace": "5a6446b8b3174eedaf4183b5033aca0e",
       "name": "Market Simulator: Miami Beach",
@@ -1724,16 +1744,6 @@
       "appid": "330d7cd8f4a74edaad68e3c2f2004d3e",
       "namespace": "24300a7a071a4b6f9c0ad1b2dbc6883b",
       "name": "Adventure Forest: Rabbit Story",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "50fc0bf4ed91420d8a3286ce9becb8c7",
-      "namespace": "363d0b06fb134d5b8c2794f488a694b8",
-      "name": "Bulletrooms",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -2049,16 +2059,6 @@
       "final_cents": 899,
       "orig_price_str": "17,99 €",
       "final_price_str": "8,99 €"
-    },
-    {
-      "appid": "637b02b5abcc458b9deb85d397facca1",
-      "namespace": "62502c9be51443498f3e4da4a68fc804",
-      "name": "Directive Zero",
-      "discount": 50,
-      "orig_cents": 449,
-      "final_cents": 224,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "2,24 €"
     },
     {
       "appid": "25aa14df3f40465c8fb997de5d5cf8fe",
@@ -3001,5 +3001,5 @@
       "final_price_str": "8,63 €"
     }
   ],
-  "total": 369
+  "total": 368
 }
