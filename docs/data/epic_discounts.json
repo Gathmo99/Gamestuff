@@ -681,6 +681,16 @@
       "final_price_str": "0,44 €"
     },
     {
+      "appid": "5ea0c80f094c493a9d726a12b482eda8",
+      "namespace": "6952f77c70cf43e6b61e312d7aa60a82",
+      "name": "001 Game Creator",
+      "discount": 75,
+      "orig_cents": 7199,
+      "final_cents": 1799,
+      "orig_price_str": "71,99 €",
+      "final_price_str": "17,99 €"
+    },
+    {
       "appid": "abcfae76a18c401c8ae5b37c759f8e16",
       "namespace": "095bb72741aa4e18a069ce0d2739e941",
       "name": "DOORS OF HORROR",
@@ -1039,6 +1049,16 @@
       "final_cents": 479,
       "orig_price_str": "15,99 €",
       "final_price_str": "4,79 €"
+    },
+    {
+      "appid": "82aa1f0d1e9f426984e7529aae189d10",
+      "namespace": "95cda0d0b9124cc790f3893ac41cc29a",
+      "name": "Imagine Earth",
+      "discount": 70,
+      "orig_cents": 2499,
+      "final_cents": 749,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "7,49 €"
     },
     {
       "appid": "d6bc7c7b619e451da515e2f2731b8bc5",
@@ -1564,16 +1584,6 @@
       "appid": "a7bf7f2c1f3b4dd385ec880f7d5855d4",
       "namespace": "1a476ee9037e4c66a8c02babc3df844e",
       "name": "No Im Not A Femboy",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "c21d29fcb4cc46a08b2b2e6ca1987992",
-      "namespace": "093f57ad07fa411db44bb801a500214e",
-      "name": "GOP STOP AUTO",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -2361,16 +2371,6 @@
       "final_price_str": "2,24 €"
     },
     {
-      "appid": "a38e202381b545dfa7aa8ddbf3217f87",
-      "namespace": "1666530d8fe54592a16b7e7f2a3d909c",
-      "name": "Doctor Ximen Qing HD",
-      "discount": 45,
-      "orig_cents": 1169,
-      "final_cents": 642,
-      "orig_price_str": "11,69 €",
-      "final_price_str": "6,42 €"
-    },
-    {
       "appid": "f23ea0199b5642a0b54b8145f49f5757",
       "namespace": "c9f01f863a37488580ad5e0d37ce9a9c",
       "name": "Brainrot Kart",
@@ -2569,6 +2569,16 @@
       "final_cents": 445,
       "orig_price_str": "7,19 €",
       "final_price_str": "4,45 €"
+    },
+    {
+      "appid": "d069c9f9352c485799e441047d64b95d",
+      "namespace": "ce62eb6ea00c424784281b28ca24a1e8",
+      "name": "EA SPORTS™ Madden NFL 27",
+      "discount": 35,
+      "orig_cents": 6999,
+      "final_cents": 4549,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "45,49 €"
     },
     {
       "appid": "db23a748500c46459bfb595a1ad745fb",
@@ -2989,17 +2999,7 @@
       "final_cents": 2799,
       "orig_price_str": "34,99 €",
       "final_price_str": "27,99 €"
-    },
-    {
-      "appid": "3e1368e6854f4bbabdfd97a475947ea7",
-      "namespace": "76400728f79d43ac8362ce373867b315",
-      "name": "Dodo Duckie",
-      "discount": 20,
-      "orig_cents": 1079,
-      "final_cents": 863,
-      "orig_price_str": "10,79 €",
-      "final_price_str": "8,63 €"
     }
   ],
-  "total": 372
+  "total": 371
 }

@@ -11,16 +11,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9NP83DTS8T4W",
-      "name": "Golf With Your Friends - Ultimate Edition",
-      "discount": 90,
-      "orig_cents": 5499,
-      "final_cents": 549,
-      "orig_price_str": "54,99 €",
-      "final_price_str": "5,49 €",
-      "gamepass": ""
-    },
-    {
       "appid": "BSXLFN5QQZSC",
       "name": "Watch Dogs®2",
       "discount": 90,
@@ -29,6 +19,16 @@
       "orig_price_str": "49,99 €",
       "final_price_str": "4,99 €",
       "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "9NP83DTS8T4W",
+      "name": "Golf With Your Friends - Ultimate Edition",
+      "discount": 90,
+      "orig_cents": 5499,
+      "final_cents": 549,
+      "orig_price_str": "54,99 €",
+      "final_price_str": "5,49 €",
+      "gamepass": ""
     },
     {
       "appid": "9P7M6CRC96J0",
@@ -51,16 +51,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9P9NVPF9KM3P",
-      "name": "MXGP 2020 - The Official Motocross Videogame",
-      "discount": 90,
-      "orig_cents": 2999,
-      "final_cents": 299,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "2,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "BXZG8RW2ZMNC",
       "name": "Steep X Games Gold Edition",
       "discount": 90,
@@ -71,14 +61,14 @@
       "gamepass": ""
     },
     {
-      "appid": "BVQ3V30ZXVT5",
-      "name": "Tom Clancy's The Division 2",
-      "discount": 85,
+      "appid": "9P9NVPF9KM3P",
+      "name": "MXGP 2020 - The Official Motocross Videogame",
+      "discount": 90,
       "orig_cents": 2999,
-      "final_cents": 449,
+      "final_cents": 299,
       "orig_price_str": "29,99 €",
-      "final_price_str": "4,49 €",
-      "gamepass": "PC + Xbox"
+      "final_price_str": "2,99 €",
+      "gamepass": ""
     },
     {
       "appid": "9PBNGCVBGML0",
@@ -89,6 +79,16 @@
       "orig_price_str": "69,99 €",
       "final_price_str": "10,49 €",
       "gamepass": "Xbox"
+    },
+    {
+      "appid": "BVQ3V30ZXVT5",
+      "name": "Tom Clancy's The Division 2",
+      "discount": 85,
+      "orig_cents": 2999,
+      "final_cents": 449,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "4,49 €",
+      "gamepass": "PC + Xbox"
     },
     {
       "appid": "C2127MDWMZTB",
@@ -181,16 +181,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9PB3RHWXB9MR",
-      "name": "Tom Clancy‘s Rainbow Six Siege – Elite Edition",
-      "discount": 60,
-      "orig_cents": 1999,
-      "final_cents": 799,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "7,99 €",
-      "gamepass": "PC + Xbox"
-    },
-    {
       "appid": "9NKX70BBCDRN",
       "name": "Forza Horizon 5 Standard Edition",
       "discount": 60,
@@ -198,6 +188,16 @@
       "final_cents": 2799,
       "orig_price_str": "69,99 €",
       "final_price_str": "27,99 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "9PB3RHWXB9MR",
+      "name": "Tom Clancy‘s Rainbow Six Siege – Elite Edition",
+      "discount": 60,
+      "orig_cents": 1999,
+      "final_cents": 799,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "7,99 €",
       "gamepass": "PC + Xbox"
     },
     {
@@ -251,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 693
+  "total": 799
 }
