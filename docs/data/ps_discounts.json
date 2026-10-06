@@ -253,7 +253,7 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "EP4385-CUSA30891_00-6983803568215690",
+      "appid": "EP4385-PPSA05594_00-7584196509987040",
       "name": "Kao the Kangaroo",
       "discount": 80,
       "orig_cents": 2999,
@@ -262,7 +262,7 @@
       "final_price_str": "5,99 €"
     },
     {
-      "appid": "EP4385-PPSA05594_00-7584196509987040",
+      "appid": "EP4385-CUSA30891_00-6983803568215690",
       "name": "Kao the Kangaroo",
       "discount": 80,
       "orig_cents": 2999,
@@ -577,7 +577,7 @@
       "final_price_str": "1,49 €"
     },
     {
-      "appid": "EP4385-CUSA30891_00-KAOLVL0100000000",
+      "appid": "EP4385-PPSA05594_00-KAOLVL0100000000",
       "name": "Kao the Kangaroo: Oh! Well DLC",
       "discount": 75,
       "orig_cents": 499,
@@ -586,7 +586,7 @@
       "final_price_str": "1,24 €"
     },
     {
-      "appid": "EP4385-PPSA05594_00-KAOLVL0100000000",
+      "appid": "EP4385-CUSA30891_00-KAOLVL0100000000",
       "name": "Kao the Kangaroo: Oh! Well DLC",
       "discount": 75,
       "orig_cents": 499,
@@ -1684,6 +1684,15 @@
       "final_price_str": "1,99 €"
     },
     {
+      "appid": "EP4337-CUSA12242_00-0000000000000000",
+      "name": "The Spectrum Retreat",
+      "discount": 60,
+      "orig_cents": 1299,
+      "final_cents": 519,
+      "orig_price_str": "12,99 €",
+      "final_price_str": "5,19 €"
+    },
+    {
       "appid": "EP3540-CUSA17701_00-BALTHAZARSBUND01",
       "name": "Balthazar's Dream (Release Bundle)",
       "discount": 58,
@@ -1882,7 +1891,7 @@
       "final_price_str": "19,99 €"
     },
     {
-      "appid": "EP4060-PPSA06565_00-DELUXEEDITION000",
+      "appid": "EP4060-CUSA32315_00-DELUXEEDITION000",
       "name": "Dusk Diver 2 Digital Deluxe Edition",
       "discount": 50,
       "orig_cents": 5999,
@@ -1891,7 +1900,7 @@
       "final_price_str": "29,99 €"
     },
     {
-      "appid": "EP4060-CUSA32315_00-DELUXEEDITION000",
+      "appid": "EP4060-PPSA06565_00-DELUXEEDITION000",
       "name": "Dusk Diver 2 Digital Deluxe Edition",
       "discount": 50,
       "orig_cents": 5999,
@@ -2690,16 +2699,7 @@
       "final_cents": 3999,
       "orig_price_str": "49,99 €",
       "final_price_str": "39,99 €"
-    },
-    {
-      "appid": "EP0006-CUSA09216_00-TS4ESSENTBUNDLE2",
-      "name": "Die Sims™ 4 Dekotraum-Bundle",
-      "discount": 20,
-      "orig_cents": 4999,
-      "final_cents": 3999,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "39,99 €"
     }
   ],
-  "total": 1702
+  "total": 1701
 }
