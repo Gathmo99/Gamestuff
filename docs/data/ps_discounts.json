@@ -541,15 +541,6 @@
       "final_price_str": "12,49 €"
     },
     {
-      "appid": "EP5938-PPSA07451_00-CLIVENWRENCH0PS5",
-      "name": "Clive 'N' Wrench",
-      "discount": 75,
-      "orig_cents": 2999,
-      "final_cents": 749,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "7,49 €"
-    },
-    {
       "appid": "EP5938-CUSA33452_00-CLIVENWRENCH0PS4",
       "name": "Clive 'N' Wrench",
       "discount": 75,
@@ -559,7 +550,16 @@
       "final_price_str": "7,49 €"
     },
     {
-      "appid": "EP8026-CUSA32095_00-7260435753656631",
+      "appid": "EP5938-PPSA07451_00-CLIVENWRENCH0PS5",
+      "name": "Clive 'N' Wrench",
+      "discount": 75,
+      "orig_cents": 2999,
+      "final_cents": 749,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "7,49 €"
+    },
+    {
+      "appid": "EP8026-PPSA06408_00-6769334895654571",
       "name": "Trifox",
       "discount": 75,
       "orig_cents": 1999,
@@ -568,7 +568,7 @@
       "final_price_str": "4,99 €"
     },
     {
-      "appid": "EP8026-PPSA06408_00-6769334895654571",
+      "appid": "EP8026-CUSA32095_00-7260435753656631",
       "name": "Trifox",
       "discount": 75,
       "orig_cents": 1999,
@@ -667,7 +667,7 @@
       "final_price_str": "9,99 €"
     },
     {
-      "appid": "EP4293-PPSA06409_00-ASTNCPS5SIEE0000",
+      "appid": "EP4293-CUSA32097_00-ASTNCPS4SIEE0000",
       "name": "Arcade Spirits: The New Challengers",
       "discount": 75,
       "orig_cents": 1999,
@@ -676,7 +676,7 @@
       "final_price_str": "4,99 €"
     },
     {
-      "appid": "EP4293-CUSA32097_00-ASTNCPS4SIEE0000",
+      "appid": "EP4293-PPSA06409_00-ASTNCPS5SIEE0000",
       "name": "Arcade Spirits: The New Challengers",
       "discount": 75,
       "orig_cents": 1999,
@@ -865,7 +865,7 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "EP6704-PPSA08307_00-9442511552792122",
+      "appid": "EP6704-CUSA31333_00-5835393445151063",
       "name": "Broken Pieces",
       "discount": 70,
       "orig_cents": 2499,
@@ -874,7 +874,7 @@
       "final_price_str": "7,49 €"
     },
     {
-      "appid": "EP6704-CUSA31333_00-5835393445151063",
+      "appid": "EP6704-PPSA08307_00-9442511552792122",
       "name": "Broken Pieces",
       "discount": 70,
       "orig_cents": 2499,
@@ -1162,15 +1162,6 @@
       "final_price_str": "12,59 €"
     },
     {
-      "appid": "EP3785-CUSA27976_00-OMD3BUNDLE000001",
-      "name": "Orcs Must Die! 3-Bundle",
-      "discount": 65,
-      "orig_cents": 3599,
-      "final_cents": 1259,
-      "orig_price_str": "35,99 €",
-      "final_price_str": "12,59 €"
-    },
-    {
       "appid": "EP3785-CUSA29337_00-OMD3BUNDLE000001",
       "name": "Orcs Must Die! 3-Bundle",
       "discount": 65,
@@ -1180,13 +1171,13 @@
       "final_price_str": "12,59 €"
     },
     {
-      "appid": "EP0290-CUSA26922_00-GODFALLULTIMATE0",
-      "name": "Godfall Ultimate Edition",
+      "appid": "EP3785-CUSA27976_00-OMD3BUNDLE000001",
+      "name": "Orcs Must Die! 3-Bundle",
       "discount": 65,
-      "orig_cents": 3999,
-      "final_cents": 1399,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "13,99 €"
+      "orig_cents": 3599,
+      "final_cents": 1259,
+      "orig_price_str": "35,99 €",
+      "final_price_str": "12,59 €"
     },
     {
       "appid": "EP0290-PPSA01349_00-GODFALLULTIMATE0",
@@ -1198,7 +1189,16 @@
       "final_price_str": "13,99 €"
     },
     {
-      "appid": "EP6087-PPSA05610_00-1221784256863423",
+      "appid": "EP0290-CUSA26922_00-GODFALLULTIMATE0",
+      "name": "Godfall Ultimate Edition",
+      "discount": 65,
+      "orig_cents": 3999,
+      "final_cents": 1399,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "13,99 €"
+    },
+    {
+      "appid": "EP6087-CUSA30939_00-9067424964161172",
       "name": "Outbreak: Contagious Memories",
       "discount": 65,
       "orig_cents": 2999,
@@ -1207,7 +1207,7 @@
       "final_price_str": "10,49 €"
     },
     {
-      "appid": "EP6087-CUSA30939_00-9067424964161172",
+      "appid": "EP6087-PPSA05610_00-1221784256863423",
       "name": "Outbreak: Contagious Memories",
       "discount": 65,
       "orig_cents": 2999,
@@ -1486,7 +1486,7 @@
       "final_price_str": "13,99 €"
     },
     {
-      "appid": "EP4389-PPSA03838_00-SPELLFORCE3CE000",
+      "appid": "EP4389-CUSA24277_00-SPELLFORCE3CE000",
       "name": "SpellForce III Reforced: Complete Edition",
       "discount": 60,
       "orig_cents": 5999,
@@ -1495,7 +1495,7 @@
       "final_price_str": "23,99 €"
     },
     {
-      "appid": "EP4389-CUSA24277_00-SPELLFORCE3CE000",
+      "appid": "EP4389-PPSA03838_00-SPELLFORCE3CE000",
       "name": "SpellForce III Reforced: Complete Edition",
       "discount": 60,
       "orig_cents": 5999,
@@ -1765,7 +1765,7 @@
       "final_price_str": "19,99 €"
     },
     {
-      "appid": "EP4060-PPSA06565_00-DELUXEEDITION000",
+      "appid": "EP4060-CUSA32315_00-DELUXEEDITION000",
       "name": "Dusk Diver 2 Digital Deluxe Edition",
       "discount": 50,
       "orig_cents": 5999,
@@ -1774,7 +1774,7 @@
       "final_price_str": "29,99 €"
     },
     {
-      "appid": "EP4060-CUSA32315_00-DELUXEEDITION000",
+      "appid": "EP4060-PPSA06565_00-DELUXEEDITION000",
       "name": "Dusk Diver 2 Digital Deluxe Edition",
       "discount": 50,
       "orig_cents": 5999,
@@ -2557,7 +2557,7 @@
       "final_price_str": "8,99 €"
     },
     {
-      "appid": "EP3446-PPSA07370_00-7964977575636485",
+      "appid": "EP3446-CUSA33324_00-3151337674646164",
       "name": "MADiSON",
       "discount": 40,
       "orig_cents": 3499,
@@ -2566,7 +2566,7 @@
       "final_price_str": "20,99 €"
     },
     {
-      "appid": "EP3446-CUSA33324_00-3151337674646164",
+      "appid": "EP3446-PPSA07370_00-7964977575636485",
       "name": "MADiSON",
       "discount": 40,
       "orig_cents": 3499,
