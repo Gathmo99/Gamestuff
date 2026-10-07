@@ -41,16 +41,6 @@
       "final_price_str": "0,67 €"
     },
     {
-      "appid": "2e1b4da476d9450593a4f966a2f0191f",
-      "namespace": "7b3ddf2a418543d7a29eafb03a0e020e",
-      "name": "Hyper Warehouse Simulator",
-      "discount": 95,
-      "orig_cents": 719,
-      "final_cents": 35,
-      "orig_price_str": "7,19 €",
-      "final_price_str": "0,35 €"
-    },
-    {
       "appid": "23c0c1ff559343bdbd619ecee850d07f",
       "namespace": "23e0d8cad86d45308001a2c4151969c0",
       "name": "Cyber Avenger",
@@ -99,16 +89,6 @@
       "final_cents": 102,
       "orig_price_str": "10,25 €",
       "final_price_str": "1,02 €"
-    },
-    {
-      "appid": "37fffab23f454cc599ac172be845410a",
-      "namespace": "556e189ea46942679383defef0a3e197",
-      "name": "Skibidi In The Backrooms",
-      "discount": 90,
-      "orig_cents": 359,
-      "final_cents": 35,
-      "orig_price_str": "3,59 €",
-      "final_price_str": "0,35 €"
     },
     {
       "appid": "266ce7800f324a4b9e24077d7ff68e8f",
@@ -661,16 +641,6 @@
       "final_price_str": "3,35 €"
     },
     {
-      "appid": "45a4855cfbb34b97a052b12350922a4f",
-      "namespace": "e2dcdad747ae435182c80f954cb00528",
-      "name": "Sine Mora Ex",
-      "discount": 80,
-      "orig_cents": 999,
-      "final_cents": 199,
-      "orig_price_str": "9,99 €",
-      "final_price_str": "1,99 €"
-    },
-    {
       "appid": "fb08eca7e2bf4b9d9ec81741bd4cca7a",
       "namespace": "a7f4119f59764bfa99910c8f232a6878",
       "name": "Hot American Dream",
@@ -681,14 +651,24 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "904a631b58f9404380fe3264d7a57d07",
-      "namespace": "b45f430ecdbf4b9f9c764c0851ad0741",
-      "name": "Bodycamera Chase",
+      "appid": "53e4c1a9bda14e1f84df55dbb012d919",
+      "namespace": "928bfa8173f249e6b79d4629b42a760d",
+      "name": "Backrooms Bodycam 3",
       "discount": 75,
       "orig_cents": 179,
       "final_cents": 44,
       "orig_price_str": "1,79 €",
       "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "210205d7c65f416bb681b872d889442c",
+      "namespace": "afae234e4f6f49c3b2442710ca9d0cfc",
+      "name": "MEMREC",
+      "discount": 75,
+      "orig_cents": 1799,
+      "final_cents": 449,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "4,49 €"
     },
     {
       "appid": "5ea0c80f094c493a9d726a12b482eda8",
@@ -699,36 +679,6 @@
       "final_cents": 1799,
       "orig_price_str": "71,99 €",
       "final_price_str": "17,99 €"
-    },
-    {
-      "appid": "abcfae76a18c401c8ae5b37c759f8e16",
-      "namespace": "095bb72741aa4e18a069ce0d2739e941",
-      "name": "DOORS OF HORROR",
-      "discount": 75,
-      "orig_cents": 179,
-      "final_cents": 44,
-      "orig_price_str": "1,79 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "d7b3697b5de24358a7734225ae47f4de",
-      "namespace": "145a6fa0b36c4a79aeed9792cb026c49",
-      "name": "LONELINESS SIMULATOR IN THE RUSSIAN VILLAGE",
-      "discount": 75,
-      "orig_cents": 179,
-      "final_cents": 44,
-      "orig_price_str": "1,79 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "b2c152a08ed24006a249f86939ad685f",
-      "namespace": "868070e9f6a84ab28fee84e8541ea11f",
-      "name": "BodyCamera Shooter",
-      "discount": 75,
-      "orig_cents": 179,
-      "final_cents": 44,
-      "orig_price_str": "1,79 €",
-      "final_price_str": "0,44 €"
     },
     {
       "appid": "0b03664349b24b30be49a4bb34735493",
@@ -1551,9 +1501,19 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "a7bf7f2c1f3b4dd385ec880f7d5855d4",
-      "namespace": "1a476ee9037e4c66a8c02babc3df844e",
-      "name": "No Im Not A Femboy",
+      "appid": "95972584e56142828408575485879ae4",
+      "namespace": "bb4a3d81162f46eba9e61df349b2046c",
+      "name": "Steel Shell",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "d10aa9befbd74811a9084de0e3b38951",
+      "namespace": "4b0ef32b54c242ecb15ee55741302041",
+      "name": "Girls In Backrooms",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1581,6 +1541,16 @@
       "final_price_str": "0,44 €"
     },
     {
+      "appid": "8bb038fda66d4422b7688e0a7621a845",
+      "namespace": "e148152ab40b4bd2872a1090f7fdcb24",
+      "name": "Dead Rush 2",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
       "appid": "81aec0feaa1b47c5bb075f1f2cd4b6de",
       "namespace": "aa15d5cc2fb64c2389dbbbbf714e7b7b",
       "name": "Army War: Shooting Simulator",
@@ -1601,9 +1571,29 @@
       "final_price_str": "0,44 €"
     },
     {
+      "appid": "6599ccc2869946d7976a184a4a2e8e3f",
+      "namespace": "ec2c3935293043c7818a92c139225819",
+      "name": "Haunted Forest",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
       "appid": "2b9e9cf8a31a4d97b20e83d78165d2e7",
       "namespace": "15a55855478c4cc4b308b47b5fcddc83",
       "name": "Clown Eyes: Dead Park",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "09d157cf14a842169ed67ce867ba3767",
+      "namespace": "6acea07493f24448872662ee2bed7ff4",
+      "name": "Dead World: Survival",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1734,16 +1724,6 @@
       "appid": "459149a14b9243e3b68251b9f6a39fe6",
       "namespace": "55400d765e13415996d0324bbda143c0",
       "name": "Serbian Dancing Lady",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "ee8a6e786ac7467e94ae606812d659d4",
-      "namespace": "ba74867ed69a4bb6abd9f81fea647af6",
-      "name": "Eyes Of Memes",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -2029,6 +2009,16 @@
       "final_cents": 134,
       "orig_price_str": "2,69 €",
       "final_price_str": "1,34 €"
+    },
+    {
+      "appid": "b0ec295156c44a65a72479cb55b682ae",
+      "namespace": "f6cd396127d64fdab847276493634a75",
+      "name": "PROHIBEAST",
+      "discount": 50,
+      "orig_cents": 2699,
+      "final_cents": 1349,
+      "orig_price_str": "26,99 €",
+      "final_price_str": "13,49 €"
     },
     {
       "appid": "a6e32f221fda468f8e6e880dba992015",
@@ -2411,16 +2401,6 @@
       "final_price_str": "14,84 €"
     },
     {
-      "appid": "73777bec6edf4592a0fc2e74ecd62473",
-      "namespace": "ec47caf26e574aa882d96fc924afc291",
-      "name": "The Jackbox Party Starter",
-      "discount": 45,
-      "orig_cents": 1999,
-      "final_cents": 1099,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "10,99 €"
-    },
-    {
       "appid": "49f79b03b9b14637b10a1ceb7e17365d",
       "namespace": "e60e3740ad664323a65ff6d933f3869f",
       "name": "KeepUp Survival",
@@ -2689,6 +2669,16 @@
       "final_cents": 629,
       "orig_price_str": "8,99 €",
       "final_price_str": "6,29 €"
+    },
+    {
+      "appid": "b3d1afc54a98427f8c2bfe8145038292",
+      "namespace": "84379508bebb4c959c7193fa47c5154b",
+      "name": "Teacher Ximen Qing",
+      "discount": 30,
+      "orig_cents": 449,
+      "final_cents": 314,
+      "orig_price_str": "4,49 €",
+      "final_price_str": "3,14 €"
     },
     {
       "appid": "0582d542bb6a4581af778d046485ecc0",
@@ -2999,7 +2989,17 @@
       "final_cents": 2511,
       "orig_price_str": "31,39 €",
       "final_price_str": "25,11 €"
+    },
+    {
+      "appid": "f305df03a52a4f35a097a93b14e35a06",
+      "namespace": "9f91a642cf3e4288929aa3c581c96114",
+      "name": "Sintopia",
+      "discount": 20,
+      "orig_cents": 3499,
+      "final_cents": 2799,
+      "orig_price_str": "34,99 €",
+      "final_price_str": "27,99 €"
     }
   ],
-  "total": 373
+  "total": 375
 }
