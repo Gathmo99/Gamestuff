@@ -51,26 +51,6 @@
       "gamepass": ""
     },
     {
-      "appid": "BXZG8RW2ZMNC",
-      "name": "Steep X Games Gold Edition",
-      "discount": 90,
-      "orig_cents": 3999,
-      "final_cents": 399,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "3,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9P9NVPF9KM3P",
-      "name": "MXGP 2020 - The Official Motocross Videogame",
-      "discount": 90,
-      "orig_cents": 2999,
-      "final_cents": 299,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "2,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9PBNGCVBGML0",
       "name": "FARCRY 6",
       "discount": 85,
@@ -211,6 +191,36 @@
       "gamepass": ""
     },
     {
+      "appid": "9P8RQH67TTT1",
+      "name": "Grand Theft Auto V (Xbox One & Xbox Series X|S)",
+      "discount": 50,
+      "orig_cents": 3999,
+      "final_cents": 1999,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "19,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NF8SKDHFLMG",
+      "name": "Invincible VS",
+      "discount": 40,
+      "orig_cents": 4999,
+      "final_cents": 2999,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "29,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NG07QJNK38J",
+      "name": "Among Us",
+      "discount": 40,
+      "orig_cents": 499,
+      "final_cents": 299,
+      "orig_price_str": "4,99 €",
+      "final_price_str": "2,99 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
       "appid": "9MWLQQK52CPP",
       "name": "The Exit 8",
       "discount": 30,
@@ -239,17 +249,7 @@
       "orig_price_str": "69,99 €",
       "final_price_str": "55,99 €",
       "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "9N57PMNM3F55",
-      "name": "Assassin's Creed Black Flag Resynced Deluxe Edition",
-      "discount": 15,
-      "orig_cents": 6999,
-      "final_cents": 5949,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "59,49 €",
-      "gamepass": ""
     }
   ],
-  "total": 748
+  "total": 1874
 }
