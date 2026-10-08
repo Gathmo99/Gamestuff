@@ -91,6 +91,16 @@
       "final_price_str": "1,02 €"
     },
     {
+      "appid": "ed7c822644734c4eae164021513ee73d",
+      "namespace": "44f0f46601994e2b94d3139bf3176759",
+      "name": "Flying Islands",
+      "discount": 90,
+      "orig_cents": 799,
+      "final_cents": 79,
+      "orig_price_str": "7,99 €",
+      "final_price_str": "0,79 €"
+    },
+    {
       "appid": "266ce7800f324a4b9e24077d7ff68e8f",
       "namespace": "24cc2d573b584bd193de6cc321289f9d",
       "name": "Chrono Stranded",
@@ -221,16 +231,6 @@
       "final_price_str": "0,53 €"
     },
     {
-      "appid": "e60a95176c36428e948cd26c9c67377c",
-      "namespace": "c7b771d17305491a9962d0c3de75fe8b",
-      "name": "Starsand",
-      "discount": 90,
-      "orig_cents": 1679,
-      "final_cents": 167,
-      "orig_price_str": "16,79 €",
-      "final_price_str": "1,67 €"
-    },
-    {
       "appid": "b7c6449af86c47c4a873a62d0e30c0dc",
       "namespace": "28b88370465c4c67b583b1b7d5c7e725",
       "name": "Fell in Love with a California Girl",
@@ -241,6 +241,16 @@
       "final_price_str": "0,53 €"
     },
     {
+      "appid": "9fbfe885acdd4f8cbd4826cd265f36cb",
+      "namespace": "26568e976ac2418095a3a079ca7b0276",
+      "name": "Skybreak Canyon: The Parkour Game",
+      "discount": 85,
+      "orig_cents": 289,
+      "final_cents": 43,
+      "orig_price_str": "2,89 €",
+      "final_price_str": "0,43 €"
+    },
+    {
       "appid": "0e18d59caa564c74bbf982bd670e8501",
       "namespace": "9d526342864b44ba86674bd7d4bd8eee",
       "name": "New Year Simulator 2025",
@@ -249,6 +259,16 @@
       "final_cents": 242,
       "orig_price_str": "16,19 €",
       "final_price_str": "2,42 €"
+    },
+    {
+      "appid": "ffd3a86c6d834f1995a91c4095b4ec60",
+      "namespace": "30f0b2714b754c989c49d4852e5d6e69",
+      "name": "Crazy Bus",
+      "discount": 85,
+      "orig_cents": 449,
+      "final_cents": 67,
+      "orig_price_str": "4,49 €",
+      "final_price_str": "0,67 €"
     },
     {
       "appid": "85e9236edef84366bd928e796bf7b1b8",
@@ -331,16 +351,6 @@
       "final_price_str": "0,80 €"
     },
     {
-      "appid": "e6a2d9c2deb840ee8d90b4c6b59bb400",
-      "namespace": "26b9eeb6f649400d9b1d0426b7de9823",
-      "name": "Soccer Story",
-      "discount": 85,
-      "orig_cents": 1599,
-      "final_cents": 239,
-      "orig_price_str": "15,99 €",
-      "final_price_str": "2,39 €"
-    },
-    {
       "appid": "1f33eb0a73a540aba513bb14ac83a111",
       "namespace": "34307b9984864de38a7d69c2be9a4f67",
       "name": "RAILWAY ISLANDS 2",
@@ -349,6 +359,16 @@
       "final_cents": 89,
       "orig_price_str": "4,49 €",
       "final_price_str": "0,89 €"
+    },
+    {
+      "appid": "f114a520af424f149424d49ec7ced301",
+      "namespace": "d525960335e248cab5ec90847f5ef96a",
+      "name": "Crown of Ruin: The Parkour Game",
+      "discount": 80,
+      "orig_cents": 289,
+      "final_cents": 57,
+      "orig_price_str": "2,89 €",
+      "final_price_str": "0,57 €"
     },
     {
       "appid": "2db7e2a243e844cc83613dbd73c710d7",
@@ -371,6 +391,16 @@
       "final_price_str": "0,89 €"
     },
     {
+      "appid": "f86d6f01b51742859feb22b71d6800e1",
+      "namespace": "f9e77015826848ff9ae0963752320e05",
+      "name": "Glacier Trail: The Parkour Game",
+      "discount": 80,
+      "orig_cents": 459,
+      "final_cents": 91,
+      "orig_price_str": "4,59 €",
+      "final_price_str": "0,91 €"
+    },
+    {
       "appid": "7629ed8d1da442a6b9dd41ba6a533d0d",
       "namespace": "f7bbef08b08541de90d8fb23115aa7a6",
       "name": "Goblin Quest II",
@@ -379,6 +409,56 @@
       "final_cents": 89,
       "orig_price_str": "4,49 €",
       "final_price_str": "0,89 €"
+    },
+    {
+      "appid": "e6d0ec8901fa4b27a37e553fa814c0c3",
+      "namespace": "0053d655ec6d4565b935142a366e763d",
+      "name": "Frozen Skylands",
+      "discount": 80,
+      "orig_cents": 449,
+      "final_cents": 89,
+      "orig_price_str": "4,49 €",
+      "final_price_str": "0,89 €"
+    },
+    {
+      "appid": "a3c6e762c73d4b5e9e8637c0c87506c3",
+      "namespace": "b852dd8a3ca34d1caaba0a50c1857e7d",
+      "name": "Plambra Dash: The Parkour Game Part II",
+      "discount": 80,
+      "orig_cents": 199,
+      "final_cents": 39,
+      "orig_price_str": "1,99 €",
+      "final_price_str": "0,39 €"
+    },
+    {
+      "appid": "0dd17503a01e43e68e924c8b6fde7c41",
+      "namespace": "8bcb0a5e64914de1a24854647108766c",
+      "name": "Age of Discovery: The Parkour Game - Deluxe Edition",
+      "discount": 80,
+      "orig_cents": 249,
+      "final_cents": 49,
+      "orig_price_str": "2,49 €",
+      "final_price_str": "0,49 €"
+    },
+    {
+      "appid": "f7f3578282a145dc98de6036c201c115",
+      "namespace": "4cca948a5ae2401588bd3d3c5b1b3b50",
+      "name": "Truck Life Simulator",
+      "discount": 80,
+      "orig_cents": 249,
+      "final_cents": 49,
+      "orig_price_str": "2,49 €",
+      "final_price_str": "0,49 €"
+    },
+    {
+      "appid": "e48cf491e5344d358cf314aab4f82082",
+      "namespace": "04efb0d9ac0649fdb509cb2388dcc94b",
+      "name": "Ascendria: The Parkour Game",
+      "discount": 80,
+      "orig_cents": 219,
+      "final_cents": 43,
+      "orig_price_str": "2,19 €",
+      "final_price_str": "0,43 €"
     },
     {
       "appid": "3a79604ea0ce4a0d8c2eddd667358926",
@@ -399,6 +479,16 @@
       "final_cents": 999,
       "orig_price_str": "49,99 €",
       "final_price_str": "9,99 €"
+    },
+    {
+      "appid": "134f08cc143940aca59206549a5ad445",
+      "namespace": "37b92b2c81b24185aa6d1bfa70cef42c",
+      "name": "Beyond Limits: The Parkour Game",
+      "discount": 80,
+      "orig_cents": 249,
+      "final_cents": 49,
+      "orig_price_str": "2,49 €",
+      "final_price_str": "0,49 €"
     },
     {
       "appid": "c20a2d5d55e440ce8c27d49d9dd52e93",
@@ -631,36 +721,6 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "eebbc1f3b1d349c0a163ed82fe7795bd",
-      "namespace": "fae3c63acffa4e4b8e2401ba0bb9b92c",
-      "name": "Splatter - Zombiecalypse Now",
-      "discount": 80,
-      "orig_cents": 799,
-      "final_cents": 159,
-      "orig_price_str": "7,99 €",
-      "final_price_str": "1,59 €"
-    },
-    {
-      "appid": "42f8d140e48d4e3fadc7fb30ed8b945a",
-      "namespace": "fd92e8d792904875afa7e85614ae6072",
-      "name": "ATONE: Heart of the Elder Tree",
-      "discount": 80,
-      "orig_cents": 1499,
-      "final_cents": 299,
-      "orig_price_str": "14,99 €",
-      "final_price_str": "2,99 €"
-    },
-    {
-      "appid": "cbbb30f87bdf4859bc9194780d86b03f",
-      "namespace": "9e46ce76e796420a89e04e0d6cad61f4",
-      "name": "Effie",
-      "discount": 80,
-      "orig_cents": 1679,
-      "final_cents": 335,
-      "orig_price_str": "16,79 €",
-      "final_price_str": "3,35 €"
-    },
-    {
       "appid": "4a8cf1c6437a44d1aa1ec5948c0e5863",
       "namespace": "d37f4318eed346babb339fbe841d0ef6",
       "name": "The Nightmare of Pandemic - Kyle's Story",
@@ -881,16 +941,6 @@
       "final_price_str": "0,67 €"
     },
     {
-      "appid": "dbe4bfec956f40f3b08cbf0f060f7468",
-      "namespace": "65d31d60510a49629a0b52e93da8416a",
-      "name": "Fashion Police Squad",
-      "discount": 75,
-      "orig_cents": 1599,
-      "final_cents": 399,
-      "orig_price_str": "15,99 €",
-      "final_price_str": "3,99 €"
-    },
-    {
       "appid": "ff8b6307daee4bda86136e17a0e759b2",
       "namespace": "319f44ad1aa041e58a0c8b4bed868adb",
       "name": "Need for Speed™ Payback - Deluxe Edition",
@@ -939,6 +989,16 @@
       "final_cents": 512,
       "orig_price_str": "17,09 €",
       "final_price_str": "5,12 €"
+    },
+    {
+      "appid": "6028827a1b9a4154aab7945f65523e8c",
+      "namespace": "4df2036fd0e949f3b93b60a2997610f5",
+      "name": "Skyward Tales: The Parkour Game",
+      "discount": 70,
+      "orig_cents": 219,
+      "final_cents": 65,
+      "orig_price_str": "2,19 €",
+      "final_price_str": "0,65 €"
     },
     {
       "appid": "340050a118d74e6582a3005d7283c74d",
@@ -1029,26 +1089,6 @@
       "final_cents": 749,
       "orig_price_str": "24,99 €",
       "final_price_str": "7,49 €"
-    },
-    {
-      "appid": "58060b5bbf564d72816e141474c253a9",
-      "namespace": "f85394bc37b94bebaed95a675b0e6e82",
-      "name": "Flame Keeper",
-      "discount": 70,
-      "orig_cents": 1199,
-      "final_cents": 359,
-      "orig_price_str": "11,99 €",
-      "final_price_str": "3,59 €"
-    },
-    {
-      "appid": "618061bfbbf741c899c1b8cbfbeb94dd",
-      "namespace": "7c28c10036b04d78b04f614e21e116e3",
-      "name": "Onsen Master",
-      "discount": 70,
-      "orig_cents": 1199,
-      "final_cents": 359,
-      "orig_price_str": "11,99 €",
-      "final_price_str": "3,59 €"
     },
     {
       "appid": "d6bc7c7b619e451da515e2f2731b8bc5",
@@ -1439,16 +1479,6 @@
       "final_cents": 179,
       "orig_price_str": "4,49 €",
       "final_price_str": "1,79 €"
-    },
-    {
-      "appid": "de5fb28da9e04dbd852fc4457da692c8",
-      "namespace": "2e953f5d56f44248ab500be341e54a65",
-      "name": "Wild West Legacy",
-      "discount": 60,
-      "orig_cents": 2499,
-      "final_cents": 999,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "9,99 €"
     },
     {
       "appid": "5b65fe1a95c7491f990621f0006b8d38",
@@ -2571,16 +2601,6 @@
       "final_price_str": "16,19 €"
     },
     {
-      "appid": "99938c7aad1b44d7a446ae57e2839ece",
-      "namespace": "7e2ec8a47b8d41528eb6dd2efd2b1abc",
-      "name": "Disney Dreamlight Valley",
-      "discount": 40,
-      "orig_cents": 3999,
-      "final_cents": 2399,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "23,99 €"
-    },
-    {
       "appid": "63bab12c3bb14ddb9a22772af3b13763",
       "namespace": "8c8e5cf1a9ed4b039329c8530720b82c",
       "name": "Baito Fight!!: Part-time Devil Hunter",
@@ -2901,16 +2921,6 @@
       "final_price_str": "18,74 €"
     },
     {
-      "appid": "c504529f210a4b638581af9a698e532e",
-      "namespace": "e4bdfd6b9350468bb048475698f54eff",
-      "name": "Age of Barbarians Chronicles",
-      "discount": 25,
-      "orig_cents": 1899,
-      "final_cents": 1424,
-      "orig_price_str": "18,99 €",
-      "final_price_str": "14,24 €"
-    },
-    {
       "appid": "019e93a6205542a2affe450d0d0b30fb",
       "namespace": "05b899a3189342d0af8f3afe98280e0d",
       "name": "Karakage The Sky Shadow",
@@ -2949,16 +2959,6 @@
       "final_cents": 1462,
       "orig_price_str": "19,50 €",
       "final_price_str": "14,62 €"
-    },
-    {
-      "appid": "a789f71af3c04c99a3fb191e9886ee3c",
-      "namespace": "8ae3c382222c462492f25bab4800b77d",
-      "name": "Travellers Rest",
-      "discount": 25,
-      "orig_cents": 1799,
-      "final_cents": 1349,
-      "orig_price_str": "17,99 €",
-      "final_price_str": "13,49 €"
     },
     {
       "appid": "dd52d14e27014cafa5b11354951d01d3",
@@ -3001,5 +3001,5 @@
       "final_price_str": "9,35 €"
     }
   ],
-  "total": 375
+  "total": 385
 }
