@@ -1,16 +1,16 @@
 {
   "items": [
     {
-      "appid": "7ae00c3e89174012b175cc73b4737723",
-      "name": "System Shock 2: 25th Anniversary Remaster",
-      "orig_cents": 2699,
-      "orig_price_str": "26,99 €"
+      "appid": "cb733f3432db46bca94965b422c33ede",
+      "name": "Out of Sight",
+      "orig_cents": 1399,
+      "orig_price_str": "13,99 €"
     },
     {
-      "appid": "af4c34934afe4db0870b8a1d82dceb94",
-      "name": "BURIED STARS",
-      "orig_cents": 3399,
-      "orig_price_str": "33,99 €"
+      "appid": "af6b823b8698465f9aedc3bddf2e8686",
+      "name": "TerraScape",
+      "orig_cents": 1529,
+      "orig_price_str": "15,29 €"
     }
   ]
 }

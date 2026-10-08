@@ -1,3 +1,14 @@
 {
-  "items": []
+  "items": [
+    {
+      "appid": "405640",
+      "name": "Pony Island",
+      "discount": 100,
+      "orig_price_str": "4,99€",
+      "final_price_str": "0,00€",
+      "orig_cents": 499,
+      "final_cents": 0,
+      "gamepass": ""
+    }
+  ]
 }
