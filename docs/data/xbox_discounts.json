@@ -21,16 +21,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9P9NVPF9KM3P",
-      "name": "MXGP 2020 - The Official Motocross Videogame",
-      "discount": 90,
-      "orig_cents": 2999,
-      "final_cents": 299,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "2,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "BTC0L0BW6LWC",
       "name": "Mortal Kombat 11",
       "discount": 90,
@@ -71,6 +61,16 @@
       "gamepass": ""
     },
     {
+      "appid": "BPKVH4C4XV4N",
+      "name": "Injustice™ 2",
+      "discount": 90,
+      "orig_cents": 3999,
+      "final_cents": 399,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "3,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9PGWB5ZMDPDM",
       "name": "Mafia: Definitive Edition",
       "discount": 85,
@@ -101,6 +101,16 @@
       "gamepass": ""
     },
     {
+      "appid": "BZGZ3G053NTH",
+      "name": "LEGO Marvel Super Heroes",
+      "discount": 85,
+      "orig_cents": 3999,
+      "final_cents": 599,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "5,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9N951JR9T3FX",
       "name": "Borderlands Legendary Collection",
       "discount": 80,
@@ -111,26 +121,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9NRLSFM01XTP",
-      "name": "MLB® The Show™ 26 Standard Edition",
-      "discount": 75,
-      "orig_cents": 6999,
-      "final_cents": 1749,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "17,49 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9P9B1QQQ3RGZ",
-      "name": "MLB® The Show™ 26 – Digital Deluxe Edition",
-      "discount": 75,
-      "orig_cents": 9999,
-      "final_cents": 2499,
-      "orig_price_str": "99,99 €",
-      "final_price_str": "24,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9N2ZDN7NWQKV",
       "name": "Red Dead Redemption 2",
       "discount": 75,
@@ -138,6 +128,16 @@
       "final_cents": 1499,
       "orig_price_str": "59,99 €",
       "final_price_str": "14,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9PM4J1VW57XQ",
+      "name": "Destiny 2: The Collection",
+      "discount": 70,
+      "orig_cents": 6999,
+      "final_cents": 2099,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "20,99 €",
       "gamepass": ""
     },
     {
@@ -191,6 +191,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9P5B3ZVDK19D",
+      "name": "Red Dead Redemption",
+      "discount": 50,
+      "orig_cents": 4999,
+      "final_cents": 2499,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "24,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9NF8SKDHFLMG",
       "name": "Invincible VS",
       "discount": 40,
@@ -221,23 +231,13 @@
       "gamepass": ""
     },
     {
-      "appid": "9P3PT7PQJD0M",
-      "name": "HELLDIVERS™ 2",
-      "discount": 25,
+      "appid": "9NPR2CG6S95Q",
+      "name": "Satisfactory",
+      "discount": 30,
       "orig_cents": 3999,
-      "final_cents": 2999,
+      "final_cents": 2799,
       "orig_price_str": "39,99 €",
-      "final_price_str": "29,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9P4H9CTBWV3G",
-      "name": "HELLDIVERS™ 2 Super Citizen Edition",
-      "discount": 25,
-      "orig_cents": 5999,
-      "final_cents": 4499,
-      "orig_price_str": "59,99 €",
-      "final_price_str": "44,99 €",
+      "final_price_str": "27,99 €",
       "gamepass": ""
     },
     {
@@ -251,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 1580
+  "total": 1568
 }

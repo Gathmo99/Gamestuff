@@ -1741,6 +1741,16 @@
       "final_price_str": "12,14 €"
     },
     {
+      "appid": "1fce5a5a3f9f4527947147efc7466b5c",
+      "namespace": "53f401ac46ce44a7889be6b6ee2b15c5",
+      "name": "Botlings",
+      "discount": 20,
+      "orig_cents": 1349,
+      "final_cents": 1079,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "10,79 €"
+    },
+    {
       "appid": "dd52d14e27014cafa5b11354951d01d3",
       "namespace": "525754de21b74ed19da2f5be4129cf17",
       "name": "Border Police: Contraband Simulator 2026",
@@ -1871,5 +1881,5 @@
       "final_price_str": "26,99 €"
     }
   ],
-  "total": 188
+  "total": 189
 }
