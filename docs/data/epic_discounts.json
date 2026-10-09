@@ -141,16 +141,6 @@
       "final_price_str": "0,97 €"
     },
     {
-      "appid": "b7c6449af86c47c4a873a62d0e30c0dc",
-      "namespace": "28b88370465c4c67b583b1b7d5c7e725",
-      "name": "Fell in Love with a California Girl",
-      "discount": 85,
-      "orig_cents": 359,
-      "final_cents": 53,
-      "orig_price_str": "3,59 €",
-      "final_price_str": "0,53 €"
-    },
-    {
       "appid": "9fbfe885acdd4f8cbd4826cd265f36cb",
       "namespace": "26568e976ac2418095a3a079ca7b0276",
       "name": "Skybreak Canyon: The Parkour Game",
@@ -681,6 +671,16 @@
       "final_price_str": "17,99 €"
     },
     {
+      "appid": "01fc5432d5b04aeeb9d5fbdb68f5643a",
+      "namespace": "eb0ab26d3ef7447baec07084f6b89752",
+      "name": "Survival In The Backrooms",
+      "discount": 75,
+      "orig_cents": 179,
+      "final_cents": 44,
+      "orig_price_str": "1,79 €",
+      "final_price_str": "0,44 €"
+    },
+    {
       "appid": "f665676e46c84bf6be366bf5ece0419d",
       "namespace": "9b5a9569674e4d08afe18dc20a697e0e",
       "name": "Aron's Adventure: Magic Reborn",
@@ -981,16 +981,6 @@
       "final_price_str": "8,74 €"
     },
     {
-      "appid": "356ff57fd07a437bb0316e5262a21bfa",
-      "namespace": "fa8c3620ba97457c9d5e204449947750",
-      "name": "THE GENERAL SAGA",
-      "discount": 60,
-      "orig_cents": 982,
-      "final_cents": 392,
-      "orig_price_str": "9,82 €",
-      "final_price_str": "3,92 €"
-    },
-    {
       "appid": "cdee71d3c2fb45eda38d9299f0e9650d",
       "namespace": "d8c9fe16edfc483a83f91659f95b5617",
       "name": "Katana Dragon",
@@ -1221,6 +1211,16 @@
       "final_price_str": "0,44 €"
     },
     {
+      "appid": "bed314a7d6fb460e8476bdc1bd9b8da8",
+      "namespace": "45a8ff4db2fc4f7081a5104136b97484",
+      "name": "KOMMUNALKA",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
       "appid": "95972584e56142828408575485879ae4",
       "namespace": "bb4a3d81162f46eba9e61df349b2046c",
       "name": "Steel Shell",
@@ -1344,6 +1344,16 @@
       "appid": "bb7553e001ec4892b6eb190e5d761467",
       "namespace": "8ebe0bf06dea45859084c258c74e8bfd",
       "name": "Backrooms: Eight Levels",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "55150805c6364978b036716739fe8d61",
+      "namespace": "ccece943516546b7ac1fa4e00b2c3944",
+      "name": "THE MEME HUNTER",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1521,6 +1531,16 @@
       "final_price_str": "14,84 €"
     },
     {
+      "appid": "f1ba15700afd47f2a5ea34d66bd75dab",
+      "namespace": "4729cfcf22234b479e585838be75377c",
+      "name": "KPop Idols",
+      "discount": 40,
+      "orig_cents": 449,
+      "final_cents": 269,
+      "orig_price_str": "4,49 €",
+      "final_price_str": "2,69 €"
+    },
+    {
       "appid": "ebbd4d0fde70421792945fc771f72498",
       "namespace": "62a0b025cd2b422ea7d97b7adf2ef7a5",
       "name": "Service Please",
@@ -1581,16 +1601,6 @@
       "final_price_str": "13,43 €"
     },
     {
-      "appid": "63bab12c3bb14ddb9a22772af3b13763",
-      "namespace": "8c8e5cf1a9ed4b039329c8530720b82c",
-      "name": "Baito Fight!!: Part-time Devil Hunter",
-      "discount": 38,
-      "orig_cents": 719,
-      "final_cents": 445,
-      "orig_price_str": "7,19 €",
-      "final_price_str": "4,45 €"
-    },
-    {
       "appid": "d069c9f9352c485799e441047d64b95d",
       "namespace": "ce62eb6ea00c424784281b28ca24a1e8",
       "name": "EA SPORTS™ Madden NFL 27",
@@ -1609,6 +1619,16 @@
       "final_cents": 1169,
       "orig_price_str": "17,99 €",
       "final_price_str": "11,69 €"
+    },
+    {
+      "appid": "c5d46e8dd3064750924988b4ca07b5bc",
+      "namespace": "0a78a5cb65ab4aaa84a75188ac6eb765",
+      "name": "Maiden Cops",
+      "discount": 35,
+      "orig_cents": 899,
+      "final_cents": 584,
+      "orig_price_str": "8,99 €",
+      "final_price_str": "5,84 €"
     },
     {
       "appid": "d7759376776440a09293a4fe39da257e",
@@ -1701,16 +1721,6 @@
       "final_price_str": "0,66 €"
     },
     {
-      "appid": "9a8a198de3d14907aedf1e862419a4b5",
-      "namespace": "6ec7d089f18f4d1a8698dc490bed3743",
-      "name": "Backrooms The Forest",
-      "discount": 26,
-      "orig_cents": 89,
-      "final_cents": 66,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,66 €"
-    },
-    {
       "appid": "697e10728b8d442da997f4f562e2bf31",
       "namespace": "a07b9f4519464d1b92b620320e37138b",
       "name": "Gallipoli",
@@ -1741,6 +1751,16 @@
       "final_price_str": "12,14 €"
     },
     {
+      "appid": "a35fa1c7057140548cbe45f2b401f0da",
+      "namespace": "4e0c83a8960144b19cae60fa72cdb506",
+      "name": "Permafrost",
+      "discount": 20,
+      "orig_cents": 2499,
+      "final_cents": 1999,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "19,99 €"
+    },
+    {
       "appid": "1fce5a5a3f9f4527947147efc7466b5c",
       "namespace": "53f401ac46ce44a7889be6b6ee2b15c5",
       "name": "Botlings",
@@ -1749,16 +1769,6 @@
       "final_cents": 1079,
       "orig_price_str": "13,49 €",
       "final_price_str": "10,79 €"
-    },
-    {
-      "appid": "dd52d14e27014cafa5b11354951d01d3",
-      "namespace": "525754de21b74ed19da2f5be4129cf17",
-      "name": "Border Police: Contraband Simulator 2026",
-      "discount": 20,
-      "orig_cents": 1169,
-      "final_cents": 935,
-      "orig_price_str": "11,69 €",
-      "final_price_str": "9,35 €"
     },
     {
       "appid": "d4289e6700254985b97bb1e36ed157b6",
@@ -1881,5 +1891,5 @@
       "final_price_str": "26,99 €"
     }
   ],
-  "total": 189
+  "total": 190
 }

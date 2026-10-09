@@ -9,6 +9,16 @@
       "orig_cents": 499,
       "final_cents": 0,
       "gamepass": ""
+    },
+    {
+      "appid": "2990600",
+      "name": "Fireside Feelings",
+      "discount": 100,
+      "orig_price_str": "7,79€",
+      "final_price_str": "0,00€",
+      "orig_cents": 779,
+      "final_cents": 0,
+      "gamepass": ""
     }
   ]
 }
