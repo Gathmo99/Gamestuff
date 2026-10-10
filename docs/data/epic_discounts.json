@@ -71,26 +71,6 @@
       "final_price_str": "0,79 €"
     },
     {
-      "appid": "266ce7800f324a4b9e24077d7ff68e8f",
-      "namespace": "24cc2d573b584bd193de6cc321289f9d",
-      "name": "Chrono Stranded",
-      "discount": 90,
-      "orig_cents": 449,
-      "final_cents": 44,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "cdab83484ebe44609fc8fe95ad5ec99d",
-      "namespace": "090ac4b263f44ea79418069fddfb0d9b",
-      "name": "Devil's Island",
-      "discount": 90,
-      "orig_cents": 1079,
-      "final_cents": 107,
-      "orig_price_str": "10,79 €",
-      "final_price_str": "1,07 €"
-    },
-    {
       "appid": "2a6ad2dc7fc14d4b98fdd89be1fd63b0",
       "namespace": "15863494f4ef46d481aae0759ec24eb1",
       "name": "THE SILENT CITY CHAPTER 2",
@@ -1891,5 +1871,5 @@
       "final_price_str": "26,99 €"
     }
   ],
-  "total": 190
+  "total": 188
 }
