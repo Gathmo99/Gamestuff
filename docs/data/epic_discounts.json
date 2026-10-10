@@ -891,6 +891,16 @@
       "final_price_str": "7,35 €"
     },
     {
+      "appid": "35a4e3d573b3400bb0543b1c1164a49f",
+      "namespace": "7db5792a3c524cfba78b1666b7355b7b",
+      "name": "Tear of Time - Lost memory",
+      "discount": 70,
+      "orig_cents": 359,
+      "final_cents": 107,
+      "orig_price_str": "3,59 €",
+      "final_price_str": "1,07 €"
+    },
+    {
       "appid": "58060b5bbf564d72816e141474c253a9",
       "namespace": "f85394bc37b94bebaed95a675b0e6e82",
       "name": "Flame Keeper",
@@ -1871,5 +1881,5 @@
       "final_price_str": "26,99 €"
     }
   ],
-  "total": 188
+  "total": 189
 }
