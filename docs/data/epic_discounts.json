@@ -1811,16 +1811,6 @@
       "final_price_str": "3,59 €"
     },
     {
-      "appid": "9051ddd6311342598d7c57594f253a8b",
-      "namespace": "74d748b2912e49dd842e389a20f78c93",
-      "name": "Escape from Tarkov: Arena",
-      "discount": 20,
-      "orig_cents": 3700,
-      "final_cents": 2960,
-      "orig_price_str": "37,00 €",
-      "final_price_str": "29,60 €"
-    },
-    {
       "appid": "2966c1ae28cc479bad4a4eec79f73daa",
       "namespace": "8215156e5ee046f9811b506f4935f2b5",
       "name": "Silver Pines",
@@ -1881,5 +1871,5 @@
       "final_price_str": "26,99 €"
     }
   ],
-  "total": 189
+  "total": 188
 }
