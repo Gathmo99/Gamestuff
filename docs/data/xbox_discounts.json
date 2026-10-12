@@ -161,16 +161,6 @@
       "gamepass": ""
     },
     {
-      "appid": "BNNMLWZRNQF6",
-      "name": "Ultimate Chicken Horse",
-      "discount": 55,
-      "orig_cents": 1499,
-      "final_cents": 674,
-      "orig_price_str": "14,99 €",
-      "final_price_str": "6,74 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9P8RQH67TTT1",
       "name": "Grand Theft Auto V (Xbox One & Xbox Series X|S)",
       "discount": 50,
@@ -249,7 +239,17 @@
       "orig_price_str": "9,49 €",
       "final_price_str": "7,59 €",
       "gamepass": ""
+    },
+    {
+      "appid": "9MW15L8FRT9P",
+      "name": "Escape the Backrooms",
+      "discount": 20,
+      "orig_cents": 1299,
+      "final_cents": 1039,
+      "orig_price_str": "12,99 €",
+      "final_price_str": "10,39 €",
+      "gamepass": "PC + Xbox"
     }
   ],
-  "total": 1551
+  "total": 1549
 }
