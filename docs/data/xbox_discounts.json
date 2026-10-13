@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "appid": "9N9Z4S1RD397",
+      "name": "Metro Saga Bundle",
+      "discount": 95,
+      "orig_cents": 5999,
+      "final_cents": 299,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "2,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "BVH2R2SBWL51",
+      "name": "Need for Speed™ Heat Deluxe Edition",
+      "discount": 95,
+      "orig_cents": 7999,
+      "final_cents": 399,
+      "orig_price_str": "79,99 €",
+      "final_price_str": "3,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9N14G09PWG74",
       "name": "Golf With Your Friends",
       "discount": 90,
@@ -8,16 +28,6 @@
       "final_cents": 199,
       "orig_price_str": "19,99 €",
       "final_price_str": "1,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9NP83DTS8T4W",
-      "name": "Golf With Your Friends - Ultimate Edition",
-      "discount": 90,
-      "orig_cents": 5499,
-      "final_cents": 549,
-      "orig_price_str": "54,99 €",
-      "final_price_str": "5,49 €",
       "gamepass": ""
     },
     {
@@ -31,23 +41,13 @@
       "gamepass": ""
     },
     {
-      "appid": "9N5HDNDWVV34",
-      "name": "The Quarry für Xbox Series X|S",
+      "appid": "9NP83DTS8T4W",
+      "name": "Golf With Your Friends - Ultimate Edition",
       "discount": 90,
-      "orig_cents": 7499,
-      "final_cents": 749,
-      "orig_price_str": "74,99 €",
-      "final_price_str": "7,49 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "C34NB0F1B5WQ",
-      "name": "Borderlands 3",
-      "discount": 90,
-      "orig_cents": 6999,
-      "final_cents": 699,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "6,99 €",
+      "orig_cents": 5499,
+      "final_cents": 549,
+      "orig_price_str": "54,99 €",
+      "final_price_str": "5,49 €",
       "gamepass": ""
     },
     {
@@ -58,6 +58,16 @@
       "final_cents": 499,
       "orig_price_str": "49,99 €",
       "final_price_str": "4,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NPKFN7M233T",
+      "name": "Paket: Mortal Kombat 11 Ultimate + Injustice 2 Leg. Edition",
+      "discount": 90,
+      "orig_cents": 9999,
+      "final_cents": 999,
+      "orig_price_str": "99,99 €",
+      "final_price_str": "9,99 €",
       "gamepass": ""
     },
     {
@@ -81,16 +91,6 @@
       "gamepass": ""
     },
     {
-      "appid": "BWPV4QXW8W2C",
-      "name": "LEGO® Worlds",
-      "discount": 85,
-      "orig_cents": 2999,
-      "final_cents": 449,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "4,49 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9NGK2CXP0366",
       "name": "Mittelerde™: Das Schattenpaket",
       "discount": 85,
@@ -111,13 +111,13 @@
       "gamepass": ""
     },
     {
-      "appid": "9N951JR9T3FX",
-      "name": "Borderlands Legendary Collection",
+      "appid": "9PH339L3Z99C",
+      "name": "Red Dead Redemption 2: Ultimate Edition",
       "discount": 80,
-      "orig_cents": 4999,
-      "final_cents": 999,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "9,99 €",
+      "orig_cents": 9999,
+      "final_cents": 1999,
+      "orig_price_str": "99,99 €",
+      "final_price_str": "19,99 €",
       "gamepass": ""
     },
     {
@@ -129,6 +129,16 @@
       "orig_price_str": "59,99 €",
       "final_price_str": "14,99 €",
       "gamepass": ""
+    },
+    {
+      "appid": "9MT8PTGVHX2P",
+      "name": "Halo: The Master Chief Collection",
+      "discount": 75,
+      "orig_cents": 3998,
+      "final_cents": 999,
+      "orig_price_str": "39,98 €",
+      "final_price_str": "9,99 €",
+      "gamepass": "PC + Xbox"
     },
     {
       "appid": "9PM4J1VW57XQ",
@@ -148,16 +158,6 @@
       "final_cents": 874,
       "orig_price_str": "24,99 €",
       "final_price_str": "8,74 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9MWJ5DWVFVGW",
-      "name": "PGA TOUR 2K25",
-      "discount": 55,
-      "orig_cents": 3999,
-      "final_cents": 1799,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "17,99 €",
       "gamepass": ""
     },
     {
@@ -221,13 +221,23 @@
       "gamepass": ""
     },
     {
-      "appid": "9NPR2CG6S95Q",
-      "name": "Satisfactory",
+      "appid": "9P7ZBF3S7PSS",
+      "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
       "discount": 30,
-      "orig_cents": 3999,
-      "final_cents": 2799,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "27,99 €",
+      "orig_cents": 5999,
+      "final_cents": 4199,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "41,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9ND58LQTG09T",
+      "name": "Baldur's Gate 3",
+      "discount": 30,
+      "orig_cents": 6999,
+      "final_cents": 4899,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "48,99 €",
       "gamepass": ""
     },
     {
@@ -239,17 +249,7 @@
       "orig_price_str": "9,49 €",
       "final_price_str": "7,59 €",
       "gamepass": ""
-    },
-    {
-      "appid": "9MW15L8FRT9P",
-      "name": "Escape the Backrooms",
-      "discount": 20,
-      "orig_cents": 1299,
-      "final_cents": 1039,
-      "orig_price_str": "12,99 €",
-      "final_price_str": "10,39 €",
-      "gamepass": "PC + Xbox"
     }
   ],
-  "total": 1549
+  "total": 1550
 }

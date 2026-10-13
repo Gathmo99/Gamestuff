@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "appid": "EP0002-PPSA02410_00-D2LFBUNDLE000001",
+      "name": "Destiny 2: Lightfall",
+      "discount": 90,
+      "orig_cents": 1999,
+      "final_cents": 199,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "1,99 €"
+    },
+    {
       "appid": "EP6665-PPSA05063_00-STR0000000000000",
       "name": "Steelrising",
       "discount": 90,
@@ -55,6 +64,15 @@
       "final_price_str": "0,89 €"
     },
     {
+      "appid": "EP0002-PPSA02410_00-D2WITCHQUEEN0001",
+      "name": "Destiny 2: Die Hexenkönigin",
+      "discount": 90,
+      "orig_cents": 1999,
+      "final_cents": 199,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "1,99 €"
+    },
+    {
       "appid": "EP6008-CUSA27193_00-9892558651788920",
       "name": "The Uncertain: Last Quiet Day",
       "discount": 90,
@@ -71,6 +89,15 @@
       "final_cents": 249,
       "orig_price_str": "24,99 €",
       "final_price_str": "2,49 €"
+    },
+    {
+      "appid": "EP0002-PPSA02410_00-D230PACK00000001",
+      "name": "Destiny 2-Paket: 30 Jahre Bungie",
+      "discount": 90,
+      "orig_cents": 1499,
+      "final_cents": 149,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "1,49 €"
     },
     {
       "appid": "EP5205-CUSA26518_00-SHERLOCKHOLMES78",
@@ -116,6 +143,33 @@
       "final_cents": 599,
       "orig_price_str": "59,99 €",
       "final_price_str": "5,99 €"
+    },
+    {
+      "appid": "EP0002-PPSA02410_00-D2SHADOWKEEP0001",
+      "name": "Destiny 2: „Festung der Schatten“-Paket",
+      "discount": 90,
+      "orig_cents": 999,
+      "final_cents": 99,
+      "orig_price_str": "9,99 €",
+      "final_price_str": "0,99 €"
+    },
+    {
+      "appid": "EP0002-PPSA02410_00-DESTINY2FORSAKEN",
+      "name": "Destiny 2: Forsaken-Paket",
+      "discount": 90,
+      "orig_cents": 999,
+      "final_cents": 99,
+      "orig_price_str": "9,99 €",
+      "final_price_str": "0,99 €"
+    },
+    {
+      "appid": "EP0002-PPSA02410_00-D2BEYONDLIGHT001",
+      "name": "Destiny 2: „Jenseits des Lichts“-Paket",
+      "discount": 90,
+      "orig_cents": 999,
+      "final_cents": 99,
+      "orig_price_str": "9,99 €",
+      "final_price_str": "0,99 €"
     },
     {
       "appid": "EP0896-CUSA20340_00-RGREFLECTIONOFMI",
@@ -368,15 +422,6 @@
       "final_cents": 599,
       "orig_price_str": "39,99 €",
       "final_price_str": "5,99 €"
-    },
-    {
-      "appid": "EP2154-CUSA01963_00-BROKENAGEBUNDLE0",
-      "name": "Broken Age",
-      "discount": 85,
-      "orig_cents": 1499,
-      "final_cents": 224,
-      "orig_price_str": "14,99 €",
-      "final_price_str": "2,24 €"
     },
     {
       "appid": "EP2659-CUSA16789_00-CHUBBYPIXEBUNDLE",
@@ -1216,24 +1261,6 @@
       "final_price_str": "8,99 €"
     },
     {
-      "appid": "EP4389-CUSA01153_00-LOKHDROCKSPS4EU1",
-      "name": "Legend of Kay Anniversary",
-      "discount": 70,
-      "orig_cents": 2999,
-      "final_cents": 899,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "8,99 €"
-    },
-    {
-      "appid": "EP4389-CUSA01702_00-ARCANIATCTEU0000",
-      "name": "ArcaniA - The Complete Tale",
-      "discount": 70,
-      "orig_cents": 1999,
-      "final_cents": 599,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "5,99 €"
-    },
-    {
       "appid": "EP5506-CUSA33689_00-PLPAX20000000000",
       "name": "Princess.Loot.Pixel.Again x2",
       "discount": 69,
@@ -1700,24 +1727,6 @@
       "final_cents": 799,
       "orig_price_str": "19,99 €",
       "final_price_str": "7,99 €"
-    },
-    {
-      "appid": "EP9000-CUSA02974_00-HELLDIVERSSCEE00",
-      "name": "HELLDIVERS™: Über-Erde-Ultimate-Edition",
-      "discount": 60,
-      "orig_cents": 2999,
-      "final_cents": 1199,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "11,99 €"
-    },
-    {
-      "appid": "EP0082-CUSA01244_00-FFX0FFX200EU0PS4",
-      "name": "FINAL FANTASY® X/X-2 HD Remaster",
-      "discount": 60,
-      "orig_cents": 2999,
-      "final_cents": 1199,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "11,99 €"
     },
     {
       "appid": "EP4837-CUSA12064_00-HUNTDOWN00000001",
@@ -2485,16 +2494,7 @@
       "final_price_str": "4,99 €"
     },
     {
-      "appid": "EP2032-CUSA02453_00-SG2NDENCORE00000",
-      "name": "Skullgirls 2nd Encore",
-      "discount": 50,
-      "orig_cents": 2499,
-      "final_cents": 1249,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "12,49 €"
-    },
-    {
-      "appid": "EP5813-PPSA14265_00-0658350809602013",
+      "appid": "EP5813-CUSA33687_00-8374500260203206",
       "name": "Remoteness",
       "discount": 40,
       "orig_cents": 1999,
@@ -2503,7 +2503,7 @@
       "final_price_str": "11,99 €"
     },
     {
-      "appid": "EP5813-CUSA33687_00-8374500260203206",
+      "appid": "EP5813-PPSA14265_00-0658350809602013",
       "name": "Remoteness",
       "discount": 40,
       "orig_cents": 1999,
