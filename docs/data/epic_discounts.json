@@ -1221,6 +1221,16 @@
       "final_price_str": "0,40 €"
     },
     {
+      "appid": "a415f38926c34cdf9d077b60ea3dec67",
+      "namespace": "d3f97f301cb746d5b6e15424edb28afc",
+      "name": "Gas Station Simulator",
+      "discount": 53,
+      "orig_cents": 1799,
+      "final_cents": 845,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "8,45 €"
+    },
+    {
       "appid": "19dad91ebd2c4e51b2666ae8179d22d7",
       "namespace": "d677e4e09736478592b5501ebc8ce238",
       "name": "Midnight Dreams",
@@ -1471,14 +1481,14 @@
       "final_price_str": "3,14 €"
     },
     {
-      "appid": "e1c2369282ca4ba3bcd392e398c55537",
-      "namespace": "2606dbe6dcab483b8cd65d9faf168b6f",
-      "name": "Madness Starts Young",
+      "appid": "9d772a4f90e9473db12cf664d14ade1a",
+      "namespace": "041ae72fbe004d19a36ee417318e7b94",
+      "name": "Winter Survival",
       "discount": 50,
-      "orig_cents": 269,
-      "final_cents": 134,
-      "orig_price_str": "2,69 €",
-      "final_price_str": "1,34 €"
+      "orig_cents": 1709,
+      "final_cents": 854,
+      "orig_price_str": "17,09 €",
+      "final_price_str": "8,54 €"
     },
     {
       "appid": "85cf6a1aaf404316a2893fca4dd3f200",
@@ -1861,6 +1871,16 @@
       "final_price_str": "3,59 €"
     },
     {
+      "appid": "81820e258bbd4dc593afc7f83b944fac",
+      "namespace": "4312a6c998a34b6698ecd9730b80f5a9",
+      "name": "STAGE TOUR",
+      "discount": 10,
+      "orig_cents": 3999,
+      "final_cents": 3599,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "35,99 €"
+    },
+    {
       "appid": "2966c1ae28cc479bad4a4eec79f73daa",
       "namespace": "8215156e5ee046f9811b506f4935f2b5",
       "name": "Silver Pines",
@@ -1911,5 +1931,5 @@
       "final_price_str": "26,99 €"
     }
   ],
-  "total": 192
+  "total": 194
 }
