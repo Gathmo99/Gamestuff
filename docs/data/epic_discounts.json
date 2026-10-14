@@ -31,16 +31,6 @@
       "final_price_str": "0,76 €"
     },
     {
-      "appid": "6146682c0d6d4b779dbe7ae47c9e4e7a",
-      "namespace": "d17f792933ae482599a9faec4afda35f",
-      "name": "Rustic Farm Life",
-      "discount": 95,
-      "orig_cents": 1349,
-      "final_cents": 67,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "0,67 €"
-    },
-    {
       "appid": "0b09d98e514b4808a9ba2ff31af8e44f",
       "namespace": "0d151a7a42fe46a381a9f4371c8d572a",
       "name": "Umm Oyoun",
@@ -1261,6 +1251,16 @@
       "final_price_str": "0,44 €"
     },
     {
+      "appid": "f0b8a5d294ed488a9eafa2d8fc505ecb",
+      "namespace": "a1c8150f9d2a47deaaa3caa16a6854b1",
+      "name": "My Desktop Girlfriend",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
       "appid": "664dce5999484f8e8009a077aa509c53",
       "namespace": "b5f163f90f364380a7fbdbba19fd5554",
       "name": "No I'm not a Voenkom",
@@ -1421,6 +1421,16 @@
       "final_price_str": "0,44 €"
     },
     {
+      "appid": "9c5a9b46407243ba9f58ecb891d03720",
+      "namespace": "4b7c856ef3a54f0489e21feef74b7d08",
+      "name": "TV Head: Eight Pages",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
       "appid": "b0ec295156c44a65a72479cb55b682ae",
       "namespace": "f6cd396127d64fdab847276493634a75",
       "name": "PROHIBEAST",
@@ -1459,36 +1469,6 @@
       "final_cents": 314,
       "orig_price_str": "6,29 €",
       "final_price_str": "3,14 €"
-    },
-    {
-      "appid": "011f9d5cc35747f7883fbccf187c3952",
-      "namespace": "8bff5c9309754b2aae2cdd3f709c17d2",
-      "name": "V Gate Last Camp",
-      "discount": 50,
-      "orig_cents": 359,
-      "final_cents": 179,
-      "orig_price_str": "3,59 €",
-      "final_price_str": "1,79 €"
-    },
-    {
-      "appid": "7477bbf88bae4827879e3e0ce89bf008",
-      "namespace": "67bd9edaa00e4166aecdaebba247b457",
-      "name": "Fxxkbar Kim",
-      "discount": 50,
-      "orig_cents": 179,
-      "final_cents": 89,
-      "orig_price_str": "1,79 €",
-      "final_price_str": "0,89 €"
-    },
-    {
-      "appid": "0ac51d3f5e874d93a1dfa918e098e3bc",
-      "namespace": "b005ba75ad8d488c9d8be26cb04f18fc",
-      "name": "ATOMIC SHELTER",
-      "discount": 50,
-      "orig_cents": 359,
-      "final_cents": 179,
-      "orig_price_str": "3,59 €",
-      "final_price_str": "1,79 €"
     },
     {
       "appid": "e1c2369282ca4ba3bcd392e398c55537",
@@ -1791,16 +1771,6 @@
       "final_price_str": "13,99 €"
     },
     {
-      "appid": "78508bb355af4feaa025008e8c897363",
-      "namespace": "5a189eed71cb44acbf821d3a17397e22",
-      "name": "Backrooms Dead Rush",
-      "discount": 26,
-      "orig_cents": 89,
-      "final_cents": 66,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,66 €"
-    },
-    {
       "appid": "697e10728b8d442da997f4f562e2bf31",
       "namespace": "a07b9f4519464d1b92b620320e37138b",
       "name": "Gallipoli",
@@ -1941,5 +1911,5 @@
       "final_price_str": "26,99 €"
     }
   ],
-  "total": 195
+  "total": 192
 }

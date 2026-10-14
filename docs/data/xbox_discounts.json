@@ -101,16 +101,6 @@
       "gamepass": ""
     },
     {
-      "appid": "BZGZ3G053NTH",
-      "name": "LEGO Marvel Super Heroes",
-      "discount": 85,
-      "orig_cents": 3999,
-      "final_cents": 599,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "5,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9PH339L3Z99C",
       "name": "Red Dead Redemption 2: Ultimate Edition",
       "discount": 80,
@@ -171,6 +161,26 @@
       "gamepass": ""
     },
     {
+      "appid": "9NJ6F163VF8C",
+      "name": "EA SPORTS™ Madden NFL 27",
+      "discount": 50,
+      "orig_cents": 7999,
+      "final_cents": 4000,
+      "orig_price_str": "79,99 €",
+      "final_price_str": "40,00 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9N2R753H6WQD",
+      "name": "EA SPORTS™ College Football 27",
+      "discount": 50,
+      "orig_cents": 7999,
+      "final_cents": 4000,
+      "orig_price_str": "79,99 €",
+      "final_price_str": "40,00 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9P8RQH67TTT1",
       "name": "Grand Theft Auto V (Xbox One & Xbox Series X|S)",
       "discount": 50,
@@ -188,16 +198,6 @@
       "final_cents": 1999,
       "orig_price_str": "39,99 €",
       "final_price_str": "19,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9P5B3ZVDK19D",
-      "name": "Red Dead Redemption",
-      "discount": 50,
-      "orig_cents": 4999,
-      "final_cents": 2499,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "24,99 €",
       "gamepass": ""
     },
     {
@@ -251,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 1611
+  "total": 1637
 }
