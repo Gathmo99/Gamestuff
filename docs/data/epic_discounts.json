@@ -641,16 +641,6 @@
       "final_price_str": "1,94 €"
     },
     {
-      "appid": "fb08eca7e2bf4b9d9ec81741bd4cca7a",
-      "namespace": "a7f4119f59764bfa99910c8f232a6878",
-      "name": "Hot American Dream",
-      "discount": 75,
-      "orig_cents": 179,
-      "final_cents": 44,
-      "orig_price_str": "1,79 €",
-      "final_price_str": "0,44 €"
-    },
-    {
       "appid": "53e4c1a9bda14e1f84df55dbb012d919",
       "namespace": "928bfa8173f249e6b79d4629b42a760d",
       "name": "Backrooms Bodycam 3",
@@ -909,16 +899,6 @@
       "final_cents": 65,
       "orig_price_str": "2,19 €",
       "final_price_str": "0,65 €"
-    },
-    {
-      "appid": "62c0366997084f1fa62d580e2b2ed402",
-      "namespace": "937e39807b624624984dfd68dbb138b6",
-      "name": "Autos",
-      "discount": 70,
-      "orig_cents": 359,
-      "final_cents": 107,
-      "orig_price_str": "3,59 €",
-      "final_price_str": "1,07 €"
     },
     {
       "appid": "94fe23e4ef214e79b9e98d8c31dd5e12",
@@ -1281,6 +1261,16 @@
       "final_price_str": "0,44 €"
     },
     {
+      "appid": "d4c62f0a1e464afcae488f40b2012dbd",
+      "namespace": "f28ef9372daf4ca99385d5d9ab8af7f8",
+      "name": "BORIS RUSSIAN BEAR",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
       "appid": "d10aa9befbd74811a9084de0e3b38951",
       "namespace": "4b0ef32b54c242ecb15ee55741302041",
       "name": "Girls In Backrooms",
@@ -1311,16 +1301,6 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "2b9e9cf8a31a4d97b20e83d78165d2e7",
-      "namespace": "15a55855478c4cc4b308b47b5fcddc83",
-      "name": "Clown Eyes: Dead Park",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
       "appid": "09d157cf14a842169ed67ce867ba3767",
       "namespace": "6acea07493f24448872662ee2bed7ff4",
       "name": "Dead World: Survival",
@@ -1331,49 +1311,9 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "fec758a1163641e4b2764e6de6dc2de3",
-      "namespace": "60729ae90fb84063808cac360e5a6c68",
-      "name": "Build From Block",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "b931ef10acf4499f9dffcc3d8b9a2ddf",
-      "namespace": "02a7abe0a4c74a5281b526d92f43ee37",
-      "name": "Neon Driver",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "2303c60ff1a94d9b9c945fd328150502",
-      "namespace": "afc92a8312dc47a7b2f09001ff78bd83",
-      "name": "Backrooms Furry",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
       "appid": "de05f60752584dc3bbfa89138c12cee2",
       "namespace": "e1094f6a687543c9ab4543dcba655554",
       "name": "Street Fighting Simulator",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "459149a14b9243e3b68251b9f6a39fe6",
-      "namespace": "55400d765e13415996d0324bbda143c0",
-      "name": "Serbian Dancing Lady",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1881,6 +1821,16 @@
       "final_price_str": "35,99 €"
     },
     {
+      "appid": "59e6c81526eb46d4a502b9d69f7f4ed0",
+      "namespace": "1c5a6d6ac0d14005b140c0bc02cd6672",
+      "name": "Fell in love with coser 16",
+      "discount": 10,
+      "orig_cents": 1079,
+      "final_cents": 971,
+      "orig_price_str": "10,79 €",
+      "final_price_str": "9,71 €"
+    },
+    {
       "appid": "2966c1ae28cc479bad4a4eec79f73daa",
       "namespace": "8215156e5ee046f9811b506f4935f2b5",
       "name": "Silver Pines",
@@ -1931,5 +1881,5 @@
       "final_price_str": "26,99 €"
     }
   ],
-  "total": 194
+  "total": 189
 }
