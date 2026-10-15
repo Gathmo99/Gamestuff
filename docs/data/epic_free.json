@@ -1,16 +1,10 @@
 {
   "items": [
     {
-      "appid": "cb733f3432db46bca94965b422c33ede",
-      "name": "Out of Sight",
-      "orig_cents": 1399,
-      "orig_price_str": "13,99 €"
-    },
-    {
-      "appid": "af6b823b8698465f9aedc3bddf2e8686",
-      "name": "TerraScape",
-      "orig_cents": 1529,
-      "orig_price_str": "15,29 €"
+      "appid": "db1202a30c5541dd99cdf54c918a9348",
+      "name": "Agent A: Rätsel in Verkleidung",
+      "orig_cents": 1799,
+      "orig_price_str": "17,99 €"
     }
   ]
 }
