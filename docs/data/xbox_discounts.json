@@ -21,16 +21,6 @@
       "gamepass": ""
     },
     {
-      "appid": "BRW49CBS558D",
-      "name": "Batman: Return to Arkham",
-      "discount": 90,
-      "orig_cents": 4999,
-      "final_cents": 499,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "4,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9NPKFN7M233T",
       "name": "Paket: Mortal Kombat 11 Ultimate + Injustice 2 Leg. Edition",
       "discount": 90,
@@ -41,6 +31,16 @@
       "gamepass": ""
     },
     {
+      "appid": "BRW49CBS558D",
+      "name": "Batman: Return to Arkham",
+      "discount": 90,
+      "orig_cents": 4999,
+      "final_cents": 499,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "4,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "BPKVH4C4XV4N",
       "name": "Injustice™ 2",
       "discount": 90,
@@ -48,6 +48,16 @@
       "final_cents": 399,
       "orig_price_str": "39,99 €",
       "final_price_str": "3,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9P2Z085BXSXD",
+      "name": "Sniper Elite V2 Remastered",
+      "discount": 90,
+      "orig_cents": 3499,
+      "final_cents": 349,
+      "orig_price_str": "34,99 €",
+      "final_price_str": "3,49 €",
       "gamepass": ""
     },
     {
@@ -81,26 +91,6 @@
       "gamepass": ""
     },
     {
-      "appid": "BWPV4QXW8W2C",
-      "name": "LEGO® Worlds",
-      "discount": 85,
-      "orig_cents": 2999,
-      "final_cents": 449,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "4,49 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9PDV8FKWP3B4",
-      "name": "Mittelerde™: Schatten des Krieges™",
-      "discount": 85,
-      "orig_cents": 3999,
-      "final_cents": 599,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "5,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9PH339L3Z99C",
       "name": "Red Dead Redemption 2: Ultimate Edition",
       "discount": 80,
@@ -108,6 +98,16 @@
       "final_cents": 1999,
       "orig_price_str": "99,99 €",
       "final_price_str": "19,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9P724TX61F4G",
+      "name": "Mafia III: Definitive Edition",
+      "discount": 80,
+      "orig_cents": 2999,
+      "final_cents": 599,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "5,99 €",
       "gamepass": ""
     },
     {
@@ -128,6 +128,16 @@
       "final_cents": 874,
       "orig_price_str": "24,99 €",
       "final_price_str": "8,74 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9PFKHJH25TFF",
+      "name": "Max Payne 3",
+      "discount": 65,
+      "orig_cents": 1999,
+      "final_cents": 699,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "6,99 €",
       "gamepass": ""
     },
     {
@@ -171,6 +181,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9NXFX68ZNKK0",
+      "name": "Grand Theft Auto V Enhanced (PC)",
+      "discount": 50,
+      "orig_cents": 2999,
+      "final_cents": 1499,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "14,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9P5B3ZVDK19D",
       "name": "Red Dead Redemption",
       "discount": 50,
@@ -181,13 +201,13 @@
       "gamepass": ""
     },
     {
-      "appid": "9NXFX68ZNKK0",
-      "name": "Grand Theft Auto V Enhanced (PC)",
-      "discount": 50,
-      "orig_cents": 2999,
-      "final_cents": 1499,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "14,99 €",
+      "appid": "C3WX803ZX8SD",
+      "name": "Bully: Die Ehrenrunde",
+      "discount": 40,
+      "orig_cents": 1499,
+      "final_cents": 899,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "8,99 €",
       "gamepass": ""
     },
     {
@@ -201,13 +221,13 @@
       "gamepass": ""
     },
     {
-      "appid": "C3WX803ZX8SD",
-      "name": "Bully: Die Ehrenrunde",
-      "discount": 40,
-      "orig_cents": 1499,
-      "final_cents": 899,
-      "orig_price_str": "14,99 €",
-      "final_price_str": "8,99 €",
+      "appid": "9P7ZBF3S7PSS",
+      "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "discount": 30,
+      "orig_cents": 5999,
+      "final_cents": 4199,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "41,99 €",
       "gamepass": ""
     },
     {
@@ -228,26 +248,6 @@
       "final_cents": 5599,
       "orig_price_str": "79,99 €",
       "final_price_str": "55,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9P7ZBF3S7PSS",
-      "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-      "discount": 30,
-      "orig_cents": 5999,
-      "final_cents": 4199,
-      "orig_price_str": "59,99 €",
-      "final_price_str": "41,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9NSRPC2SQW5Q",
-      "name": "EA SPORTS™ Kickoff-Bundle (Madden NFL 27 & College Football 27)",
-      "discount": 30,
-      "orig_cents": 10999,
-      "final_cents": 7699,
-      "orig_price_str": "109,99 €",
-      "final_price_str": "76,99 €",
       "gamepass": ""
     }
   ],

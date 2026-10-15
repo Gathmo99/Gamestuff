@@ -101,16 +101,6 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "e60a95176c36428e948cd26c9c67377c",
-      "namespace": "c7b771d17305491a9962d0c3de75fe8b",
-      "name": "Starsand",
-      "discount": 90,
-      "orig_cents": 1679,
-      "final_cents": 167,
-      "orig_price_str": "16,79 €",
-      "final_price_str": "1,67 €"
-    },
-    {
       "appid": "dd36293739384a63886ccdc39bc02993",
       "namespace": "2972368dffc24d4ea80ba1aa2bcf56d2",
       "name": "Layers of Fear 2",
@@ -361,16 +351,6 @@
       "final_price_str": "0,49 €"
     },
     {
-      "appid": "c20a2d5d55e440ce8c27d49d9dd52e93",
-      "namespace": "4bc57c7b3e96429a900908219dd779b5",
-      "name": "Industrie Gigant 4.0",
-      "discount": 80,
-      "orig_cents": 2419,
-      "final_cents": 483,
-      "orig_price_str": "24,19 €",
-      "final_price_str": "4,83 €"
-    },
-    {
       "appid": "2f86c49ae5a14fd4a7227504f9edb738",
       "namespace": "c26e2daeda1d48d99cfc15741fa66e88",
       "name": "Labyrinth Destroyer 1",
@@ -441,16 +421,6 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "4f5fc46773204263addc7aaa76601b4a",
-      "namespace": "a83aedcdb7304b51802d41c5ca308ef2",
-      "name": "Farmer's Dynasty",
-      "discount": 80,
-      "orig_cents": 2999,
-      "final_cents": 599,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "5,99 €"
-    },
-    {
       "appid": "30ffc0d65b5f4b778efa076ee44575a0",
       "namespace": "83aa4b4bfd114c3a8b84ab262460af90",
       "name": "Aspire Ina's Tale",
@@ -469,16 +439,6 @@
       "final_cents": 199,
       "orig_price_str": "9,99 €",
       "final_price_str": "1,99 €"
-    },
-    {
-      "appid": "5d72914420da4870ae54365d6a0193c8",
-      "namespace": "fe2b8b6b2b934557a719d104c25623e7",
-      "name": "Lumberjack's Dynasty",
-      "discount": 80,
-      "orig_cents": 1999,
-      "final_cents": 399,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "3,99 €"
     },
     {
       "appid": "4a8cf1c6437a44d1aa1ec5948c0e5863",
@@ -751,6 +711,16 @@
       "final_price_str": "5,24 €"
     },
     {
+      "appid": "17bde9a2a8184fb49416853d9e920a9b",
+      "namespace": "2f05d28a79224f11862217735899c442",
+      "name": "Dark Deception - Monsters & Mortals",
+      "discount": 65,
+      "orig_cents": 449,
+      "final_cents": 157,
+      "orig_price_str": "4,49 €",
+      "final_price_str": "1,57 €"
+    },
+    {
       "appid": "d3d423fc1a58400fb08443c9942756af",
       "namespace": "d74efb08c7f449928fcdfdba1dcbda48",
       "name": "Let's Build a Zoo",
@@ -759,26 +729,6 @@
       "final_cents": 559,
       "orig_price_str": "15,99 €",
       "final_price_str": "5,59 €"
-    },
-    {
-      "appid": "50e61509276c40dd8c7b00f807a20dc3",
-      "namespace": "54e69d4d28354797866db33d612dd798",
-      "name": "Aztecs: The Last Sun",
-      "discount": 60,
-      "orig_cents": 1999,
-      "final_cents": 799,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "7,99 €"
-    },
-    {
-      "appid": "5404e478b5454134a11aa60a770ee3e0",
-      "namespace": "50c8ca44676b4e42b672654b0ded2dfd",
-      "name": "Survive the Fall",
-      "discount": 60,
-      "orig_cents": 2239,
-      "final_cents": 895,
-      "orig_price_str": "22,39 €",
-      "final_price_str": "8,95 €"
     },
     {
       "appid": "76f6442553d4495bb17c6db2c76db4d9",
@@ -861,14 +811,14 @@
       "final_price_str": "1,79 €"
     },
     {
-      "appid": "de5fb28da9e04dbd852fc4457da692c8",
-      "namespace": "2e953f5d56f44248ab500be341e54a65",
-      "name": "Wild West Legacy",
+      "appid": "feb54dfc423448a98cd15c5ef44c9b69",
+      "namespace": "bddbb30a6c36455a9ca82c3a0f91af06",
+      "name": "Dark Deception",
       "discount": 60,
-      "orig_cents": 2499,
-      "final_cents": 999,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "9,99 €"
+      "orig_cents": 1599,
+      "final_cents": 639,
+      "orig_price_str": "15,99 €",
+      "final_price_str": "6,39 €"
     },
     {
       "appid": "619fbc76e6e048e094f27068c262604c",
@@ -1201,16 +1151,6 @@
       "final_price_str": "5,84 €"
     },
     {
-      "appid": "f100d746e4c74e42b6129dda765c9cd9",
-      "namespace": "c556d22537ed4a14a454813c9faedd3a",
-      "name": "Medieval Dynasty",
-      "discount": 50,
-      "orig_cents": 2999,
-      "final_cents": 1499,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "14,99 €"
-    },
-    {
       "appid": "e48a48c96c594e30a9872d051b3b5d8b",
       "namespace": "493e9ad801e8487497fe7840cb8404bb",
       "name": "Landwirtschafts-Simulator 19",
@@ -1219,16 +1159,6 @@
       "final_cents": 999,
       "orig_price_str": "19,99 €",
       "final_price_str": "9,99 €"
-    },
-    {
-      "appid": "df56d588bcaf463ebe835b217f736e20",
-      "namespace": "696f412c815b40089807922419188f43",
-      "name": "Sengoku Dynasty",
-      "discount": 45,
-      "orig_cents": 2699,
-      "final_cents": 1484,
-      "orig_price_str": "26,99 €",
-      "final_price_str": "14,84 €"
     },
     {
       "appid": "f1ba15700afd47f2a5ea34d66bd75dab",
@@ -1259,16 +1189,6 @@
       "final_cents": 323,
       "orig_price_str": "5,39 €",
       "final_price_str": "3,23 €"
-    },
-    {
-      "appid": "46197e7f78524bfb9e1657f2f6d210e5",
-      "namespace": "ca68bad526cc4517ba5f4f86e22a20f8",
-      "name": "Wild West Supermarket Simulator",
-      "discount": 40,
-      "orig_cents": 1299,
-      "final_cents": 779,
-      "orig_price_str": "12,99 €",
-      "final_price_str": "7,79 €"
     },
     {
       "appid": "320642f337214e3eaf8d984207ef0a95",
@@ -1321,16 +1241,6 @@
       "final_price_str": "5,84 €"
     },
     {
-      "appid": "d7759376776440a09293a4fe39da257e",
-      "namespace": "38cc3951ab0540498d566c6735003d9c",
-      "name": "Vampires: Bloodlord Rising",
-      "discount": 33,
-      "orig_cents": 1999,
-      "final_cents": 1339,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "13,39 €"
-    },
-    {
       "appid": "1f43c828798441a5b705f9ce89df21e4",
       "namespace": "4d3d2b9aec6b4015bb6b6b3b620989ca",
       "name": "Woodo",
@@ -1339,6 +1249,16 @@
       "final_cents": 1189,
       "orig_price_str": "16,99 €",
       "final_price_str": "11,89 €"
+    },
+    {
+      "appid": "d3989583b334498aa6b96f49bc638194",
+      "namespace": "4f8976fb2ed8447d98f32a86d33e69af",
+      "name": "RuneScape: Dragonwilds",
+      "discount": 30,
+      "orig_cents": 2999,
+      "final_cents": 2099,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "20,99 €"
     },
     {
       "appid": "37067b8b96a8416a905fe059989d2aef",
@@ -1441,26 +1361,6 @@
       "final_price_str": "8,09 €"
     },
     {
-      "appid": "697e10728b8d442da997f4f562e2bf31",
-      "namespace": "a07b9f4519464d1b92b620320e37138b",
-      "name": "Gallipoli",
-      "discount": 25,
-      "orig_cents": 2999,
-      "final_cents": 2249,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "22,49 €"
-    },
-    {
-      "appid": "d16b4c53540a49c6af1d6d19a8affc9a",
-      "namespace": "c60bfde3607c4c079e6da1f5f44fda25",
-      "name": "Farmer's Dynasty 2",
-      "discount": 25,
-      "orig_cents": 2499,
-      "final_cents": 1874,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "18,74 €"
-    },
-    {
       "appid": "c0ffb9893a03473490dfe76b668f1ba9",
       "namespace": "e2f07405a896421fa0348e7863f7b97b",
       "name": "Landwirtschafts-Simulator 25",
@@ -1469,6 +1369,16 @@
       "final_cents": 2249,
       "orig_price_str": "29,99 €",
       "final_price_str": "22,49 €"
+    },
+    {
+      "appid": "69e7d426a0a5481391adffbc38c6f2bb",
+      "namespace": "816040b037f248bdb9c8cc6ba90faef5",
+      "name": "Arizona Sunshine®",
+      "discount": 20,
+      "orig_cents": 2499,
+      "final_cents": 1999,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "19,99 €"
     },
     {
       "appid": "a35fa1c7057140548cbe45f2b401f0da",
@@ -1589,17 +1499,7 @@
       "final_cents": 404,
       "orig_price_str": "4,49 €",
       "final_price_str": "4,04 €"
-    },
-    {
-      "appid": "2cef0862649140d1b000e0fcdd76f4c8",
-      "namespace": "be97fd77ca9544d6ba58fbe220370a16",
-      "name": "Windrose",
-      "discount": 10,
-      "orig_cents": 2999,
-      "final_cents": 2699,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "26,99 €"
     }
   ],
-  "total": 161
+  "total": 151
 }
