@@ -1351,6 +1351,16 @@
       "final_price_str": "19,99 €"
     },
     {
+      "appid": "f4155d5a217545239e7ec95248aea7aa",
+      "namespace": "151ce8ede0d148f2bf2b868f1c25fac0",
+      "name": "Beyond These Stars",
+      "discount": 20,
+      "orig_cents": 2999,
+      "final_cents": 2399,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "23,99 €"
+    },
+    {
       "appid": "a35fa1c7057140548cbe45f2b401f0da",
       "namespace": "4e0c83a8960144b19cae60fa72cdb506",
       "name": "Permafrost",
@@ -1481,5 +1491,5 @@
       "final_price_str": "4,04 €"
     }
   ],
-  "total": 149
+  "total": 150
 }
