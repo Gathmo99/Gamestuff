@@ -11,6 +11,16 @@
       "final_price_str": "0,00 €"
     },
     {
+      "appid": "6a846880836044a2adad614ac771f487",
+      "namespace": "a0c80bf673a548bc97b4bb25abfaf2b4",
+      "name": "Bad Cheese",
+      "discount": 100,
+      "orig_cents": 1169,
+      "final_cents": 0,
+      "orig_price_str": "11,69 €",
+      "final_price_str": "0,00 €"
+    },
+    {
       "appid": "bdfa6e449c614ae8a5ffbabb2aac52bf",
       "namespace": "89d445a56a744535a52ff914d91a3e0e",
       "name": "Bunny Hopper",
@@ -19,16 +29,6 @@
       "final_cents": 76,
       "orig_price_str": "15,29 €",
       "final_price_str": "0,76 €"
-    },
-    {
-      "appid": "0b09d98e514b4808a9ba2ff31af8e44f",
-      "namespace": "0d151a7a42fe46a381a9f4371c8d572a",
-      "name": "Umm Oyoun",
-      "discount": 95,
-      "orig_cents": 219,
-      "final_cents": 10,
-      "orig_price_str": "2,19 €",
-      "final_price_str": "0,10 €"
     },
     {
       "appid": "f259aab3e78445cf8d3b37e6c67eb2b9",
@@ -211,16 +211,6 @@
       "final_price_str": "0,80 €"
     },
     {
-      "appid": "e6a2d9c2deb840ee8d90b4c6b59bb400",
-      "namespace": "26b9eeb6f649400d9b1d0426b7de9823",
-      "name": "Soccer Story",
-      "discount": 85,
-      "orig_cents": 1599,
-      "final_cents": 239,
-      "orig_price_str": "15,99 €",
-      "final_price_str": "2,39 €"
-    },
-    {
       "appid": "028cff90618f4f62aa0285ea00bed7ed",
       "namespace": "7173e0bc69aa4a679d2850b64b81b748",
       "name": "What Lies in the Multiverse",
@@ -229,16 +219,6 @@
       "final_cents": 224,
       "orig_price_str": "14,99 €",
       "final_price_str": "2,24 €"
-    },
-    {
-      "appid": "a49971c7199b4059a8925542fdb6d347",
-      "namespace": "eb815835951e4165854edf057dfbacdd",
-      "name": "Not Tonight 2",
-      "discount": 85,
-      "orig_cents": 1599,
-      "final_cents": 239,
-      "orig_price_str": "15,99 €",
-      "final_price_str": "2,39 €"
     },
     {
       "appid": "e44a32ca3f094b38ac16682645105d01",
@@ -541,6 +521,16 @@
       "final_price_str": "0,67 €"
     },
     {
+      "appid": "031d44fe68f14970950f8d888a8b485a",
+      "namespace": "b9cad2ee3e58423ca7c46a5f8ffee059",
+      "name": "SCARY AND DOT",
+      "discount": 75,
+      "orig_cents": 179,
+      "final_cents": 44,
+      "orig_price_str": "1,79 €",
+      "final_price_str": "0,44 €"
+    },
+    {
       "appid": "68282d75318a4e47b5bacf1994f648d3",
       "namespace": "3428aaab2c674c98b3acb789dcfaa548",
       "name": "Fallout: New Vegas",
@@ -589,26 +579,6 @@
       "final_cents": 249,
       "orig_price_str": "9,99 €",
       "final_price_str": "2,49 €"
-    },
-    {
-      "appid": "dbe4bfec956f40f3b08cbf0f060f7468",
-      "namespace": "65d31d60510a49629a0b52e93da8416a",
-      "name": "Fashion Police Squad",
-      "discount": 75,
-      "orig_cents": 1599,
-      "final_cents": 399,
-      "orig_price_str": "15,99 €",
-      "final_price_str": "3,99 €"
-    },
-    {
-      "appid": "5eb235d12fbc42b88c030ce1797429af",
-      "namespace": "41ac9425cf1a4867b2b73c9838dbc6f2",
-      "name": "Nowhere Prophet",
-      "discount": 75,
-      "orig_cents": 1999,
-      "final_cents": 499,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "4,99 €"
     },
     {
       "appid": "b22566003429427b8a9ebe215773f226",
@@ -719,16 +689,6 @@
       "final_cents": 157,
       "orig_price_str": "4,49 €",
       "final_price_str": "1,57 €"
-    },
-    {
-      "appid": "d3d423fc1a58400fb08443c9942756af",
-      "namespace": "d74efb08c7f449928fcdfdba1dcbda48",
-      "name": "Let's Build a Zoo",
-      "discount": 65,
-      "orig_cents": 1599,
-      "final_cents": 559,
-      "orig_price_str": "15,99 €",
-      "final_price_str": "5,59 €"
     },
     {
       "appid": "76f6442553d4495bb17c6db2c76db4d9",
@@ -851,26 +811,6 @@
       "final_price_str": "8,45 €"
     },
     {
-      "appid": "19dad91ebd2c4e51b2666ae8179d22d7",
-      "namespace": "d677e4e09736478592b5501ebc8ce238",
-      "name": "Midnight Dreams",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "1ba6ede55c65421eb2683d4f32312c72",
-      "namespace": "20da7140d82142bca3b8e0f72d14fe3f",
-      "name": "Backrooms Survival",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
       "appid": "0f7637234bb74ed3827e5e22a0041886",
       "namespace": "8e96d0390a4f4bddb9370875354dbfaf",
       "name": "Femboy Forest",
@@ -971,9 +911,9 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "de05f60752584dc3bbfa89138c12cee2",
-      "namespace": "e1094f6a687543c9ab4543dcba655554",
-      "name": "Street Fighting Simulator",
+      "appid": "f79a0bf682e94c2d99c37ce9499c55ec",
+      "namespace": "2511759c928046e6b5f1ffe962ad4b39",
+      "name": "My Anime Girlfriend",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -981,9 +921,9 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "bb7553e001ec4892b6eb190e5d761467",
-      "namespace": "8ebe0bf06dea45859084c258c74e8bfd",
-      "name": "Backrooms: Eight Levels",
+      "appid": "bb09d785bd084b3cb606343b9b47ad17",
+      "namespace": "c41d2880cc784e3ab5744177cf90a603",
+      "name": "Lizard Slayer",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1241,6 +1181,16 @@
       "final_price_str": "5,84 €"
     },
     {
+      "appid": "7bcea03fc5ff47e4b97ebf117ff95b65",
+      "namespace": "e582a1469e18401e8729827444ea2c8e",
+      "name": "Dot Line",
+      "discount": 33,
+      "orig_cents": 269,
+      "final_cents": 180,
+      "orig_price_str": "2,69 €",
+      "final_price_str": "1,80 €"
+    },
+    {
       "appid": "1f43c828798441a5b705f9ce89df21e4",
       "namespace": "4d3d2b9aec6b4015bb6b6b3b620989ca",
       "name": "Woodo",
@@ -1351,6 +1301,16 @@
       "final_price_str": "13,99 €"
     },
     {
+      "appid": "50741ede260748e5a2de4a08a9137ee0",
+      "namespace": "09f2753aa5cb4a2b99a311a9711f2265",
+      "name": "Nextbot Hunter",
+      "discount": 25,
+      "orig_cents": 179,
+      "final_cents": 134,
+      "orig_price_str": "1,79 €",
+      "final_price_str": "1,34 €"
+    },
+    {
       "appid": "4c2fe1aa0037421d8a99690cb010d49e",
       "namespace": "a2a4bd5acfe340c88ba592fc1f703999",
       "name": "The Beauty and the CEO",
@@ -1441,6 +1401,16 @@
       "final_price_str": "3,59 €"
     },
     {
+      "appid": "b99c6d171d5f47ef96c6803dec3bd9d1",
+      "namespace": "11c99afe515944189d51b1c31d25905c",
+      "name": "ABYZOU RITUALS: THE MANSON CASE",
+      "discount": 15,
+      "orig_cents": 1169,
+      "final_cents": 993,
+      "orig_price_str": "11,69 €",
+      "final_price_str": "9,93 €"
+    },
+    {
       "appid": "81820e258bbd4dc593afc7f83b944fac",
       "namespace": "4312a6c998a34b6698ecd9730b80f5a9",
       "name": "STAGE TOUR",
@@ -1501,5 +1471,5 @@
       "final_price_str": "4,04 €"
     }
   ],
-  "total": 151
+  "total": 148
 }
