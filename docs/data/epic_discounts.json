@@ -1181,16 +1181,6 @@
       "final_price_str": "11,69 €"
     },
     {
-      "appid": "c5d46e8dd3064750924988b4ca07b5bc",
-      "namespace": "0a78a5cb65ab4aaa84a75188ac6eb765",
-      "name": "Maiden Cops",
-      "discount": 35,
-      "orig_cents": 899,
-      "final_cents": 584,
-      "orig_price_str": "8,99 €",
-      "final_price_str": "5,84 €"
-    },
-    {
       "appid": "7bcea03fc5ff47e4b97ebf117ff95b65",
       "namespace": "e582a1469e18401e8729827444ea2c8e",
       "name": "Dot Line",
@@ -1199,6 +1189,16 @@
       "final_cents": 180,
       "orig_price_str": "2,69 €",
       "final_price_str": "1,80 €"
+    },
+    {
+      "appid": "3ba05aaae21041b4a22f76b5d001fa1f",
+      "namespace": "f9b864b98b084183a58eec29a6d4dadb",
+      "name": "Parking Tycoon: Business Simulator",
+      "discount": 30,
+      "orig_cents": 1169,
+      "final_cents": 818,
+      "orig_price_str": "11,69 €",
+      "final_price_str": "8,18 €"
     },
     {
       "appid": "1f43c828798441a5b705f9ce89df21e4",
