@@ -391,6 +391,16 @@
       "final_price_str": "0,44 €"
     },
     {
+      "appid": "6c6687926a9d47d7a56e53500ca406df",
+      "namespace": "f640a0c1648147fea7e81565b45a3003",
+      "name": "Warhammer 40,000: Space Marine 2",
+      "discount": 75,
+      "orig_cents": 5999,
+      "final_cents": 1499,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "14,99 €"
+    },
+    {
       "appid": "3d74927b4c31440b999949f86b3ab6d8",
       "namespace": "9c1a74145a9145ec803d7452e80819a0",
       "name": "Fallout 4",
@@ -471,6 +481,26 @@
       "final_price_str": "2,49 €"
     },
     {
+      "appid": "1cfc3e68b14940719bbc0bce58fae8a4",
+      "namespace": "78683b0edafd4a978a5ab61a7f6b0594",
+      "name": "Tunche",
+      "discount": 75,
+      "orig_cents": 1999,
+      "final_cents": 499,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "4,99 €"
+    },
+    {
+      "appid": "b5fd42e064484438b11cebb2991a9c2f",
+      "namespace": "de5dba249c30453f86061fe2dcbd5e82",
+      "name": "Niche - a genetics survival game",
+      "discount": 75,
+      "orig_cents": 1499,
+      "final_cents": 374,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "3,74 €"
+    },
+    {
       "appid": "ebc2f3afc8164f44b3017577577be084",
       "namespace": "6e274057d3704624a1270cf7be81966a",
       "name": "Revolt Invasion",
@@ -511,6 +541,36 @@
       "final_price_str": "1,34 €"
     },
     {
+      "appid": "5cd29ece07374515a9770ed60a5346fe",
+      "namespace": "a3968b24e9064e17b54aa605e4fc9ffc",
+      "name": "There Is No Light",
+      "discount": 70,
+      "orig_cents": 2499,
+      "final_cents": 749,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "7,49 €"
+    },
+    {
+      "appid": "3556f8ab62db457db81a14286cb94d05",
+      "namespace": "93526c99c8d14d708b0c858e55b1aea1",
+      "name": "Jack Move",
+      "discount": 70,
+      "orig_cents": 1999,
+      "final_cents": 599,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "5,99 €"
+    },
+    {
+      "appid": "0bce0871129140d894da3789e2fe0a7f",
+      "namespace": "8211dc6089af4542926b7a8137b9079e",
+      "name": "Black Book",
+      "discount": 70,
+      "orig_cents": 2499,
+      "final_cents": 749,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "7,49 €"
+    },
+    {
       "appid": "ab4719afd5914aa087146b0cf12da7d3",
       "namespace": "0dfcaeede0214b80b597f08fd7d64b1b",
       "name": "Risk of Rain 2",
@@ -521,6 +581,16 @@
       "final_price_str": "8,24 €"
     },
     {
+      "appid": "e6958dc0e1fe43a38cca9eab6bb96aca",
+      "namespace": "014e225d587d41ea80c0adb3f33041d0",
+      "name": "Stormedge",
+      "discount": 65,
+      "orig_cents": 1499,
+      "final_cents": 524,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "5,24 €"
+    },
+    {
       "appid": "17bde9a2a8184fb49416853d9e920a9b",
       "namespace": "2f05d28a79224f11862217735899c442",
       "name": "Dark Deception - Monsters & Mortals",
@@ -529,6 +599,16 @@
       "final_cents": 157,
       "orig_price_str": "4,49 €",
       "final_price_str": "1,57 €"
+    },
+    {
+      "appid": "d0a18192b7ef4c5e962b8fd9858464b1",
+      "namespace": "8618da9904ad41ad951fcc470d1873cb",
+      "name": "SuchArt: Genius Artist Simulator",
+      "discount": 65,
+      "orig_cents": 2499,
+      "final_cents": 874,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "8,74 €"
     },
     {
       "appid": "76f6442553d4495bb17c6db2c76db4d9",
@@ -579,6 +659,16 @@
       "final_cents": 179,
       "orig_price_str": "4,49 €",
       "final_price_str": "1,79 €"
+    },
+    {
+      "appid": "0b83e76f9f9445ca863a0a8598542a7d",
+      "namespace": "eca02a726aa54712b4c03c00bf1f0c23",
+      "name": "Bud Spencer and Terence Hill - Slaps and Beans 2",
+      "discount": 60,
+      "orig_cents": 1999,
+      "final_cents": 799,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "7,99 €"
     },
     {
       "appid": "feb54dfc423448a98cd15c5ef44c9b69",
@@ -941,6 +1031,16 @@
       "final_price_str": "2,24 €"
     },
     {
+      "appid": "e5da2c017d4d4afab9f4c56525b66100",
+      "namespace": "740ba4a6fbed4062a9c43d52c5996b0b",
+      "name": "Nova Lands",
+      "discount": 50,
+      "orig_cents": 1999,
+      "final_cents": 999,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "9,99 €"
+    },
+    {
       "appid": "b27b014db6c540a5816556770f1cfd65",
       "namespace": "d8cf97522142452dbe24375a3398cb54",
       "name": "Elven Rivers. The Forgotten Lands Collector's Edition",
@@ -949,6 +1049,16 @@
       "final_cents": 584,
       "orig_price_str": "11,69 €",
       "final_price_str": "5,84 €"
+    },
+    {
+      "appid": "5983c2f9661442d29ae33fd742a25141",
+      "namespace": "301ec0fdbcaf46b3af9322e436ac87bd",
+      "name": "Voidtrain",
+      "discount": 50,
+      "orig_cents": 2999,
+      "final_cents": 1499,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "14,99 €"
     },
     {
       "appid": "e48a48c96c594e30a9872d051b3b5d8b",
@@ -1139,6 +1249,16 @@
       "final_cents": 1259,
       "orig_price_str": "17,99 €",
       "final_price_str": "12,59 €"
+    },
+    {
+      "appid": "3edb4186a4c64791b4ee260c300e576a",
+      "namespace": "b0409fc6425f407fb8cfc707c70947fc",
+      "name": "Quasimorph",
+      "discount": 30,
+      "orig_cents": 1999,
+      "final_cents": 1399,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "13,99 €"
     },
     {
       "appid": "674cc2b7d4a4431f9c9f57fc117e89ed",
@@ -1361,5 +1481,5 @@
       "final_price_str": "4,04 €"
     }
   ],
-  "total": 137
+  "total": 149
 }
