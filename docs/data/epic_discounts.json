@@ -21,16 +21,6 @@
       "final_price_str": "0,00 €"
     },
     {
-      "appid": "bdfa6e449c614ae8a5ffbabb2aac52bf",
-      "namespace": "89d445a56a744535a52ff914d91a3e0e",
-      "name": "Bunny Hopper",
-      "discount": 95,
-      "orig_cents": 1529,
-      "final_cents": 76,
-      "orig_price_str": "15,29 €",
-      "final_price_str": "0,76 €"
-    },
-    {
       "appid": "f259aab3e78445cf8d3b37e6c67eb2b9",
       "namespace": "viola",
       "name": "Outward Definitive Edition",
@@ -39,16 +29,6 @@
       "final_cents": 199,
       "orig_price_str": "39,99 €",
       "final_price_str": "1,99 €"
-    },
-    {
-      "appid": "7df6c82dff564d8eb04fc20687e2c6ad",
-      "namespace": "36e5e8e78ef04e63b204a224ee3a780f",
-      "name": "Firelight Fantasy: Phoenix Crew",
-      "discount": 94,
-      "orig_cents": 1349,
-      "final_cents": 80,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "0,80 €"
     },
     {
       "appid": "ed7c822644734c4eae164021513ee73d",
@@ -531,16 +511,6 @@
       "final_price_str": "1,34 €"
     },
     {
-      "appid": "35a4e3d573b3400bb0543b1c1164a49f",
-      "namespace": "7db5792a3c524cfba78b1666b7355b7b",
-      "name": "Tear of Time - Lost memory",
-      "discount": 70,
-      "orig_cents": 359,
-      "final_cents": 107,
-      "orig_price_str": "3,59 €",
-      "final_price_str": "1,07 €"
-    },
-    {
       "appid": "ab4719afd5914aa087146b0cf12da7d3",
       "namespace": "0dfcaeede0214b80b597f08fd7d64b1b",
       "name": "Risk of Rain 2",
@@ -624,6 +594,26 @@
       "appid": "619fbc76e6e048e094f27068c262604c",
       "namespace": "0c21508a6aff429dbd3322db00805b28",
       "name": "Terminal Mission",
+      "discount": 55,
+      "orig_cents": 89,
+      "final_cents": 40,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,40 €"
+    },
+    {
+      "appid": "5e7015b65e174329a90b50fc90194224",
+      "namespace": "bd440f08d4d044dbad86cf12f273f744",
+      "name": "Krogger Skull Killer",
+      "discount": 55,
+      "orig_cents": 89,
+      "final_cents": 40,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,40 €"
+    },
+    {
+      "appid": "b681625321de4d7192242980bc747619",
+      "namespace": "0062f9caeb7743f2b6f65c4b5a982e80",
+      "name": "MISSION ETERNAL SOULS",
       "discount": 55,
       "orig_cents": 89,
       "final_cents": 40,
@@ -1239,6 +1229,16 @@
       "final_cents": 1079,
       "orig_price_str": "13,49 €",
       "final_price_str": "10,79 €"
+    },
+    {
+      "appid": "1e09d20cfb7f4687b42f7f59b8ec8b1c",
+      "namespace": "38fe2fb2c7954c728d23db52a48b891c",
+      "name": "Tale of Beauty",
+      "discount": 20,
+      "orig_cents": 2699,
+      "final_cents": 2159,
+      "orig_price_str": "26,99 €",
+      "final_price_str": "21,59 €"
     },
     {
       "appid": "5f22c6f6c9d24916bbc178c2b34816e8",

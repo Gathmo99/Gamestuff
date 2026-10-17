@@ -1378,15 +1378,6 @@
       "final_price_str": "5,07 €"
     },
     {
-      "appid": "EP0290-PPSA01349_00-GODFALLULTIMATE0",
-      "name": "Godfall Ultimate Edition",
-      "discount": 65,
-      "orig_cents": 3999,
-      "final_cents": 1399,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "13,99 €"
-    },
-    {
       "appid": "EP0290-CUSA26922_00-GODFALLULTIMATE0",
       "name": "Godfall Ultimate Edition",
       "discount": 65,
@@ -1396,7 +1387,16 @@
       "final_price_str": "13,99 €"
     },
     {
-      "appid": "EP6087-PPSA05610_00-1221784256863423",
+      "appid": "EP0290-PPSA01349_00-GODFALLULTIMATE0",
+      "name": "Godfall Ultimate Edition",
+      "discount": 65,
+      "orig_cents": 3999,
+      "final_cents": 1399,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "13,99 €"
+    },
+    {
+      "appid": "EP6087-CUSA30939_00-9067424964161172",
       "name": "Outbreak: Contagious Memories",
       "discount": 65,
       "orig_cents": 2999,
@@ -1405,7 +1405,7 @@
       "final_price_str": "10,49 €"
     },
     {
-      "appid": "EP6087-CUSA30939_00-9067424964161172",
+      "appid": "EP6087-PPSA05610_00-1221784256863423",
       "name": "Outbreak: Contagious Memories",
       "discount": 65,
       "orig_cents": 2999,
