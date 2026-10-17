@@ -1241,6 +1241,16 @@
       "final_price_str": "21,59 €"
     },
     {
+      "appid": "7d0ce32cee924c30bb72c08a85ebe57b",
+      "namespace": "09018ada7be84adba85480017027d1e7",
+      "name": "Breathedge 2",
+      "discount": 20,
+      "orig_cents": 1999,
+      "final_cents": 1599,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "15,99 €"
+    },
+    {
       "appid": "5f22c6f6c9d24916bbc178c2b34816e8",
       "namespace": "df7ea5e43f684c30854aa6b36413c10d",
       "name": "Voidling Bound",
@@ -1351,5 +1361,5 @@
       "final_price_str": "4,04 €"
     }
   ],
-  "total": 136
+  "total": 137
 }
