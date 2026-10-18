@@ -19,7 +19,7 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "EP1877-PPSA05626_00-FOBIA00000000000",
+      "appid": "EP1877-CUSA30959_00-FOBIA00000000000",
       "name": "Fobia - St. Dinfna Hotel",
       "discount": 90,
       "orig_cents": 2999,
@@ -28,7 +28,7 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "EP1877-CUSA30959_00-FOBIA00000000000",
+      "appid": "EP1877-PPSA05626_00-FOBIA00000000000",
       "name": "Fobia - St. Dinfna Hotel",
       "discount": 90,
       "orig_cents": 2999,
@@ -325,7 +325,7 @@
       "final_price_str": "5,99 €"
     },
     {
-      "appid": "EP6665-PPSA07302_00-VTMS000000000000",
+      "appid": "EP6665-CUSA33241_00-VTMS000000000000",
       "name": "Vampire: The Masquerade - Swansong",
       "discount": 85,
       "orig_cents": 2999,
@@ -334,7 +334,7 @@
       "final_price_str": "4,49 €"
     },
     {
-      "appid": "EP6665-CUSA33241_00-VTMS000000000000",
+      "appid": "EP6665-PPSA07302_00-VTMS000000000000",
       "name": "Vampire: The Masquerade - Swansong",
       "discount": 85,
       "orig_cents": 2999,
@@ -496,7 +496,7 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "EP2955-CUSA28258_00-INNIGHTMARE00000",
+      "appid": "EP2955-PPSA06109_00-INNIGHTMARE00000",
       "name": "In Nightmare",
       "discount": 80,
       "orig_cents": 1999,
@@ -505,7 +505,7 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "EP2955-PPSA06109_00-INNIGHTMARE00000",
+      "appid": "EP2955-CUSA28258_00-INNIGHTMARE00000",
       "name": "In Nightmare",
       "discount": 80,
       "orig_cents": 1999,
@@ -1396,7 +1396,7 @@
       "final_price_str": "13,99 €"
     },
     {
-      "appid": "EP6087-CUSA30939_00-9067424964161172",
+      "appid": "EP6087-PPSA05610_00-1221784256863423",
       "name": "Outbreak: Contagious Memories",
       "discount": 65,
       "orig_cents": 2999,
@@ -1405,7 +1405,7 @@
       "final_price_str": "10,49 €"
     },
     {
-      "appid": "EP6087-PPSA05610_00-1221784256863423",
+      "appid": "EP6087-CUSA30939_00-9067424964161172",
       "name": "Outbreak: Contagious Memories",
       "discount": 65,
       "orig_cents": 2999,
