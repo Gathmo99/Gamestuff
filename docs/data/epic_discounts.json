@@ -111,6 +111,16 @@
       "final_price_str": "0,43 €"
     },
     {
+      "appid": "78b49b31ca3a43cea39b552555deb72b",
+      "namespace": "49746e7a850e4d9d9c7390b9ed032db0",
+      "name": "Backrooms Bodycam 2",
+      "discount": 85,
+      "orig_cents": 269,
+      "final_cents": 40,
+      "orig_price_str": "2,69 €",
+      "final_price_str": "0,40 €"
+    },
+    {
       "appid": "7d13656156b24e81994f5966d9a701f3",
       "namespace": "261cebe8fa0e40bcad757d5dd1de0d48",
       "name": "RPG Maker 3D Character Converter",
@@ -741,9 +751,9 @@
       "final_price_str": "8,45 €"
     },
     {
-      "appid": "0f7637234bb74ed3827e5e22a0041886",
-      "namespace": "8e96d0390a4f4bddb9370875354dbfaf",
-      "name": "Femboy Forest",
+      "appid": "78a59785693c45fe8fb20dc09c7c1cf4",
+      "namespace": "d6b2704a9c1644e0acead0f8547e2c3e",
+      "name": "Starfish Simulator",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -929,16 +939,6 @@
       "final_cents": 44,
       "orig_price_str": "0,89 €",
       "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "b0ec295156c44a65a72479cb55b682ae",
-      "namespace": "f6cd396127d64fdab847276493634a75",
-      "name": "PROHIBEAST",
-      "discount": 50,
-      "orig_cents": 2699,
-      "final_cents": 1349,
-      "orig_price_str": "26,99 €",
-      "final_price_str": "13,49 €"
     },
     {
       "appid": "60237be1a2bb4da8aed104feda8cc078",
