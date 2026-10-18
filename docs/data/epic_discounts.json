@@ -171,26 +171,6 @@
       "final_price_str": "13,49 €"
     },
     {
-      "appid": "d55742ec89144e559349f28828a43b21",
-      "namespace": "2010b387d2964690a42249ff8c4f9ee4",
-      "name": "THE IMPOSSIBLE",
-      "discount": 85,
-      "orig_cents": 449,
-      "final_cents": 67,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "0,67 €"
-    },
-    {
-      "appid": "2a6f2119c6fc4c1e954bb8a6ce6a0bd7",
-      "namespace": "a558895729e74ef28bc57bdab3cd63f1",
-      "name": "Shop Tycoon - Prepare Your Wallet",
-      "discount": 85,
-      "orig_cents": 539,
-      "final_cents": 80,
-      "orig_price_str": "5,39 €",
-      "final_price_str": "0,80 €"
-    },
-    {
       "appid": "f114a520af424f149424d49ec7ced301",
       "namespace": "d525960335e248cab5ec90847f5ef96a",
       "name": "Crown of Ruin: The Parkour Game",
@@ -419,16 +399,6 @@
       "final_cents": 499,
       "orig_price_str": "19,99 €",
       "final_price_str": "4,99 €"
-    },
-    {
-      "appid": "eb0c7c1cb11c4689b9a96960b32d420d",
-      "namespace": "c3e57c64bb4a468f8261f4038f3e903e",
-      "name": "Play with Me - Escape Room",
-      "discount": 75,
-      "orig_cents": 269,
-      "final_cents": 67,
-      "orig_price_str": "2,69 €",
-      "final_price_str": "0,67 €"
     },
     {
       "appid": "031d44fe68f14970950f8d888a8b485a",
@@ -894,16 +864,6 @@
       "appid": "388fa4f59a104538b60a6bcd844cf4f8",
       "namespace": "bf41a162f7324b14b597d0713415b312",
       "name": "ANONYMOUS HUNTING SIMULATOR",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "54743436f8ed4c80a87e2cb61029a563",
-      "namespace": "be657c5da1ad4bb48cb458c8db67b45e",
-      "name": "CATAIRE",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1481,5 +1441,5 @@
       "final_price_str": "4,04 €"
     }
   ],
-  "total": 149
+  "total": 145
 }
