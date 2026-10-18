@@ -91,6 +91,16 @@
       "gamepass": ""
     },
     {
+      "appid": "C24T2MRDBB3W",
+      "name": "Street Fighter 30th Anniversary Collection",
+      "discount": 85,
+      "orig_cents": 2998,
+      "final_cents": 449,
+      "orig_price_str": "29,98 €",
+      "final_price_str": "4,49 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9PH339L3Z99C",
       "name": "Red Dead Redemption 2: Ultimate Edition",
       "discount": 80,
@@ -241,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 543
+  "total": 547
 }
