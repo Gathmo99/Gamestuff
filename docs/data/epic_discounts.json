@@ -21,6 +21,16 @@
       "final_price_str": "0,00 €"
     },
     {
+      "appid": "01788ca3ba2c43958b5d70939df5aa97",
+      "namespace": "a1999b7ecf184f63b4dceba2bbdc4b2c",
+      "name": "Countrytale 2010",
+      "discount": 95,
+      "orig_cents": 1799,
+      "final_cents": 89,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "0,89 €"
+    },
+    {
       "appid": "f259aab3e78445cf8d3b37e6c67eb2b9",
       "namespace": "viola",
       "name": "Outward Definitive Edition",
@@ -269,16 +279,6 @@
       "final_cents": 49,
       "orig_price_str": "2,49 €",
       "final_price_str": "0,49 €"
-    },
-    {
-      "appid": "2f86c49ae5a14fd4a7227504f9edb738",
-      "namespace": "c26e2daeda1d48d99cfc15741fa66e88",
-      "name": "Labyrinth Destroyer 1",
-      "discount": 80,
-      "orig_cents": 359,
-      "final_cents": 71,
-      "orig_price_str": "3,59 €",
-      "final_price_str": "0,71 €"
     },
     {
       "appid": "4fc4d85db8734e1bb9eea84e51a96a12",
@@ -1081,6 +1081,16 @@
       "final_price_str": "3,23 €"
     },
     {
+      "appid": "42a955bd8bab413b8dbe9010a1074a4a",
+      "namespace": "9a7a940d35ba4f8c912064ca4a9660d9",
+      "name": "Deadlink",
+      "discount": 40,
+      "orig_cents": 1799,
+      "final_cents": 1079,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "10,79 €"
+    },
+    {
       "appid": "7d7a0fe0394c4271baffee7994ece0f1",
       "namespace": "cc0e58f599a240aa83a1bace2f196499",
       "name": "Football Club Inside",
@@ -1281,6 +1291,16 @@
       "final_price_str": "19,99 €"
     },
     {
+      "appid": "7f6ea1fc80a94f029af93a4b0db1b480",
+      "namespace": "88db3163747e4d79a0d4e77bddfa9966",
+      "name": "Build Survivors",
+      "discount": 20,
+      "orig_cents": 539,
+      "final_cents": 431,
+      "orig_price_str": "5,39 €",
+      "final_price_str": "4,31 €"
+    },
+    {
       "appid": "f4155d5a217545239e7ec95248aea7aa",
       "namespace": "151ce8ede0d148f2bf2b868f1c25fac0",
       "name": "Beyond These Stars",
@@ -1441,5 +1461,5 @@
       "final_price_str": "4,04 €"
     }
   ],
-  "total": 145
+  "total": 147
 }
