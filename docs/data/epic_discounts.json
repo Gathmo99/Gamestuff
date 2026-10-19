@@ -131,16 +131,6 @@
       "final_price_str": "0,40 €"
     },
     {
-      "appid": "7d13656156b24e81994f5966d9a701f3",
-      "namespace": "261cebe8fa0e40bcad757d5dd1de0d48",
-      "name": "RPG Maker 3D Character Converter",
-      "discount": 85,
-      "orig_cents": 899,
-      "final_cents": 134,
-      "orig_price_str": "8,99 €",
-      "final_price_str": "1,34 €"
-    },
-    {
       "appid": "0e18d59caa564c74bbf982bd670e8501",
       "namespace": "9d526342864b44ba86674bd7d4bd8eee",
       "name": "New Year Simulator 2025",
@@ -171,14 +161,14 @@
       "final_price_str": "0,53 €"
     },
     {
-      "appid": "8c22490b68174ee0b9b2e00fdf871afa",
-      "namespace": "fea91f8cbd75425cb02c4b32d5f49afb",
-      "name": "RPG MAKER UNITE",
+      "appid": "8da4349c7c87435892cfb87161049746",
+      "namespace": "c473457eec2f4d31bd98bfc76551443b",
+      "name": "Alchemist Adventure",
       "discount": 85,
-      "orig_cents": 8999,
-      "final_cents": 1349,
-      "orig_price_str": "89,99 €",
-      "final_price_str": "13,49 €"
+      "orig_cents": 1349,
+      "final_cents": 202,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "2,02 €"
     },
     {
       "appid": "f114a520af424f149424d49ec7ced301",
@@ -299,6 +289,16 @@
       "final_cents": 89,
       "orig_price_str": "4,49 €",
       "final_price_str": "0,89 €"
+    },
+    {
+      "appid": "ea0b3f5b2c3148e49690ac5b04e48c91",
+      "namespace": "6205df00fe61413398cd7eb61f86263f",
+      "name": "Wonhon: A Vengeful Spirit",
+      "discount": 80,
+      "orig_cents": 989,
+      "final_cents": 197,
+      "orig_price_str": "9,89 €",
+      "final_price_str": "1,97 €"
     },
     {
       "appid": "4a8cf1c6437a44d1aa1ec5948c0e5863",
@@ -711,6 +711,16 @@
       "final_price_str": "0,40 €"
     },
     {
+      "appid": "ddeaf5b7e97b4056af4dd5867127589a",
+      "namespace": "9cfd154729b44c129f0cb8bbdc7ff7bb",
+      "name": "VIDEOVERSE",
+      "discount": 55,
+      "orig_cents": 1169,
+      "final_cents": 526,
+      "orig_price_str": "11,69 €",
+      "final_price_str": "5,26 €"
+    },
+    {
       "appid": "a415f38926c34cdf9d077b60ea3dec67",
       "namespace": "d3f97f301cb746d5b6e15424edb28afc",
       "name": "Gas Station Simulator",
@@ -1009,6 +1019,26 @@
       "final_cents": 584,
       "orig_price_str": "11,69 €",
       "final_price_str": "5,84 €"
+    },
+    {
+      "appid": "1360da5c48434ce8b90d4e94bfa6585e",
+      "namespace": "0e2bd7afb59f4359b2abc5ded57a4264",
+      "name": "Zelter",
+      "discount": 50,
+      "orig_cents": 1799,
+      "final_cents": 899,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "8,99 €"
+    },
+    {
+      "appid": "7fb749511d9b4022814470fd62a73d0f",
+      "namespace": "62f99b78af024705aa761fb0f448d301",
+      "name": "Deflector",
+      "discount": 50,
+      "orig_cents": 1799,
+      "final_cents": 899,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "8,99 €"
     },
     {
       "appid": "5983c2f9661442d29ae33fd742a25141",
@@ -1321,16 +1351,6 @@
       "final_price_str": "19,99 €"
     },
     {
-      "appid": "1fce5a5a3f9f4527947147efc7466b5c",
-      "namespace": "53f401ac46ce44a7889be6b6ee2b15c5",
-      "name": "Botlings",
-      "discount": 20,
-      "orig_cents": 1349,
-      "final_cents": 1079,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "10,79 €"
-    },
-    {
       "appid": "1e09d20cfb7f4687b42f7f59b8ec8b1c",
       "namespace": "38fe2fb2c7954c728d23db52a48b891c",
       "name": "Tale of Beauty",
@@ -1461,5 +1481,5 @@
       "final_price_str": "4,04 €"
     }
   ],
-  "total": 147
+  "total": 149
 }
