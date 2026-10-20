@@ -261,16 +261,6 @@
       "final_price_str": "0,89 €"
     },
     {
-      "appid": "db5f2c42cb6a45679d5191f6735e3abb",
-      "namespace": "5b431d5eb3b44ba884c95e26692ac651",
-      "name": "Super Miaoyin",
-      "discount": 80,
-      "orig_cents": 219,
-      "final_cents": 43,
-      "orig_price_str": "2,19 €",
-      "final_price_str": "0,43 €"
-    },
-    {
       "appid": "2d106f2131974816a92f85445da46569",
       "namespace": "306a3dc5437a43d29e58661fc6f391f2",
       "name": "IHAS",
@@ -289,6 +279,26 @@
       "final_cents": 390,
       "orig_price_str": "16,99 €",
       "final_price_str": "3,90 €"
+    },
+    {
+      "appid": "4bb49d141e60411885744bd7b4993a3c",
+      "namespace": "4e4cd4ee98bd4b5fb2de1f05f4a65846",
+      "name": "Fantasy Youth",
+      "discount": 76,
+      "orig_cents": 2239,
+      "final_cents": 537,
+      "orig_price_str": "22,39 €",
+      "final_price_str": "5,37 €"
+    },
+    {
+      "appid": "4a8cf1c6437a44d1aa1ec5948c0e5863",
+      "namespace": "d37f4318eed346babb339fbe841d0ef6",
+      "name": "The Nightmare of Pandemic - Kyle's Story",
+      "discount": 76,
+      "orig_cents": 1259,
+      "final_cents": 302,
+      "orig_price_str": "12,59 €",
+      "final_price_str": "3,02 €"
     },
     {
       "appid": "f72ac926b4a64d729d565377fe75e512",
@@ -431,6 +441,16 @@
       "final_price_str": "3,74 €"
     },
     {
+      "appid": "b8d5488313d34eb8bef0b7797ba9b287",
+      "namespace": "b3eefb9401454010919b8f9f93c2966e",
+      "name": "Trident's Tale",
+      "discount": 75,
+      "orig_cents": 1799,
+      "final_cents": 449,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "4,49 €"
+    },
+    {
       "appid": "aa553551bf1c41aa82602a2daaf891fe",
       "namespace": "8d5e945d953f4c9e916eabc2bf61b8bf",
       "name": "Maquette",
@@ -509,6 +529,16 @@
       "final_cents": 269,
       "orig_price_str": "8,99 €",
       "final_price_str": "2,69 €"
+    },
+    {
+      "appid": "b006dd551d274666941afcd8bea5eb8a",
+      "namespace": "44fdc5bef2bb495981b03e358175b412",
+      "name": "Paper Trail",
+      "discount": 70,
+      "orig_cents": 1799,
+      "final_cents": 539,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "5,39 €"
     },
     {
       "appid": "6028827a1b9a4154aab7945f65523e8c",
@@ -849,16 +879,6 @@
       "final_cents": 539,
       "orig_price_str": "13,49 €",
       "final_price_str": "5,39 €"
-    },
-    {
-      "appid": "41128fb7342a436f942dca95234fdb14",
-      "namespace": "662ed16d54eb453292bc0325cea61906",
-      "name": "PowerWash Simulator 2",
-      "discount": 60,
-      "orig_cents": 2499,
-      "final_cents": 999,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "9,99 €"
     },
     {
       "appid": "a0bfa081c4aa4cacb59e6f512c130dc1",
@@ -1281,16 +1301,6 @@
       "final_price_str": "12,49 €"
     },
     {
-      "appid": "60237be1a2bb4da8aed104feda8cc078",
-      "namespace": "f56a3bfad942438b881068d175181f4f",
-      "name": "Kellan Graves: Fallen",
-      "discount": 50,
-      "orig_cents": 449,
-      "final_cents": 224,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "2,24 €"
-    },
-    {
       "appid": "e0722b6bd70643c09e889f6de1786d4c",
       "namespace": "195babba4ee143cab291ed109668d10d",
       "name": "Space Grunts 2",
@@ -1321,16 +1331,6 @@
       "final_price_str": "2,49 €"
     },
     {
-      "appid": "3590022b6fe84339a2a611828c7a5313",
-      "namespace": "3d36ad7fbc724e97808d0aedd98213ef",
-      "name": "Project Motor Racing",
-      "discount": 50,
-      "orig_cents": 3999,
-      "final_cents": 1999,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "19,99 €"
-    },
-    {
       "appid": "74a29377ec184d98956e4ca9ed6e44ec",
       "namespace": "24f77395564745068e4759e77bc847cb",
       "name": "Neoteria",
@@ -1359,16 +1359,6 @@
       "final_cents": 199,
       "orig_price_str": "3,99 €",
       "final_price_str": "1,99 €"
-    },
-    {
-      "appid": "f02517c3e83341859d40c43f855d8b10",
-      "namespace": "6f54d9c63990451b93584c5f47e6df5a",
-      "name": "Lass mich sehen",
-      "discount": 50,
-      "orig_cents": 629,
-      "final_cents": 314,
-      "orig_price_str": "6,29 €",
-      "final_price_str": "3,14 €"
     },
     {
       "appid": "f04a87cec4db45b49ed2367a49a291b7",
@@ -1449,6 +1439,16 @@
       "final_cents": 1349,
       "orig_price_str": "26,99 €",
       "final_price_str": "13,49 €"
+    },
+    {
+      "appid": "2c75bb68cfa84aabbea3504f57197611",
+      "namespace": "de2550653b9146cbbabbc4c628870d51",
+      "name": "Formula Legends",
+      "discount": 50,
+      "orig_cents": 1799,
+      "final_cents": 899,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "8,99 €"
     },
     {
       "appid": "cbc8e16817fd42649aa8b3bb64d79329",
@@ -1911,16 +1911,6 @@
       "final_price_str": "10,79 €"
     },
     {
-      "appid": "7d7a0fe0394c4271baffee7994ece0f1",
-      "namespace": "cc0e58f599a240aa83a1bace2f196499",
-      "name": "Football Club Inside",
-      "discount": 35,
-      "orig_cents": 359,
-      "final_cents": 233,
-      "orig_price_str": "3,59 €",
-      "final_price_str": "2,33 €"
-    },
-    {
       "appid": "f4019c3a9672410f815b5332c888c6ba",
       "namespace": "8574da5df2c14da79362c214d92ccb6b",
       "name": "EA SPORTS™ College Football 27",
@@ -1969,6 +1959,16 @@
       "final_cents": 233,
       "orig_price_str": "3,59 €",
       "final_price_str": "2,33 €"
+    },
+    {
+      "appid": "cd72045db1714270982bffee4d8ada4f",
+      "namespace": "2a6f359ac1fb46caa6b812ca0c46deb2",
+      "name": "Anima: Gate of Memories I-II Remaster",
+      "discount": 35,
+      "orig_cents": 2499,
+      "final_cents": 1624,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "16,24 €"
     },
     {
       "appid": "e462627d3a864052a6b5fe2c0eaf0ba8",
@@ -2321,29 +2321,19 @@
       "final_price_str": "12,59 €"
     },
     {
+      "appid": "9b25499206d1464e9c06a71db2aad795",
+      "namespace": "853bfa0a3de24d6f9d66f228d484ea21",
+      "name": "World Wonders: Hidden Histories Collector's Edition",
+      "discount": 30,
+      "orig_cents": 1349,
+      "final_cents": 944,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "9,44 €"
+    },
+    {
       "appid": "f00128eaf1e74447bdf1a44b3c5b9791",
       "namespace": "6bd2467cefea45f086ceec4c9d90d9bd",
       "name": "Gnomes Garden 9: Lifeseeds Collector's Edition",
-      "discount": 30,
-      "orig_cents": 1349,
-      "final_cents": 944,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "9,44 €"
-    },
-    {
-      "appid": "0500ec35d1bb45dc8813dd87781a26ac",
-      "namespace": "b9228be932df4202b462d49bd9dc5949",
-      "name": "Elven Rivers 2 New Horizons",
-      "discount": 30,
-      "orig_cents": 1349,
-      "final_cents": 944,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "9,44 €"
-    },
-    {
-      "appid": "b60bb7794d064b088c885665291b505b",
-      "namespace": "f2d689f4ef4040db96a5f4a71b9882ee",
-      "name": "New Lands 2. Collector's Edition",
       "discount": 30,
       "orig_cents": 1349,
       "final_cents": 944,
@@ -2569,6 +2559,16 @@
       "final_cents": 2999,
       "orig_price_str": "39,99 €",
       "final_price_str": "29,99 €"
+    },
+    {
+      "appid": "41128fb7342a436f942dca95234fdb14",
+      "namespace": "662ed16d54eb453292bc0325cea61906",
+      "name": "PowerWash Simulator 2",
+      "discount": 25,
+      "orig_cents": 2499,
+      "final_cents": 1874,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "18,74 €"
     },
     {
       "appid": "0561a4bd0bb941cd8984f6a56c4a9bae",
@@ -3001,5 +3001,5 @@
       "final_price_str": "3,59 €"
     }
   ],
-  "total": 1244
+  "total": 1243
 }
