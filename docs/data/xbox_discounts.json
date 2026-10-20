@@ -31,13 +31,13 @@
       "gamepass": ""
     },
     {
-      "appid": "BRW49CBS558D",
-      "name": "Batman: Return to Arkham",
+      "appid": "9P2Z085BXSXD",
+      "name": "Sniper Elite V2 Remastered",
       "discount": 90,
-      "orig_cents": 4999,
-      "final_cents": 499,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "4,99 €",
+      "orig_cents": 3499,
+      "final_cents": 349,
+      "orig_price_str": "34,99 €",
+      "final_price_str": "3,49 €",
       "gamepass": ""
     },
     {
@@ -51,23 +51,33 @@
       "gamepass": ""
     },
     {
-      "appid": "9P2Z085BXSXD",
-      "name": "Sniper Elite V2 Remastered",
+      "appid": "BRW49CBS558D",
+      "name": "Batman: Return to Arkham",
       "discount": 90,
-      "orig_cents": 3499,
-      "final_cents": 349,
-      "orig_price_str": "34,99 €",
-      "final_price_str": "3,49 €",
+      "orig_cents": 4999,
+      "final_cents": 499,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "4,99 €",
       "gamepass": ""
     },
     {
-      "appid": "BQ2F1LGNL6M1",
-      "name": "Mad Max",
+      "appid": "BQXTS0SX4W0N",
+      "name": "Tomb Raider: Definitive Edition",
       "discount": 90,
-      "orig_cents": 6999,
-      "final_cents": 699,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "6,99 €",
+      "orig_cents": 1999,
+      "final_cents": 199,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "1,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "BRPJ41HZ1Q46",
+      "name": "Sniper Elite 3 ULTIMATE EDITION",
+      "discount": 90,
+      "orig_cents": 4999,
+      "final_cents": 499,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "4,99 €",
       "gamepass": ""
     },
     {
@@ -78,16 +88,6 @@
       "final_cents": 1049,
       "orig_price_str": "69,99 €",
       "final_price_str": "10,49 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "BZGZ3G053NTH",
-      "name": "LEGO Marvel Super Heroes",
-      "discount": 85,
-      "orig_cents": 3999,
-      "final_cents": 599,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "5,99 €",
       "gamepass": ""
     },
     {
@@ -128,6 +128,16 @@
       "final_cents": 1499,
       "orig_price_str": "59,99 €",
       "final_price_str": "14,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9MXMJFNZMVWD",
+      "name": "Grand Theft Auto: The Trilogy – The Definitive Edition",
+      "discount": 67,
+      "orig_cents": 5999,
+      "final_cents": 1979,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "19,79 €",
       "gamepass": ""
     },
     {
@@ -239,17 +249,7 @@
       "orig_price_str": "59,99 €",
       "final_price_str": "41,99 €",
       "gamepass": ""
-    },
-    {
-      "appid": "9NQB2BFDD88X",
-      "name": "UFC™ 6",
-      "discount": 30,
-      "orig_cents": 7999,
-      "final_cents": 5599,
-      "orig_price_str": "79,99 €",
-      "final_price_str": "55,99 €",
-      "gamepass": ""
     }
   ],
-  "total": 582
+  "total": 709
 }

@@ -291,14 +291,14 @@
       "final_price_str": "3,90 €"
     },
     {
-      "appid": "4a8cf1c6437a44d1aa1ec5948c0e5863",
-      "namespace": "d37f4318eed346babb339fbe841d0ef6",
-      "name": "The Nightmare of Pandemic - Kyle's Story",
-      "discount": 76,
-      "orig_cents": 1259,
-      "final_cents": 302,
-      "orig_price_str": "12,59 €",
-      "final_price_str": "3,02 €"
+      "appid": "f72ac926b4a64d729d565377fe75e512",
+      "namespace": "b0ef08873d724978be4720ed7940c0ac",
+      "name": "Ginger Puzzle",
+      "discount": 75,
+      "orig_cents": 179,
+      "final_cents": 44,
+      "orig_price_str": "1,79 €",
+      "final_price_str": "0,44 €"
     },
     {
       "appid": "2380ff7131674e7194f4cd81067ffeba",
@@ -431,16 +431,6 @@
       "final_price_str": "3,74 €"
     },
     {
-      "appid": "88c63727a48b459ca9ebd91ef9bbbdb9",
-      "namespace": "b72f8398191a41f79f1fbb30f4facfd0",
-      "name": "Empyreal",
-      "discount": 75,
-      "orig_cents": 1499,
-      "final_cents": 374,
-      "orig_price_str": "14,99 €",
-      "final_price_str": "3,74 €"
-    },
-    {
       "appid": "aa553551bf1c41aa82602a2daaf891fe",
       "namespace": "8d5e945d953f4c9e916eabc2bf61b8bf",
       "name": "Maquette",
@@ -469,16 +459,6 @@
       "final_cents": 107,
       "orig_price_str": "3,59 €",
       "final_price_str": "1,07 €"
-    },
-    {
-      "appid": "ebc2f3afc8164f44b3017577577be084",
-      "namespace": "6e274057d3704624a1270cf7be81966a",
-      "name": "Revolt Invasion",
-      "discount": 70,
-      "orig_cents": 539,
-      "final_cents": 161,
-      "orig_price_str": "5,39 €",
-      "final_price_str": "1,61 €"
     },
     {
       "appid": "c0249fca53924fd6ac6959ca24a8c090",
@@ -2111,6 +2091,16 @@
       "final_price_str": "13,39 €"
     },
     {
+      "appid": "7ef95475ee564f049ac83257aa015134",
+      "namespace": "132e09d2de2c44e890e5c44163f9e3ba",
+      "name": "Alp Muhafiz : Orkan",
+      "discount": 30,
+      "orig_cents": 1349,
+      "final_cents": 944,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "9,44 €"
+    },
+    {
       "appid": "3ba05aaae21041b4a22f76b5d001fa1f",
       "namespace": "f9b864b98b084183a58eec29a6d4dadb",
       "name": "Parking Tycoon: Business Simulator",
@@ -2641,6 +2631,16 @@
       "final_price_str": "19,99 €"
     },
     {
+      "appid": "4af15e39891349bbbb28b818d9f05d80",
+      "namespace": "cc83388b9abd443db2ad00f0f0db1626",
+      "name": "Nightfare",
+      "discount": 20,
+      "orig_cents": 449,
+      "final_cents": 359,
+      "orig_price_str": "4,49 €",
+      "final_price_str": "3,59 €"
+    },
+    {
       "appid": "7f6ea1fc80a94f029af93a4b0db1b480",
       "namespace": "88db3163747e4d79a0d4e77bddfa9966",
       "name": "Build Survivors",
@@ -3001,5 +3001,5 @@
       "final_price_str": "3,59 €"
     }
   ],
-  "total": 1232
+  "total": 1239
 }
