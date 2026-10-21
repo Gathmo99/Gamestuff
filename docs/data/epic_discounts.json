@@ -931,6 +931,16 @@
       "final_price_str": "5,99 €"
     },
     {
+      "appid": "00134eff853e4e7ba8db5ea9395f4c05",
+      "namespace": "0adef0e84daa4abd91ac06fa38836293",
+      "name": "Once Upon A Puppet",
+      "discount": 60,
+      "orig_cents": 2499,
+      "final_cents": 999,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "9,99 €"
+    },
+    {
       "appid": "619fbc76e6e048e094f27068c262604c",
       "namespace": "0c21508a6aff429dbd3322db00805b28",
       "name": "Terminal Mission",
@@ -1601,14 +1611,14 @@
       "final_price_str": "12,31 €"
     },
     {
-      "appid": "f1ba15700afd47f2a5ea34d66bd75dab",
-      "namespace": "4729cfcf22234b479e585838be75377c",
-      "name": "KPop Idols",
+      "appid": "a885b4455ae44d3cb9675801a508326f",
+      "namespace": "aad16fd815404595a947e1d7bf9be5f4",
+      "name": "Wrestle Bounce Online",
       "discount": 40,
-      "orig_cents": 449,
-      "final_cents": 269,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "2,69 €"
+      "orig_cents": 89,
+      "final_cents": 53,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,53 €"
     },
     {
       "appid": "ebbd4d0fde70421792945fc771f72498",
@@ -2811,16 +2821,6 @@
       "final_price_str": "31,99 €"
     },
     {
-      "appid": "5f22c6f6c9d24916bbc178c2b34816e8",
-      "namespace": "df7ea5e43f684c30854aa6b36413c10d",
-      "name": "Voidling Bound",
-      "discount": 20,
-      "orig_cents": 2239,
-      "final_cents": 1791,
-      "orig_price_str": "22,39 €",
-      "final_price_str": "17,91 €"
-    },
-    {
       "appid": "12e1949ee6164845a9c49284a3321be9",
       "namespace": "434d563ae68142d0a35a18de6bd636c7",
       "name": "ZERO PARADES: For Dead Spies",
@@ -3001,5 +3001,5 @@
       "final_price_str": "3,59 €"
     }
   ],
-  "total": 1241
+  "total": 1242
 }
