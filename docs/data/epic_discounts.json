@@ -441,6 +441,16 @@
       "final_price_str": "4,49 €"
     },
     {
+      "appid": "e42d821a571d40bdb29b27da1eefa5c0",
+      "namespace": "3dd4e283c26f4cbd8a07f6b099ab8bc8",
+      "name": "Seven Nights In The Dark",
+      "discount": 70,
+      "orig_cents": 629,
+      "final_cents": 188,
+      "orig_price_str": "6,29 €",
+      "final_price_str": "1,88 €"
+    },
+    {
       "appid": "aa553551bf1c41aa82602a2daaf891fe",
       "namespace": "8d5e945d953f4c9e916eabc2bf61b8bf",
       "name": "Maquette",
@@ -1579,16 +1589,6 @@
       "final_cents": 924,
       "orig_price_str": "18,49 €",
       "final_price_str": "9,24 €"
-    },
-    {
-      "appid": "c39e0d4c11ae4a789a59b4899550b53b",
-      "namespace": "6c4dc741283b4d16b436b51ff1de450e",
-      "name": "Blacksmith Master",
-      "discount": 50,
-      "orig_cents": 1999,
-      "final_cents": 999,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "9,99 €"
     },
     {
       "appid": "33eb34c2ce524bfb97b3227f0811aa86",
@@ -3001,5 +3001,5 @@
       "final_price_str": "3,59 €"
     }
   ],
-  "total": 1245
+  "total": 1247
 }
