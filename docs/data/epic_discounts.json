@@ -1,13 +1,13 @@
 {
   "items": [
     {
-      "appid": "db1202a30c5541dd99cdf54c918a9348",
-      "namespace": "45f125178d8c4bc18e1827a307bcc5c0",
-      "name": "Agent A: Rätsel in Verkleidung",
+      "appid": "06190191cede42afb633fe89ef08c27e",
+      "namespace": "c7e46cce751b40b6937e878abd0fc531",
+      "name": "Home - A Unique Horror Adventure",
       "discount": 100,
-      "orig_cents": 1799,
+      "orig_cents": 449,
       "final_cents": 0,
-      "orig_price_str": "17,99 €",
+      "orig_price_str": "4,49 €",
       "final_price_str": "0,00 €"
     },
     {
@@ -18,16 +18,6 @@
       "orig_cents": 179,
       "final_cents": 0,
       "orig_price_str": "1,79 €",
-      "final_price_str": "0,00 €"
-    },
-    {
-      "appid": "6a846880836044a2adad614ac771f487",
-      "namespace": "a0c80bf673a548bc97b4bb25abfaf2b4",
-      "name": "Bad Cheese",
-      "discount": 100,
-      "orig_cents": 1169,
-      "final_cents": 0,
-      "orig_price_str": "11,69 €",
       "final_price_str": "0,00 €"
     },
     {
@@ -429,6 +419,16 @@
       "final_cents": 449,
       "orig_price_str": "17,99 €",
       "final_price_str": "4,49 €"
+    },
+    {
+      "appid": "88c63727a48b459ca9ebd91ef9bbbdb9",
+      "namespace": "b72f8398191a41f79f1fbb30f4facfd0",
+      "name": "Empyreal",
+      "discount": 75,
+      "orig_cents": 1499,
+      "final_cents": 374,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "3,74 €"
     },
     {
       "appid": "e42d821a571d40bdb29b27da1eefa5c0",
@@ -1151,6 +1151,16 @@
       "final_price_str": "1,79 €"
     },
     {
+      "appid": "26769ccdaf9a4ce1a97d91f16c0cb5bf",
+      "namespace": "dae3b680039e4315aeca28d59c081758",
+      "name": "DEADWAVE",
+      "discount": 50,
+      "orig_cents": 899,
+      "final_cents": 449,
+      "orig_price_str": "8,99 €",
+      "final_price_str": "4,49 €"
+    },
+    {
       "appid": "9669bdf92baf4402b50ff34d4bfed66b",
       "namespace": "631264786bda409f919dd1db541825a9",
       "name": "Genkai: Primal Awakening",
@@ -1639,16 +1649,6 @@
       "final_cents": 53,
       "orig_price_str": "0,89 €",
       "final_price_str": "0,53 €"
-    },
-    {
-      "appid": "ebbd4d0fde70421792945fc771f72498",
-      "namespace": "62a0b025cd2b422ea7d97b7adf2ef7a5",
-      "name": "Service Please",
-      "discount": 40,
-      "orig_cents": 1079,
-      "final_cents": 647,
-      "orig_price_str": "10,79 €",
-      "final_price_str": "6,47 €"
     },
     {
       "appid": "6baefed010a94dd086ea57db2fc690b4",
@@ -2161,6 +2161,16 @@
       "final_price_str": "6,99 €"
     },
     {
+      "appid": "439c8da488ff4d7288558f000b532659",
+      "namespace": "144f5a0a7b55497eb327f2a90ccf0a15",
+      "name": "Stocking Angel",
+      "discount": 30,
+      "orig_cents": 449,
+      "final_cents": 314,
+      "orig_price_str": "4,49 €",
+      "final_price_str": "3,14 €"
+    },
+    {
       "appid": "37067b8b96a8416a905fe059989d2aef",
       "namespace": "961f185110a942ffa7c56a6abdbe17b4",
       "name": "Blind Date Plan",
@@ -2219,6 +2229,16 @@
       "final_cents": 1259,
       "orig_price_str": "17,99 €",
       "final_price_str": "12,59 €"
+    },
+    {
+      "appid": "ca8db7b754c3476280771bd79bab3fb1",
+      "namespace": "bfa122e719064178bf2654f21705d8f4",
+      "name": "FZ: Formation Z",
+      "discount": 30,
+      "orig_cents": 2799,
+      "final_cents": 1959,
+      "orig_price_str": "27,99 €",
+      "final_price_str": "19,59 €"
     },
     {
       "appid": "8837ecf6a4ba404d95230a36a55f79d7",
@@ -2979,27 +2999,7 @@
       "final_cents": 639,
       "orig_price_str": "7,99 €",
       "final_price_str": "6,39 €"
-    },
-    {
-      "appid": "e02e3662454a459b9a49e22fa8e2ecb7",
-      "namespace": "86ef9d69d784424bb60c3c8d09b9e93e",
-      "name": "GIGASWORD",
-      "discount": 20,
-      "orig_cents": 1349,
-      "final_cents": 1079,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "10,79 €"
-    },
-    {
-      "appid": "c7b717385af44dbb990d9ff1203ec8a4",
-      "namespace": "1bf0d3f6f04e4e778518170f69c5ba78",
-      "name": "Nanomon Virtual Pet",
-      "discount": 20,
-      "orig_cents": 1349,
-      "final_cents": 1079,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "10,79 €"
     }
   ],
-  "total": 1254
+  "total": 1261
 }
