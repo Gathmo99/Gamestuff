@@ -31,6 +31,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9NGK2CXP0366",
+      "name": "Mittelerde™: Das Schattenpaket",
+      "discount": 90,
+      "orig_cents": 6999,
+      "final_cents": 699,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "6,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9P2Z085BXSXD",
       "name": "Sniper Elite V2 Remastered",
       "discount": 90,
@@ -78,16 +88,6 @@
       "final_cents": 499,
       "orig_price_str": "49,99 €",
       "final_price_str": "4,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9NGK2CXP0366",
-      "name": "Mittelerde™: Das Schattenpaket",
-      "discount": 85,
-      "orig_cents": 6999,
-      "final_cents": 1049,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "10,49 €",
       "gamepass": ""
     },
     {
@@ -251,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 547
+  "total": 548
 }

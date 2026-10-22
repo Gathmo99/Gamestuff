@@ -271,16 +271,6 @@
       "final_price_str": "2,69 €"
     },
     {
-      "appid": "431ef6a0c3fd4aaab390ceb2f1904bc3",
-      "namespace": "0024d18025a544fd99b2ee8dee87baaf",
-      "name": "Happy Game",
-      "discount": 80,
-      "orig_cents": 1499,
-      "final_cents": 299,
-      "orig_price_str": "14,99 €",
-      "final_price_str": "2,99 €"
-    },
-    {
       "appid": "8c78fff3b3964f44ab811c52f42d4c41",
       "namespace": "d0b0a5d3ee6141c9a17e60d4fc7b723c",
       "name": "Hyperspaced",
@@ -301,14 +291,14 @@
       "final_price_str": "5,37 €"
     },
     {
-      "appid": "4a8cf1c6437a44d1aa1ec5948c0e5863",
-      "namespace": "d37f4318eed346babb339fbe841d0ef6",
-      "name": "The Nightmare of Pandemic - Kyle's Story",
-      "discount": 76,
-      "orig_cents": 1259,
-      "final_cents": 302,
-      "orig_price_str": "12,59 €",
-      "final_price_str": "3,02 €"
+      "appid": "f72ac926b4a64d729d565377fe75e512",
+      "namespace": "b0ef08873d724978be4720ed7940c0ac",
+      "name": "Ginger Puzzle",
+      "discount": 75,
+      "orig_cents": 179,
+      "final_cents": 44,
+      "orig_price_str": "1,79 €",
+      "final_price_str": "0,44 €"
     },
     {
       "appid": "2380ff7131674e7194f4cd81067ffeba",
@@ -439,16 +429,6 @@
       "final_cents": 449,
       "orig_price_str": "17,99 €",
       "final_price_str": "4,49 €"
-    },
-    {
-      "appid": "88c63727a48b459ca9ebd91ef9bbbdb9",
-      "namespace": "b72f8398191a41f79f1fbb30f4facfd0",
-      "name": "Empyreal",
-      "discount": 75,
-      "orig_cents": 1499,
-      "final_cents": 374,
-      "orig_price_str": "14,99 €",
-      "final_price_str": "3,74 €"
     },
     {
       "appid": "e42d821a571d40bdb29b27da1eefa5c0",
@@ -589,16 +569,6 @@
       "final_cents": 359,
       "orig_price_str": "11,99 €",
       "final_price_str": "3,59 €"
-    },
-    {
-      "appid": "5e2fbece90b54f9bafe0afc8d720166d",
-      "namespace": "e40eadc475c34815863234f4785bc602",
-      "name": "Amerzone - The Explorer's Legacy",
-      "discount": 70,
-      "orig_cents": 3999,
-      "final_cents": 1199,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "11,99 €"
     },
     {
       "appid": "7f0ab2828f9743d0abc6612a11222fdf",
@@ -931,16 +901,6 @@
       "final_price_str": "5,99 €"
     },
     {
-      "appid": "00134eff853e4e7ba8db5ea9395f4c05",
-      "namespace": "0adef0e84daa4abd91ac06fa38836293",
-      "name": "Once Upon A Puppet",
-      "discount": 60,
-      "orig_cents": 2499,
-      "final_cents": 999,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "9,99 €"
-    },
-    {
       "appid": "619fbc76e6e048e094f27068c262604c",
       "namespace": "0c21508a6aff429dbd3322db00805b28",
       "name": "Terminal Mission",
@@ -1079,6 +1039,76 @@
       "final_cents": 939,
       "orig_price_str": "19,99 €",
       "final_price_str": "9,39 €"
+    },
+    {
+      "appid": "78a59785693c45fe8fb20dc09c7c1cf4",
+      "namespace": "d6b2704a9c1644e0acead0f8547e2c3e",
+      "name": "Starfish Simulator",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "b355239267e5445cbd657ccdcaf37a06",
+      "namespace": "59af30a1b70a4775a1ab4773aa3e6b07",
+      "name": "Five Nights In The Backrooms",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "f0b8a5d294ed488a9eafa2d8fc505ecb",
+      "namespace": "a1c8150f9d2a47deaaa3caa16a6854b1",
+      "name": "My Desktop Girlfriend",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "664dce5999484f8e8009a077aa509c53",
+      "namespace": "b5f163f90f364380a7fbdbba19fd5554",
+      "name": "No I'm not a Voenkom",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "bed314a7d6fb460e8476bdc1bd9b8da8",
+      "namespace": "45a8ff4db2fc4f7081a5104136b97484",
+      "name": "KOMMUNALKA",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "af9e9f907f4e43c1a4abbef2c83a9e72",
+      "namespace": "87b89e47fc574d6bb6e717e539ef055d",
+      "name": "Kill The Dead",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "d4c62f0a1e464afcae488f40b2012dbd",
+      "namespace": "f28ef9372daf4ca99385d5d9ab8af7f8",
+      "name": "BORIS RUSSIAN BEAR",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
     },
     {
       "appid": "2753d4dd4446463085acd008c1a565fe",
@@ -1889,26 +1919,6 @@
       "final_cents": 1079,
       "orig_price_str": "17,99 €",
       "final_price_str": "10,79 €"
-    },
-    {
-      "appid": "c82a8a4a664d43df882b130e06066010",
-      "namespace": "d53159b0a47c43d08a92968a6fd9cd78",
-      "name": "KIBORG",
-      "discount": 40,
-      "orig_cents": 2239,
-      "final_cents": 1343,
-      "orig_price_str": "22,39 €",
-      "final_price_str": "13,43 €"
-    },
-    {
-      "appid": "8b6124330bff4997ac6087eb2e4f8b5a",
-      "namespace": "1fe54e43f3644b0ea404b4e66a087f8c",
-      "name": "Skin Deep",
-      "discount": 40,
-      "orig_cents": 1849,
-      "final_cents": 1109,
-      "orig_price_str": "18,49 €",
-      "final_price_str": "11,09 €"
     },
     {
       "appid": "f4019c3a9672410f815b5332c888c6ba",
@@ -2989,17 +2999,7 @@
       "final_cents": 1079,
       "orig_price_str": "13,49 €",
       "final_price_str": "10,79 €"
-    },
-    {
-      "appid": "115ec864de644908b9c31e4ed4bee6ec",
-      "namespace": "9d82c19413bd4fb9afd72af2c9901328",
-      "name": "Slav Junkie Simulator",
-      "discount": 20,
-      "orig_cents": 449,
-      "final_cents": 359,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "3,59 €"
     }
   ],
-  "total": 1242
+  "total": 1256
 }
