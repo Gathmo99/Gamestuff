@@ -11,8 +11,48 @@
       "gamepass": ""
     },
     {
+      "appid": "BQXTS0SX4W0N",
+      "name": "Tomb Raider: Definitive Edition",
+      "discount": 90,
+      "orig_cents": 1999,
+      "final_cents": 199,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "1,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "BNQQ3WVBNZCQ",
+      "name": "Shadow of the Tomb Raider Definitive Edition",
+      "discount": 90,
+      "orig_cents": 3999,
+      "final_cents": 399,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "3,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "C4S60FPWF4XN",
+      "name": "Rise of the Tomb Raider: 20 Year Celebration",
+      "discount": 90,
+      "orig_cents": 2999,
+      "final_cents": 299,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "2,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9NGK2CXP0366",
       "name": "Mittelerde™: Das Schattenpaket",
+      "discount": 90,
+      "orig_cents": 6999,
+      "final_cents": 699,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "6,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "BQ2F1LGNL6M1",
+      "name": "Mad Max",
       "discount": 90,
       "orig_cents": 6999,
       "final_cents": 699,
@@ -31,6 +71,26 @@
       "gamepass": ""
     },
     {
+      "appid": "9PGLL77C201J",
+      "name": "Marvel's Guardians of the Galaxy",
+      "discount": 85,
+      "orig_cents": 6998,
+      "final_cents": 1049,
+      "orig_price_str": "69,98 €",
+      "final_price_str": "10,49 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NWT8ZHZ3T0M",
+      "name": "Tomb Raider I-VI Remastered",
+      "discount": 80,
+      "orig_cents": 5499,
+      "final_cents": 1099,
+      "orig_price_str": "54,99 €",
+      "final_price_str": "10,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9P724TX61F4G",
       "name": "Mafia III: Definitive Edition",
       "discount": 80,
@@ -38,6 +98,26 @@
       "final_cents": 599,
       "orig_price_str": "29,99 €",
       "final_price_str": "5,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "BX3JNK07Z6QK",
+      "name": "Fallout: New Vegas",
+      "discount": 75,
+      "orig_cents": 999,
+      "final_cents": 249,
+      "orig_price_str": "9,99 €",
+      "final_price_str": "2,49 €",
+      "gamepass": "Xbox"
+    },
+    {
+      "appid": "C24SVX28PNWM",
+      "name": "Fallout 4: Game of the Year Edition",
+      "discount": 75,
+      "orig_cents": 3999,
+      "final_cents": 999,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "9,99 €",
       "gamepass": ""
     },
     {
@@ -49,6 +129,26 @@
       "orig_price_str": "29,99 €",
       "final_price_str": "9,89 €",
       "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "9P2FF14JZLL3",
+      "name": "Battlefield™ 6",
+      "discount": 60,
+      "orig_cents": 7999,
+      "final_cents": 3199,
+      "orig_price_str": "79,99 €",
+      "final_price_str": "31,99 €",
+      "gamepass": "Xbox"
+    },
+    {
+      "appid": "9NM79B7N9JM6",
+      "name": "Street Fighter™ 6",
+      "discount": 60,
+      "orig_cents": 3999,
+      "final_cents": 1599,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "15,99 €",
+      "gamepass": ""
     },
     {
       "appid": "9PFRG44XZCFJ",
@@ -91,6 +191,26 @@
       "gamepass": ""
     },
     {
+      "appid": "9P6LQGT2JJR4",
+      "name": "Battlefield™ 6 Game of the Year-Edition",
+      "discount": 40,
+      "orig_cents": 10999,
+      "final_cents": 6599,
+      "orig_price_str": "109,99 €",
+      "final_price_str": "65,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NQB2BFDD88X",
+      "name": "UFC™ 6",
+      "discount": 30,
+      "orig_cents": 7999,
+      "final_cents": 5599,
+      "orig_price_str": "79,99 €",
+      "final_price_str": "55,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9N6D60SBZN05",
       "name": "Phasmophobia (Spielvorschau)",
       "discount": 30,
@@ -98,6 +218,16 @@
       "final_cents": 1329,
       "orig_price_str": "18,99 €",
       "final_price_str": "13,29 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NSRPC2SQW5Q",
+      "name": "EA SPORTS™ Kickoff-Bundle (Madden NFL 27 & College Football 27)",
+      "discount": 30,
+      "orig_cents": 10999,
+      "final_cents": 7699,
+      "orig_price_str": "109,99 €",
+      "final_price_str": "76,99 €",
       "gamepass": ""
     },
     {
@@ -109,7 +239,17 @@
       "orig_price_str": "109,99 €",
       "final_price_str": "82,49 €",
       "gamepass": ""
+    },
+    {
+      "appid": "9NDJSV855T3P",
+      "name": "Dispatch",
+      "discount": 20,
+      "orig_cents": 2899,
+      "final_cents": 2319,
+      "orig_price_str": "28,99 €",
+      "final_price_str": "23,19 €",
+      "gamepass": ""
     }
   ],
-  "total": 1198
+  "total": 1059
 }

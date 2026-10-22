@@ -251,6 +251,16 @@
       "final_price_str": "2,69 €"
     },
     {
+      "appid": "431ef6a0c3fd4aaab390ceb2f1904bc3",
+      "namespace": "0024d18025a544fd99b2ee8dee87baaf",
+      "name": "Happy Game",
+      "discount": 80,
+      "orig_cents": 1499,
+      "final_cents": 299,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "2,99 €"
+    },
+    {
       "appid": "8c78fff3b3964f44ab811c52f42d4c41",
       "namespace": "d0b0a5d3ee6141c9a17e60d4fc7b723c",
       "name": "Hyperspaced",
@@ -369,16 +379,6 @@
       "final_cents": 374,
       "orig_price_str": "14,99 €",
       "final_price_str": "3,74 €"
-    },
-    {
-      "appid": "5ea0c80f094c493a9d726a12b482eda8",
-      "namespace": "6952f77c70cf43e6b61e312d7aa60a82",
-      "name": "001 Game Creator",
-      "discount": 75,
-      "orig_cents": 7199,
-      "final_cents": 1799,
-      "orig_price_str": "71,99 €",
-      "final_price_str": "17,99 €"
     },
     {
       "appid": "327635d04c2a473f83ac1984c2bc0606",
@@ -1641,6 +1641,26 @@
       "final_price_str": "12,31 €"
     },
     {
+      "appid": "364199cb3094478aa0db5bbfb37cf6ba",
+      "namespace": "c01649c008054b7c93ed0f8ae820eb36",
+      "name": "Buster: Carrot Town Chronicles",
+      "discount": 40,
+      "orig_cents": 269,
+      "final_cents": 161,
+      "orig_price_str": "2,69 €",
+      "final_price_str": "1,61 €"
+    },
+    {
+      "appid": "92d8e113e71546d587d11f4fcc7a13f6",
+      "namespace": "e84a768a1e4449a38cb7512d7dcef87b",
+      "name": "Gold Miner Online: Claw Chaos",
+      "discount": 40,
+      "orig_cents": 89,
+      "final_cents": 53,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,53 €"
+    },
+    {
       "appid": "a885b4455ae44d3cb9675801a508326f",
       "namespace": "aad16fd815404595a947e1d7bf9be5f4",
       "name": "Wrestle Bounce Online",
@@ -2201,16 +2221,6 @@
       "final_price_str": "9,44 €"
     },
     {
-      "appid": "f57e92bad03c40dcb49b14c0eb3d3ad3",
-      "namespace": "f01e94386f3141d583b60da78e1bdd61",
-      "name": "Copa City: Matchday Manager",
-      "discount": 30,
-      "orig_cents": 2499,
-      "final_cents": 1749,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "17,49 €"
-    },
-    {
       "appid": "d390596334494df993249139dfb980ee",
       "namespace": "b880f11dc71c4f309ddef026b8d7dbbc",
       "name": "LEGO® Batman™: Das Vermächtnis des Dunklen Ritters",
@@ -2401,16 +2411,6 @@
       "final_price_str": "18,89 €"
     },
     {
-      "appid": "4416296a17d445ea9587adde810f8324",
-      "namespace": "a17543496ad14e79809aa99ca972d478",
-      "name": "Escape from Duckov",
-      "discount": 30,
-      "orig_cents": 1799,
-      "final_cents": 1259,
-      "orig_price_str": "17,99 €",
-      "final_price_str": "12,59 €"
-    },
-    {
       "appid": "5ad367887ca946aa88332c9d4a80d5c7",
       "namespace": "86240d8748194a1aafd6c0d64bd2500c",
       "name": "Dice 'n Goblins",
@@ -2469,16 +2469,6 @@
       "final_cents": 974,
       "orig_price_str": "12,99 €",
       "final_price_str": "9,74 €"
-    },
-    {
-      "appid": "50741ede260748e5a2de4a08a9137ee0",
-      "namespace": "09f2753aa5cb4a2b99a311a9711f2265",
-      "name": "Nextbot Hunter",
-      "discount": 25,
-      "orig_cents": 179,
-      "final_cents": 134,
-      "orig_price_str": "1,79 €",
-      "final_price_str": "1,34 €"
     },
     {
       "appid": "4c2fe1aa0037421d8a99690cb010d49e",
@@ -2669,6 +2659,16 @@
       "final_cents": 1999,
       "orig_price_str": "24,99 €",
       "final_price_str": "19,99 €"
+    },
+    {
+      "appid": "371641e5cc624e628bc86858b45b9372",
+      "namespace": "ec995a245883494dafb0b6b120687890",
+      "name": "Zero Stress King: Idle Defense",
+      "discount": 20,
+      "orig_cents": 629,
+      "final_cents": 503,
+      "orig_price_str": "6,29 €",
+      "final_price_str": "5,03 €"
     },
     {
       "appid": "4af15e39891349bbbb28b818d9f05d80",
@@ -3001,5 +3001,5 @@
       "final_price_str": "6,39 €"
     }
   ],
-  "total": 1261
+  "total": 1259
 }
