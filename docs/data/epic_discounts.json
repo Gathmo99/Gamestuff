@@ -121,16 +121,6 @@
       "final_price_str": "1,55 €"
     },
     {
-      "appid": "9fbfe885acdd4f8cbd4826cd265f36cb",
-      "namespace": "26568e976ac2418095a3a079ca7b0276",
-      "name": "Skybreak Canyon: The Parkour Game",
-      "discount": 85,
-      "orig_cents": 289,
-      "final_cents": 43,
-      "orig_price_str": "2,89 €",
-      "final_price_str": "0,43 €"
-    },
-    {
       "appid": "91a0b419d5b741c39cc35ce3a35138c0",
       "namespace": "462451248e9640f4a211294193034dda",
       "name": "Road Redemption",
@@ -289,6 +279,16 @@
       "final_cents": 537,
       "orig_price_str": "22,39 €",
       "final_price_str": "5,37 €"
+    },
+    {
+      "appid": "4a8cf1c6437a44d1aa1ec5948c0e5863",
+      "namespace": "d37f4318eed346babb339fbe841d0ef6",
+      "name": "The Nightmare of Pandemic - Kyle's Story",
+      "discount": 76,
+      "orig_cents": 1259,
+      "final_cents": 302,
+      "orig_price_str": "12,59 €",
+      "final_price_str": "3,02 €"
     },
     {
       "appid": "f72ac926b4a64d729d565377fe75e512",
@@ -979,16 +979,6 @@
       "final_cents": 1259,
       "orig_price_str": "27,99 €",
       "final_price_str": "12,59 €"
-    },
-    {
-      "appid": "5b65fe1a95c7491f990621f0006b8d38",
-      "namespace": "e06eaabb7e9c47fe87c7f75d27fddedf",
-      "name": "Red Mission",
-      "discount": 55,
-      "orig_cents": 89,
-      "final_cents": 40,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,40 €"
     },
     {
       "appid": "d04c66eae0bc4573a3721c0493705fb5",
@@ -1919,6 +1909,16 @@
       "final_cents": 1079,
       "orig_price_str": "17,99 €",
       "final_price_str": "10,79 €"
+    },
+    {
+      "appid": "67e076fc9d5b4ecaa3409c79d29cabdd",
+      "namespace": "e6ffee40e3424026b27f75c785d199e1",
+      "name": "Soulmask",
+      "discount": 40,
+      "orig_cents": 2999,
+      "final_cents": 1799,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "17,99 €"
     },
     {
       "appid": "f4019c3a9672410f815b5332c888c6ba",
@@ -3001,5 +3001,5 @@
       "final_price_str": "10,79 €"
     }
   ],
-  "total": 1256
+  "total": 1254
 }
