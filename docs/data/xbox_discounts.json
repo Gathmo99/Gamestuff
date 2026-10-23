@@ -101,6 +101,36 @@
       "gamepass": ""
     },
     {
+      "appid": "C3KLDKZBHNCZ",
+      "name": "Fallout 4",
+      "discount": 75,
+      "orig_cents": 1999,
+      "final_cents": 499,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "4,99 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "C29HQ887KH4B",
+      "name": "Fallout 3",
+      "discount": 75,
+      "orig_cents": 999,
+      "final_cents": 249,
+      "orig_price_str": "9,99 €",
+      "final_price_str": "2,49 €",
+      "gamepass": "Xbox"
+    },
+    {
+      "appid": "BX3M8L83BBRW",
+      "name": "Cyberpunk 2077",
+      "discount": 70,
+      "orig_cents": 5999,
+      "final_cents": 1799,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "17,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9PK09BL31FK1",
       "name": "DOOM Eternal Standard Edition (PC)",
       "discount": 67,
@@ -131,16 +161,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9PFRG44XZCFJ",
-      "name": "Fallout 4: Anniversary Edition",
-      "discount": 50,
-      "orig_cents": 5999,
-      "final_cents": 2999,
-      "orig_price_str": "59,99 €",
-      "final_price_str": "29,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9NJ6F163VF8C",
       "name": "EA SPORTS™ Madden NFL 27",
       "discount": 50,
@@ -168,6 +188,16 @@
       "final_cents": 4799,
       "orig_price_str": "79,99 €",
       "final_price_str": "47,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NMFWR0NRLZS",
+      "name": "Resident Evil Requiem",
+      "discount": 35,
+      "orig_cents": 7999,
+      "final_cents": 5199,
+      "orig_price_str": "79,99 €",
+      "final_price_str": "51,99 €",
       "gamepass": ""
     },
     {
@@ -221,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 1069
+  "total": 1057
 }
