@@ -2179,6 +2179,15 @@
       "final_price_str": "19,99 €"
     },
     {
+      "appid": "EP1004-PPSA01721_00-GTAOSTANDALONE01",
+      "name": "Grand Theft Auto Online (PlayStation®5)",
+      "discount": 50,
+      "orig_cents": 1999,
+      "final_cents": 999,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "9,99 €"
+    },
+    {
       "appid": "EP1001-CUSA30036_00-000PAWPAWSIEEPS4",
       "name": "Tiny Tinas Sturm auf die Drachenfestung: Ein einmaliges Wonderlands-Abenteuer",
       "discount": 50,
@@ -2690,15 +2699,6 @@
       "final_cents": 349,
       "orig_price_str": "4,99 €",
       "final_price_str": "3,49 €"
-    },
-    {
-      "appid": "EP9000-CUSA11098_00-0000000000000000",
-      "name": "Blood & Truth™",
-      "discount": 23,
-      "orig_cents": 3999,
-      "final_cents": 3079,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "30,79 €"
     }
   ],
   "total": 1701

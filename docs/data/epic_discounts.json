@@ -1931,6 +1931,16 @@
       "final_price_str": "13,43 €"
     },
     {
+      "appid": "8b6124330bff4997ac6087eb2e4f8b5a",
+      "namespace": "1fe54e43f3644b0ea404b4e66a087f8c",
+      "name": "Skin Deep",
+      "discount": 40,
+      "orig_cents": 1849,
+      "final_cents": 1109,
+      "orig_price_str": "18,49 €",
+      "final_price_str": "11,09 €"
+    },
+    {
       "appid": "dcb817440a9a4253867f591fa143d511",
       "namespace": "dae7e3d714b741379ff7c0e0d16c794e",
       "name": "Shujinkou",
@@ -2701,16 +2711,6 @@
       "final_price_str": "23,99 €"
     },
     {
-      "appid": "a35fa1c7057140548cbe45f2b401f0da",
-      "namespace": "4e0c83a8960144b19cae60fa72cdb506",
-      "name": "Permafrost",
-      "discount": 20,
-      "orig_cents": 2499,
-      "final_cents": 1999,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "19,99 €"
-    },
-    {
       "appid": "1e09d20cfb7f4687b42f7f59b8ec8b1c",
       "namespace": "38fe2fb2c7954c728d23db52a48b891c",
       "name": "Tale of Beauty",
@@ -3001,5 +3001,5 @@
       "final_price_str": "6,39 €"
     }
   ],
-  "total": 1257
+  "total": 1250
 }
