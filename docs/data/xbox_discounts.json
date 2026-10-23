@@ -1,16 +1,6 @@
 {
   "items": [
     {
-      "appid": "9N9Z4S1RD397",
-      "name": "Metro Saga Bundle",
-      "discount": 95,
-      "orig_cents": 5999,
-      "final_cents": 299,
-      "orig_price_str": "59,99 €",
-      "final_price_str": "2,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "BQXTS0SX4W0N",
       "name": "Tomb Raider: Definitive Edition",
       "discount": 90,
@@ -68,16 +58,6 @@
       "final_cents": 449,
       "orig_price_str": "29,98 €",
       "final_price_str": "4,49 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9PGLL77C201J",
-      "name": "Marvel's Guardians of the Galaxy",
-      "discount": 85,
-      "orig_cents": 6998,
-      "final_cents": 1049,
-      "orig_price_str": "69,98 €",
-      "final_price_str": "10,49 €",
       "gamepass": ""
     },
     {
@@ -191,16 +171,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9P6LQGT2JJR4",
-      "name": "Battlefield™ 6 Game of the Year-Edition",
-      "discount": 40,
-      "orig_cents": 10999,
-      "final_cents": 6599,
-      "orig_price_str": "109,99 €",
-      "final_price_str": "65,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9NQB2BFDD88X",
       "name": "UFC™ 6",
       "discount": 30,
@@ -251,5 +221,5 @@
       "gamepass": ""
     }
   ],
-  "total": 1057
+  "total": 1069
 }

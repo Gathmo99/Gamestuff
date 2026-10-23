@@ -201,36 +201,6 @@
       "final_price_str": "0,39 €"
     },
     {
-      "appid": "0dd17503a01e43e68e924c8b6fde7c41",
-      "namespace": "8bcb0a5e64914de1a24854647108766c",
-      "name": "Age of Discovery: The Parkour Game - Deluxe Edition",
-      "discount": 80,
-      "orig_cents": 249,
-      "final_cents": 49,
-      "orig_price_str": "2,49 €",
-      "final_price_str": "0,49 €"
-    },
-    {
-      "appid": "f7f3578282a145dc98de6036c201c115",
-      "namespace": "4cca948a5ae2401588bd3d3c5b1b3b50",
-      "name": "Truck Life Simulator",
-      "discount": 80,
-      "orig_cents": 249,
-      "final_cents": 49,
-      "orig_price_str": "2,49 €",
-      "final_price_str": "0,49 €"
-    },
-    {
-      "appid": "e48cf491e5344d358cf314aab4f82082",
-      "namespace": "04efb0d9ac0649fdb509cb2388dcc94b",
-      "name": "Ascendria: The Parkour Game",
-      "discount": 80,
-      "orig_cents": 219,
-      "final_cents": 43,
-      "orig_price_str": "2,19 €",
-      "final_price_str": "0,43 €"
-    },
-    {
       "appid": "be306cdbf48d4413945352b1f97e5558",
       "namespace": "f0e32d1018294eca93a894cc3207166b",
       "name": "Aeon Tempus",
@@ -1351,6 +1321,16 @@
       "final_price_str": "1,99 €"
     },
     {
+      "appid": "8f45eddce35343808537bf3d9aa8d0b5",
+      "namespace": "2051eedb4746431593d66905f9bffdc8",
+      "name": "Labyrinth of Whiskers",
+      "discount": 50,
+      "orig_cents": 449,
+      "final_cents": 224,
+      "orig_price_str": "4,49 €",
+      "final_price_str": "2,24 €"
+    },
+    {
       "appid": "f04a87cec4db45b49ed2367a49a291b7",
       "namespace": "357c8b74834d42d1a20a43f0bf8c4237",
       "name": "Whiskerwood",
@@ -1939,6 +1919,26 @@
       "final_cents": 1799,
       "orig_price_str": "29,99 €",
       "final_price_str": "17,99 €"
+    },
+    {
+      "appid": "c82a8a4a664d43df882b130e06066010",
+      "namespace": "d53159b0a47c43d08a92968a6fd9cd78",
+      "name": "KIBORG",
+      "discount": 40,
+      "orig_cents": 2239,
+      "final_cents": 1343,
+      "orig_price_str": "22,39 €",
+      "final_price_str": "13,43 €"
+    },
+    {
+      "appid": "dcb817440a9a4253867f591fa143d511",
+      "namespace": "dae7e3d714b741379ff7c0e0d16c794e",
+      "name": "Shujinkou",
+      "discount": 35,
+      "orig_cents": 5399,
+      "final_cents": 3509,
+      "orig_price_str": "53,99 €",
+      "final_price_str": "35,09 €"
     },
     {
       "appid": "f4019c3a9672410f815b5332c888c6ba",
@@ -3001,5 +3001,5 @@
       "final_price_str": "6,39 €"
     }
   ],
-  "total": 1258
+  "total": 1257
 }
