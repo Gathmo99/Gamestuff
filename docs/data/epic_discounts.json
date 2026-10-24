@@ -11,6 +11,16 @@
       "final_price_str": "0,00 €"
     },
     {
+      "appid": "7813a97e72ed4a49be807e6de8bc4f2c",
+      "namespace": "c102cb63a52643d1a4c3ca009439eece",
+      "name": "MAFIA HOTEL",
+      "discount": 100,
+      "orig_cents": 179,
+      "final_cents": 0,
+      "orig_price_str": "1,79 €",
+      "final_price_str": "0,00 €"
+    },
+    {
       "appid": "795d3f4dbb65443aad43c54b9223699d",
       "namespace": "27a39147c314453c875383606e4809aa",
       "name": "GetHigh.EXE",
@@ -1921,16 +1931,6 @@
       "final_price_str": "17,99 €"
     },
     {
-      "appid": "c82a8a4a664d43df882b130e06066010",
-      "namespace": "d53159b0a47c43d08a92968a6fd9cd78",
-      "name": "KIBORG",
-      "discount": 40,
-      "orig_cents": 2239,
-      "final_cents": 1343,
-      "orig_price_str": "22,39 €",
-      "final_price_str": "13,43 €"
-    },
-    {
       "appid": "dcb817440a9a4253867f591fa143d511",
       "namespace": "dae7e3d714b741379ff7c0e0d16c794e",
       "name": "Shujinkou",
@@ -3001,5 +3001,5 @@
       "final_price_str": "6,39 €"
     }
   ],
-  "total": 1254
+  "total": 1255
 }

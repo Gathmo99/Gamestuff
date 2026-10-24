@@ -81,6 +81,26 @@
       "gamepass": ""
     },
     {
+      "appid": "9NKG0X1MGQTX",
+      "name": "Mafia Trilogy",
+      "discount": 80,
+      "orig_cents": 5999,
+      "final_cents": 1199,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "11,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "C4XB8HD7BZG5",
+      "name": "STREET FIGHTER IV",
+      "discount": 80,
+      "orig_cents": 1999,
+      "final_cents": 399,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "3,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "BX3M8L83BBRW",
       "name": "Cyberpunk 2077",
       "discount": 70,
@@ -118,6 +138,26 @@
       "final_cents": 1599,
       "orig_price_str": "39,99 €",
       "final_price_str": "15,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9P9G5WX8C0VH",
+      "name": "Cyberpunk 2077: Ultimate Edition",
+      "discount": 60,
+      "orig_cents": 7999,
+      "final_cents": 3199,
+      "orig_price_str": "79,99 €",
+      "final_price_str": "31,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NN82NH949D5",
+      "name": "HITMAN World of Assassination",
+      "discount": 60,
+      "orig_cents": 6999,
+      "final_cents": 2799,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "27,99 €",
       "gamepass": ""
     },
     {
@@ -211,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 1062
+  "total": 1049
 }
