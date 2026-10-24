@@ -501,16 +501,6 @@
       "final_price_str": "5,39 €"
     },
     {
-      "appid": "6028827a1b9a4154aab7945f65523e8c",
-      "namespace": "4df2036fd0e949f3b93b60a2997610f5",
-      "name": "Skyward Tales: The Parkour Game",
-      "discount": 70,
-      "orig_cents": 219,
-      "final_cents": 65,
-      "orig_price_str": "2,19 €",
-      "final_price_str": "0,65 €"
-    },
-    {
       "appid": "5a5ca1900dc2476db0eb039bd8c72999",
       "namespace": "d3dda2a507a944e18ff5386a9f433b2b",
       "name": "Metavoidal",
@@ -1929,6 +1919,16 @@
       "final_cents": 1799,
       "orig_price_str": "29,99 €",
       "final_price_str": "17,99 €"
+    },
+    {
+      "appid": "c82a8a4a664d43df882b130e06066010",
+      "namespace": "d53159b0a47c43d08a92968a6fd9cd78",
+      "name": "KIBORG",
+      "discount": 40,
+      "orig_cents": 2239,
+      "final_cents": 1343,
+      "orig_price_str": "22,39 €",
+      "final_price_str": "13,43 €"
     },
     {
       "appid": "dcb817440a9a4253867f591fa143d511",

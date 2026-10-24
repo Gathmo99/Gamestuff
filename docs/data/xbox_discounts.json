@@ -81,46 +81,6 @@
       "gamepass": ""
     },
     {
-      "appid": "BX3JNK07Z6QK",
-      "name": "Fallout: New Vegas",
-      "discount": 75,
-      "orig_cents": 999,
-      "final_cents": 249,
-      "orig_price_str": "9,99 €",
-      "final_price_str": "2,49 €",
-      "gamepass": "Xbox"
-    },
-    {
-      "appid": "C24SVX28PNWM",
-      "name": "Fallout 4: Game of the Year Edition",
-      "discount": 75,
-      "orig_cents": 3999,
-      "final_cents": 999,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "9,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "C3KLDKZBHNCZ",
-      "name": "Fallout 4",
-      "discount": 75,
-      "orig_cents": 1999,
-      "final_cents": 499,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "4,99 €",
-      "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "C29HQ887KH4B",
-      "name": "Fallout 3",
-      "discount": 75,
-      "orig_cents": 999,
-      "final_cents": 249,
-      "orig_price_str": "9,99 €",
-      "final_price_str": "2,49 €",
-      "gamepass": "Xbox"
-    },
-    {
       "appid": "BX3M8L83BBRW",
       "name": "Cyberpunk 2077",
       "discount": 70,
@@ -251,5 +211,5 @@
       "gamepass": ""
     }
   ],
-  "total": 1057
+  "total": 1062
 }
