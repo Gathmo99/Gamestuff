@@ -487,15 +487,6 @@
       "final_price_str": "4,49 €"
     },
     {
-      "appid": "EP4541-PPSA06603_00-CHARONSSTAIRCASE",
-      "name": "Charon's Staircase",
-      "discount": 85,
-      "orig_cents": 1999,
-      "final_cents": 299,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "2,99 €"
-    },
-    {
       "appid": "EP4541-CUSA32328_00-CHARONSTAIRCASEU",
       "name": "Charon's Staircase",
       "discount": 85,
@@ -505,8 +496,8 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "EP4541-CUSA32391_00-AIROHEARTEU00000",
-      "name": "Airoheart",
+      "appid": "EP4541-PPSA06603_00-CHARONSSTAIRCASE",
+      "name": "Charon's Staircase",
       "discount": 85,
       "orig_cents": 1999,
       "final_cents": 299,
@@ -515,6 +506,15 @@
     },
     {
       "appid": "EP4541-PPSA06649_00-AIROHEART0000000",
+      "name": "Airoheart",
+      "discount": 85,
+      "orig_cents": 1999,
+      "final_cents": 299,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "2,99 €"
+    },
+    {
+      "appid": "EP4541-CUSA32391_00-AIROHEARTEU00000",
       "name": "Airoheart",
       "discount": 85,
       "orig_cents": 1999,
@@ -577,7 +577,7 @@
       "final_price_str": "3,74 €"
     },
     {
-      "appid": "EP8208-PPSA07519_00-ISUSA00GAMEEUR01",
+      "appid": "EP8208-CUSA33560_00-ISUSA00GAMEEUR01",
       "name": "INSTANT SPORTS All-Stars",
       "discount": 85,
       "orig_cents": 2499,
@@ -586,7 +586,7 @@
       "final_price_str": "3,74 €"
     },
     {
-      "appid": "EP8208-CUSA33560_00-ISUSA00GAMEEUR01",
+      "appid": "EP8208-PPSA07519_00-ISUSA00GAMEEUR01",
       "name": "INSTANT SPORTS All-Stars",
       "discount": 85,
       "orig_cents": 2499,
@@ -991,7 +991,7 @@
       "final_price_str": "1,99 €"
     },
     {
-      "appid": "EP4008-PPSA02715_00-RIMSSIEE00000000",
+      "appid": "EP4008-CUSA23640_00-RIMS000000000000",
       "name": "RiMS Racing",
       "discount": 80,
       "orig_cents": 2999,
@@ -1000,7 +1000,7 @@
       "final_price_str": "5,99 €"
     },
     {
-      "appid": "EP4008-CUSA23640_00-RIMS000000000000",
+      "appid": "EP4008-PPSA02715_00-RIMSSIEE00000000",
       "name": "RiMS Racing",
       "discount": 80,
       "orig_cents": 2999,
@@ -1360,7 +1360,7 @@
       "final_price_str": "7,49 €"
     },
     {
-      "appid": "EP1482-PPSA03315_00-3899031076458834",
+      "appid": "EP1482-CUSA27326_00-7592298397743398",
       "name": "Operation: Tango",
       "discount": 75,
       "orig_cents": 1699,
@@ -1369,7 +1369,7 @@
       "final_price_str": "4,24 €"
     },
     {
-      "appid": "EP1482-CUSA27326_00-7592298397743398",
+      "appid": "EP1482-PPSA03315_00-3899031076458834",
       "name": "Operation: Tango",
       "discount": 75,
       "orig_cents": 1699,
@@ -2143,7 +2143,7 @@
       "final_price_str": "4,99 €"
     },
     {
-      "appid": "EP6718-PPSA08891_00-5174687829148845",
+      "appid": "EP6718-CUSA35111_00-0215162053175117",
       "name": "BlackJack",
       "discount": 50,
       "orig_cents": 399,
@@ -2152,7 +2152,7 @@
       "final_price_str": "1,99 €"
     },
     {
-      "appid": "EP6718-CUSA35111_00-0215162053175117",
+      "appid": "EP6718-PPSA08891_00-5174687829148845",
       "name": "BlackJack",
       "discount": 50,
       "orig_cents": 399,
