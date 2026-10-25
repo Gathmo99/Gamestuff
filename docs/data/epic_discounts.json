@@ -231,16 +231,6 @@
       "final_price_str": "2,69 €"
     },
     {
-      "appid": "431ef6a0c3fd4aaab390ceb2f1904bc3",
-      "namespace": "0024d18025a544fd99b2ee8dee87baaf",
-      "name": "Happy Game",
-      "discount": 80,
-      "orig_cents": 1499,
-      "final_cents": 299,
-      "orig_price_str": "14,99 €",
-      "final_price_str": "2,99 €"
-    },
-    {
       "appid": "8c78fff3b3964f44ab811c52f42d4c41",
       "namespace": "d0b0a5d3ee6141c9a17e60d4fc7b723c",
       "name": "Hyperspaced",
@@ -2999,7 +2989,17 @@
       "final_cents": 639,
       "orig_price_str": "7,99 €",
       "final_price_str": "6,39 €"
+    },
+    {
+      "appid": "a67980ae667d41738021457ba9631088",
+      "namespace": "010b1bd208f247feb83489a2a14a902a",
+      "name": "Solvimus",
+      "discount": 20,
+      "orig_cents": 1799,
+      "final_cents": 1439,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "14,39 €"
     }
   ],
-  "total": 1255
+  "total": 1256
 }
