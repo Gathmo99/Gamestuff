@@ -487,7 +487,7 @@
       "final_price_str": "4,49 €"
     },
     {
-      "appid": "EP4541-CUSA32328_00-CHARONSTAIRCASEU",
+      "appid": "EP4541-PPSA06603_00-CHARONSSTAIRCASE",
       "name": "Charon's Staircase",
       "discount": 85,
       "orig_cents": 1999,
@@ -496,7 +496,7 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "EP4541-PPSA06603_00-CHARONSSTAIRCASE",
+      "appid": "EP4541-CUSA32328_00-CHARONSTAIRCASEU",
       "name": "Charon's Staircase",
       "discount": 85,
       "orig_cents": 1999,
@@ -550,7 +550,7 @@
       "final_price_str": "3,74 €"
     },
     {
-      "appid": "EP1121-CUSA29084_00-HTSTAPOCALYPSEEU",
+      "appid": "EP1121-PPSA04411_00-HTSTAPOCALYPSEEU",
       "name": "Slaycation Paradise",
       "discount": 85,
       "orig_cents": 1999,
@@ -559,7 +559,7 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "EP1121-PPSA04411_00-HTSTAPOCALYPSEEU",
+      "appid": "EP1121-CUSA29084_00-HTSTAPOCALYPSEEU",
       "name": "Slaycation Paradise",
       "discount": 85,
       "orig_cents": 1999,
@@ -577,7 +577,7 @@
       "final_price_str": "3,74 €"
     },
     {
-      "appid": "EP8208-PPSA07519_00-ISUSA00GAMEEUR01",
+      "appid": "EP8208-CUSA33560_00-ISUSA00GAMEEUR01",
       "name": "INSTANT SPORTS All-Stars",
       "discount": 85,
       "orig_cents": 2499,
@@ -586,7 +586,7 @@
       "final_price_str": "3,74 €"
     },
     {
-      "appid": "EP8208-CUSA33560_00-ISUSA00GAMEEUR01",
+      "appid": "EP8208-PPSA07519_00-ISUSA00GAMEEUR01",
       "name": "INSTANT SPORTS All-Stars",
       "discount": 85,
       "orig_cents": 2499,
@@ -2089,7 +2089,7 @@
       "final_price_str": "5,99 €"
     },
     {
-      "appid": "EP0122-CUSA30409_00-LODOSSWARDEEDLIT",
+      "appid": "EP0122-PPSA05348_00-LODOSSWARDEEDLIT",
       "name": "Record of Lodoss War: Deedlit in Wonder Labyrinth",
       "discount": 55,
       "orig_cents": 2499,
@@ -2098,7 +2098,7 @@
       "final_price_str": "11,24 €"
     },
     {
-      "appid": "EP0122-PPSA05348_00-LODOSSWARDEEDLIT",
+      "appid": "EP0122-CUSA30409_00-LODOSSWARDEEDLIT",
       "name": "Record of Lodoss War: Deedlit in Wonder Labyrinth",
       "discount": 55,
       "orig_cents": 2499,
@@ -2143,7 +2143,7 @@
       "final_price_str": "4,99 €"
     },
     {
-      "appid": "EP6718-CUSA35111_00-0215162053175117",
+      "appid": "EP6718-PPSA08891_00-5174687829148845",
       "name": "BlackJack",
       "discount": 50,
       "orig_cents": 399,
@@ -2152,7 +2152,7 @@
       "final_price_str": "1,99 €"
     },
     {
-      "appid": "EP6718-PPSA08891_00-5174687829148845",
+      "appid": "EP6718-CUSA35111_00-0215162053175117",
       "name": "BlackJack",
       "discount": 50,
       "orig_cents": 399,
@@ -2620,7 +2620,7 @@
       "final_price_str": "3,49 €"
     },
     {
-      "appid": "EP2609-CUSA13930_00-DLCRAT0000000000",
+      "appid": "EP6853-PPSA05425_00-DLCRAT0000000000",
       "name": "World War Z - The Rat Packs Weapon Skins Bundle",
       "discount": 30,
       "orig_cents": 499,
@@ -2629,7 +2629,7 @@
       "final_price_str": "3,49 €"
     },
     {
-      "appid": "EP6853-PPSA05425_00-DLCRAT0000000000",
+      "appid": "EP2609-CUSA13930_00-DLCRAT0000000000",
       "name": "World War Z - The Rat Packs Weapon Skins Bundle",
       "discount": 30,
       "orig_cents": 499,
