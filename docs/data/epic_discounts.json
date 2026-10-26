@@ -231,6 +231,16 @@
       "final_price_str": "2,69 €"
     },
     {
+      "appid": "431ef6a0c3fd4aaab390ceb2f1904bc3",
+      "namespace": "0024d18025a544fd99b2ee8dee87baaf",
+      "name": "Happy Game",
+      "discount": 80,
+      "orig_cents": 1499,
+      "final_cents": 299,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "2,99 €"
+    },
+    {
       "appid": "8c78fff3b3964f44ab811c52f42d4c41",
       "namespace": "d0b0a5d3ee6141c9a17e60d4fc7b723c",
       "name": "Hyperspaced",
@@ -1014,16 +1024,6 @@
       "appid": "f0b8a5d294ed488a9eafa2d8fc505ecb",
       "namespace": "a1c8150f9d2a47deaaa3caa16a6854b1",
       "name": "My Desktop Girlfriend",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "664dce5999484f8e8009a077aa509c53",
-      "namespace": "b5f163f90f364380a7fbdbba19fd5554",
-      "name": "No I'm not a Voenkom",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1921,6 +1921,16 @@
       "final_price_str": "17,99 €"
     },
     {
+      "appid": "c82a8a4a664d43df882b130e06066010",
+      "namespace": "d53159b0a47c43d08a92968a6fd9cd78",
+      "name": "KIBORG",
+      "discount": 40,
+      "orig_cents": 2239,
+      "final_cents": 1343,
+      "orig_price_str": "22,39 €",
+      "final_price_str": "13,43 €"
+    },
+    {
       "appid": "dcb817440a9a4253867f591fa143d511",
       "namespace": "dae7e3d714b741379ff7c0e0d16c794e",
       "name": "Shujinkou",
@@ -2681,16 +2691,6 @@
       "final_price_str": "3,59 €"
     },
     {
-      "appid": "7f6ea1fc80a94f029af93a4b0db1b480",
-      "namespace": "88db3163747e4d79a0d4e77bddfa9966",
-      "name": "Build Survivors",
-      "discount": 20,
-      "orig_cents": 539,
-      "final_cents": 431,
-      "orig_price_str": "5,39 €",
-      "final_price_str": "4,31 €"
-    },
-    {
       "appid": "f4155d5a217545239e7ec95248aea7aa",
       "namespace": "151ce8ede0d148f2bf2b868f1c25fac0",
       "name": "Beyond These Stars",
@@ -3001,5 +3001,5 @@
       "final_price_str": "14,39 €"
     }
   ],
-  "total": 1256
+  "total": 1255
 }
