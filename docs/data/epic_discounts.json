@@ -41,6 +41,16 @@
       "final_price_str": "0,89 €"
     },
     {
+      "appid": "9da459f7c3984877bd5a12bdc3b6b3af",
+      "namespace": "60b8d9b4c2be4e34aeec311c953c2ee2",
+      "name": "Nobody Wants to Die",
+      "discount": 90,
+      "orig_cents": 2499,
+      "final_cents": 249,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "2,49 €"
+    },
+    {
       "appid": "342c874445404a0caf96f07fdbf8d55b",
       "namespace": "ea8cb10bb9ca45ea9ed2049421393af7",
       "name": "The Green Light",
@@ -99,6 +109,16 @@
       "final_cents": 179,
       "orig_price_str": "17,99 €",
       "final_price_str": "1,79 €"
+    },
+    {
+      "appid": "ad7be555373b47b28339525c9e138a85",
+      "namespace": "c8ea2f513717454fb145e274455fbf54",
+      "name": "The Siege and the Sandfox",
+      "discount": 90,
+      "orig_cents": 1499,
+      "final_cents": 149,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "1,49 €"
     },
     {
       "appid": "70743bc1d3cc427da8b55e1bc79ca95c",
@@ -479,6 +499,16 @@
       "final_cents": 749,
       "orig_price_str": "24,99 €",
       "final_price_str": "7,49 €"
+    },
+    {
+      "appid": "2e9ba997f4c64acc8e644243493d9711",
+      "namespace": "52462e7d844945359f2ab98260f2386f",
+      "name": "Zero Orders Tactics Complete",
+      "discount": 70,
+      "orig_cents": 1349,
+      "final_cents": 404,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "4,04 €"
     },
     {
       "appid": "ef8989bde0e1464ba57c9f0329cfb71a",
@@ -1931,6 +1961,16 @@
       "final_price_str": "13,43 €"
     },
     {
+      "appid": "8b6124330bff4997ac6087eb2e4f8b5a",
+      "namespace": "1fe54e43f3644b0ea404b4e66a087f8c",
+      "name": "Skin Deep",
+      "discount": 40,
+      "orig_cents": 1849,
+      "final_cents": 1109,
+      "orig_price_str": "18,49 €",
+      "final_price_str": "11,09 €"
+    },
+    {
       "appid": "dcb817440a9a4253867f591fa143d511",
       "namespace": "dae7e3d714b741379ff7c0e0d16c794e",
       "name": "Shujinkou",
@@ -2194,26 +2234,6 @@
       "appid": "439c8da488ff4d7288558f000b532659",
       "namespace": "144f5a0a7b55497eb327f2a90ccf0a15",
       "name": "Stocking Angel",
-      "discount": 30,
-      "orig_cents": 449,
-      "final_cents": 314,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "3,14 €"
-    },
-    {
-      "appid": "37067b8b96a8416a905fe059989d2aef",
-      "namespace": "961f185110a942ffa7c56a6abdbe17b4",
-      "name": "Blind Date Plan",
-      "discount": 30,
-      "orig_cents": 1259,
-      "final_cents": 881,
-      "orig_price_str": "12,59 €",
-      "final_price_str": "8,81 €"
-    },
-    {
-      "appid": "b3d1afc54a98427f8c2bfe8145038292",
-      "namespace": "84379508bebb4c959c7193fa47c5154b",
-      "name": "Teacher Ximen Qing",
       "discount": 30,
       "orig_cents": 449,
       "final_cents": 314,
@@ -2979,27 +2999,7 @@
       "final_cents": 1295,
       "orig_price_str": "16,19 €",
       "final_price_str": "12,95 €"
-    },
-    {
-      "appid": "b0ecd5f18e054166adba795588c93405",
-      "namespace": "664e97d44f7f49d1b883413d15670071",
-      "name": "Storebound",
-      "discount": 20,
-      "orig_cents": 799,
-      "final_cents": 639,
-      "orig_price_str": "7,99 €",
-      "final_price_str": "6,39 €"
-    },
-    {
-      "appid": "a67980ae667d41738021457ba9631088",
-      "namespace": "010b1bd208f247feb83489a2a14a902a",
-      "name": "Solvimus",
-      "discount": 20,
-      "orig_cents": 1799,
-      "final_cents": 1439,
-      "orig_price_str": "17,99 €",
-      "final_price_str": "14,39 €"
     }
   ],
-  "total": 1255
+  "total": 1268
 }
