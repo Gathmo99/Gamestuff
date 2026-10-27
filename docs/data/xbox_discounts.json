@@ -171,6 +171,16 @@
       "gamepass": "Xbox"
     },
     {
+      "appid": "9NN82NH949D5",
+      "name": "HITMAN World of Assassination",
+      "discount": 60,
+      "orig_cents": 6999,
+      "final_cents": 2799,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "27,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9NJ6F163VF8C",
       "name": "EA SPORTS™ Madden NFL 27",
       "discount": 50,
@@ -241,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 1167
+  "total": 1037
 }
