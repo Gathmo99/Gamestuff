@@ -73,7 +73,7 @@
       "final_price_str": "9,49 €"
     },
     {
-      "appid": "EP4541-CUSA33485_00-BUNNYPARKEU00000",
+      "appid": "EP4541-PPSA07478_00-BUNNYPARKPS5EU00",
       "name": "Bunny Park",
       "discount": 90,
       "orig_cents": 1999,
@@ -82,7 +82,7 @@
       "final_price_str": "1,99 €"
     },
     {
-      "appid": "EP4541-PPSA07478_00-BUNNYPARKPS5EU00",
+      "appid": "EP4541-CUSA33485_00-BUNNYPARKEU00000",
       "name": "Bunny Park",
       "discount": 90,
       "orig_cents": 1999,
@@ -154,7 +154,7 @@
       "final_price_str": "1,99 €"
     },
     {
-      "appid": "EP4008-PPSA02113_00-WTASIEE000000000",
+      "appid": "EP4008-CUSA16782_00-WTASIEE000000000",
       "name": "Werewolf: The Apocalypse – Earthblood",
       "discount": 90,
       "orig_cents": 2999,
@@ -163,7 +163,7 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "EP4008-CUSA16782_00-WTASIEE000000000",
+      "appid": "EP4008-PPSA02113_00-WTASIEE000000000",
       "name": "Werewolf: The Apocalypse – Earthblood",
       "discount": 90,
       "orig_cents": 2999,
@@ -224,15 +224,6 @@
       "final_cents": 149,
       "orig_price_str": "14,99 €",
       "final_price_str": "1,49 €"
-    },
-    {
-      "appid": "EP9000-CUSA16206_00-00000000MIMVRDLX",
-      "name": "Marvel's Iron Man VR: Digital Deluxe Edition",
-      "discount": 90,
-      "orig_cents": 4999,
-      "final_cents": 499,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "4,99 €"
     },
     {
       "appid": "EP4541-CUSA12700_00-MONSTRUMEU000000",
@@ -2089,7 +2080,7 @@
       "final_price_str": "5,99 €"
     },
     {
-      "appid": "EP0122-PPSA05348_00-LODOSSWARDEEDLIT",
+      "appid": "EP0122-CUSA30409_00-LODOSSWARDEEDLIT",
       "name": "Record of Lodoss War: Deedlit in Wonder Labyrinth",
       "discount": 55,
       "orig_cents": 2499,
@@ -2098,7 +2089,7 @@
       "final_price_str": "11,24 €"
     },
     {
-      "appid": "EP0122-CUSA30409_00-LODOSSWARDEEDLIT",
+      "appid": "EP0122-PPSA05348_00-LODOSSWARDEEDLIT",
       "name": "Record of Lodoss War: Deedlit in Wonder Labyrinth",
       "discount": 55,
       "orig_cents": 2499,
@@ -2699,7 +2690,16 @@
       "final_cents": 349,
       "orig_price_str": "4,99 €",
       "final_price_str": "3,49 €"
+    },
+    {
+      "appid": "EP9000-CUSA11098_00-0000000000000000",
+      "name": "Blood & Truth™",
+      "discount": 23,
+      "orig_cents": 3999,
+      "final_cents": 3079,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "30,79 €"
     }
   ],
-  "total": 1701
+  "total": 1700
 }

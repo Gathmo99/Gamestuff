@@ -51,6 +51,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9PG7MTR0MVP9",
+      "name": "Tomb Raider: Definitive Survivor Trilogy",
+      "discount": 90,
+      "orig_cents": 4999,
+      "final_cents": 499,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "4,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "C24T2MRDBB3W",
       "name": "Street Fighter 30th Anniversary Collection",
       "discount": 85,
@@ -121,14 +131,14 @@
       "gamepass": "PC + Xbox"
     },
     {
-      "appid": "9P2FF14JZLL3",
-      "name": "Battlefield™ 6",
+      "appid": "9P9G5WX8C0VH",
+      "name": "Cyberpunk 2077: Ultimate Edition",
       "discount": 60,
       "orig_cents": 7999,
       "final_cents": 3199,
       "orig_price_str": "79,99 €",
       "final_price_str": "31,99 €",
-      "gamepass": "Xbox"
+      "gamepass": ""
     },
     {
       "appid": "9NM79B7N9JM6",
@@ -141,24 +151,14 @@
       "gamepass": ""
     },
     {
-      "appid": "9P9G5WX8C0VH",
-      "name": "Cyberpunk 2077: Ultimate Edition",
+      "appid": "9P2FF14JZLL3",
+      "name": "Battlefield™ 6",
       "discount": 60,
       "orig_cents": 7999,
       "final_cents": 3199,
       "orig_price_str": "79,99 €",
       "final_price_str": "31,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9NN82NH949D5",
-      "name": "HITMAN World of Assassination",
-      "discount": 60,
-      "orig_cents": 6999,
-      "final_cents": 2799,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "27,99 €",
-      "gamepass": ""
+      "gamepass": "Xbox"
     },
     {
       "appid": "9NJ6F163VF8C",
@@ -201,6 +201,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9NSRPC2SQW5Q",
+      "name": "EA SPORTS™ Kickoff-Bundle (Madden NFL 27 & College Football 27)",
+      "discount": 30,
+      "orig_cents": 10999,
+      "final_cents": 7699,
+      "orig_price_str": "109,99 €",
+      "final_price_str": "76,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9NQB2BFDD88X",
       "name": "UFC™ 6",
       "discount": 30,
@@ -218,16 +228,6 @@
       "final_cents": 1329,
       "orig_price_str": "18,99 €",
       "final_price_str": "13,29 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9NSRPC2SQW5Q",
-      "name": "EA SPORTS™ Kickoff-Bundle (Madden NFL 27 & College Football 27)",
-      "discount": 30,
-      "orig_cents": 10999,
-      "final_cents": 7699,
-      "orig_price_str": "109,99 €",
-      "final_price_str": "76,99 €",
       "gamepass": ""
     },
     {
@@ -251,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 1048
+  "total": 1167
 }

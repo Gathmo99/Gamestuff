@@ -2701,16 +2701,6 @@
       "final_price_str": "5,03 €"
     },
     {
-      "appid": "4af15e39891349bbbb28b818d9f05d80",
-      "namespace": "cc83388b9abd443db2ad00f0f0db1626",
-      "name": "Nightfare",
-      "discount": 20,
-      "orig_cents": 449,
-      "final_cents": 359,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "3,59 €"
-    },
-    {
       "appid": "f4155d5a217545239e7ec95248aea7aa",
       "namespace": "151ce8ede0d148f2bf2b868f1c25fac0",
       "name": "Beyond These Stars",
@@ -2999,6 +2989,16 @@
       "final_cents": 1295,
       "orig_price_str": "16,19 €",
       "final_price_str": "12,95 €"
+    },
+    {
+      "appid": "b0ecd5f18e054166adba795588c93405",
+      "namespace": "664e97d44f7f49d1b883413d15670071",
+      "name": "Storebound",
+      "discount": 20,
+      "orig_cents": 799,
+      "final_cents": 639,
+      "orig_price_str": "7,99 €",
+      "final_price_str": "6,39 €"
     }
   ],
   "total": 1268
