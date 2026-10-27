@@ -131,6 +131,16 @@
       "gamepass": "PC + Xbox"
     },
     {
+      "appid": "9P9JDV1PV21H",
+      "name": "SILENT HILL 2 Deluxe Edition",
+      "discount": 60,
+      "orig_cents": 7999,
+      "final_cents": 3199,
+      "orig_price_str": "79,99 €",
+      "final_price_str": "31,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9P9G5WX8C0VH",
       "name": "Cyberpunk 2077: Ultimate Edition",
       "discount": 60,
@@ -191,16 +201,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9NMFWR0NRLZS",
-      "name": "Resident Evil Requiem",
-      "discount": 35,
-      "orig_cents": 7999,
-      "final_cents": 5199,
-      "orig_price_str": "79,99 €",
-      "final_price_str": "51,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9NSRPC2SQW5Q",
       "name": "EA SPORTS™ Kickoff-Bundle (Madden NFL 27 & College Football 27)",
       "discount": 30,
@@ -238,16 +238,6 @@
       "final_cents": 8249,
       "orig_price_str": "109,99 €",
       "final_price_str": "82,49 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9NDJSV855T3P",
-      "name": "Dispatch",
-      "discount": 20,
-      "orig_cents": 2899,
-      "final_cents": 2319,
-      "orig_price_str": "28,99 €",
-      "final_price_str": "23,19 €",
       "gamepass": ""
     }
   ],

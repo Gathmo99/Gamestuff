@@ -496,7 +496,7 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "EP4541-CUSA32391_00-AIROHEARTEU00000",
+      "appid": "EP4541-PPSA06649_00-AIROHEART0000000",
       "name": "Airoheart",
       "discount": 85,
       "orig_cents": 1999,
@@ -505,7 +505,7 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "EP4541-PPSA06649_00-AIROHEART0000000",
+      "appid": "EP4541-CUSA32391_00-AIROHEARTEU00000",
       "name": "Airoheart",
       "discount": 85,
       "orig_cents": 1999,
@@ -982,7 +982,7 @@
       "final_price_str": "1,99 €"
     },
     {
-      "appid": "EP4008-CUSA23640_00-RIMS000000000000",
+      "appid": "EP4008-PPSA02715_00-RIMSSIEE00000000",
       "name": "RiMS Racing",
       "discount": 80,
       "orig_cents": 2999,
@@ -991,7 +991,7 @@
       "final_price_str": "5,99 €"
     },
     {
-      "appid": "EP4008-PPSA02715_00-RIMSSIEE00000000",
+      "appid": "EP4008-CUSA23640_00-RIMS000000000000",
       "name": "RiMS Racing",
       "discount": 80,
       "orig_cents": 2999,
@@ -1351,7 +1351,7 @@
       "final_price_str": "7,49 €"
     },
     {
-      "appid": "EP1482-CUSA27326_00-7592298397743398",
+      "appid": "EP1482-PPSA03315_00-3899031076458834",
       "name": "Operation: Tango",
       "discount": 75,
       "orig_cents": 1699,
@@ -1360,7 +1360,7 @@
       "final_price_str": "4,24 €"
     },
     {
-      "appid": "EP1482-PPSA03315_00-3899031076458834",
+      "appid": "EP1482-CUSA27326_00-7592298397743398",
       "name": "Operation: Tango",
       "discount": 75,
       "orig_cents": 1699,
@@ -2611,7 +2611,7 @@
       "final_price_str": "3,49 €"
     },
     {
-      "appid": "EP6853-PPSA05425_00-DLCRAT0000000000",
+      "appid": "EP2609-CUSA13930_00-DLCRAT0000000000",
       "name": "World War Z - The Rat Packs Weapon Skins Bundle",
       "discount": 30,
       "orig_cents": 499,
@@ -2620,7 +2620,7 @@
       "final_price_str": "3,49 €"
     },
     {
-      "appid": "EP2609-CUSA13930_00-DLCRAT0000000000",
+      "appid": "EP6853-PPSA05425_00-DLCRAT0000000000",
       "name": "World War Z - The Rat Packs Weapon Skins Bundle",
       "discount": 30,
       "orig_cents": 499,

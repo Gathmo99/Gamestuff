@@ -1211,6 +1211,16 @@
       "final_price_str": "6,99 €"
     },
     {
+      "appid": "9abd8a7c80cc4493905e269da4cd1e5d",
+      "namespace": "1264f0abd70941bca6afa989a41fd57c",
+      "name": "The Curse We Made",
+      "discount": 50,
+      "orig_cents": 359,
+      "final_cents": 179,
+      "orig_price_str": "3,59 €",
+      "final_price_str": "1,79 €"
+    },
+    {
       "appid": "64b1b184de3146d49c4260b843e7dfa0",
       "namespace": "edc3097975be4060a03967828ba181cf",
       "name": "Stray",
@@ -1959,16 +1969,6 @@
       "final_cents": 1343,
       "orig_price_str": "22,39 €",
       "final_price_str": "13,43 €"
-    },
-    {
-      "appid": "8b6124330bff4997ac6087eb2e4f8b5a",
-      "namespace": "1fe54e43f3644b0ea404b4e66a087f8c",
-      "name": "Skin Deep",
-      "discount": 40,
-      "orig_cents": 1849,
-      "final_cents": 1109,
-      "orig_price_str": "18,49 €",
-      "final_price_str": "11,09 €"
     },
     {
       "appid": "dcb817440a9a4253867f591fa143d511",
@@ -3001,5 +3001,5 @@
       "final_price_str": "6,39 €"
     }
   ],
-  "total": 1268
+  "total": 1269
 }
