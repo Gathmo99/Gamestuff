@@ -251,6 +251,16 @@
       "final_price_str": "2,69 €"
     },
     {
+      "appid": "431ef6a0c3fd4aaab390ceb2f1904bc3",
+      "namespace": "0024d18025a544fd99b2ee8dee87baaf",
+      "name": "Happy Game",
+      "discount": 80,
+      "orig_cents": 1499,
+      "final_cents": 299,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "2,99 €"
+    },
+    {
       "appid": "8c78fff3b3964f44ab811c52f42d4c41",
       "namespace": "d0b0a5d3ee6141c9a17e60d4fc7b723c",
       "name": "Hyperspaced",
@@ -259,16 +269,6 @@
       "final_cents": 390,
       "orig_price_str": "16,99 €",
       "final_price_str": "3,90 €"
-    },
-    {
-      "appid": "4a8cf1c6437a44d1aa1ec5948c0e5863",
-      "namespace": "d37f4318eed346babb339fbe841d0ef6",
-      "name": "The Nightmare of Pandemic - Kyle's Story",
-      "discount": 76,
-      "orig_cents": 1259,
-      "final_cents": 302,
-      "orig_price_str": "12,59 €",
-      "final_price_str": "3,02 €"
     },
     {
       "appid": "f72ac926b4a64d729d565377fe75e512",
@@ -289,6 +289,16 @@
       "final_cents": 474,
       "orig_price_str": "18,99 €",
       "final_price_str": "4,74 €"
+    },
+    {
+      "appid": "95b6875f9b7f40a39b8d476ca642c655",
+      "namespace": "84a0cce87ad54db4830c2394e732fe80",
+      "name": "Backrooms Pools",
+      "discount": 75,
+      "orig_cents": 179,
+      "final_cents": 44,
+      "orig_price_str": "1,79 €",
+      "final_price_str": "0,44 €"
     },
     {
       "appid": "7280d77e21254922b204a53bb8c776a2",
@@ -1021,9 +1031,9 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "b355239267e5445cbd657ccdcaf37a06",
-      "namespace": "59af30a1b70a4775a1ab4773aa3e6b07",
-      "name": "Five Nights In The Backrooms",
+      "appid": "006a94e9395e42249c504fff33a9de30",
+      "namespace": "7c003d7a76cc42279dd786ad672ab63c",
+      "name": "Five Nights In The Mall",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1031,9 +1041,9 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "f0b8a5d294ed488a9eafa2d8fc505ecb",
-      "namespace": "a1c8150f9d2a47deaaa3caa16a6854b1",
-      "name": "My Desktop Girlfriend",
+      "appid": "b355239267e5445cbd657ccdcaf37a06",
+      "namespace": "59af30a1b70a4775a1ab4773aa3e6b07",
+      "name": "Five Nights In The Backrooms",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1054,6 +1064,16 @@
       "appid": "1118fe197e3943aca499f12c8a0da4cf",
       "namespace": "dc9cbb7ee5f649f5ba9d0c50c274fb29",
       "name": "Grand Crime Miami",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "a5dcf67d3cb44ea39cdec4b086ce9f82",
+      "namespace": "4e35f306181e4604847b7b4866921d77",
+      "name": "Cat Karting",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -2979,27 +2999,7 @@
       "final_cents": 647,
       "orig_price_str": "8,09 €",
       "final_price_str": "6,47 €"
-    },
-    {
-      "appid": "a6e25c6390bf4b3aa0c78e3c8b24023d",
-      "namespace": "8d8f8c68d1fe44b8a62df38dd239c2a0",
-      "name": "Tiny Terry's Turbo Trip",
-      "discount": 20,
-      "orig_cents": 1619,
-      "final_cents": 1295,
-      "orig_price_str": "16,19 €",
-      "final_price_str": "12,95 €"
-    },
-    {
-      "appid": "b0ecd5f18e054166adba795588c93405",
-      "namespace": "664e97d44f7f49d1b883413d15670071",
-      "name": "Storebound",
-      "discount": 20,
-      "orig_cents": 799,
-      "final_cents": 639,
-      "orig_price_str": "7,99 €",
-      "final_price_str": "6,39 €"
     }
   ],
-  "total": 1271
+  "total": 1267
 }
