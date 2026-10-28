@@ -37,7 +37,7 @@
       "final_price_str": "1,99 €"
     },
     {
-      "appid": "EP5470-PPSA04155_00-7447536313832063",
+      "appid": "EP5470-CUSA34220_00-1974871844301027",
       "name": "XEL",
       "discount": 90,
       "orig_cents": 1899,
@@ -46,7 +46,7 @@
       "final_price_str": "1,89 €"
     },
     {
-      "appid": "EP5470-CUSA34220_00-1974871844301027",
+      "appid": "EP5470-PPSA04155_00-7447536313832063",
       "name": "XEL",
       "discount": 90,
       "orig_cents": 1899,
@@ -496,15 +496,6 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "EP4541-PPSA06649_00-AIROHEART0000000",
-      "name": "Airoheart",
-      "discount": 85,
-      "orig_cents": 1999,
-      "final_cents": 299,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "2,99 €"
-    },
-    {
       "appid": "EP4541-CUSA32391_00-AIROHEARTEU00000",
       "name": "Airoheart",
       "discount": 85,
@@ -514,8 +505,8 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "EP4541-PPSA07480_00-LEMONCAKEPS5EU00",
-      "name": "Lemon Cake",
+      "appid": "EP4541-PPSA06649_00-AIROHEART0000000",
+      "name": "Airoheart",
       "discount": 85,
       "orig_cents": 1999,
       "final_cents": 299,
@@ -524,6 +515,15 @@
     },
     {
       "appid": "EP4541-CUSA33487_00-LEMONCAKEEU00000",
+      "name": "Lemon Cake",
+      "discount": 85,
+      "orig_cents": 1999,
+      "final_cents": 299,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "2,99 €"
+    },
+    {
+      "appid": "EP4541-PPSA07480_00-LEMONCAKEPS5EU00",
       "name": "Lemon Cake",
       "discount": 85,
       "orig_cents": 1999,
@@ -982,7 +982,7 @@
       "final_price_str": "1,99 €"
     },
     {
-      "appid": "EP4008-PPSA02715_00-RIMSSIEE00000000",
+      "appid": "EP4008-CUSA23640_00-RIMS000000000000",
       "name": "RiMS Racing",
       "discount": 80,
       "orig_cents": 2999,
@@ -991,7 +991,7 @@
       "final_price_str": "5,99 €"
     },
     {
-      "appid": "EP4008-CUSA23640_00-RIMS000000000000",
+      "appid": "EP4008-PPSA02715_00-RIMSSIEE00000000",
       "name": "RiMS Racing",
       "discount": 80,
       "orig_cents": 2999,
@@ -1351,7 +1351,7 @@
       "final_price_str": "7,49 €"
     },
     {
-      "appid": "EP1482-PPSA03315_00-3899031076458834",
+      "appid": "EP1482-CUSA27326_00-7592298397743398",
       "name": "Operation: Tango",
       "discount": 75,
       "orig_cents": 1699,
@@ -1360,7 +1360,7 @@
       "final_price_str": "4,24 €"
     },
     {
-      "appid": "EP1482-CUSA27326_00-7592298397743398",
+      "appid": "EP1482-PPSA03315_00-3899031076458834",
       "name": "Operation: Tango",
       "discount": 75,
       "orig_cents": 1699,
@@ -2134,7 +2134,7 @@
       "final_price_str": "4,99 €"
     },
     {
-      "appid": "EP6718-PPSA08891_00-5174687829148845",
+      "appid": "EP6718-CUSA35111_00-0215162053175117",
       "name": "BlackJack",
       "discount": 50,
       "orig_cents": 399,
@@ -2143,7 +2143,7 @@
       "final_price_str": "1,99 €"
     },
     {
-      "appid": "EP6718-CUSA35111_00-0215162053175117",
+      "appid": "EP6718-PPSA08891_00-5174687829148845",
       "name": "BlackJack",
       "discount": 50,
       "orig_cents": 399,
@@ -2593,7 +2593,7 @@
       "final_price_str": "4,89 €"
     },
     {
-      "appid": "EP2609-CUSA13930_00-DLCMIAMI00000000",
+      "appid": "EP6853-PPSA05425_00-DLCMIAMI00000000",
       "name": "World War Z - Deadly Vice Weapons Skin Pack",
       "discount": 30,
       "orig_cents": 499,
@@ -2602,7 +2602,7 @@
       "final_price_str": "3,49 €"
     },
     {
-      "appid": "EP6853-PPSA05425_00-DLCMIAMI00000000",
+      "appid": "EP2609-CUSA13930_00-DLCMIAMI00000000",
       "name": "World War Z - Deadly Vice Weapons Skin Pack",
       "discount": 30,
       "orig_cents": 499,
@@ -2656,7 +2656,7 @@
       "final_price_str": "6,99 €"
     },
     {
-      "appid": "EP2609-CUSA13930_00-DLCRAVEN00000000",
+      "appid": "EP6853-PPSA05425_00-DLCRAVEN00000000",
       "name": "World War Z - Raven Weapons Skin Pack",
       "discount": 30,
       "orig_cents": 499,
@@ -2665,7 +2665,7 @@
       "final_price_str": "3,49 €"
     },
     {
-      "appid": "EP6853-PPSA05425_00-DLCRAVEN00000000",
+      "appid": "EP2609-CUSA13930_00-DLCRAVEN00000000",
       "name": "World War Z - Raven Weapons Skin Pack",
       "discount": 30,
       "orig_cents": 499,
