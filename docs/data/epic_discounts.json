@@ -251,16 +251,6 @@
       "final_price_str": "2,69 €"
     },
     {
-      "appid": "431ef6a0c3fd4aaab390ceb2f1904bc3",
-      "namespace": "0024d18025a544fd99b2ee8dee87baaf",
-      "name": "Happy Game",
-      "discount": 80,
-      "orig_cents": 1499,
-      "final_cents": 299,
-      "orig_price_str": "14,99 €",
-      "final_price_str": "2,99 €"
-    },
-    {
       "appid": "8c78fff3b3964f44ab811c52f42d4c41",
       "namespace": "d0b0a5d3ee6141c9a17e60d4fc7b723c",
       "name": "Hyperspaced",
@@ -394,16 +384,6 @@
       "appid": "fdc660db2a0342d18c11aab955a6805b",
       "namespace": "8e08e5eb26ee4712b8fe53447886cde0",
       "name": "Vambrace: Dungeon Monarch",
-      "discount": 75,
-      "orig_cents": 1499,
-      "final_cents": 374,
-      "orig_price_str": "14,99 €",
-      "final_price_str": "3,74 €"
-    },
-    {
-      "appid": "88c63727a48b459ca9ebd91ef9bbbdb9",
-      "namespace": "b72f8398191a41f79f1fbb30f4facfd0",
-      "name": "Empyreal",
       "discount": 75,
       "orig_cents": 1499,
       "final_cents": 374,
@@ -2191,16 +2171,6 @@
       "final_price_str": "8,18 €"
     },
     {
-      "appid": "1f43c828798441a5b705f9ce89df21e4",
-      "namespace": "4d3d2b9aec6b4015bb6b6b3b620989ca",
-      "name": "Woodo",
-      "discount": 30,
-      "orig_cents": 1699,
-      "final_cents": 1189,
-      "orig_price_str": "16,99 €",
-      "final_price_str": "11,89 €"
-    },
-    {
       "appid": "d3989583b334498aa6b96f49bc638194",
       "namespace": "4f8976fb2ed8447d98f32a86d33e69af",
       "name": "RuneScape: Dragonwilds",
@@ -2491,6 +2461,16 @@
       "final_price_str": "9,74 €"
     },
     {
+      "appid": "00039fa9904c429abd22fc0853be5f91",
+      "namespace": "4083178e557a456c9f9967f566e34b94",
+      "name": "The teacher fell in love with me 3",
+      "discount": 25,
+      "orig_cents": 1079,
+      "final_cents": 809,
+      "orig_price_str": "10,79 €",
+      "final_price_str": "8,09 €"
+    },
+    {
       "appid": "4c2fe1aa0037421d8a99690cb010d49e",
       "namespace": "a2a4bd5acfe340c88ba592fc1f703999",
       "name": "The Beauty and the CEO",
@@ -2569,6 +2549,16 @@
       "final_cents": 674,
       "orig_price_str": "8,99 €",
       "final_price_str": "6,74 €"
+    },
+    {
+      "appid": "65b780bd13974d3d852173a1122c2789",
+      "namespace": "e8a5536a55294d949df5306fda6410c1",
+      "name": "Typers Combat",
+      "discount": 25,
+      "orig_cents": 539,
+      "final_cents": 404,
+      "orig_price_str": "5,39 €",
+      "final_price_str": "4,04 €"
     },
     {
       "appid": "238bbfdb72dd48f196c3835fba2e1842",
@@ -2999,6 +2989,16 @@
       "final_cents": 647,
       "orig_price_str": "8,09 €",
       "final_price_str": "6,47 €"
+    },
+    {
+      "appid": "a6e25c6390bf4b3aa0c78e3c8b24023d",
+      "namespace": "8d8f8c68d1fe44b8a62df38dd239c2a0",
+      "name": "Tiny Terry's Turbo Trip",
+      "discount": 20,
+      "orig_cents": 1619,
+      "final_cents": 1295,
+      "orig_price_str": "16,19 €",
+      "final_price_str": "12,95 €"
     }
   ],
   "total": 1267
