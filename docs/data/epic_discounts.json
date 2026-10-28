@@ -1081,6 +1081,16 @@
       "final_price_str": "0,44 €"
     },
     {
+      "appid": "32564468d873436ba720f9e888969856",
+      "namespace": "e9b002d6b8b1437b94c254ded67ad79c",
+      "name": "When Ski Lifts Go Wrong",
+      "discount": 50,
+      "orig_cents": 1349,
+      "final_cents": 674,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "6,74 €"
+    },
+    {
       "appid": "2753d4dd4446463085acd008c1a565fe",
       "namespace": "210e8a076d3340bd914c439f49fb65db",
       "name": "Black Flower",
@@ -1599,16 +1609,6 @@
       "final_cents": 924,
       "orig_price_str": "18,49 €",
       "final_price_str": "9,24 €"
-    },
-    {
-      "appid": "c39e0d4c11ae4a789a59b4899550b53b",
-      "namespace": "6c4dc741283b4d16b436b51ff1de450e",
-      "name": "Blacksmith Master",
-      "discount": 50,
-      "orig_cents": 1999,
-      "final_cents": 999,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "9,99 €"
     },
     {
       "appid": "33eb34c2ce524bfb97b3227f0811aa86",
@@ -3001,5 +3001,5 @@
       "final_price_str": "12,95 €"
     }
   ],
-  "total": 1267
+  "total": 1269
 }
