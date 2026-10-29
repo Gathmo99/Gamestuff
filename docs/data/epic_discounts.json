@@ -221,16 +221,6 @@
       "final_price_str": "0,89 €"
     },
     {
-      "appid": "a3c6e762c73d4b5e9e8637c0c87506c3",
-      "namespace": "b852dd8a3ca34d1caaba0a50c1857e7d",
-      "name": "Plambra Dash: The Parkour Game Part II",
-      "discount": 80,
-      "orig_cents": 199,
-      "final_cents": 39,
-      "orig_price_str": "1,99 €",
-      "final_price_str": "0,39 €"
-    },
-    {
       "appid": "be306cdbf48d4413945352b1f97e5558",
       "namespace": "f0e32d1018294eca93a894cc3207166b",
       "name": "Aeon Tempus",
@@ -1609,6 +1599,16 @@
       "final_cents": 924,
       "orig_price_str": "18,49 €",
       "final_price_str": "9,24 €"
+    },
+    {
+      "appid": "c39e0d4c11ae4a789a59b4899550b53b",
+      "namespace": "6c4dc741283b4d16b436b51ff1de450e",
+      "name": "Blacksmith Master",
+      "discount": 50,
+      "orig_cents": 1999,
+      "final_cents": 999,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "9,99 €"
     },
     {
       "appid": "33eb34c2ce524bfb97b3227f0811aa86",
@@ -3001,5 +3001,5 @@
       "final_price_str": "12,95 €"
     }
   ],
-  "total": 1270
+  "total": 1268
 }
