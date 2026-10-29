@@ -73,7 +73,7 @@
       "final_price_str": "9,49 €"
     },
     {
-      "appid": "EP4541-PPSA07478_00-BUNNYPARKPS5EU00",
+      "appid": "EP4541-CUSA33485_00-BUNNYPARKEU00000",
       "name": "Bunny Park",
       "discount": 90,
       "orig_cents": 1999,
@@ -82,7 +82,7 @@
       "final_price_str": "1,99 €"
     },
     {
-      "appid": "EP4541-CUSA33485_00-BUNNYPARKEU00000",
+      "appid": "EP4541-PPSA07478_00-BUNNYPARKPS5EU00",
       "name": "Bunny Park",
       "discount": 90,
       "orig_cents": 1999,
@@ -568,7 +568,7 @@
       "final_price_str": "3,74 €"
     },
     {
-      "appid": "EP8208-CUSA33560_00-ISUSA00GAMEEUR01",
+      "appid": "EP8208-PPSA07519_00-ISUSA00GAMEEUR01",
       "name": "INSTANT SPORTS All-Stars",
       "discount": 85,
       "orig_cents": 2499,
@@ -577,7 +577,7 @@
       "final_price_str": "3,74 €"
     },
     {
-      "appid": "EP8208-PPSA07519_00-ISUSA00GAMEEUR01",
+      "appid": "EP8208-CUSA33560_00-ISUSA00GAMEEUR01",
       "name": "INSTANT SPORTS All-Stars",
       "discount": 85,
       "orig_cents": 2499,
