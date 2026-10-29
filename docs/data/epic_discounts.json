@@ -1,16 +1,6 @@
 {
   "items": [
     {
-      "appid": "06190191cede42afb633fe89ef08c27e",
-      "namespace": "c7e46cce751b40b6937e878abd0fc531",
-      "name": "Home - A Unique Horror Adventure",
-      "discount": 100,
-      "orig_cents": 449,
-      "final_cents": 0,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "0,00 €"
-    },
-    {
       "appid": "7813a97e72ed4a49be807e6de8bc4f2c",
       "namespace": "c102cb63a52643d1a4c3ca009439eece",
       "name": "MAFIA HOTEL",
@@ -109,16 +99,6 @@
       "final_cents": 179,
       "orig_price_str": "17,99 €",
       "final_price_str": "1,79 €"
-    },
-    {
-      "appid": "ad7be555373b47b28339525c9e138a85",
-      "namespace": "c8ea2f513717454fb145e274455fbf54",
-      "name": "The Siege and the Sandfox",
-      "discount": 90,
-      "orig_cents": 1499,
-      "final_cents": 149,
-      "orig_price_str": "14,99 €",
-      "final_price_str": "1,49 €"
     },
     {
       "appid": "70743bc1d3cc427da8b55e1bc79ca95c",
@@ -841,6 +821,16 @@
       "final_price_str": "19,99 €"
     },
     {
+      "appid": "1c5c874bddb84ef39a73db4775f7a62b",
+      "namespace": "d2e839fc4fa14081863f8037f056a6e2",
+      "name": "NODE: Der letzte Gesandte der Antarii",
+      "discount": 60,
+      "orig_cents": 2239,
+      "final_cents": 895,
+      "orig_price_str": "22,39 €",
+      "final_price_str": "8,95 €"
+    },
+    {
       "appid": "df7b02b7cb0448c0b5713d88b90f8463",
       "namespace": "cdb2327031da4e38b3bf49f5117aa0e1",
       "name": "Look Mum No Computer",
@@ -1054,16 +1044,6 @@
       "appid": "358807be564e4328a0a40cd12225af74",
       "namespace": "dfe09240d3794901ba97f6ebeb700c1d",
       "name": "WINTER SADNESS SIMULATOR",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "d4c62f0a1e464afcae488f40b2012dbd",
-      "namespace": "f28ef9372daf4ca99385d5d9ab8af7f8",
-      "name": "BORIS RUSSIAN BEAR",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1601,14 +1581,14 @@
       "final_price_str": "9,24 €"
     },
     {
-      "appid": "c39e0d4c11ae4a789a59b4899550b53b",
-      "namespace": "6c4dc741283b4d16b436b51ff1de450e",
-      "name": "Blacksmith Master",
-      "discount": 50,
-      "orig_cents": 1999,
-      "final_cents": 999,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "9,99 €"
+      "appid": "5f5c2202b2d34721a6d236c85fc515f2",
+      "namespace": "4774311bd2724f6cba218090760f52e6",
+      "name": "Arcadia Fallen",
+      "discount": 45,
+      "orig_cents": 2239,
+      "final_cents": 1231,
+      "orig_price_str": "22,39 €",
+      "final_price_str": "12,31 €"
     },
     {
       "appid": "33eb34c2ce524bfb97b3227f0811aa86",
@@ -1749,6 +1729,16 @@
       "final_cents": 809,
       "orig_price_str": "13,49 €",
       "final_price_str": "8,09 €"
+    },
+    {
+      "appid": "444bdda719ca4f0788ae900ec468fc8b",
+      "namespace": "d20e3f9e78404dbd9ed96ff4c8a5886e",
+      "name": "The teacher fell in love with me 2",
+      "discount": 40,
+      "orig_cents": 809,
+      "final_cents": 485,
+      "orig_price_str": "8,09 €",
+      "final_price_str": "4,85 €"
     },
     {
       "appid": "66763a05b21e435da8382d5d87268514",
@@ -1951,14 +1941,14 @@
       "final_price_str": "10,79 €"
     },
     {
-      "appid": "67e076fc9d5b4ecaa3409c79d29cabdd",
-      "namespace": "e6ffee40e3424026b27f75c785d199e1",
-      "name": "Soulmask",
+      "appid": "6b116e072948425ca460d99d9d138d55",
+      "namespace": "2fd168b5526d4e15a84b53a6c0484f8f",
+      "name": "Fuga: Melodies of Steel 3",
       "discount": 40,
-      "orig_cents": 2999,
-      "final_cents": 1799,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "17,99 €"
+      "orig_cents": 3999,
+      "final_cents": 2399,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "23,99 €"
     },
     {
       "appid": "dcb817440a9a4253867f591fa143d511",
@@ -2111,36 +2101,6 @@
       "final_price_str": "13,39 €"
     },
     {
-      "appid": "4d56fdc376924c4aa7c80515d8d1fc29",
-      "namespace": "b713f7b6b51b405893ad88c00c86faac",
-      "name": "『S.T.A.L.K.E.R.: Shadow of Chornobyl』強化版",
-      "discount": 33,
-      "orig_cents": 1999,
-      "final_cents": 1339,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "13,39 €"
-    },
-    {
-      "appid": "355e78b2f9ce4404bb5682c8cb31ae96",
-      "namespace": "6026e7b108f94dd5a3037317eb9b4fa4",
-      "name": "S.T.A.L.K.E.R.: Call of Prypiat - Enhanced Edition",
-      "discount": 33,
-      "orig_cents": 1999,
-      "final_cents": 1339,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "13,39 €"
-    },
-    {
-      "appid": "91d3ac7558f74838911af27f118da705",
-      "namespace": "4275cb8b5c9f4d7cb4892d793eabebfd",
-      "name": "S.T.A.L.K.E.R.: Clear Sky - Enhanced Edition",
-      "discount": 33,
-      "orig_cents": 1999,
-      "final_cents": 1339,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "13,39 €"
-    },
-    {
       "appid": "a34ec08677e14b659891ff6fc5389b80",
       "namespace": "1d69917e6cf545f483baf8fe6a0cc98b",
       "name": "Backrooms Realms",
@@ -2171,16 +2131,6 @@
       "final_price_str": "8,18 €"
     },
     {
-      "appid": "d3989583b334498aa6b96f49bc638194",
-      "namespace": "4f8976fb2ed8447d98f32a86d33e69af",
-      "name": "RuneScape: Dragonwilds",
-      "discount": 30,
-      "orig_cents": 2999,
-      "final_cents": 2099,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "20,99 €"
-    },
-    {
       "appid": "754a9e7983b5439d81bcf9e6168c88b9",
       "namespace": "8ef296a169af4192a0e0fa65df61c0e2",
       "name": "Tukoni: Waldpfleger",
@@ -2199,6 +2149,16 @@
       "final_cents": 699,
       "orig_price_str": "9,99 €",
       "final_price_str": "6,99 €"
+    },
+    {
+      "appid": "af0bac92ab4c4c0f9ed6b36025916ded",
+      "namespace": "095f6c7801d14240b31e732cc3e87008",
+      "name": "Fell in love with coser 15",
+      "discount": 30,
+      "orig_cents": 359,
+      "final_cents": 251,
+      "orig_price_str": "3,59 €",
+      "final_price_str": "2,51 €"
     },
     {
       "appid": "439c8da488ff4d7288558f000b532659",
@@ -2359,6 +2319,16 @@
       "final_cents": 1259,
       "orig_price_str": "17,99 €",
       "final_price_str": "12,59 €"
+    },
+    {
+      "appid": "be2815b8e16a4fcda32a51b7ecda0bf1",
+      "namespace": "a9130fa752b44f3983909956ba335b61",
+      "name": "Cairn",
+      "discount": 30,
+      "orig_cents": 2999,
+      "final_cents": 2099,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "20,99 €"
     },
     {
       "appid": "f00128eaf1e74447bdf1a44b3c5b9791",
@@ -2671,6 +2641,26 @@
       "final_price_str": "19,99 €"
     },
     {
+      "appid": "4838b02307224200a2c3030297762837",
+      "namespace": "45e9da91e9f84bb2abebc79851be0c94",
+      "name": "Anvil Life",
+      "discount": 20,
+      "orig_cents": 449,
+      "final_cents": 359,
+      "orig_price_str": "4,49 €",
+      "final_price_str": "3,59 €"
+    },
+    {
+      "appid": "4e3d5037dc5243aea8adc86cce6d5959",
+      "namespace": "4df70e25212147adbc26babedbf5e0e6",
+      "name": "The Wolf Among Us Remastered",
+      "discount": 20,
+      "orig_cents": 2239,
+      "final_cents": 1791,
+      "orig_price_str": "22,39 €",
+      "final_price_str": "17,91 €"
+    },
+    {
       "appid": "371641e5cc624e628bc86858b45b9372",
       "namespace": "ec995a245883494dafb0b6b120687890",
       "name": "Zero Stress King: Idle Defense",
@@ -2921,6 +2911,16 @@
       "final_price_str": "10,79 €"
     },
     {
+      "appid": "68414c8c504a43fa944e697a3a87575b",
+      "namespace": "c75d66f9ac744b4380a63fb1e6dd60ac",
+      "name": "Arcadia Fallen II",
+      "discount": 20,
+      "orig_cents": 2699,
+      "final_cents": 2159,
+      "orig_price_str": "26,99 €",
+      "final_price_str": "21,59 €"
+    },
+    {
       "appid": "6573c45d09cd47e79318f1e542081869",
       "namespace": "aba0a13c2b554b6981dfdc1244163f91",
       "name": "The Legend of Khiimori",
@@ -3001,5 +3001,5 @@
       "final_price_str": "12,95 €"
     }
   ],
-  "total": 1268
+  "total": 1277
 }

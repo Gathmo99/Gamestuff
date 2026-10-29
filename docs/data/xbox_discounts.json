@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "appid": "9PG7MTR0MVP9",
+      "name": "Tomb Raider: Definitive Survivor Trilogy",
+      "discount": 90,
+      "orig_cents": 4999,
+      "final_cents": 499,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "4,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "BQXTS0SX4W0N",
       "name": "Tomb Raider: Definitive Edition",
       "discount": 90,
@@ -8,6 +18,16 @@
       "final_cents": 199,
       "orig_price_str": "19,99 €",
       "final_price_str": "1,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NCTX4DHL605",
+      "name": "The Outlast Trials Deluxe Edition",
+      "discount": 90,
+      "orig_cents": 4999,
+      "final_cents": 499,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "4,99 €",
       "gamepass": ""
     },
     {
@@ -41,26 +61,6 @@
       "gamepass": ""
     },
     {
-      "appid": "BQ2F1LGNL6M1",
-      "name": "Mad Max",
-      "discount": 90,
-      "orig_cents": 6999,
-      "final_cents": 699,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "6,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9PG7MTR0MVP9",
-      "name": "Tomb Raider: Definitive Survivor Trilogy",
-      "discount": 90,
-      "orig_cents": 4999,
-      "final_cents": 499,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "4,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "C24T2MRDBB3W",
       "name": "Street Fighter 30th Anniversary Collection",
       "discount": 85,
@@ -68,6 +68,26 @@
       "final_cents": 449,
       "orig_price_str": "29,98 €",
       "final_price_str": "4,49 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NKB1B50PZLZ",
+      "name": "Alan Wake Remastered",
+      "discount": 85,
+      "orig_cents": 2999,
+      "final_cents": 449,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "4,49 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9P17KJLSCR59",
+      "name": "Choo-Choo Charles",
+      "discount": 85,
+      "orig_cents": 1999,
+      "final_cents": 299,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "2,99 €",
       "gamepass": ""
     },
     {
@@ -81,33 +101,23 @@
       "gamepass": ""
     },
     {
-      "appid": "9NKG0X1MGQTX",
-      "name": "Mafia Trilogy",
-      "discount": 80,
-      "orig_cents": 5999,
-      "final_cents": 1199,
-      "orig_price_str": "59,99 €",
-      "final_price_str": "11,99 €",
+      "appid": "9N7JCPPCPN37",
+      "name": "Resident Evil 4",
+      "discount": 75,
+      "orig_cents": 3999,
+      "final_cents": 999,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "9,99 €",
       "gamepass": ""
     },
     {
-      "appid": "C4XB8HD7BZG5",
-      "name": "STREET FIGHTER IV",
-      "discount": 80,
+      "appid": "C08CV6MR919R",
+      "name": "Resident Evil 5",
+      "discount": 75,
       "orig_cents": 1999,
-      "final_cents": 399,
+      "final_cents": 499,
       "orig_price_str": "19,99 €",
-      "final_price_str": "3,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9P4ZKKX7V5ZQ",
-      "name": "Tomb Raider IV-VI Remastered",
-      "discount": 80,
-      "orig_cents": 2999,
-      "final_cents": 599,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "5,99 €",
+      "final_price_str": "4,99 €",
       "gamepass": ""
     },
     {
@@ -119,6 +129,16 @@
       "orig_price_str": "59,99 €",
       "final_price_str": "17,99 €",
       "gamepass": ""
+    },
+    {
+      "appid": "9NXVC0482QS5",
+      "name": "It Takes Two – Digitale Version",
+      "discount": 70,
+      "orig_cents": 3999,
+      "final_cents": 1199,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "11,99 €",
+      "gamepass": "Xbox"
     },
     {
       "appid": "9PK09BL31FK1",
@@ -151,16 +171,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9NM79B7N9JM6",
-      "name": "Street Fighter™ 6",
-      "discount": 60,
-      "orig_cents": 3999,
-      "final_cents": 1599,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "15,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9P2FF14JZLL3",
       "name": "Battlefield™ 6",
       "discount": 60,
@@ -169,16 +179,6 @@
       "orig_price_str": "79,99 €",
       "final_price_str": "31,99 €",
       "gamepass": "Xbox"
-    },
-    {
-      "appid": "9NN82NH949D5",
-      "name": "HITMAN World of Assassination",
-      "discount": 60,
-      "orig_cents": 6999,
-      "final_cents": 2799,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "27,99 €",
-      "gamepass": ""
     },
     {
       "appid": "9NJ6F163VF8C",
@@ -201,6 +201,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9NKC1Z4Z92VN",
+      "name": "Grand Theft Auto Online",
+      "discount": 50,
+      "orig_cents": 1999,
+      "final_cents": 999,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "9,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9PK85WVFH32Q",
       "name": "NHL 27 Standard Edition XBOX Series X|S",
       "discount": 40,
@@ -208,26 +218,6 @@
       "final_cents": 4799,
       "orig_price_str": "79,99 €",
       "final_price_str": "47,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9NSRPC2SQW5Q",
-      "name": "EA SPORTS™ Kickoff-Bundle (Madden NFL 27 & College Football 27)",
-      "discount": 30,
-      "orig_cents": 10999,
-      "final_cents": 7699,
-      "orig_price_str": "109,99 €",
-      "final_price_str": "76,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9NQB2BFDD88X",
-      "name": "UFC™ 6",
-      "discount": 30,
-      "orig_cents": 7999,
-      "final_cents": 5599,
-      "orig_price_str": "79,99 €",
-      "final_price_str": "55,99 €",
       "gamepass": ""
     },
     {
@@ -241,6 +231,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9NQB2BFDD88X",
+      "name": "UFC™ 6",
+      "discount": 30,
+      "orig_cents": 7999,
+      "final_cents": 5599,
+      "orig_price_str": "79,99 €",
+      "final_price_str": "55,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9NWB32QGRKK5",
       "name": "EA SPORTS FC™ 27 Ultimate Edition XBOX One & XBOX Series X|S",
       "discount": 25,
@@ -251,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 1085
+  "total": 1091
 }
