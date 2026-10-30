@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "appid": "1583850",
+      "name": "Asleep: Act 1",
+      "discount": 100,
+      "orig_price_str": "9,75€",
+      "final_price_str": "0,00€",
+      "orig_cents": 975,
+      "final_cents": 0,
+      "gamepass": ""
+    },
+    {
       "appid": "785890",
       "name": "Hexologic",
       "discount": 100,

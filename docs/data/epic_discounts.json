@@ -101,16 +101,6 @@
       "final_price_str": "1,79 €"
     },
     {
-      "appid": "ad7be555373b47b28339525c9e138a85",
-      "namespace": "c8ea2f513717454fb145e274455fbf54",
-      "name": "The Siege and the Sandfox",
-      "discount": 90,
-      "orig_cents": 1499,
-      "final_cents": 149,
-      "orig_price_str": "14,99 €",
-      "final_price_str": "1,49 €"
-    },
-    {
       "appid": "70743bc1d3cc427da8b55e1bc79ca95c",
       "namespace": "4f97805eeaf3401095c8baba3bbfa566",
       "name": "Soulslinger: Envoy of Death",
@@ -981,16 +971,6 @@
       "final_price_str": "11,36 €"
     },
     {
-      "appid": "19af3a8f971a4b3eae0aa94453bb1a47",
-      "namespace": "8c279dfb223c49f9a24c9f3e0352392f",
-      "name": "Blood Bar Tycoon",
-      "discount": 53,
-      "orig_cents": 1999,
-      "final_cents": 939,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "9,39 €"
-    },
-    {
       "appid": "78a59785693c45fe8fb20dc09c7c1cf4",
       "namespace": "d6b2704a9c1644e0acead0f8547e2c3e",
       "name": "Starfish Simulator",
@@ -1631,6 +1611,26 @@
       "final_price_str": "12,31 €"
     },
     {
+      "appid": "176d93990b604f1eb8b53dd9dc59707d",
+      "namespace": "f2cf0136b6204b4dafd7789f4f7bf58b",
+      "name": "Mafia: Blood and Honor",
+      "discount": 40,
+      "orig_cents": 269,
+      "final_cents": 161,
+      "orig_price_str": "2,69 €",
+      "final_price_str": "1,61 €"
+    },
+    {
+      "appid": "28d7f2c12d854083abb088e4a2bd4b72",
+      "namespace": "4f8a910c4b8f4cb08c553a8c0effd5cc",
+      "name": "Knuckleball: Free Kick Football",
+      "discount": 40,
+      "orig_cents": 269,
+      "final_cents": 161,
+      "orig_price_str": "2,69 €",
+      "final_price_str": "1,61 €"
+    },
+    {
       "appid": "364199cb3094478aa0db5bbfb37cf6ba",
       "namespace": "c01649c008054b7c93ed0f8ae820eb36",
       "name": "Buster: Carrot Town Chronicles",
@@ -2119,16 +2119,6 @@
       "final_cents": 944,
       "orig_price_str": "13,49 €",
       "final_price_str": "9,44 €"
-    },
-    {
-      "appid": "3ba05aaae21041b4a22f76b5d001fa1f",
-      "namespace": "f9b864b98b084183a58eec29a6d4dadb",
-      "name": "Parking Tycoon: Business Simulator",
-      "discount": 30,
-      "orig_cents": 1169,
-      "final_cents": 818,
-      "orig_price_str": "11,69 €",
-      "final_price_str": "8,18 €"
     },
     {
       "appid": "754a9e7983b5439d81bcf9e6168c88b9",
@@ -2999,7 +2989,17 @@
       "final_cents": 1295,
       "orig_price_str": "16,19 €",
       "final_price_str": "12,95 €"
+    },
+    {
+      "appid": "b0ecd5f18e054166adba795588c93405",
+      "namespace": "664e97d44f7f49d1b883413d15670071",
+      "name": "Storebound",
+      "discount": 20,
+      "orig_cents": 799,
+      "final_cents": 639,
+      "orig_price_str": "7,99 €",
+      "final_price_str": "6,39 €"
     }
   ],
-  "total": 1276
+  "total": 1279
 }
