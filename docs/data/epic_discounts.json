@@ -101,6 +101,16 @@
       "final_price_str": "1,79 €"
     },
     {
+      "appid": "ad7be555373b47b28339525c9e138a85",
+      "namespace": "c8ea2f513717454fb145e274455fbf54",
+      "name": "The Siege and the Sandfox",
+      "discount": 90,
+      "orig_cents": 1499,
+      "final_cents": 149,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "1,49 €"
+    },
+    {
       "appid": "70743bc1d3cc427da8b55e1bc79ca95c",
       "namespace": "4f97805eeaf3401095c8baba3bbfa566",
       "name": "Soulslinger: Envoy of Death",
@@ -2021,16 +2031,6 @@
       "final_price_str": "8,76 €"
     },
     {
-      "appid": "d6e24912d9ad457da041022ad5d1c4e0",
-      "namespace": "8c23a69f7d02418caafb6851b132368d",
-      "name": "Hello Love: 18 Again",
-      "discount": 35,
-      "orig_cents": 1799,
-      "final_cents": 1169,
-      "orig_price_str": "17,99 €",
-      "final_price_str": "11,69 €"
-    },
-    {
       "appid": "5977ee3f7b8944398ceb34d1910d8efc",
       "namespace": "5479820bfa8945979cc05ef8d37e1a40",
       "name": "BLACKSHARD",
@@ -3001,5 +3001,5 @@
       "final_price_str": "12,95 €"
     }
   ],
-  "total": 1277
+  "total": 1276
 }

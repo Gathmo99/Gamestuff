@@ -181,16 +181,6 @@
       "gamepass": "Xbox"
     },
     {
-      "appid": "9NJ6F163VF8C",
-      "name": "EA SPORTS™ Madden NFL 27",
-      "discount": 50,
-      "orig_cents": 7999,
-      "final_cents": 4000,
-      "orig_price_str": "79,99 €",
-      "final_price_str": "40,00 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9N2R753H6WQD",
       "name": "EA SPORTS™ College Football 27",
       "discount": 50,
@@ -218,6 +208,16 @@
       "final_cents": 4799,
       "orig_price_str": "79,99 €",
       "final_price_str": "47,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NJ6F163VF8C",
+      "name": "EA SPORTS™ Madden NFL 27",
+      "discount": 35,
+      "orig_cents": 7999,
+      "final_cents": 5199,
+      "orig_price_str": "79,99 €",
+      "final_price_str": "51,99 €",
       "gamepass": ""
     },
     {
@@ -251,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 1091
+  "total": 1095
 }
