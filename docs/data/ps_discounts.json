@@ -37,7 +37,7 @@
       "final_price_str": "1,99 €"
     },
     {
-      "appid": "EP5470-CUSA34220_00-1974871844301027",
+      "appid": "EP5470-PPSA04155_00-7447536313832063",
       "name": "XEL",
       "discount": 90,
       "orig_cents": 1899,
@@ -46,7 +46,7 @@
       "final_price_str": "1,89 €"
     },
     {
-      "appid": "EP5470-PPSA04155_00-7447536313832063",
+      "appid": "EP5470-CUSA34220_00-1974871844301027",
       "name": "XEL",
       "discount": 90,
       "orig_cents": 1899,
@@ -451,7 +451,7 @@
       "final_price_str": "4,49 €"
     },
     {
-      "appid": "EP4541-PPSA06716_00-SAINTKOTAREU0000",
+      "appid": "EP4541-CUSA32503_00-SAINTKOTAREU0000",
       "name": "Saint Kotar",
       "discount": 85,
       "orig_cents": 1999,
@@ -460,7 +460,7 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "EP4541-CUSA32503_00-SAINTKOTAREU0000",
+      "appid": "EP4541-PPSA06716_00-SAINTKOTAREU0000",
       "name": "Saint Kotar",
       "discount": 85,
       "orig_cents": 1999,
@@ -496,15 +496,6 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "EP4541-CUSA32391_00-AIROHEARTEU00000",
-      "name": "Airoheart",
-      "discount": 85,
-      "orig_cents": 1999,
-      "final_cents": 299,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "2,99 €"
-    },
-    {
       "appid": "EP4541-PPSA06649_00-AIROHEART0000000",
       "name": "Airoheart",
       "discount": 85,
@@ -514,8 +505,8 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "EP4541-PPSA07480_00-LEMONCAKEPS5EU00",
-      "name": "Lemon Cake",
+      "appid": "EP4541-CUSA32391_00-AIROHEARTEU00000",
+      "name": "Airoheart",
       "discount": 85,
       "orig_cents": 1999,
       "final_cents": 299,
@@ -524,6 +515,15 @@
     },
     {
       "appid": "EP4541-CUSA33487_00-LEMONCAKEEU00000",
+      "name": "Lemon Cake",
+      "discount": 85,
+      "orig_cents": 1999,
+      "final_cents": 299,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "2,99 €"
+    },
+    {
+      "appid": "EP4541-PPSA07480_00-LEMONCAKEPS5EU00",
       "name": "Lemon Cake",
       "discount": 85,
       "orig_cents": 1999,
@@ -568,7 +568,7 @@
       "final_price_str": "3,74 €"
     },
     {
-      "appid": "EP8208-PPSA07519_00-ISUSA00GAMEEUR01",
+      "appid": "EP8208-CUSA33560_00-ISUSA00GAMEEUR01",
       "name": "INSTANT SPORTS All-Stars",
       "discount": 85,
       "orig_cents": 2499,
@@ -577,7 +577,7 @@
       "final_price_str": "3,74 €"
     },
     {
-      "appid": "EP8208-CUSA33560_00-ISUSA00GAMEEUR01",
+      "appid": "EP8208-PPSA07519_00-ISUSA00GAMEEUR01",
       "name": "INSTANT SPORTS All-Stars",
       "discount": 85,
       "orig_cents": 2499,
@@ -2134,7 +2134,7 @@
       "final_price_str": "4,99 €"
     },
     {
-      "appid": "EP6718-PPSA08891_00-5174687829148845",
+      "appid": "EP6718-CUSA35111_00-0215162053175117",
       "name": "BlackJack",
       "discount": 50,
       "orig_cents": 399,
@@ -2143,7 +2143,7 @@
       "final_price_str": "1,99 €"
     },
     {
-      "appid": "EP6718-CUSA35111_00-0215162053175117",
+      "appid": "EP6718-PPSA08891_00-5174687829148845",
       "name": "BlackJack",
       "discount": 50,
       "orig_cents": 399,
@@ -2611,7 +2611,7 @@
       "final_price_str": "3,49 €"
     },
     {
-      "appid": "EP6853-PPSA05425_00-DLCRAT0000000000",
+      "appid": "EP2609-CUSA13930_00-DLCRAT0000000000",
       "name": "World War Z - The Rat Packs Weapon Skins Bundle",
       "discount": 30,
       "orig_cents": 499,
@@ -2620,7 +2620,7 @@
       "final_price_str": "3,49 €"
     },
     {
-      "appid": "EP2609-CUSA13930_00-DLCRAT0000000000",
+      "appid": "EP6853-PPSA05425_00-DLCRAT0000000000",
       "name": "World War Z - The Rat Packs Weapon Skins Bundle",
       "discount": 30,
       "orig_cents": 499,
