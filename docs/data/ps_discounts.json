@@ -496,7 +496,7 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "EP4541-PPSA06649_00-AIROHEART0000000",
+      "appid": "EP4541-CUSA32391_00-AIROHEARTEU00000",
       "name": "Airoheart",
       "discount": 85,
       "orig_cents": 1999,
@@ -505,7 +505,7 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "EP4541-CUSA32391_00-AIROHEARTEU00000",
+      "appid": "EP4541-PPSA06649_00-AIROHEART0000000",
       "name": "Airoheart",
       "discount": 85,
       "orig_cents": 1999,
