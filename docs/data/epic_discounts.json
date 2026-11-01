@@ -91,16 +91,6 @@
       "final_price_str": "2,39 €"
     },
     {
-      "appid": "b2d6cff7c66b47ce9fc8e5b13eb7c09b",
-      "namespace": "f08eca6731b94f0e9425a63ee387dc62",
-      "name": "Bloodshed",
-      "discount": 88,
-      "orig_cents": 1299,
-      "final_cents": 155,
-      "orig_price_str": "12,99 €",
-      "final_price_str": "1,55 €"
-    },
-    {
       "appid": "91a0b419d5b741c39cc35ce3a35138c0",
       "namespace": "462451248e9640f4a211294193034dda",
       "name": "Road Redemption",
@@ -319,16 +309,6 @@
       "final_cents": 874,
       "orig_price_str": "34,99 €",
       "final_price_str": "8,74 €"
-    },
-    {
-      "appid": "fdc660db2a0342d18c11aab955a6805b",
-      "namespace": "8e08e5eb26ee4712b8fe53447886cde0",
-      "name": "Vambrace: Dungeon Monarch",
-      "discount": 75,
-      "orig_cents": 1499,
-      "final_cents": 374,
-      "orig_price_str": "14,99 €",
-      "final_price_str": "3,74 €"
     },
     {
       "appid": "843cbe6a2b6a448c8b62f2f4dca06daf",
@@ -824,16 +804,6 @@
       "appid": "5e7015b65e174329a90b50fc90194224",
       "namespace": "bd440f08d4d044dbad86cf12f273f744",
       "name": "Krogger Skull Killer",
-      "discount": 55,
-      "orig_cents": 89,
-      "final_cents": 40,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,40 €"
-    },
-    {
-      "appid": "b681625321de4d7192242980bc747619",
-      "namespace": "0062f9caeb7743f2b6f65c4b5a982e80",
-      "name": "MISSION ETERNAL SOULS",
       "discount": 55,
       "orig_cents": 89,
       "final_cents": 40,
@@ -2381,6 +2351,16 @@
       "final_price_str": "25,19 €"
     },
     {
+      "appid": "3de25d0eaa7f4b9dbb3fa3f08fd55746",
+      "namespace": "1c0e80ffead94d1f911254d457ebb48b",
+      "name": "Keylocker | Turn Based Cyberpunk Action",
+      "discount": 30,
+      "orig_cents": 1799,
+      "final_cents": 1259,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "12,59 €"
+    },
+    {
       "appid": "e04ea3077a9440528a59bb260b02dc03",
       "namespace": "3a9a8c2338d34df28a0eee849c1e15f6",
       "name": "Carnage Battle Arena",
@@ -2504,6 +2484,16 @@
       "appid": "65b780bd13974d3d852173a1122c2789",
       "namespace": "e8a5536a55294d949df5306fda6410c1",
       "name": "Typers Combat",
+      "discount": 25,
+      "orig_cents": 539,
+      "final_cents": 404,
+      "orig_price_str": "5,39 €",
+      "final_price_str": "4,04 €"
+    },
+    {
+      "appid": "06cd7ef2079646dcb6c5b04e04e1d676",
+      "namespace": "511a5b709ee242fb9603378b071d99d7",
+      "name": "Return to Ash",
       "discount": 25,
       "orig_cents": 539,
       "final_cents": 404,
@@ -2999,7 +2989,17 @@
       "final_cents": 1079,
       "orig_price_str": "13,49 €",
       "final_price_str": "10,79 €"
+    },
+    {
+      "appid": "c7b717385af44dbb990d9ff1203ec8a4",
+      "namespace": "1bf0d3f6f04e4e778518170f69c5ba78",
+      "name": "Nanomon Virtual Pet",
+      "discount": 20,
+      "orig_cents": 1349,
+      "final_cents": 1079,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "10,79 €"
     }
   ],
-  "total": 1273
+  "total": 1284
 }
