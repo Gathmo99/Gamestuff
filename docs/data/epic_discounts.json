@@ -1,16 +1,6 @@
 {
   "items": [
     {
-      "appid": "7813a97e72ed4a49be807e6de8bc4f2c",
-      "namespace": "c102cb63a52643d1a4c3ca009439eece",
-      "name": "MAFIA HOTEL",
-      "discount": 100,
-      "orig_cents": 179,
-      "final_cents": 0,
-      "orig_price_str": "1,79 €",
-      "final_price_str": "0,00 €"
-    },
-    {
       "appid": "795d3f4dbb65443aad43c54b9223699d",
       "namespace": "27a39147c314453c875383606e4809aa",
       "name": "GetHigh.EXE",
@@ -911,6 +901,26 @@
       "final_price_str": "11,36 €"
     },
     {
+      "appid": "085acd039fec41a29bb61a046e039ef0",
+      "namespace": "17e842dd1bc54686bb72b503b8c12a2b",
+      "name": "Mini Heroes: Squad Online",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "409d0452a1d14bdc9f2f595429f095d2",
+      "namespace": "9facd1d2bb324aab810e28ee63fa6ec5",
+      "name": "Flappy Wings Multiplayer",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
       "appid": "78a59785693c45fe8fb20dc09c7c1cf4",
       "namespace": "d6b2704a9c1644e0acead0f8547e2c3e",
       "name": "Starfish Simulator",
@@ -924,6 +934,26 @@
       "appid": "006a94e9395e42249c504fff33a9de30",
       "namespace": "7c003d7a76cc42279dd786ad672ab63c",
       "name": "Five Nights In The Mall",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "c248fcb3aea741fd81c25cc26412f63d",
+      "namespace": "32b9eb5136424fe0bb3185be3050f4a7",
+      "name": "Bubble Hook Mania",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "7245cf96e83e463bb2f692b3274e91cc",
+      "namespace": "a8ab156bf9cb44128aed5468f2f1a976",
+      "name": "Gold Miner: Return to Glory",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1561,16 +1591,6 @@
       "final_price_str": "18,69 €"
     },
     {
-      "appid": "9c5ab335b1d2455b8c78d493c17a203f",
-      "namespace": "a39b5c89fbcb44278924f9cab93dd234",
-      "name": "ASYLUM",
-      "discount": 45,
-      "orig_cents": 2239,
-      "final_cents": 1231,
-      "orig_price_str": "22,39 €",
-      "final_price_str": "12,31 €"
-    },
-    {
       "appid": "176d93990b604f1eb8b53dd9dc59707d",
       "namespace": "f2cf0136b6204b4dafd7789f4f7bf58b",
       "name": "Mafia: Blood and Honor",
@@ -1981,16 +2001,6 @@
       "final_price_str": "8,76 €"
     },
     {
-      "appid": "5977ee3f7b8944398ceb34d1910d8efc",
-      "namespace": "5479820bfa8945979cc05ef8d37e1a40",
-      "name": "BLACKSHARD",
-      "discount": 35,
-      "orig_cents": 999,
-      "final_cents": 649,
-      "orig_price_str": "9,99 €",
-      "final_price_str": "6,49 €"
-    },
-    {
       "appid": "21b55c8614c24ae795988fe9d017105e",
       "namespace": "6e471c62b43346d99b6ad0d288fc9255",
       "name": "Space Grunts: Chrono Shard",
@@ -2059,16 +2069,6 @@
       "final_cents": 314,
       "orig_price_str": "4,49 €",
       "final_price_str": "3,14 €"
-    },
-    {
-      "appid": "7ef95475ee564f049ac83257aa015134",
-      "namespace": "132e09d2de2c44e890e5c44163f9e3ba",
-      "name": "Alp Muhafiz : Orkan",
-      "discount": 30,
-      "orig_cents": 1349,
-      "final_cents": 944,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "9,44 €"
     },
     {
       "appid": "754a9e7983b5439d81bcf9e6168c88b9",
@@ -3001,5 +3001,5 @@
       "final_price_str": "10,79 €"
     }
   ],
-  "total": 1284
+  "total": 1310
 }
