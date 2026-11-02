@@ -1301,16 +1301,6 @@
       "final_price_str": "1,99 €"
     },
     {
-      "appid": "8f45eddce35343808537bf3d9aa8d0b5",
-      "namespace": "2051eedb4746431593d66905f9bffdc8",
-      "name": "Labyrinth of Whiskers",
-      "discount": 50,
-      "orig_cents": 449,
-      "final_cents": 224,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "2,24 €"
-    },
-    {
       "appid": "5f0ef3841e934ae19389a3ae809f5c7f",
       "namespace": "584f8316bb6e4604ad2e10793e115d3f",
       "name": "Surviving Mars: Relaunched",
@@ -1999,6 +1989,16 @@
       "final_cents": 876,
       "orig_price_str": "13,49 €",
       "final_price_str": "8,76 €"
+    },
+    {
+      "appid": "5977ee3f7b8944398ceb34d1910d8efc",
+      "namespace": "5479820bfa8945979cc05ef8d37e1a40",
+      "name": "BLACKSHARD",
+      "discount": 35,
+      "orig_cents": 999,
+      "final_cents": 649,
+      "orig_price_str": "9,99 €",
+      "final_price_str": "6,49 €"
     },
     {
       "appid": "21b55c8614c24ae795988fe9d017105e",
@@ -3001,5 +3001,5 @@
       "final_price_str": "10,79 €"
     }
   ],
-  "total": 1312
+  "total": 1306
 }

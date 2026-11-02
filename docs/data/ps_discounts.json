@@ -37,7 +37,7 @@
       "final_price_str": "1,99 €"
     },
     {
-      "appid": "EP5470-PPSA04155_00-7447536313832063",
+      "appid": "EP5470-CUSA34220_00-1974871844301027",
       "name": "XEL",
       "discount": 90,
       "orig_cents": 1899,
@@ -46,7 +46,7 @@
       "final_price_str": "1,89 €"
     },
     {
-      "appid": "EP5470-CUSA34220_00-1974871844301027",
+      "appid": "EP5470-PPSA04155_00-7447536313832063",
       "name": "XEL",
       "discount": 90,
       "orig_cents": 1899,
@@ -451,7 +451,7 @@
       "final_price_str": "4,49 €"
     },
     {
-      "appid": "EP4541-PPSA06716_00-SAINTKOTAREU0000",
+      "appid": "EP4541-CUSA32503_00-SAINTKOTAREU0000",
       "name": "Saint Kotar",
       "discount": 85,
       "orig_cents": 1999,
@@ -460,7 +460,7 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "EP4541-CUSA32503_00-SAINTKOTAREU0000",
+      "appid": "EP4541-PPSA06716_00-SAINTKOTAREU0000",
       "name": "Saint Kotar",
       "discount": 85,
       "orig_cents": 1999,
@@ -514,7 +514,7 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "EP4541-PPSA07480_00-LEMONCAKEPS5EU00",
+      "appid": "EP4541-CUSA33487_00-LEMONCAKEEU00000",
       "name": "Lemon Cake",
       "discount": 85,
       "orig_cents": 1999,
@@ -523,7 +523,7 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "EP4541-CUSA33487_00-LEMONCAKEEU00000",
+      "appid": "EP4541-PPSA07480_00-LEMONCAKEPS5EU00",
       "name": "Lemon Cake",
       "discount": 85,
       "orig_cents": 1999,
@@ -982,7 +982,7 @@
       "final_price_str": "1,99 €"
     },
     {
-      "appid": "EP4008-CUSA23640_00-RIMS000000000000",
+      "appid": "EP4008-PPSA02715_00-RIMSSIEE00000000",
       "name": "RiMS Racing",
       "discount": 80,
       "orig_cents": 2999,
@@ -991,7 +991,7 @@
       "final_price_str": "5,99 €"
     },
     {
-      "appid": "EP4008-PPSA02715_00-RIMSSIEE00000000",
+      "appid": "EP4008-CUSA23640_00-RIMS000000000000",
       "name": "RiMS Racing",
       "discount": 80,
       "orig_cents": 2999,
@@ -2080,7 +2080,7 @@
       "final_price_str": "5,99 €"
     },
     {
-      "appid": "EP0122-PPSA05348_00-LODOSSWARDEEDLIT",
+      "appid": "EP0122-CUSA30409_00-LODOSSWARDEEDLIT",
       "name": "Record of Lodoss War: Deedlit in Wonder Labyrinth",
       "discount": 55,
       "orig_cents": 2499,
@@ -2089,7 +2089,7 @@
       "final_price_str": "11,24 €"
     },
     {
-      "appid": "EP0122-CUSA30409_00-LODOSSWARDEEDLIT",
+      "appid": "EP0122-PPSA05348_00-LODOSSWARDEEDLIT",
       "name": "Record of Lodoss War: Deedlit in Wonder Labyrinth",
       "discount": 55,
       "orig_cents": 2499,
@@ -2593,15 +2593,6 @@
       "final_price_str": "4,89 €"
     },
     {
-      "appid": "EP6853-PPSA05425_00-DLCMIAMI00000000",
-      "name": "World War Z - Deadly Vice Weapons Skin Pack",
-      "discount": 30,
-      "orig_cents": 499,
-      "final_cents": 349,
-      "orig_price_str": "4,99 €",
-      "final_price_str": "3,49 €"
-    },
-    {
       "appid": "EP2609-CUSA13930_00-DLCMIAMI00000000",
       "name": "World War Z - Deadly Vice Weapons Skin Pack",
       "discount": 30,
@@ -2611,8 +2602,8 @@
       "final_price_str": "3,49 €"
     },
     {
-      "appid": "EP2609-CUSA13930_00-DLCRAT0000000000",
-      "name": "World War Z - The Rat Packs Weapon Skins Bundle",
+      "appid": "EP6853-PPSA05425_00-DLCMIAMI00000000",
+      "name": "World War Z - Deadly Vice Weapons Skin Pack",
       "discount": 30,
       "orig_cents": 499,
       "final_cents": 349,
@@ -2621,6 +2612,15 @@
     },
     {
       "appid": "EP6853-PPSA05425_00-DLCRAT0000000000",
+      "name": "World War Z - The Rat Packs Weapon Skins Bundle",
+      "discount": 30,
+      "orig_cents": 499,
+      "final_cents": 349,
+      "orig_price_str": "4,99 €",
+      "final_price_str": "3,49 €"
+    },
+    {
+      "appid": "EP2609-CUSA13930_00-DLCRAT0000000000",
       "name": "World War Z - The Rat Packs Weapon Skins Bundle",
       "discount": 30,
       "orig_cents": 499,
