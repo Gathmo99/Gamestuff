@@ -1451,6 +1451,16 @@
       "final_price_str": "8,09 €"
     },
     {
+      "appid": "3a45040e46604d3ba63a8f89ffb33e12",
+      "namespace": "9fb0adc767184d57ae4d6f4dc47235ba",
+      "name": "Unholy Village",
+      "discount": 40,
+      "orig_cents": 499,
+      "final_cents": 299,
+      "orig_price_str": "4,99 €",
+      "final_price_str": "2,99 €"
+    },
+    {
       "appid": "8d13409a86f1425a97653957e11db53b",
       "namespace": "c0366c16b96b47e99aa88c5ba360e851",
       "name": "Lifeless Moon",
@@ -1861,5 +1871,5 @@
       "final_price_str": "4,04 €"
     }
   ],
-  "total": 187
+  "total": 188
 }

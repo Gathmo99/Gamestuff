@@ -161,16 +161,6 @@
       "gamepass": "Xbox"
     },
     {
-      "appid": "9P9JDV1PV21H",
-      "name": "SILENT HILL 2 Deluxe Edition",
-      "discount": 60,
-      "orig_cents": 7999,
-      "final_cents": 3199,
-      "orig_price_str": "79,99 €",
-      "final_price_str": "31,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9P9G5WX8C0VH",
       "name": "Cyberpunk 2077: Ultimate Edition",
       "discount": 60,
@@ -231,6 +221,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9N4NKRK37552",
+      "name": "Red Panda is Hungry",
+      "discount": 30,
+      "orig_cents": 499,
+      "final_cents": 349,
+      "orig_price_str": "4,99 €",
+      "final_price_str": "3,49 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9N6D60SBZN05",
       "name": "Phasmophobia (Spielvorschau)",
       "discount": 30,
@@ -251,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 1024
+  "total": 1003
 }
