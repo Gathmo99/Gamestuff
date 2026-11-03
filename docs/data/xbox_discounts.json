@@ -11,16 +11,6 @@
       "gamepass": ""
     },
     {
-      "appid": "BQXTS0SX4W0N",
-      "name": "Tomb Raider: Definitive Edition",
-      "discount": 90,
-      "orig_cents": 1999,
-      "final_cents": 199,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "1,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9NCTX4DHL605",
       "name": "The Outlast Trials Deluxe Edition",
       "discount": 90,
@@ -28,6 +18,16 @@
       "final_cents": 499,
       "orig_price_str": "49,99 €",
       "final_price_str": "4,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "BQXTS0SX4W0N",
+      "name": "Tomb Raider: Definitive Edition",
+      "discount": 90,
+      "orig_cents": 1999,
+      "final_cents": 199,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "1,99 €",
       "gamepass": ""
     },
     {
@@ -61,13 +61,23 @@
       "gamepass": ""
     },
     {
-      "appid": "C24T2MRDBB3W",
-      "name": "Street Fighter 30th Anniversary Collection",
+      "appid": "9PG26DBX43L1",
+      "name": "Mortal Kombat 11 Ultimate",
+      "discount": 90,
+      "orig_cents": 5999,
+      "final_cents": 599,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "5,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9P17KJLSCR59",
+      "name": "Choo-Choo Charles",
       "discount": 85,
-      "orig_cents": 2998,
-      "final_cents": 449,
-      "orig_price_str": "29,98 €",
-      "final_price_str": "4,49 €",
+      "orig_cents": 1999,
+      "final_cents": 299,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "2,99 €",
       "gamepass": ""
     },
     {
@@ -81,13 +91,13 @@
       "gamepass": ""
     },
     {
-      "appid": "9P17KJLSCR59",
-      "name": "Choo-Choo Charles",
+      "appid": "C24T2MRDBB3W",
+      "name": "Street Fighter 30th Anniversary Collection",
       "discount": 85,
-      "orig_cents": 1999,
-      "final_cents": 299,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "2,99 €",
+      "orig_cents": 2998,
+      "final_cents": 449,
+      "orig_price_str": "29,98 €",
+      "final_price_str": "4,49 €",
       "gamepass": ""
     },
     {
@@ -131,6 +141,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9PNZH065X7PV",
+      "name": "Alan Wake 2",
+      "discount": 70,
+      "orig_cents": 5999,
+      "final_cents": 1799,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "17,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9NXVC0482QS5",
       "name": "It Takes Two – Digitale Version",
       "discount": 70,
@@ -139,16 +159,6 @@
       "orig_price_str": "39,99 €",
       "final_price_str": "11,99 €",
       "gamepass": "Xbox"
-    },
-    {
-      "appid": "9PK09BL31FK1",
-      "name": "DOOM Eternal Standard Edition (PC)",
-      "discount": 67,
-      "orig_cents": 2999,
-      "final_cents": 989,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "9,89 €",
-      "gamepass": "PC + Xbox"
     },
     {
       "appid": "9P9JDV1PV21H",
@@ -169,16 +179,6 @@
       "orig_price_str": "79,99 €",
       "final_price_str": "31,99 €",
       "gamepass": ""
-    },
-    {
-      "appid": "9P2FF14JZLL3",
-      "name": "Battlefield™ 6",
-      "discount": 60,
-      "orig_cents": 7999,
-      "final_cents": 3199,
-      "orig_price_str": "79,99 €",
-      "final_price_str": "31,99 €",
-      "gamepass": "Xbox"
     },
     {
       "appid": "9NJ6F163VF8C",
@@ -221,6 +221,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9NMFWR0NRLZS",
+      "name": "Resident Evil Requiem",
+      "discount": 35,
+      "orig_cents": 7999,
+      "final_cents": 5199,
+      "orig_price_str": "79,99 €",
+      "final_price_str": "51,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9N6D60SBZN05",
       "name": "Phasmophobia (Spielvorschau)",
       "discount": 30,
@@ -228,16 +238,6 @@
       "final_cents": 1329,
       "orig_price_str": "18,99 €",
       "final_price_str": "13,29 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9NQB2BFDD88X",
-      "name": "UFC™ 6",
-      "discount": 30,
-      "orig_cents": 7999,
-      "final_cents": 5599,
-      "orig_price_str": "79,99 €",
-      "final_price_str": "55,99 €",
       "gamepass": ""
     },
     {
@@ -251,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 1023
+  "total": 1024
 }
