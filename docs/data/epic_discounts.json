@@ -2001,6 +2001,16 @@
       "final_price_str": "11,69 €"
     },
     {
+      "appid": "2de24b74a42c419bae04519cb2593b2e",
+      "namespace": "8962863aee2f4e7483fc37d4719c3f69",
+      "name": "PAYDAY 3",
+      "discount": 35,
+      "orig_cents": 2849,
+      "final_cents": 1851,
+      "orig_price_str": "28,49 €",
+      "final_price_str": "18,51 €"
+    },
+    {
       "appid": "297bb10765dd493eb78944e264e16b7c",
       "namespace": "3dd83ff56d484e2c8c1d911170df0c52",
       "name": "DEATH STRANDING 2: ON THE BEACH",
@@ -2331,6 +2341,16 @@
       "final_price_str": "3,36 €"
     },
     {
+      "appid": "ce40a7284d81478e80b93ade1c7e7bbe",
+      "namespace": "7af9ddadf4e0495c90d4ef773c317fd1",
+      "name": "Loftia",
+      "discount": 17,
+      "orig_cents": 2899,
+      "final_cents": 2406,
+      "orig_price_str": "28,99 €",
+      "final_price_str": "24,06 €"
+    },
+    {
       "appid": "401f99199c2841f3be7a7b18f963a631",
       "namespace": "a8674af0df384b16a8b980932ab6e959",
       "name": "Ballerspiel",
@@ -2431,5 +2451,5 @@
       "final_price_str": "4,04 €"
     }
   ],
-  "total": 244
+  "total": 246
 }
