@@ -691,6 +691,16 @@
       "final_price_str": "0,44 €"
     },
     {
+      "appid": "3c8828ef1eb9429bb143f4b58b5138cc",
+      "namespace": "6ce9cadbab474f07928e3035473289d2",
+      "name": "FATAL FURY: City of the Wolves – Standard Edition",
+      "discount": 75,
+      "orig_cents": 1999,
+      "final_cents": 499,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "4,99 €"
+    },
+    {
       "appid": "95b6875f9b7f40a39b8d476ca642c655",
       "namespace": "84a0cce87ad54db4830c2394e732fe80",
       "name": "Backrooms Pools",
@@ -2451,5 +2461,5 @@
       "final_price_str": "4,04 €"
     }
   ],
-  "total": 246
+  "total": 247
 }

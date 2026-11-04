@@ -10,7 +10,7 @@
       "final_price_str": "1,99 €"
     },
     {
-      "appid": "EP5470-PPSA04155_00-7447536313832063",
+      "appid": "EP5470-CUSA34220_00-1974871844301027",
       "name": "XEL",
       "discount": 90,
       "orig_cents": 1899,
@@ -19,7 +19,7 @@
       "final_price_str": "1,89 €"
     },
     {
-      "appid": "EP5470-CUSA34220_00-1974871844301027",
+      "appid": "EP5470-PPSA04155_00-7447536313832063",
       "name": "XEL",
       "discount": 90,
       "orig_cents": 1899,
@@ -325,7 +325,7 @@
       "final_price_str": "3,74 €"
     },
     {
-      "appid": "EP1121-PPSA04411_00-HTSTAPOCALYPSEEU",
+      "appid": "EP1121-CUSA29084_00-HTSTAPOCALYPSEEU",
       "name": "Slaycation Paradise",
       "discount": 85,
       "orig_cents": 1999,
@@ -334,7 +334,7 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "EP1121-CUSA29084_00-HTSTAPOCALYPSEEU",
+      "appid": "EP1121-PPSA04411_00-HTSTAPOCALYPSEEU",
       "name": "Slaycation Paradise",
       "discount": 85,
       "orig_cents": 1999,
@@ -658,7 +658,7 @@
       "final_price_str": "9,99 €"
     },
     {
-      "appid": "EP4385-CUSA30891_00-6983803568215690",
+      "appid": "EP4385-PPSA05594_00-7584196509987040",
       "name": "Kao the Kangaroo",
       "discount": 80,
       "orig_cents": 2999,
@@ -667,7 +667,7 @@
       "final_price_str": "5,99 €"
     },
     {
-      "appid": "EP4385-PPSA05594_00-7584196509987040",
+      "appid": "EP4385-CUSA30891_00-6983803568215690",
       "name": "Kao the Kangaroo",
       "discount": 80,
       "orig_cents": 2999,
@@ -964,7 +964,7 @@
       "final_price_str": "4,99 €"
     },
     {
-      "appid": "EP3785-CUSA29337_00-OMD3BUNDLE000001",
+      "appid": "EP3785-CUSA27976_00-OMD3BUNDLE000001",
       "name": "Orcs Must Die! 3-Bundle",
       "discount": 75,
       "orig_cents": 3599,
@@ -973,7 +973,7 @@
       "final_price_str": "8,99 €"
     },
     {
-      "appid": "EP3785-CUSA27976_00-OMD3BUNDLE000001",
+      "appid": "EP3785-CUSA29337_00-OMD3BUNDLE000001",
       "name": "Orcs Must Die! 3-Bundle",
       "discount": 75,
       "orig_cents": 3599,
@@ -1864,7 +1864,7 @@
       "final_price_str": "10,79 €"
     },
     {
-      "appid": "EP0122-PPSA05348_00-LODOSSWARDEEDLIT",
+      "appid": "EP0122-CUSA30409_00-LODOSSWARDEEDLIT",
       "name": "Record of Lodoss War: Deedlit in Wonder Labyrinth",
       "discount": 55,
       "orig_cents": 2499,
@@ -1873,7 +1873,7 @@
       "final_price_str": "11,24 €"
     },
     {
-      "appid": "EP0122-CUSA30409_00-LODOSSWARDEEDLIT",
+      "appid": "EP0122-PPSA05348_00-LODOSSWARDEEDLIT",
       "name": "Record of Lodoss War: Deedlit in Wonder Labyrinth",
       "discount": 55,
       "orig_cents": 2499,
@@ -2413,7 +2413,7 @@
       "final_price_str": "4,89 €"
     },
     {
-      "appid": "EP6853-PPSA05425_00-DLCMIAMI00000000",
+      "appid": "EP2609-CUSA13930_00-DLCMIAMI00000000",
       "name": "World War Z - Deadly Vice Weapons Skin Pack",
       "discount": 30,
       "orig_cents": 499,
@@ -2422,7 +2422,7 @@
       "final_price_str": "3,49 €"
     },
     {
-      "appid": "EP2609-CUSA13930_00-DLCMIAMI00000000",
+      "appid": "EP6853-PPSA05425_00-DLCMIAMI00000000",
       "name": "World War Z - Deadly Vice Weapons Skin Pack",
       "discount": 30,
       "orig_cents": 499,
