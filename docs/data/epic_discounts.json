@@ -1881,26 +1881,6 @@
       "final_price_str": "1,61 €"
     },
     {
-      "appid": "364199cb3094478aa0db5bbfb37cf6ba",
-      "namespace": "c01649c008054b7c93ed0f8ae820eb36",
-      "name": "Buster: Carrot Town Chronicles",
-      "discount": 40,
-      "orig_cents": 269,
-      "final_cents": 161,
-      "orig_price_str": "2,69 €",
-      "final_price_str": "1,61 €"
-    },
-    {
-      "appid": "92d8e113e71546d587d11f4fcc7a13f6",
-      "namespace": "e84a768a1e4449a38cb7512d7dcef87b",
-      "name": "Gold Miner Online: Claw Chaos",
-      "discount": 40,
-      "orig_cents": 89,
-      "final_cents": 53,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,53 €"
-    },
-    {
       "appid": "6d99eae44d724baf84d6261a7a0f05d2",
       "namespace": "36074aa6badf45698cced1a44e837fa2",
       "name": "Mechabellum",
@@ -2119,16 +2099,6 @@
       "final_cents": 314,
       "orig_price_str": "4,49 €",
       "final_price_str": "3,14 €"
-    },
-    {
-      "appid": "ca8db7b754c3476280771bd79bab3fb1",
-      "namespace": "bfa122e719064178bf2654f21705d8f4",
-      "name": "FZ: Formation Z",
-      "discount": 30,
-      "orig_cents": 2799,
-      "final_cents": 1959,
-      "orig_price_str": "27,99 €",
-      "final_price_str": "19,59 €"
     },
     {
       "appid": "be2815b8e16a4fcda32a51b7ecda0bf1",
@@ -2381,16 +2351,6 @@
       "final_price_str": "17,41 €"
     },
     {
-      "appid": "2e7406c3816a4350969473d9f2690ba0",
-      "namespace": "7810fe29dba9484dad7b6a2e01fe8b80",
-      "name": "Broke Wizards",
-      "discount": 15,
-      "orig_cents": 899,
-      "final_cents": 764,
-      "orig_price_str": "8,99 €",
-      "final_price_str": "7,64 €"
-    },
-    {
       "appid": "57237655472c422082c06251e5e48b1e",
       "namespace": "fee1c2bb12e5436cac8270f734331a04",
       "name": "Tropico 7",
@@ -2461,5 +2421,5 @@
       "final_price_str": "4,04 €"
     }
   ],
-  "total": 247
+  "total": 243
 }
