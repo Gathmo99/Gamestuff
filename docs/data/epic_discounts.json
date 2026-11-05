@@ -1,13 +1,23 @@
 {
   "items": [
     {
-      "appid": "4e469c7d8bbf49bcabc2c07127d3d946",
-      "namespace": "489af623d8284d518502f8ee9d33b828",
-      "name": "Sorry We're Closed",
+      "appid": "3be0a0d8479946d78f60d90c9442a0b4",
+      "namespace": "27e33143fc9e4de8bbf76782292933d4",
+      "name": "Flotsam",
       "discount": 100,
-      "orig_cents": 2239,
+      "orig_cents": 1999,
       "final_cents": 0,
-      "orig_price_str": "22,39 €",
+      "orig_price_str": "19,99 €",
+      "final_price_str": "0,00 €"
+    },
+    {
+      "appid": "88dee10ff7254fd8b0dedd4b4e37b177",
+      "namespace": "8ac6e27f09754a8c8ddd5f443ce1a462",
+      "name": "Good Morning Human",
+      "discount": 100,
+      "orig_cents": 989,
+      "final_cents": 0,
+      "orig_price_str": "9,89 €",
       "final_price_str": "0,00 €"
     },
     {
@@ -151,6 +161,66 @@
       "final_price_str": "0,67 €"
     },
     {
+      "appid": "77ebe3d0fbd6401999f773a4b9f47b62",
+      "namespace": "f02d6ce12fbc4230853a8b067e7e7278",
+      "name": "MechDefender",
+      "discount": 95,
+      "orig_cents": 359,
+      "final_cents": 17,
+      "orig_price_str": "3,59 €",
+      "final_price_str": "0,17 €"
+    },
+    {
+      "appid": "e593b93558e64399b58905728cb2bf76",
+      "namespace": "e2ee4d4c923a45ea9b815f11a71f64ce",
+      "name": "Fix Me Up Doc - Dark Humor",
+      "discount": 95,
+      "orig_cents": 269,
+      "final_cents": 13,
+      "orig_price_str": "2,69 €",
+      "final_price_str": "0,13 €"
+    },
+    {
+      "appid": "9d904fbaf04045d798dc3f71df015b8e",
+      "namespace": "831ead56047a4e22b1aade2cfdd11eee",
+      "name": "Project First Contact",
+      "discount": 95,
+      "orig_cents": 269,
+      "final_cents": 13,
+      "orig_price_str": "2,69 €",
+      "final_price_str": "0,13 €"
+    },
+    {
+      "appid": "982a7ee88127402fb5d8f5655745fa82",
+      "namespace": "898948344c0c49218e067f34221acd08",
+      "name": "Corrupt - Political Simulator",
+      "discount": 95,
+      "orig_cents": 359,
+      "final_cents": 17,
+      "orig_price_str": "3,59 €",
+      "final_price_str": "0,17 €"
+    },
+    {
+      "appid": "7c54a54697c143ba8de1f0b13c0c716e",
+      "namespace": "425a91afbd1743ff8dcd21794a39a8a1",
+      "name": "Two Skateboards Driving Simulator",
+      "discount": 91,
+      "orig_cents": 179,
+      "final_cents": 17,
+      "orig_price_str": "1,79 €",
+      "final_price_str": "0,17 €"
+    },
+    {
+      "appid": "8f3bb1e57d524c23b8eda24259c869a7",
+      "namespace": "93f9285e690e40d58ca6021df41ae11b",
+      "name": "I Need Spirit Drink and Drive Simulator",
+      "discount": 91,
+      "orig_cents": 179,
+      "final_cents": 17,
+      "orig_price_str": "1,79 €",
+      "final_price_str": "0,17 €"
+    },
+    {
       "appid": "9da459f7c3984877bd5a12bdc3b6b3af",
       "namespace": "60b8d9b4c2be4e34aeec311c953c2ee2",
       "name": "Nobody Wants to Die",
@@ -179,16 +249,6 @@
       "final_cents": 199,
       "orig_price_str": "19,99 €",
       "final_price_str": "1,99 €"
-    },
-    {
-      "appid": "d40bf55ce9394160b63fa69405d73e9c",
-      "namespace": "4fad42879d3643a0a295ad012fed973d",
-      "name": "Ex Natura Nature Corrupted",
-      "discount": 90,
-      "orig_cents": 1799,
-      "final_cents": 179,
-      "orig_price_str": "17,99 €",
-      "final_price_str": "1,79 €"
     },
     {
       "appid": "90780daf1e6f4572b74d399b88c22ad9",
@@ -601,6 +661,16 @@
       "final_price_str": "1,99 €"
     },
     {
+      "appid": "7b1ee805e6d1426a8ab1780afaca0718",
+      "namespace": "d107a23c2fef4e429e3a93eb05100bc3",
+      "name": "We Are Not Alone",
+      "discount": 80,
+      "orig_cents": 899,
+      "final_cents": 179,
+      "orig_price_str": "8,99 €",
+      "final_price_str": "1,79 €"
+    },
+    {
       "appid": "b7736092073c49688f43a0e818c91936",
       "namespace": "5aab0660c2db4caa8a535d267a84633c",
       "name": "Tomb Raider I-III Remastered Starring Lara Croft",
@@ -829,6 +899,16 @@
       "final_cents": 499,
       "orig_price_str": "19,99 €",
       "final_price_str": "4,99 €"
+    },
+    {
+      "appid": "637b02b5abcc458b9deb85d397facca1",
+      "namespace": "62502c9be51443498f3e4da4a68fc804",
+      "name": "Directive Zero",
+      "discount": 70,
+      "orig_cents": 449,
+      "final_cents": 134,
+      "orig_price_str": "4,49 €",
+      "final_price_str": "1,34 €"
     },
     {
       "appid": "f54a97df22c944eb8e7c534a705ce634",
@@ -1381,6 +1461,16 @@
       "final_price_str": "0,44 €"
     },
     {
+      "appid": "c21d29fcb4cc46a08b2b2e6ca1987992",
+      "namespace": "093f57ad07fa411db44bb801a500214e",
+      "name": "GOP STOP AUTO",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
       "appid": "ec12e20bde414f088a4695dd3db7f7cc",
       "namespace": "a588422986774a3c9b71f0ed66d6d0d0",
       "name": "Dead Rush",
@@ -1394,6 +1484,16 @@
       "appid": "12a5c382f26c4b68b53854f12329bc82",
       "namespace": "7440c35de8d9421b83d639eb80ec1040",
       "name": "Ninja Fighter",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "50fc0bf4ed91420d8a3286ce9becb8c7",
+      "namespace": "363d0b06fb134d5b8c2794f488a694b8",
+      "name": "Bulletrooms",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1611,6 +1711,16 @@
       "final_price_str": "6,74 €"
     },
     {
+      "appid": "a38e202381b545dfa7aa8ddbf3217f87",
+      "namespace": "1666530d8fe54592a16b7e7f2a3d909c",
+      "name": "Doctor Ximen Qing HD",
+      "discount": 50,
+      "orig_cents": 1169,
+      "final_cents": 584,
+      "orig_price_str": "11,69 €",
+      "final_price_str": "5,84 €"
+    },
+    {
       "appid": "9abd8a7c80cc4493905e269da4cd1e5d",
       "namespace": "1264f0abd70941bca6afa989a41fd57c",
       "name": "The Curse We Made",
@@ -1629,16 +1739,6 @@
       "final_cents": 2999,
       "orig_price_str": "59,99 €",
       "final_price_str": "29,99 €"
-    },
-    {
-      "appid": "c01b7201a5364312aab064ed07b48c7c",
-      "namespace": "a97e7bb7363e48a58a9502f73f2ff99b",
-      "name": "Pax Dei",
-      "discount": 50,
-      "orig_cents": 2999,
-      "final_cents": 1499,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "14,99 €"
     },
     {
       "appid": "33be0e9c44d64657ae2c96b36f8b9d7e",
@@ -1751,6 +1851,16 @@
       "final_price_str": "9,99 €"
     },
     {
+      "appid": "1dc837b54f2a4b71884f0ce9e27de731",
+      "namespace": "f853934fb6874d8783701be12ba6b8b9",
+      "name": "Life Changer",
+      "discount": 50,
+      "orig_cents": 809,
+      "final_cents": 404,
+      "orig_price_str": "8,09 €",
+      "final_price_str": "4,04 €"
+    },
+    {
       "appid": "7b9b003f74174a05906a6f288d724835",
       "namespace": "acb4a47d0bae433e8d721807c5849b99",
       "name": "FPVSIM Drone Simulator",
@@ -1791,16 +1901,6 @@
       "final_price_str": "4,99 €"
     },
     {
-      "appid": "d0ae213cddb44791a607056fcc6040f1",
-      "namespace": "a1f2a672b08f45d28bb6b65eef6ffe41",
-      "name": "The Big Con",
-      "discount": 50,
-      "orig_cents": 1249,
-      "final_cents": 624,
-      "orig_price_str": "12,49 €",
-      "final_price_str": "6,24 €"
-    },
-    {
       "appid": "5983c2f9661442d29ae33fd742a25141",
       "namespace": "301ec0fdbcaf46b3af9322e436ac87bd",
       "name": "Voidtrain",
@@ -1829,16 +1929,6 @@
       "final_cents": 1999,
       "orig_price_str": "39,99 €",
       "final_price_str": "19,99 €"
-    },
-    {
-      "appid": "5f5c2202b2d34721a6d236c85fc515f2",
-      "namespace": "4774311bd2724f6cba218090760f52e6",
-      "name": "Arcadia Fallen",
-      "discount": 45,
-      "orig_cents": 2239,
-      "final_cents": 1231,
-      "orig_price_str": "22,39 €",
-      "final_price_str": "12,31 €"
     },
     {
       "appid": "15ffd983174241ae8a00033f5f23f060",
@@ -1909,6 +1999,16 @@
       "final_cents": 485,
       "orig_price_str": "8,09 €",
       "final_price_str": "4,85 €"
+    },
+    {
+      "appid": "73810c22c5f8449d8955bcd3e0108793",
+      "namespace": "525cf92ef772437e98805aeb6e234b2a",
+      "name": "Anno 117: Pax Romana",
+      "discount": 40,
+      "orig_cents": 5999,
+      "final_cents": 3599,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "35,99 €"
     },
     {
       "appid": "6b116e072948425ca460d99d9d138d55",
@@ -2201,6 +2301,16 @@
       "final_price_str": "19,99 €"
     },
     {
+      "appid": "a34fa537eb274481b7a32073b77aee01",
+      "namespace": "1933be5c9bd84f1d940c04b9c3e9f73c",
+      "name": "Faraway",
+      "discount": 20,
+      "orig_cents": 949,
+      "final_cents": 759,
+      "orig_price_str": "9,49 €",
+      "final_price_str": "7,59 €"
+    },
+    {
       "appid": "4838b02307224200a2c3030297762837",
       "namespace": "45e9da91e9f84bb2abebc79851be0c94",
       "name": "Anvil Life",
@@ -2219,16 +2329,6 @@
       "final_cents": 1791,
       "orig_price_str": "22,39 €",
       "final_price_str": "17,91 €"
-    },
-    {
-      "appid": "371641e5cc624e628bc86858b45b9372",
-      "namespace": "ec995a245883494dafb0b6b120687890",
-      "name": "Zero Stress King: Idle Defense",
-      "discount": 20,
-      "orig_cents": 629,
-      "final_cents": 503,
-      "orig_price_str": "6,29 €",
-      "final_price_str": "5,03 €"
     },
     {
       "appid": "9c9fa19ac55540b0a3a34fb5a04dc878",
@@ -2291,16 +2391,6 @@
       "final_price_str": "11,99 €"
     },
     {
-      "appid": "68414c8c504a43fa944e697a3a87575b",
-      "namespace": "c75d66f9ac744b4380a63fb1e6dd60ac",
-      "name": "Arcadia Fallen II",
-      "discount": 20,
-      "orig_cents": 2699,
-      "final_cents": 2159,
-      "orig_price_str": "26,99 €",
-      "final_price_str": "21,59 €"
-    },
-    {
       "appid": "3fe7eaeca2fa474187fc338a5324ae11",
       "namespace": "3b391953ce4b42bb9a28a2fee249154b",
       "name": "Brotato",
@@ -2339,16 +2429,6 @@
       "final_cents": 381,
       "orig_price_str": "4,49 €",
       "final_price_str": "3,81 €"
-    },
-    {
-      "appid": "bd6a0fd41ff4431bbc0fa548e88ea2af",
-      "namespace": "a9a0d77b4d4b47d79066a6c914a9b4b7",
-      "name": "Dead Party",
-      "discount": 15,
-      "orig_cents": 2049,
-      "final_cents": 1741,
-      "orig_price_str": "20,49 €",
-      "final_price_str": "17,41 €"
     },
     {
       "appid": "57237655472c422082c06251e5e48b1e",
@@ -2421,5 +2501,5 @@
       "final_price_str": "4,04 €"
     }
   ],
-  "total": 243
+  "total": 251
 }

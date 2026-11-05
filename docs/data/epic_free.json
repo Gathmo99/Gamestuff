@@ -1,10 +1,16 @@
 {
   "items": [
     {
-      "appid": "4e469c7d8bbf49bcabc2c07127d3d946",
-      "name": "Sorry We're Closed",
-      "orig_cents": 2239,
-      "orig_price_str": "22,39 €"
+      "appid": "a9748abde1c94b66aae5250bb9fc5503",
+      "name": "Idle Champions of the Forgotten Realms",
+      "orig_cents": 0,
+      "orig_price_str": "0,00 €"
+    },
+    {
+      "appid": "3be0a0d8479946d78f60d90c9442a0b4",
+      "name": "Flotsam",
+      "orig_cents": 1999,
+      "orig_price_str": "19,99 €"
     }
   ]
 }
