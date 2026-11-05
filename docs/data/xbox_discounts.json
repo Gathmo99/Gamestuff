@@ -1,28 +1,8 @@
 {
   "items": [
     {
-      "appid": "9PG7MTR0MVP9",
-      "name": "Tomb Raider: Definitive Survivor Trilogy",
-      "discount": 90,
-      "orig_cents": 4999,
-      "final_cents": 499,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "4,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9NCTX4DHL605",
-      "name": "The Outlast Trials Deluxe Edition",
-      "discount": 90,
-      "orig_cents": 4999,
-      "final_cents": 499,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "4,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "BQXTS0SX4W0N",
-      "name": "Tomb Raider: Definitive Edition",
+      "appid": "BWTTW53M5B98",
+      "name": "Battlefield™ 1",
       "discount": 90,
       "orig_cents": 1999,
       "final_cents": 199,
@@ -31,8 +11,38 @@
       "gamepass": ""
     },
     {
-      "appid": "BNQQ3WVBNZCQ",
-      "name": "Shadow of the Tomb Raider Definitive Edition",
+      "appid": "BPL68T0XK96W",
+      "name": "Battlefield™ 1 Revolution",
+      "discount": 90,
+      "orig_cents": 3999,
+      "final_cents": 399,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "3,99 €",
+      "gamepass": "Xbox"
+    },
+    {
+      "appid": "BP15SF17LH13",
+      "name": "Battlefield 4",
+      "discount": 90,
+      "orig_cents": 1999,
+      "final_cents": 199,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "1,99 €",
+      "gamepass": "Xbox"
+    },
+    {
+      "appid": "9N442DM2MD6F",
+      "name": "Battlefield™ V Definitive Edition",
+      "discount": 90,
+      "orig_cents": 4999,
+      "final_cents": 499,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "4,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "C5610G5KX0D6",
+      "name": "Battlefield 4™ Premium Edition",
       "discount": 90,
       "orig_cents": 3999,
       "final_cents": 399,
@@ -41,78 +51,98 @@
       "gamepass": ""
     },
     {
-      "appid": "C4S60FPWF4XN",
-      "name": "Rise of the Tomb Raider: 20 Year Celebration",
+      "appid": "9MT4T5ZL8PVB",
+      "name": "Steelrising - Standard Edition",
       "discount": 90,
-      "orig_cents": 2999,
-      "final_cents": 299,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "2,99 €",
+      "orig_cents": 3999,
+      "final_cents": 399,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "3,99 €",
       "gamepass": ""
     },
     {
-      "appid": "9NGK2CXP0366",
-      "name": "Mittelerde™: Das Schattenpaket",
+      "appid": "9NNKVXG45WQ5",
+      "name": "MXGP 2019 - The Official Motocross Videogame",
       "discount": 90,
-      "orig_cents": 6999,
-      "final_cents": 699,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "6,99 €",
+      "orig_cents": 2499,
+      "final_cents": 249,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "2,49 €",
       "gamepass": ""
     },
     {
-      "appid": "9PG26DBX43L1",
-      "name": "Mortal Kombat 11 Ultimate",
-      "discount": 90,
-      "orig_cents": 5999,
+      "appid": "9MWDKL3SD6D9",
+      "name": "HOT WHEELS UNLEASHED™ 2 - Turbocharged",
+      "discount": 85,
+      "orig_cents": 3999,
       "final_cents": 599,
-      "orig_price_str": "59,99 €",
+      "orig_price_str": "39,99 €",
       "final_price_str": "5,99 €",
       "gamepass": ""
     },
     {
-      "appid": "9P17KJLSCR59",
-      "name": "Choo-Choo Charles",
+      "appid": "9N3ZBMK6BMQL",
+      "name": "HOT WHEELS UNLEASHED™ 2 - Turbocharged - Legendary Edition",
       "discount": 85,
-      "orig_cents": 1999,
-      "final_cents": 299,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "2,99 €",
+      "orig_cents": 7999,
+      "final_cents": 1199,
+      "orig_price_str": "79,99 €",
+      "final_price_str": "11,99 €",
       "gamepass": ""
     },
     {
-      "appid": "9NKB1B50PZLZ",
-      "name": "Alan Wake Remastered",
+      "appid": "9NS0RX8F5865",
+      "name": "Hell is Us - Deluxe Edition",
       "discount": 85,
-      "orig_cents": 2999,
-      "final_cents": 449,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "4,49 €",
+      "orig_cents": 7999,
+      "final_cents": 1199,
+      "orig_price_str": "79,99 €",
+      "final_price_str": "11,99 €",
       "gamepass": ""
     },
     {
-      "appid": "C24T2MRDBB3W",
-      "name": "Street Fighter 30th Anniversary Collection",
-      "discount": 85,
-      "orig_cents": 2998,
-      "final_cents": 449,
-      "orig_price_str": "29,98 €",
-      "final_price_str": "4,49 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9NWT8ZHZ3T0M",
-      "name": "Tomb Raider I-VI Remastered",
+      "appid": "BT21JH17GCVC",
+      "name": "Titanfall™ 2: Ultimate Edition",
       "discount": 80,
-      "orig_cents": 5499,
-      "final_cents": 1099,
-      "orig_price_str": "54,99 €",
-      "final_price_str": "10,99 €",
+      "orig_cents": 2999,
+      "final_cents": 599,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "5,99 €",
       "gamepass": ""
     },
     {
-      "appid": "9N7JCPPCPN37",
-      "name": "Resident Evil 4",
+      "appid": "9PGC82V0DXFS",
+      "name": "STAR WARS Jedi: Survivor™",
+      "discount": 80,
+      "orig_cents": 7999,
+      "final_cents": 1599,
+      "orig_price_str": "79,99 €",
+      "final_price_str": "15,99 €",
+      "gamepass": "Xbox"
+    },
+    {
+      "appid": "C0GWTPD0S8S1",
+      "name": "STAR WARS™ Battlefront™ II",
+      "discount": 75,
+      "orig_cents": 1999,
+      "final_cents": 499,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "4,99 €",
+      "gamepass": "Xbox"
+    },
+    {
+      "appid": "C37XBX7DCBZ0",
+      "name": "Descenders",
+      "discount": 75,
+      "orig_cents": 2499,
+      "final_cents": 624,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "6,24 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "9N4HXL0QZ5TZ",
+      "name": "STAR WARS™ Battlefront™ II: Celebration Edition",
       "discount": 75,
       "orig_cents": 3999,
       "final_cents": 999,
@@ -121,34 +151,14 @@
       "gamepass": ""
     },
     {
-      "appid": "C08CV6MR919R",
-      "name": "Resident Evil 5",
+      "appid": "C0X2HNVH08FB",
+      "name": "Titanfall™ 2",
       "discount": 75,
       "orig_cents": 1999,
       "final_cents": 499,
       "orig_price_str": "19,99 €",
       "final_price_str": "4,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "BX3M8L83BBRW",
-      "name": "Cyberpunk 2077",
-      "discount": 70,
-      "orig_cents": 5999,
-      "final_cents": 1799,
-      "orig_price_str": "59,99 €",
-      "final_price_str": "17,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9PNZH065X7PV",
-      "name": "Alan Wake 2",
-      "discount": 70,
-      "orig_cents": 5999,
-      "final_cents": 1799,
-      "orig_price_str": "59,99 €",
-      "final_price_str": "17,99 €",
-      "gamepass": ""
+      "gamepass": "Xbox"
     },
     {
       "appid": "9NXVC0482QS5",
@@ -161,63 +171,23 @@
       "gamepass": "Xbox"
     },
     {
-      "appid": "9P9G5WX8C0VH",
-      "name": "Cyberpunk 2077: Ultimate Edition",
+      "appid": "BQVQTL3PCH05",
+      "name": "No Man's Sky",
       "discount": 60,
-      "orig_cents": 7999,
-      "final_cents": 3199,
-      "orig_price_str": "79,99 €",
-      "final_price_str": "31,99 €",
-      "gamepass": ""
+      "orig_cents": 4999,
+      "final_cents": 1999,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "19,99 €",
+      "gamepass": "PC + Xbox"
     },
     {
-      "appid": "9NJ6F163VF8C",
-      "name": "EA SPORTS™ Madden NFL 27",
-      "discount": 50,
-      "orig_cents": 7999,
-      "final_cents": 4000,
-      "orig_price_str": "79,99 €",
-      "final_price_str": "40,00 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9N2R753H6WQD",
-      "name": "EA SPORTS™ College Football 27",
-      "discount": 50,
-      "orig_cents": 7999,
-      "final_cents": 4000,
-      "orig_price_str": "79,99 €",
-      "final_price_str": "40,00 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9NKC1Z4Z92VN",
-      "name": "Grand Theft Auto Online",
-      "discount": 50,
-      "orig_cents": 1999,
-      "final_cents": 999,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "9,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9PK85WVFH32Q",
-      "name": "NHL 27 Standard Edition XBOX Series X|S",
-      "discount": 40,
-      "orig_cents": 7999,
-      "final_cents": 4799,
-      "orig_price_str": "79,99 €",
-      "final_price_str": "47,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9NMFWR0NRLZS",
-      "name": "Resident Evil Requiem",
+      "appid": "9N1WXXD1RL8D",
+      "name": "Split Fiction",
       "discount": 35,
-      "orig_cents": 7999,
-      "final_cents": 5199,
-      "orig_price_str": "79,99 €",
-      "final_price_str": "51,99 €",
+      "orig_cents": 4999,
+      "final_cents": 3249,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "32,49 €",
       "gamepass": ""
     },
     {
@@ -231,25 +201,55 @@
       "gamepass": ""
     },
     {
-      "appid": "9N6D60SBZN05",
-      "name": "Phasmophobia (Spielvorschau)",
+      "appid": "9NJC0DTDQXMG",
+      "name": "F1® 25: 2026 Saison Edition",
       "discount": 30,
-      "orig_cents": 1899,
-      "final_cents": 1329,
-      "orig_price_str": "18,99 €",
-      "final_price_str": "13,29 €",
+      "orig_cents": 5999,
+      "final_cents": 4199,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "41,99 €",
       "gamepass": ""
     },
     {
-      "appid": "9NWB32QGRKK5",
-      "name": "EA SPORTS FC™ 27 Ultimate Edition XBOX One & XBOX Series X|S",
-      "discount": 25,
-      "orig_cents": 10999,
-      "final_cents": 8249,
-      "orig_price_str": "109,99 €",
-      "final_price_str": "82,49 €",
+      "appid": "9NDP40GVGC80",
+      "name": "The Wolf Among Us Remastered",
+      "discount": 20,
+      "orig_cents": 2499,
+      "final_cents": 1999,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "19,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NXZ0JNC5ZPR",
+      "name": "Carry The Glass",
+      "discount": 20,
+      "orig_cents": 599,
+      "final_cents": 479,
+      "orig_price_str": "5,99 €",
+      "final_price_str": "4,79 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NXC038SK8VP",
+      "name": "The Walking Trade",
+      "discount": 10,
+      "orig_cents": 1199,
+      "final_cents": 1079,
+      "orig_price_str": "11,99 €",
+      "final_price_str": "10,79 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9P37QQCPTR8M",
+      "name": "SULFUR",
+      "discount": 10,
+      "orig_cents": 2999,
+      "final_cents": 2699,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "26,99 €",
       "gamepass": ""
     }
   ],
-  "total": 1920
+  "total": 1260
 }
