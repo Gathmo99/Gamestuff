@@ -271,16 +271,6 @@
       "final_price_str": "0,71 €"
     },
     {
-      "appid": "f189fa585937439d93f2dcc9775c8617",
-      "namespace": "f9bc208b965c4fb7afd0c842d764fc37",
-      "name": "Sherlock Holmes The Awakened",
-      "discount": 90,
-      "orig_cents": 3999,
-      "final_cents": 399,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "3,99 €"
-    },
-    {
       "appid": "dd98ea5250204ae2b03b3befbdcbb561",
       "namespace": "9d56883e7b1a45bca132db9427cf4a22",
       "name": "Arctico",
@@ -289,26 +279,6 @@
       "final_cents": 89,
       "orig_price_str": "8,99 €",
       "final_price_str": "0,89 €"
-    },
-    {
-      "appid": "1c5143aeec774495a5acc9d613af181b",
-      "namespace": "caca23a0954f4c1aba1fdd7e277b81e2",
-      "name": "Tomb Raider GAME OF THE YEAR EDITION",
-      "discount": 90,
-      "orig_cents": 1999,
-      "final_cents": 199,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "1,99 €"
-    },
-    {
-      "appid": "ee7f3c6725fd4fd4b8aeab8622cb770e",
-      "namespace": "4b5461ca8d1c488787b5200b420de066",
-      "name": "Shadow of the Tomb Raider: Definitive Edition",
-      "discount": 90,
-      "orig_cents": 3999,
-      "final_cents": 399,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "3,99 €"
     },
     {
       "appid": "ad2d42f582114594a105d8fe2a4cc12a",
@@ -331,39 +301,9 @@
       "final_price_str": "2,49 €"
     },
     {
-      "appid": "06722250068b4161a0ec25e86be99061",
-      "namespace": "699c2dc3694c4156befa26cad5c65505",
-      "name": "Sherlock Holmes Chapter One",
-      "discount": 90,
-      "orig_cents": 4499,
-      "final_cents": 449,
-      "orig_price_str": "44,99 €",
-      "final_price_str": "4,49 €"
-    },
-    {
-      "appid": "1d053e8b4a784eb2bbe1b1924419d459",
-      "namespace": "48ffecf4a89f4fd496817b0451384f39",
-      "name": "Rise of the Tomb Raider: 20 Year Celebration",
-      "discount": 90,
-      "orig_cents": 2999,
-      "final_cents": 299,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "2,99 €"
-    },
-    {
       "appid": "adc96ea4979d4b14831823a2c0efa057",
       "namespace": "48ee23bbc7c34ac09604253e74d17b49",
       "name": "Encased",
-      "discount": 90,
-      "orig_cents": 2999,
-      "final_cents": 299,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "2,99 €"
-    },
-    {
-      "appid": "dfae164155c84664b9040dd802bb2669",
-      "namespace": "cinnamon",
-      "name": "Sherlock Holmes: The Devil’s Daughter",
       "discount": 90,
       "orig_cents": 2999,
       "final_cents": 299,
@@ -411,16 +351,6 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "afadb715390a4593acdca79dae94b60a",
-      "namespace": "23f3da2016b94461a7bd7e2eb46aa0f9",
-      "name": "Sherlock Holmes: Crimes and Punishments",
-      "discount": 90,
-      "orig_cents": 2999,
-      "final_cents": 299,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "2,99 €"
-    },
-    {
       "appid": "f189ca21d5814aef8402655f5d456bd3",
       "namespace": "snapdragon",
       "name": "Metro Exodus Standard Edition",
@@ -459,16 +389,6 @@
       "final_cents": 107,
       "orig_price_str": "7,19 €",
       "final_price_str": "1,07 €"
-    },
-    {
-      "appid": "47253abbbc8f4b3b9cb0f4da4d2e547d",
-      "namespace": "middlemist",
-      "name": "The Sinking City",
-      "discount": 85,
-      "orig_cents": 3999,
-      "final_cents": 599,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "5,99 €"
     },
     {
       "appid": "f5d25aa37f754f6aaa19838c80062939",
@@ -611,16 +531,6 @@
       "final_price_str": "0,43 €"
     },
     {
-      "appid": "219e6034699c4946b43a674ec4491290",
-      "namespace": "e4d1348a6a7c44238b67b9565f1827a7",
-      "name": "Tomb Raider IV-VI Remastered",
-      "discount": 80,
-      "orig_cents": 2699,
-      "final_cents": 539,
-      "orig_price_str": "26,99 €",
-      "final_price_str": "5,39 €"
-    },
-    {
       "appid": "ece76f89b8714adaa0f1a307a4942615",
       "namespace": "693ad55666bf473a81bb9135146b8720",
       "name": "Extreme Cycling",
@@ -669,16 +579,6 @@
       "final_cents": 179,
       "orig_price_str": "8,99 €",
       "final_price_str": "1,79 €"
-    },
-    {
-      "appid": "b7736092073c49688f43a0e818c91936",
-      "namespace": "5aab0660c2db4caa8a535d267a84633c",
-      "name": "Tomb Raider I-III Remastered Starring Lara Croft",
-      "discount": 80,
-      "orig_cents": 2699,
-      "final_cents": 539,
-      "orig_price_str": "26,99 €",
-      "final_price_str": "5,39 €"
     },
     {
       "appid": "c69ba5f404d8487b8930ebd46174ea3f",
@@ -779,16 +679,6 @@
       "final_cents": 44,
       "orig_price_str": "1,79 €",
       "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "210205d7c65f416bb681b872d889442c",
-      "namespace": "afae234e4f6f49c3b2442710ca9d0cfc",
-      "name": "MEMREC",
-      "discount": 75,
-      "orig_cents": 1799,
-      "final_cents": 449,
-      "orig_price_str": "17,99 €",
-      "final_price_str": "4,49 €"
     },
     {
       "appid": "8fd0a802ed5748119282bd1bb2a5be34",
@@ -1341,6 +1231,16 @@
       "final_price_str": "0,40 €"
     },
     {
+      "appid": "a0a4e6460d4548b38f100b31764dcacf",
+      "namespace": "46abcd0cbb8d49929e8cadd50d666547",
+      "name": "Commando:  Hell's Target 3D",
+      "discount": 55,
+      "orig_cents": 89,
+      "final_cents": 40,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,40 €"
+    },
+    {
       "appid": "d00f4c29c794458580a0855d3543bfb4",
       "namespace": "4435a2c4b1224ce6b91e4cb182c52f4c",
       "name": "Commando:  Heart Of Terror",
@@ -1354,6 +1254,16 @@
       "appid": "085acd039fec41a29bb61a046e039ef0",
       "namespace": "17e842dd1bc54686bb72b503b8c12a2b",
       "name": "Mini Heroes: Squad Online",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "d50e1642b69f4f338f45cf619eecdf45",
+      "namespace": "53523f3916f84e5d9576fa737ecae5e6",
+      "name": "Bunny Battle",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1951,6 +1861,16 @@
       "final_price_str": "9,89 €"
     },
     {
+      "appid": "95d47ad74dcc42e098be6fedef4d924e",
+      "namespace": "da13ee0f147f4bd8aed6b41eae359130",
+      "name": "Ravenford: The Last Raven Warden",
+      "discount": 40,
+      "orig_cents": 449,
+      "final_cents": 269,
+      "orig_price_str": "4,49 €",
+      "final_price_str": "2,69 €"
+    },
+    {
       "appid": "690cc445d77d45d79203f36e709bb227",
       "namespace": "af907b56c7b746ad875dd204b87066e3",
       "name": "Tödliches Match",
@@ -2099,6 +2019,16 @@
       "final_cents": 1851,
       "orig_price_str": "28,49 €",
       "final_price_str": "18,51 €"
+    },
+    {
+      "appid": "40980262fdb24c149094f3febfe84cb6",
+      "namespace": "f14e8d865ad04b93a5df850ce7a59fe2",
+      "name": "Trash Goblin",
+      "discount": 33,
+      "orig_cents": 1799,
+      "final_cents": 1205,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "12,05 €"
     },
     {
       "appid": "297bb10765dd493eb78944e264e16b7c",
@@ -2511,5 +2441,5 @@
       "final_price_str": "4,04 €"
     }
   ],
-  "total": 252
+  "total": 245
 }
