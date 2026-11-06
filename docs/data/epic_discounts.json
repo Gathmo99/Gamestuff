@@ -901,6 +901,16 @@
       "final_price_str": "4,99 €"
     },
     {
+      "appid": "a572c4c460c24c6b98179d04366c9468",
+      "namespace": "178e871c616945cc85a11e6a9243cf89",
+      "name": "Fix and Flip Dream House",
+      "discount": 70,
+      "orig_cents": 1169,
+      "final_cents": 350,
+      "orig_price_str": "11,69 €",
+      "final_price_str": "3,50 €"
+    },
+    {
       "appid": "637b02b5abcc458b9deb85d397facca1",
       "namespace": "62502c9be51443498f3e4da4a68fc804",
       "name": "Directive Zero",
@@ -2501,5 +2511,5 @@
       "final_price_str": "4,04 €"
     }
   ],
-  "total": 251
+  "total": 252
 }

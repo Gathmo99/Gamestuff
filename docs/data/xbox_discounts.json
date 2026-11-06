@@ -1,56 +1,6 @@
 {
   "items": [
     {
-      "appid": "BWTTW53M5B98",
-      "name": "Battlefield™ 1",
-      "discount": 90,
-      "orig_cents": 1999,
-      "final_cents": 199,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "1,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "BPL68T0XK96W",
-      "name": "Battlefield™ 1 Revolution",
-      "discount": 90,
-      "orig_cents": 3999,
-      "final_cents": 399,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "3,99 €",
-      "gamepass": "Xbox"
-    },
-    {
-      "appid": "BP15SF17LH13",
-      "name": "Battlefield 4",
-      "discount": 90,
-      "orig_cents": 1999,
-      "final_cents": 199,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "1,99 €",
-      "gamepass": "Xbox"
-    },
-    {
-      "appid": "9N442DM2MD6F",
-      "name": "Battlefield™ V Definitive Edition",
-      "discount": 90,
-      "orig_cents": 4999,
-      "final_cents": 499,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "4,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "C5610G5KX0D6",
-      "name": "Battlefield 4™ Premium Edition",
-      "discount": 90,
-      "orig_cents": 3999,
-      "final_cents": 399,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "3,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9MT4T5ZL8PVB",
       "name": "Steelrising - Standard Edition",
       "discount": 90,
@@ -68,6 +18,26 @@
       "final_cents": 249,
       "orig_price_str": "24,99 €",
       "final_price_str": "2,49 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9PJFK4TCJD86",
+      "name": "The Lord of the Rings: Gollum™",
+      "discount": 90,
+      "orig_cents": 2999,
+      "final_cents": 299,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "2,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "C4MSTXCKBXGL",
+      "name": "Ride 2",
+      "discount": 90,
+      "orig_cents": 2999,
+      "final_cents": 299,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "2,99 €",
       "gamepass": ""
     },
     {
@@ -101,34 +71,24 @@
       "gamepass": ""
     },
     {
-      "appid": "BT21JH17GCVC",
-      "name": "Titanfall™ 2: Ultimate Edition",
+      "appid": "9NN0TCVDQWJZ",
+      "name": "MotoGP™24",
+      "discount": 80,
+      "orig_cents": 3999,
+      "final_cents": 799,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "7,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "BXBJQ1932138",
+      "name": "theHunter: Call of the Wild™",
       "discount": 80,
       "orig_cents": 2999,
       "final_cents": 599,
       "orig_price_str": "29,99 €",
       "final_price_str": "5,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9PGC82V0DXFS",
-      "name": "STAR WARS Jedi: Survivor™",
-      "discount": 80,
-      "orig_cents": 7999,
-      "final_cents": 1599,
-      "orig_price_str": "79,99 €",
-      "final_price_str": "15,99 €",
-      "gamepass": "Xbox"
-    },
-    {
-      "appid": "C0GWTPD0S8S1",
-      "name": "STAR WARS™ Battlefront™ II",
-      "discount": 75,
-      "orig_cents": 1999,
-      "final_cents": 499,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "4,99 €",
-      "gamepass": "Xbox"
+      "gamepass": "PC + Xbox"
     },
     {
       "appid": "C37XBX7DCBZ0",
@@ -141,8 +101,8 @@
       "gamepass": "PC + Xbox"
     },
     {
-      "appid": "9N4HXL0QZ5TZ",
-      "name": "STAR WARS™ Battlefront™ II: Celebration Edition",
+      "appid": "9P6QRRZQKPCM",
+      "name": "Assetto Corsa Competizione",
       "discount": 75,
       "orig_cents": 3999,
       "final_cents": 999,
@@ -151,24 +111,24 @@
       "gamepass": ""
     },
     {
-      "appid": "C0X2HNVH08FB",
-      "name": "Titanfall™ 2",
+      "appid": "C27H5T4HD4WW",
+      "name": "Assetto Corsa",
       "discount": 75,
-      "orig_cents": 1999,
-      "final_cents": 499,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "4,99 €",
-      "gamepass": "Xbox"
+      "orig_cents": 2999,
+      "final_cents": 749,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "7,49 €",
+      "gamepass": ""
     },
     {
-      "appid": "9NXVC0482QS5",
-      "name": "It Takes Two – Digitale Version",
-      "discount": 70,
-      "orig_cents": 3999,
-      "final_cents": 1199,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "11,99 €",
-      "gamepass": "Xbox"
+      "appid": "9N0102B834ZM",
+      "name": "Fantasy Dash",
+      "discount": 68,
+      "orig_cents": 309,
+      "final_cents": 99,
+      "orig_price_str": "3,09 €",
+      "final_price_str": "0,99 €",
+      "gamepass": ""
     },
     {
       "appid": "BQVQTL3PCH05",
@@ -181,13 +141,63 @@
       "gamepass": "PC + Xbox"
     },
     {
-      "appid": "9N1WXXD1RL8D",
-      "name": "Split Fiction",
-      "discount": 35,
-      "orig_cents": 4999,
-      "final_cents": 3249,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "32,49 €",
+      "appid": "BTNPS60N3114",
+      "name": "Terraria",
+      "discount": 50,
+      "orig_cents": 1899,
+      "final_cents": 949,
+      "orig_price_str": "18,99 €",
+      "final_price_str": "9,49 €",
+      "gamepass": "Xbox"
+    },
+    {
+      "appid": "C2WKJJ9F5936",
+      "name": "Fable II",
+      "discount": 50,
+      "orig_cents": 1999,
+      "final_cents": 999,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "9,99 €",
+      "gamepass": "Xbox"
+    },
+    {
+      "appid": "BR46KM4D5B9L",
+      "name": "Fable III",
+      "discount": 50,
+      "orig_cents": 1999,
+      "final_cents": 999,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "9,99 €",
+      "gamepass": "Xbox"
+    },
+    {
+      "appid": "9NG6VWV2NNN6",
+      "name": "Bad Cheese",
+      "discount": 50,
+      "orig_cents": 1299,
+      "final_cents": 649,
+      "orig_price_str": "12,99 €",
+      "final_price_str": "6,49 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NPF9F0DCVKS",
+      "name": "007 First Light - Standard Edition",
+      "discount": 40,
+      "orig_cents": 6999,
+      "final_cents": 4199,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "41,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9PJ9SG2JPB1L",
+      "name": "Disney Dreamlight Valley - Ultimate Edition",
+      "discount": 40,
+      "orig_cents": 7999,
+      "final_cents": 4799,
+      "orig_price_str": "79,99 €",
+      "final_price_str": "47,99 €",
       "gamepass": ""
     },
     {
@@ -198,16 +208,6 @@
       "final_cents": 349,
       "orig_price_str": "4,99 €",
       "final_price_str": "3,49 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9NJC0DTDQXMG",
-      "name": "F1® 25: 2026 Saison Edition",
-      "discount": 30,
-      "orig_cents": 5999,
-      "final_cents": 4199,
-      "orig_price_str": "59,99 €",
-      "final_price_str": "41,99 €",
       "gamepass": ""
     },
     {
@@ -251,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 1259
+  "total": 1233
 }
