@@ -2131,16 +2131,6 @@
       "final_price_str": "3,14 €"
     },
     {
-      "appid": "be2815b8e16a4fcda32a51b7ecda0bf1",
-      "namespace": "a9130fa752b44f3983909956ba335b61",
-      "name": "Cairn",
-      "discount": 30,
-      "orig_cents": 2999,
-      "final_cents": 2099,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "20,99 €"
-    },
-    {
       "appid": "3de25d0eaa7f4b9dbb3fa3f08fd55746",
       "namespace": "1c0e80ffead94d1f911254d457ebb48b",
       "name": "Keylocker | Turn Based Cyberpunk Action",
@@ -2411,16 +2401,6 @@
       "final_price_str": "53,99 €"
     },
     {
-      "appid": "56a79e0e52df4875861aa0b20f9dd607",
-      "namespace": "6294bf2f6cc343feacf6da4000c89286",
-      "name": "Courtside Idle",
-      "discount": 10,
-      "orig_cents": 629,
-      "final_cents": 566,
-      "orig_price_str": "6,29 €",
-      "final_price_str": "5,66 €"
-    },
-    {
       "appid": "2bd5c32fbb914598b8872365439859a2",
       "namespace": "916849adc2fc4f6e974d46d5d87cfb07",
       "name": "Ladies Haven",
@@ -2441,5 +2421,5 @@
       "final_price_str": "4,04 €"
     }
   ],
-  "total": 245
+  "total": 243
 }

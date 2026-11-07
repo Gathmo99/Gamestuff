@@ -181,6 +181,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9NFJRH7WM33M",
+      "name": "EA SPORTS™ Madden NFL 27 Deluxe Edition",
+      "discount": 50,
+      "orig_cents": 10999,
+      "final_cents": 5500,
+      "orig_price_str": "109,99 €",
+      "final_price_str": "55,00 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9NPF9F0DCVKS",
       "name": "007 First Light - Standard Edition",
       "discount": 40,
@@ -191,16 +201,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9PJ9SG2JPB1L",
-      "name": "Disney Dreamlight Valley - Ultimate Edition",
-      "discount": 40,
-      "orig_cents": 7999,
-      "final_cents": 4799,
-      "orig_price_str": "79,99 €",
-      "final_price_str": "47,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9N4NKRK37552",
       "name": "Red Panda is Hungry",
       "discount": 30,
@@ -208,6 +208,16 @@
       "final_cents": 349,
       "orig_price_str": "4,99 €",
       "final_price_str": "3,49 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9P8479BFGDDW",
+      "name": "The Mound: Omen of Cthulhu - Deluxe Edition",
+      "discount": 25,
+      "orig_cents": 3999,
+      "final_cents": 2999,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "29,99 €",
       "gamepass": ""
     },
     {
@@ -231,16 +241,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9NXC038SK8VP",
-      "name": "The Walking Trade",
-      "discount": 10,
-      "orig_cents": 1199,
-      "final_cents": 1079,
-      "orig_price_str": "11,99 €",
-      "final_price_str": "10,79 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9P37QQCPTR8M",
       "name": "SULFUR",
       "discount": 10,
@@ -251,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 1243
+  "total": 1237
 }
