@@ -1671,16 +1671,6 @@
       "final_price_str": "34,99 €"
     },
     {
-      "appid": "4fb95c3f11754061b2b1a94e60d848bd",
-      "namespace": "2df8b055a5674c8e9211fc51f8efd210",
-      "name": "Arranger: A Role-Puzzling Adventure",
-      "discount": 50,
-      "orig_cents": 1799,
-      "final_cents": 899,
-      "orig_price_str": "17,99 €",
-      "final_price_str": "8,99 €"
-    },
-    {
       "appid": "7bdc93be8fb44959b1322c7d40c1f42d",
       "namespace": "6e6aa039c73347b885803de65ac5d3db",
       "name": "Ghost of Tsushima DIRECTOR'S CUT",
@@ -2411,5 +2401,5 @@
       "final_price_str": "4,04 €"
     }
   ],
-  "total": 242
+  "total": 241
 }
