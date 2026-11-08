@@ -21,136 +21,6 @@
       "final_price_str": "0,00 €"
     },
     {
-      "appid": "ac22daa3387d4d26a4b2611dc4d8a59b",
-      "namespace": "14e5ac79eb304c5d834a9985cd4d127e",
-      "name": "Quiztopia : The Ultimate Trivia",
-      "discount": 100,
-      "orig_cents": 719,
-      "final_cents": 0,
-      "orig_price_str": "7,19 €",
-      "final_price_str": "0,00 €"
-    },
-    {
-      "appid": "de35655b5a644146956114482841bcb0",
-      "namespace": "05f959ab5f6d4c64b1072b752ec27140",
-      "name": "Super Kids Racing - Mini Edition",
-      "discount": 100,
-      "orig_cents": 899,
-      "final_cents": 0,
-      "orig_price_str": "8,99 €",
-      "final_price_str": "0,00 €"
-    },
-    {
-      "appid": "ff7157cbbfc743d8adc60e39643632bc",
-      "namespace": "af75e9eebab24aa3ad42a903e63ed7b1",
-      "name": "Highway Driving",
-      "discount": 100,
-      "orig_cents": 899,
-      "final_cents": 0,
-      "orig_price_str": "8,99 €",
-      "final_price_str": "0,00 €"
-    },
-    {
-      "appid": "3898ad2754b041b8ae4e32e97e7284c7",
-      "namespace": "a7ec33941949459cab07e39c65ca4309",
-      "name": "Funtoon's World",
-      "discount": 100,
-      "orig_cents": 539,
-      "final_cents": 0,
-      "orig_price_str": "5,39 €",
-      "final_price_str": "0,00 €"
-    },
-    {
-      "appid": "fdae3db9116c49c59dffd5f721967145",
-      "namespace": "2f46b1c7a34944f5acf90fe0b0c3368e",
-      "name": "Epic World - Hunt For Quest",
-      "discount": 100,
-      "orig_cents": 629,
-      "final_cents": 0,
-      "orig_price_str": "6,29 €",
-      "final_price_str": "0,00 €"
-    },
-    {
-      "appid": "12de5cad417f4411b6880f3072d553e6",
-      "namespace": "25090978ea114ee5804a72f01bc6e3f0",
-      "name": "Maze - The Amazing Labyrinth",
-      "discount": 100,
-      "orig_cents": 719,
-      "final_cents": 0,
-      "orig_price_str": "7,19 €",
-      "final_price_str": "0,00 €"
-    },
-    {
-      "appid": "578b557f757c4bd1b2681aae21c6262d",
-      "namespace": "9a390b228537424c9b46fb0a3dbce676",
-      "name": "Dark Mystery",
-      "discount": 100,
-      "orig_cents": 629,
-      "final_cents": 0,
-      "orig_price_str": "6,29 €",
-      "final_price_str": "0,00 €"
-    },
-    {
-      "appid": "30eb1548000d4d749e0d65fca419187b",
-      "namespace": "8f343ffd415a4fa28a2b24c4ac3c9b22",
-      "name": "Mountain Racing",
-      "discount": 100,
-      "orig_cents": 449,
-      "final_cents": 0,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "0,00 €"
-    },
-    {
-      "appid": "d8aecbb4bfb34a838692ef9ba50673ea",
-      "namespace": "e4e71e80487245b682ed399fa518964e",
-      "name": "Horse Racing",
-      "discount": 100,
-      "orig_cents": 899,
-      "final_cents": 0,
-      "orig_price_str": "8,99 €",
-      "final_price_str": "0,00 €"
-    },
-    {
-      "appid": "75432501d10b4e06ae74c9eaafc6e024",
-      "namespace": "b2d39a10264c4afb819cbd89b533a4fb",
-      "name": "Math Fun",
-      "discount": 100,
-      "orig_cents": 629,
-      "final_cents": 0,
-      "orig_price_str": "6,29 €",
-      "final_price_str": "0,00 €"
-    },
-    {
-      "appid": "e221c558c16d4221b35d1b93a2136c30",
-      "namespace": "524a7bde223b442d9e006c9891b5d702",
-      "name": "Balloon Strike",
-      "discount": 100,
-      "orig_cents": 449,
-      "final_cents": 0,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "0,00 €"
-    },
-    {
-      "appid": "f805f32d9e4045789ce21b9640c58c35",
-      "namespace": "285b64782090429a8c055d913b2c93f1",
-      "name": "Gladiator : Blades of Fury",
-      "discount": 100,
-      "orig_cents": 899,
-      "final_cents": 0,
-      "orig_price_str": "8,99 €",
-      "final_price_str": "0,00 €"
-    },
-    {
-      "appid": "86c19c20e2574c7b803818b9d7169071",
-      "namespace": "1fa02dfc14964c7cad8dc24f60083b15",
-      "name": "Horror Adventure",
-      "discount": 100,
-      "orig_cents": 899,
-      "final_cents": 0,
-      "orig_price_str": "8,99 €",
-      "final_price_str": "0,00 €"
-    },
-    {
       "appid": "2e1b4da476d9450593a4f966a2f0191f",
       "namespace": "7b3ddf2a418543d7a29eafb03a0e020e",
       "name": "Hyper Warehouse Simulator",
@@ -2081,16 +1951,6 @@
       "final_price_str": "10,49 €"
     },
     {
-      "appid": "12b4d1ade84749a798a6a03f7b7dafeb",
-      "namespace": "e83bf748d3ce4f0f8ccdedbb726afb6f",
-      "name": "Dealer's Life Legend",
-      "discount": 30,
-      "orig_cents": 1499,
-      "final_cents": 1049,
-      "orig_price_str": "14,99 €",
-      "final_price_str": "10,49 €"
-    },
-    {
       "appid": "af0bac92ab4c4c0f9ed6b36025916ded",
       "namespace": "095f6c7801d14240b31e732cc3e87008",
       "name": "Fell in love with coser 15",
@@ -2161,6 +2021,16 @@
       "final_price_str": "8,09 €"
     },
     {
+      "appid": "6f3bedcd3be64dfb862a3508b182108c",
+      "namespace": "44b4312f660440909669494451497c93",
+      "name": "Werde Kaiser! Mein Planetenimperium der Billionen Schönheiten",
+      "discount": 25,
+      "orig_cents": 3599,
+      "final_cents": 2699,
+      "orig_price_str": "35,99 €",
+      "final_price_str": "26,99 €"
+    },
+    {
       "appid": "5a5662dfa2a642698bca49de4c0a7864",
       "namespace": "8a4691a606d34bb3a914c49a123c0b46",
       "name": "The House of Tesla: Definitive Edition",
@@ -2219,16 +2089,6 @@
       "final_cents": 759,
       "orig_price_str": "9,49 €",
       "final_price_str": "7,59 €"
-    },
-    {
-      "appid": "4838b02307224200a2c3030297762837",
-      "namespace": "45e9da91e9f84bb2abebc79851be0c94",
-      "name": "Anvil Life",
-      "discount": 20,
-      "orig_cents": 449,
-      "final_cents": 359,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "3,59 €"
     },
     {
       "appid": "4e3d5037dc5243aea8adc86cce6d5959",
@@ -2401,5 +2261,5 @@
       "final_price_str": "4,04 €"
     }
   ],
-  "total": 241
+  "total": 227
 }
