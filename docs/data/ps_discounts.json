@@ -757,7 +757,7 @@
       "final_price_str": "4,99 €"
     },
     {
-      "appid": "EP3785-CUSA29337_00-OMD3BUNDLE000001",
+      "appid": "EP3785-CUSA27976_00-OMD3BUNDLE000001",
       "name": "Orcs Must Die! 3-Bundle",
       "discount": 75,
       "orig_cents": 3599,
@@ -766,7 +766,7 @@
       "final_price_str": "8,99 €"
     },
     {
-      "appid": "EP3785-CUSA27976_00-OMD3BUNDLE000001",
+      "appid": "EP3785-CUSA29337_00-OMD3BUNDLE000001",
       "name": "Orcs Must Die! 3-Bundle",
       "discount": 75,
       "orig_cents": 3599,
@@ -2638,15 +2638,6 @@
       "final_price_str": "5,59 €"
     },
     {
-      "appid": "EP4312-PPSA08370_00-0184769801435278",
-      "name": "Burger Fun",
-      "discount": 30,
-      "orig_cents": 349,
-      "final_cents": 244,
-      "orig_price_str": "3,49 €",
-      "final_price_str": "2,44 €"
-    },
-    {
       "appid": "EP4312-CUSA34426_00-6972559664657494",
       "name": "Burger Fun",
       "discount": 30,
@@ -2654,6 +2645,15 @@
       "final_cents": 251,
       "orig_price_str": "3,59 €",
       "final_price_str": "2,51 €"
+    },
+    {
+      "appid": "EP4312-PPSA08370_00-0184769801435278",
+      "name": "Burger Fun",
+      "discount": 30,
+      "orig_cents": 349,
+      "final_cents": 244,
+      "orig_price_str": "3,49 €",
+      "final_price_str": "2,44 €"
     },
     {
       "appid": "EP6738-PPSA07780_00-0164863067548588",

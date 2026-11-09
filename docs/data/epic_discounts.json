@@ -1781,16 +1781,6 @@
       "final_price_str": "4,85 €"
     },
     {
-      "appid": "73810c22c5f8449d8955bcd3e0108793",
-      "namespace": "525cf92ef772437e98805aeb6e234b2a",
-      "name": "Anno 117: Pax Romana",
-      "discount": 40,
-      "orig_cents": 5999,
-      "final_cents": 3599,
-      "orig_price_str": "59,99 €",
-      "final_price_str": "35,99 €"
-    },
-    {
       "appid": "6b116e072948425ca460d99d9d138d55",
       "namespace": "2fd168b5526d4e15a84b53a6c0484f8f",
       "name": "Fuga: Melodies of Steel 3",
@@ -2249,6 +2239,16 @@
       "final_cents": 5399,
       "orig_price_str": "59,99 €",
       "final_price_str": "53,99 €"
+    },
+    {
+      "appid": "57acf99d237c4391bc52a1b0d4e780c0",
+      "namespace": "924b42633a79416a8468934606237810",
+      "name": "Cinema Theater Tycoon",
+      "discount": 10,
+      "orig_cents": 1349,
+      "final_cents": 1214,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "12,14 €"
     },
     {
       "appid": "2bd5c32fbb914598b8872365439859a2",
