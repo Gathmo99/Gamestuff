@@ -11,16 +11,6 @@
       "final_price_str": "0,00 €"
     },
     {
-      "appid": "88dee10ff7254fd8b0dedd4b4e37b177",
-      "namespace": "8ac6e27f09754a8c8ddd5f443ce1a462",
-      "name": "Good Morning Human",
-      "discount": 100,
-      "orig_cents": 989,
-      "final_cents": 0,
-      "orig_price_str": "9,89 €",
-      "final_price_str": "0,00 €"
-    },
-    {
       "appid": "2e1b4da476d9450593a4f966a2f0191f",
       "namespace": "7b3ddf2a418543d7a29eafb03a0e020e",
       "name": "Hyper Warehouse Simulator",
@@ -511,6 +501,16 @@
       "final_price_str": "2,99 €"
     },
     {
+      "appid": "643b7a2210bb4f4f97d5c96b6af3995f",
+      "namespace": "08c03f2a2b794478a6b73c0a3e9b2b29",
+      "name": "Bud Spencer and Terence Hill – Slaps and Beans",
+      "discount": 78,
+      "orig_cents": 1998,
+      "final_cents": 439,
+      "orig_price_str": "19,98 €",
+      "final_price_str": "4,39 €"
+    },
+    {
       "appid": "3c8828ef1eb9429bb143f4b58b5138cc",
       "namespace": "6ce9cadbab474f07928e3035473289d2",
       "name": "FATAL FURY: City of the Wolves – Standard Edition",
@@ -529,6 +529,16 @@
       "final_cents": 44,
       "orig_price_str": "1,79 €",
       "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "0b252197298441ffa1bc91f8f353e443",
+      "namespace": "658d7b77a4d8466a882f0ca7782430fc",
+      "name": "Afterschool: Reel Danger",
+      "discount": 75,
+      "orig_cents": 359,
+      "final_cents": 89,
+      "orig_price_str": "3,59 €",
+      "final_price_str": "0,89 €"
     },
     {
       "appid": "904a631b58f9404380fe3264d7a57d07",
@@ -1761,16 +1771,6 @@
       "final_price_str": "8,87 €"
     },
     {
-      "appid": "0262ed21ea3747eda9636428445c6edc",
-      "namespace": "c60b32377bf045b090579bff9b3df412",
-      "name": "007 First Light",
-      "discount": 40,
-      "orig_cents": 6999,
-      "final_cents": 4199,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "41,99 €"
-    },
-    {
       "appid": "444bdda719ca4f0788ae900ec468fc8b",
       "namespace": "d20e3f9e78404dbd9ed96ff4c8a5886e",
       "name": "The teacher fell in love with me 2",
@@ -2161,6 +2161,16 @@
       "final_price_str": "11,99 €"
     },
     {
+      "appid": "b33de24a515b4df0bfbe230cfda9e8b3",
+      "namespace": "d69dea273a294b47b5774117304ab9f7",
+      "name": "Musician Simulator",
+      "discount": 20,
+      "orig_cents": 449,
+      "final_cents": 359,
+      "orig_price_str": "4,49 €",
+      "final_price_str": "3,59 €"
+    },
+    {
       "appid": "3fe7eaeca2fa474187fc338a5324ae11",
       "namespace": "3b391953ce4b42bb9a28a2fee249154b",
       "name": "Brotato",
@@ -2261,5 +2271,5 @@
       "final_price_str": "4,04 €"
     }
   ],
-  "total": 227
+  "total": 228
 }
