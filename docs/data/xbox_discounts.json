@@ -21,16 +21,6 @@
       "gamepass": ""
     },
     {
-      "appid": "C4MSTXCKBXGL",
-      "name": "Ride 2",
-      "discount": 90,
-      "orig_cents": 2999,
-      "final_cents": 299,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "2,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "C3FDP0NTC0JM",
       "name": "Turok",
       "discount": 85,
@@ -191,14 +181,14 @@
       "gamepass": ""
     },
     {
-      "appid": "9N4NKRK37552",
-      "name": "Red Panda is Hungry",
+      "appid": "9NJ67TQQ51Z0",
+      "name": "Super Meat Boy 3D",
       "discount": 30,
-      "orig_cents": 499,
-      "final_cents": 349,
-      "orig_price_str": "4,99 €",
-      "final_price_str": "3,49 €",
-      "gamepass": ""
+      "orig_cents": 2499,
+      "final_cents": 1749,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "17,49 €",
+      "gamepass": "PC + Xbox"
     },
     {
       "appid": "9NDP40GVGC80",
@@ -249,7 +239,17 @@
       "orig_price_str": "29,99 €",
       "final_price_str": "26,99 €",
       "gamepass": ""
+    },
+    {
+      "appid": "9MZZWGTF7V65",
+      "name": "Warhammer Survivors",
+      "discount": 10,
+      "orig_cents": 749,
+      "final_cents": 674,
+      "orig_price_str": "7,49 €",
+      "final_price_str": "6,74 €",
+      "gamepass": "PC + Xbox"
     }
   ],
-  "total": 1353
+  "total": 1262
 }
