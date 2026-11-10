@@ -1,16 +1,6 @@
 {
   "items": [
     {
-      "appid": "9MT4T5ZL8PVB",
-      "name": "Steelrising - Standard Edition",
-      "discount": 90,
-      "orig_cents": 3999,
-      "final_cents": 399,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "3,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9NNKVXG45WQ5",
       "name": "MXGP 2019 - The Official Motocross Videogame",
       "discount": 90,
@@ -21,13 +11,13 @@
       "gamepass": ""
     },
     {
-      "appid": "9PJFK4TCJD86",
-      "name": "The Lord of the Rings: Gollum™",
+      "appid": "9PPC1B9PVHQH",
+      "name": "The Last Campfire",
       "discount": 90,
-      "orig_cents": 2999,
-      "final_cents": 299,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "2,99 €",
+      "orig_cents": 1499,
+      "final_cents": 149,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "1,49 €",
       "gamepass": ""
     },
     {
@@ -37,6 +27,16 @@
       "orig_cents": 2999,
       "final_cents": 299,
       "orig_price_str": "29,99 €",
+      "final_price_str": "2,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "C3FDP0NTC0JM",
+      "name": "Turok",
+      "discount": 85,
+      "orig_cents": 1999,
+      "final_cents": 299,
+      "orig_price_str": "19,99 €",
       "final_price_str": "2,99 €",
       "gamepass": ""
     },
@@ -61,23 +61,13 @@
       "gamepass": ""
     },
     {
-      "appid": "9NS0RX8F5865",
-      "name": "Hell is Us - Deluxe Edition",
-      "discount": 85,
-      "orig_cents": 7999,
-      "final_cents": 1199,
-      "orig_price_str": "79,99 €",
-      "final_price_str": "11,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9NN0TCVDQWJZ",
-      "name": "MotoGP™24",
+      "appid": "9N3K69GS7FWR",
+      "name": "PAYDAY 2: CRIMEWAVE EDITION",
       "discount": 80,
-      "orig_cents": 3999,
-      "final_cents": 799,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "7,99 €",
+      "orig_cents": 1999,
+      "final_cents": 399,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "3,99 €",
       "gamepass": ""
     },
     {
@@ -88,16 +78,6 @@
       "final_cents": 599,
       "orig_price_str": "29,99 €",
       "final_price_str": "5,99 €",
-      "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "C37XBX7DCBZ0",
-      "name": "Descenders",
-      "discount": 75,
-      "orig_cents": 2499,
-      "final_cents": 624,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "6,24 €",
       "gamepass": "PC + Xbox"
     },
     {
@@ -121,13 +101,63 @@
       "gamepass": ""
     },
     {
-      "appid": "9N0102B834ZM",
-      "name": "Fantasy Dash",
-      "discount": 68,
-      "orig_cents": 309,
-      "final_cents": 99,
-      "orig_price_str": "3,09 €",
-      "final_price_str": "0,99 €",
+      "appid": "C37XBX7DCBZ0",
+      "name": "Descenders",
+      "discount": 75,
+      "orig_cents": 2499,
+      "final_cents": 624,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "6,24 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "9P9M35WVGCK9",
+      "name": "FATAL FURY: City of the Wolves",
+      "discount": 75,
+      "orig_cents": 1999,
+      "final_cents": 499,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "4,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9MTW722JFZ5Z",
+      "name": "Crysis Remastered Trilogy",
+      "discount": 75,
+      "orig_cents": 4999,
+      "final_cents": 1249,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "12,49 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NQGN8TGNT8P",
+      "name": "DEATH STRANDING DIRECTOR'S CUT",
+      "discount": 65,
+      "orig_cents": 3999,
+      "final_cents": 1399,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "13,99 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "9PMQDM08SNK9",
+      "name": "Microsoft Flight Simulator (2020) Standard 40th Anniversary Edition",
+      "discount": 65,
+      "orig_cents": 6999,
+      "final_cents": 2449,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "24,49 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "9MVMPHF8NKHB",
+      "name": "IXION",
+      "discount": 65,
+      "orig_cents": 3499,
+      "final_cents": 1224,
+      "orig_price_str": "34,99 €",
+      "final_price_str": "12,24 €",
       "gamepass": ""
     },
     {
@@ -151,46 +181,6 @@
       "gamepass": "Xbox"
     },
     {
-      "appid": "C2WKJJ9F5936",
-      "name": "Fable II",
-      "discount": 50,
-      "orig_cents": 1999,
-      "final_cents": 999,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "9,99 €",
-      "gamepass": "Xbox"
-    },
-    {
-      "appid": "BR46KM4D5B9L",
-      "name": "Fable III",
-      "discount": 50,
-      "orig_cents": 1999,
-      "final_cents": 999,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "9,99 €",
-      "gamepass": "Xbox"
-    },
-    {
-      "appid": "9NG6VWV2NNN6",
-      "name": "Bad Cheese",
-      "discount": 50,
-      "orig_cents": 1299,
-      "final_cents": 649,
-      "orig_price_str": "12,99 €",
-      "final_price_str": "6,49 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9NFJRH7WM33M",
-      "name": "EA SPORTS™ Madden NFL 27 Deluxe Edition",
-      "discount": 50,
-      "orig_cents": 10999,
-      "final_cents": 5500,
-      "orig_price_str": "109,99 €",
-      "final_price_str": "55,00 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9NPF9F0DCVKS",
       "name": "007 First Light - Standard Edition",
       "discount": 40,
@@ -211,16 +201,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9P8479BFGDDW",
-      "name": "The Mound: Omen of Cthulhu - Deluxe Edition",
-      "discount": 25,
-      "orig_cents": 3999,
-      "final_cents": 2999,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "29,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9NDP40GVGC80",
       "name": "The Wolf Among Us Remastered",
       "discount": 20,
@@ -228,6 +208,26 @@
       "final_cents": 1999,
       "orig_price_str": "24,99 €",
       "final_price_str": "19,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9MXS90V0RHTV",
+      "name": "Hidden Cats in Beijing",
+      "discount": 20,
+      "orig_cents": 399,
+      "final_cents": 319,
+      "orig_price_str": "3,99 €",
+      "final_price_str": "3,19 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NDX2927SND9",
+      "name": "Lightyear Frontier",
+      "discount": 20,
+      "orig_cents": 2999,
+      "final_cents": 2399,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "23,99 €",
       "gamepass": ""
     },
     {
@@ -251,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 1237
+  "total": 1353
 }
