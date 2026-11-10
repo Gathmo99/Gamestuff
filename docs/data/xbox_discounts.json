@@ -241,15 +241,15 @@
       "gamepass": ""
     },
     {
-      "appid": "9MZZWGTF7V65",
-      "name": "Warhammer Survivors",
+      "appid": "9PCW6X6ZQP4Z",
+      "name": "Shrek 2 Remastered",
       "discount": 10,
-      "orig_cents": 749,
-      "final_cents": 674,
-      "orig_price_str": "7,49 €",
-      "final_price_str": "6,74 €",
-      "gamepass": "PC + Xbox"
+      "orig_cents": 2999,
+      "final_cents": 2699,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "26,99 €",
+      "gamepass": ""
     }
   ],
-  "total": 1262
+  "total": 1267
 }
