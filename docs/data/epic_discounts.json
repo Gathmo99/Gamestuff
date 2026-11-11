@@ -91,16 +91,6 @@
       "final_price_str": "0,35 €"
     },
     {
-      "appid": "aad9b8c3f0f7404f94de645a0857fb85",
-      "namespace": "7d9cb4fa8c4b488d86c7e9dec37318d5",
-      "name": "Suicide Guy",
-      "discount": 90,
-      "orig_cents": 719,
-      "final_cents": 71,
-      "orig_price_str": "7,19 €",
-      "final_price_str": "0,71 €"
-    },
-    {
       "appid": "dd98ea5250204ae2b03b3befbdcbb561",
       "namespace": "9d56883e7b1a45bca132db9427cf4a22",
       "name": "Arctico",
@@ -1191,16 +1181,6 @@
       "final_price_str": "4,85 €"
     },
     {
-      "appid": "2de24b74a42c419bae04519cb2593b2e",
-      "namespace": "8962863aee2f4e7483fc37d4719c3f69",
-      "name": "PAYDAY 3",
-      "discount": 35,
-      "orig_cents": 2849,
-      "final_cents": 1851,
-      "orig_price_str": "28,49 €",
-      "final_price_str": "18,51 €"
-    },
-    {
       "appid": "40980262fdb24c149094f3febfe84cb6",
       "namespace": "f14e8d865ad04b93a5df850ce7a59fe2",
       "name": "Trash Goblin",
@@ -1249,16 +1229,6 @@
       "final_cents": 1399,
       "orig_price_str": "19,99 €",
       "final_price_str": "13,99 €"
-    },
-    {
-      "appid": "66ef53bf015f486a89573e2f627feedc",
-      "namespace": "abecb70b28f74edd9d3ec05a24bbd6e9",
-      "name": "LeMrosh in the Lazy Kingdom",
-      "discount": 25,
-      "orig_cents": 1799,
-      "final_cents": 1349,
-      "orig_price_str": "17,99 €",
-      "final_price_str": "13,49 €"
     },
     {
       "appid": "00039fa9904c429abd22fc0853be5f91",
@@ -1471,5 +1441,5 @@
       "final_price_str": "9,71 €"
     }
   ],
-  "total": 148
+  "total": 145
 }
