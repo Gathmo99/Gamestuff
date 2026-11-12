@@ -1,23 +1,13 @@
 {
   "items": [
     {
-      "appid": "9NNKVXG45WQ5",
-      "name": "MXGP 2019 - The Official Motocross Videogame",
+      "appid": "BNSRQV4C66X9",
+      "name": "Ys Origin",
       "discount": 90,
-      "orig_cents": 2499,
-      "final_cents": 249,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "2,49 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "C4MSTXCKBXGL",
-      "name": "Ride 2",
-      "discount": 90,
-      "orig_cents": 2999,
-      "final_cents": 299,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "2,99 €",
+      "orig_cents": 1999,
+      "final_cents": 199,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "1,99 €",
       "gamepass": ""
     },
     {
@@ -31,23 +21,13 @@
       "gamepass": ""
     },
     {
-      "appid": "9MWDKL3SD6D9",
-      "name": "HOT WHEELS UNLEASHED™ 2 - Turbocharged",
+      "appid": "BQJKD0DJ1Q8J",
+      "name": "Kingdom Come: Deliverance - Royal Edition",
       "discount": 85,
       "orig_cents": 3999,
       "final_cents": 599,
       "orig_price_str": "39,99 €",
       "final_price_str": "5,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9N3ZBMK6BMQL",
-      "name": "HOT WHEELS UNLEASHED™ 2 - Turbocharged - Legendary Edition",
-      "discount": 85,
-      "orig_cents": 7999,
-      "final_cents": 1199,
-      "orig_price_str": "79,99 €",
-      "final_price_str": "11,99 €",
       "gamepass": ""
     },
     {
@@ -59,16 +39,6 @@
       "orig_price_str": "19,99 €",
       "final_price_str": "3,99 €",
       "gamepass": ""
-    },
-    {
-      "appid": "BXBJQ1932138",
-      "name": "theHunter: Call of the Wild™",
-      "discount": 80,
-      "orig_cents": 2999,
-      "final_cents": 599,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "5,99 €",
-      "gamepass": "PC + Xbox"
     },
     {
       "appid": "9P6QRRZQKPCM",
@@ -91,16 +61,6 @@
       "gamepass": ""
     },
     {
-      "appid": "C37XBX7DCBZ0",
-      "name": "Descenders",
-      "discount": 75,
-      "orig_cents": 2499,
-      "final_cents": 624,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "6,24 €",
-      "gamepass": "PC + Xbox"
-    },
-    {
       "appid": "9P9M35WVGCK9",
       "name": "FATAL FURY: City of the Wolves",
       "discount": 75,
@@ -111,13 +71,13 @@
       "gamepass": ""
     },
     {
-      "appid": "9MTW722JFZ5Z",
-      "name": "Crysis Remastered Trilogy",
+      "appid": "9N7H54KNCB9N",
+      "name": "Streets of Rage 4",
       "discount": 75,
-      "orig_cents": 4999,
-      "final_cents": 1249,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "12,49 €",
+      "orig_cents": 2499,
+      "final_cents": 624,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "6,24 €",
       "gamepass": ""
     },
     {
@@ -161,6 +121,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9N23R0GN20XH",
+      "name": "Brothers: A Tale of Two Sons Remake",
+      "discount": 60,
+      "orig_cents": 1999,
+      "final_cents": 799,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "7,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "BTNPS60N3114",
       "name": "Terraria",
       "discount": 50,
@@ -169,6 +139,16 @@
       "orig_price_str": "18,99 €",
       "final_price_str": "9,49 €",
       "gamepass": "Xbox"
+    },
+    {
+      "appid": "9NFJRH7WM33M",
+      "name": "EA SPORTS™ Madden NFL 27 Deluxe Edition",
+      "discount": 50,
+      "orig_cents": 10999,
+      "final_cents": 5500,
+      "orig_price_str": "109,99 €",
+      "final_price_str": "55,00 €",
+      "gamepass": ""
     },
     {
       "appid": "9NPF9F0DCVKS",
@@ -181,13 +161,13 @@
       "gamepass": ""
     },
     {
-      "appid": "9NJ67TQQ51Z0",
-      "name": "Super Meat Boy 3D",
-      "discount": 30,
-      "orig_cents": 2499,
-      "final_cents": 1749,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "17,49 €",
+      "appid": "9N9K5QP9G3GL",
+      "name": "VOID/BREAKER",
+      "discount": 40,
+      "orig_cents": 2699,
+      "final_cents": 1619,
+      "orig_price_str": "26,99 €",
+      "final_price_str": "16,19 €",
       "gamepass": "PC + Xbox"
     },
     {
@@ -221,6 +201,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9P31X50D793N",
+      "name": "Outbreak: Dead City",
+      "discount": 20,
+      "orig_cents": 699,
+      "final_cents": 559,
+      "orig_price_str": "6,99 €",
+      "final_price_str": "5,59 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9P37QQCPTR8M",
       "name": "SULFUR",
       "discount": 10,
@@ -251,5 +241,5 @@
       "gamepass": "PC + Xbox"
     }
   ],
-  "total": 1300
+  "total": 394
 }

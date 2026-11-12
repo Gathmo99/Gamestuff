@@ -1251,16 +1251,6 @@
       "final_price_str": "7,59 €"
     },
     {
-      "appid": "4e3d5037dc5243aea8adc86cce6d5959",
-      "namespace": "4df70e25212147adbc26babedbf5e0e6",
-      "name": "The Wolf Among Us Remastered",
-      "discount": 20,
-      "orig_cents": 2239,
-      "final_cents": 1791,
-      "orig_price_str": "22,39 €",
-      "final_price_str": "17,91 €"
-    },
-    {
       "appid": "9c9fa19ac55540b0a3a34fb5a04dc878",
       "namespace": "be2ee7c181224d40a466c6219a27097f",
       "name": "Football Agent",
@@ -1411,5 +1401,5 @@
       "final_price_str": "9,71 €"
     }
   ],
-  "total": 142
+  "total": 141
 }
