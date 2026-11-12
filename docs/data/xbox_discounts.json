@@ -21,16 +21,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9MWZ8JV5TSQG",
-      "name": "Tormented Souls",
-      "discount": 90,
-      "orig_cents": 1999,
-      "final_cents": 199,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "1,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "C3FDP0NTC0JM",
       "name": "Turok",
       "discount": 85,
@@ -128,6 +118,16 @@
       "final_cents": 1249,
       "orig_price_str": "49,99 €",
       "final_price_str": "12,49 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9N0102B834ZM",
+      "name": "Fantasy Dash",
+      "discount": 68,
+      "orig_cents": 309,
+      "final_cents": 99,
+      "orig_price_str": "3,09 €",
+      "final_price_str": "0,99 €",
       "gamepass": ""
     },
     {
@@ -251,5 +251,5 @@
       "gamepass": "PC + Xbox"
     }
   ],
-  "total": 1276
+  "total": 1300
 }
