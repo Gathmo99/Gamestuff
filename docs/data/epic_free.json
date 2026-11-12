@@ -1,16 +1,10 @@
 {
   "items": [
     {
-      "appid": "a9748abde1c94b66aae5250bb9fc5503",
-      "name": "Idle Champions of the Forgotten Realms",
-      "orig_cents": 0,
-      "orig_price_str": "0,00 €"
-    },
-    {
-      "appid": "3be0a0d8479946d78f60d90c9442a0b4",
-      "name": "Flotsam",
-      "orig_cents": 2299,
-      "orig_price_str": "22,99 €"
+      "appid": "9975548b6d404a94b8a9bdb34cad49e9",
+      "name": "Knightica",
+      "orig_cents": 1349,
+      "orig_price_str": "13,49 €"
     }
   ]
 }

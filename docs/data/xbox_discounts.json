@@ -11,6 +11,16 @@
       "gamepass": ""
     },
     {
+      "appid": "BRGLM9V090GW",
+      "name": "Homefront®: The Revolution",
+      "discount": 90,
+      "orig_cents": 1999,
+      "final_cents": 199,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "1,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "C3FDP0NTC0JM",
       "name": "Turok",
       "discount": 85,
@@ -33,6 +43,16 @@
     {
       "appid": "9N3K69GS7FWR",
       "name": "PAYDAY 2: CRIMEWAVE EDITION",
+      "discount": 80,
+      "orig_cents": 1999,
+      "final_cents": 399,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "3,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "BRHB1G8F8ZCB",
+      "name": "Bus Simulator",
       "discount": 80,
       "orig_cents": 1999,
       "final_cents": 399,
@@ -101,16 +121,6 @@
       "gamepass": "PC + Xbox"
     },
     {
-      "appid": "9PMQDM08SNK9",
-      "name": "Microsoft Flight Simulator (2020) Standard 40th Anniversary Edition",
-      "discount": 65,
-      "orig_cents": 6999,
-      "final_cents": 2449,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "24,49 €",
-      "gamepass": "PC + Xbox"
-    },
-    {
       "appid": "9MVMPHF8NKHB",
       "name": "IXION",
       "discount": 65,
@@ -121,14 +131,14 @@
       "gamepass": ""
     },
     {
-      "appid": "9N23R0GN20XH",
-      "name": "Brothers: A Tale of Two Sons Remake",
-      "discount": 60,
-      "orig_cents": 1999,
-      "final_cents": 799,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "7,99 €",
-      "gamepass": ""
+      "appid": "9PMQDM08SNK9",
+      "name": "Microsoft Flight Simulator (2020) Standard 40th Anniversary Edition",
+      "discount": 65,
+      "orig_cents": 6999,
+      "final_cents": 2449,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "24,49 €",
+      "gamepass": "PC + Xbox"
     },
     {
       "appid": "BTNPS60N3114",
@@ -171,6 +181,16 @@
       "gamepass": "PC + Xbox"
     },
     {
+      "appid": "9NJ67TQQ51Z0",
+      "name": "Super Meat Boy 3D",
+      "discount": 30,
+      "orig_cents": 2499,
+      "final_cents": 1749,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "17,49 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
       "appid": "9NDP40GVGC80",
       "name": "The Wolf Among Us Remastered",
       "discount": 20,
@@ -201,18 +221,8 @@
       "gamepass": ""
     },
     {
-      "appid": "9P31X50D793N",
-      "name": "Outbreak: Dead City",
-      "discount": 20,
-      "orig_cents": 699,
-      "final_cents": 559,
-      "orig_price_str": "6,99 €",
-      "final_price_str": "5,59 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9P37QQCPTR8M",
-      "name": "SULFUR",
+      "appid": "9PCW6X6ZQP4Z",
+      "name": "Shrek 2 Remastered",
       "discount": 10,
       "orig_cents": 2999,
       "final_cents": 2699,
@@ -221,8 +231,8 @@
       "gamepass": ""
     },
     {
-      "appid": "9PCW6X6ZQP4Z",
-      "name": "Shrek 2 Remastered",
+      "appid": "9P37QQCPTR8M",
+      "name": "SULFUR",
       "discount": 10,
       "orig_cents": 2999,
       "final_cents": 2699,
@@ -241,5 +251,5 @@
       "gamepass": "PC + Xbox"
     }
   ],
-  "total": 394
+  "total": 558
 }
