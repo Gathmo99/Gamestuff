@@ -11,43 +11,13 @@
       "gamepass": ""
     },
     {
-      "appid": "BRGLM9V090GW",
-      "name": "Homefront®: The Revolution",
+      "appid": "9N7TB1SB2M0K",
+      "name": "Pumpkin Jack",
       "discount": 90,
-      "orig_cents": 1999,
-      "final_cents": 199,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "1,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "C3FDP0NTC0JM",
-      "name": "Turok",
-      "discount": 85,
-      "orig_cents": 1999,
+      "orig_cents": 2999,
       "final_cents": 299,
-      "orig_price_str": "19,99 €",
+      "orig_price_str": "29,99 €",
       "final_price_str": "2,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "BQJKD0DJ1Q8J",
-      "name": "Kingdom Come: Deliverance - Royal Edition",
-      "discount": 85,
-      "orig_cents": 3999,
-      "final_cents": 599,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "5,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9N3K69GS7FWR",
-      "name": "PAYDAY 2: CRIMEWAVE EDITION",
-      "discount": 80,
-      "orig_cents": 1999,
-      "final_cents": 399,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "3,99 €",
       "gamepass": ""
     },
     {
@@ -58,26 +28,6 @@
       "final_cents": 399,
       "orig_price_str": "19,99 €",
       "final_price_str": "3,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9P6QRRZQKPCM",
-      "name": "Assetto Corsa Competizione",
-      "discount": 75,
-      "orig_cents": 3999,
-      "final_cents": 999,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "9,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "C27H5T4HD4WW",
-      "name": "Assetto Corsa",
-      "discount": 75,
-      "orig_cents": 2999,
-      "final_cents": 749,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "7,49 €",
       "gamepass": ""
     },
     {
@@ -101,6 +51,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9P0NPLQ9P1DB",
+      "name": "Police Simulator: Patrol Officers",
+      "discount": 70,
+      "orig_cents": 2999,
+      "final_cents": 899,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "8,99 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
       "appid": "9N0102B834ZM",
       "name": "Fantasy Dash",
       "discount": 68,
@@ -109,16 +69,6 @@
       "orig_price_str": "3,09 €",
       "final_price_str": "0,99 €",
       "gamepass": ""
-    },
-    {
-      "appid": "9NQGN8TGNT8P",
-      "name": "DEATH STRANDING DIRECTOR'S CUT",
-      "discount": 65,
-      "orig_cents": 3999,
-      "final_cents": 1399,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "13,99 €",
-      "gamepass": "PC + Xbox"
     },
     {
       "appid": "9MVMPHF8NKHB",
@@ -131,24 +81,14 @@
       "gamepass": ""
     },
     {
-      "appid": "9PMQDM08SNK9",
-      "name": "Microsoft Flight Simulator (2020) Standard 40th Anniversary Edition",
-      "discount": 65,
-      "orig_cents": 6999,
-      "final_cents": 2449,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "24,49 €",
-      "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "BTNPS60N3114",
-      "name": "Terraria",
-      "discount": 50,
-      "orig_cents": 1899,
-      "final_cents": 949,
-      "orig_price_str": "18,99 €",
-      "final_price_str": "9,49 €",
-      "gamepass": "Xbox"
+      "appid": "9NS3673HVH41",
+      "name": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+      "discount": 60,
+      "orig_cents": 2499,
+      "final_cents": 999,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "9,99 €",
+      "gamepass": ""
     },
     {
       "appid": "9NFJRH7WM33M",
@@ -158,6 +98,16 @@
       "final_cents": 5500,
       "orig_price_str": "109,99 €",
       "final_price_str": "55,00 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9P7RW7V55LF0",
+      "name": "Starship Troopers: Ultimate Bug War!",
+      "discount": 50,
+      "orig_cents": 2499,
+      "final_cents": 1249,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "12,49 €",
       "gamepass": ""
     },
     {
@@ -181,6 +131,26 @@
       "gamepass": "PC + Xbox"
     },
     {
+      "appid": "9NL6BB89092T",
+      "name": "The Cabin Factory",
+      "discount": 40,
+      "orig_cents": 299,
+      "final_cents": 179,
+      "orig_price_str": "2,99 €",
+      "final_price_str": "1,79 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NPZVDCH73SX",
+      "name": "PAYDAY 3",
+      "discount": 35,
+      "orig_cents": 2849,
+      "final_cents": 1851,
+      "orig_price_str": "28,49 €",
+      "final_price_str": "18,51 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9NJ67TQQ51Z0",
       "name": "Super Meat Boy 3D",
       "discount": 30,
@@ -201,13 +171,23 @@
       "gamepass": "PC + Xbox"
     },
     {
-      "appid": "9NDP40GVGC80",
-      "name": "The Wolf Among Us Remastered",
-      "discount": 20,
-      "orig_cents": 2499,
-      "final_cents": 1999,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "19,99 €",
+      "appid": "9N4XW3N02MNJ",
+      "name": "Forza Horizon 6 Premium Edition",
+      "discount": 25,
+      "orig_cents": 11999,
+      "final_cents": 8999,
+      "orig_price_str": "119,99 €",
+      "final_price_str": "89,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NZFTFQFKJJP",
+      "name": "Forza Horizon 6 Premium Upgrade",
+      "discount": 25,
+      "orig_cents": 5999,
+      "final_cents": 4499,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "44,99 €",
       "gamepass": ""
     },
     {
@@ -231,6 +211,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9P31X50D793N",
+      "name": "Outbreak: Dead City",
+      "discount": 20,
+      "orig_cents": 699,
+      "final_cents": 559,
+      "orig_price_str": "6,99 €",
+      "final_price_str": "5,59 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9PCW6X6ZQP4Z",
       "name": "Shrek 2 Remastered",
       "discount": 10,
@@ -249,7 +239,17 @@
       "orig_price_str": "29,99 €",
       "final_price_str": "26,99 €",
       "gamepass": ""
+    },
+    {
+      "appid": "9MZZWGTF7V65",
+      "name": "Warhammer Survivors",
+      "discount": 10,
+      "orig_cents": 749,
+      "final_cents": 674,
+      "orig_price_str": "7,49 €",
+      "final_price_str": "6,74 €",
+      "gamepass": "PC + Xbox"
     }
   ],
-  "total": 575
+  "total": 499
 }
