@@ -221,6 +221,16 @@
       "final_price_str": "3,59 €"
     },
     {
+      "appid": "49f79b03b9b14637b10a1ceb7e17365d",
+      "namespace": "e60e3740ad664323a65ff6d933f3869f",
+      "name": "KeepUp Survival",
+      "discount": 80,
+      "orig_cents": 1479,
+      "final_cents": 295,
+      "orig_price_str": "14,79 €",
+      "final_price_str": "2,95 €"
+    },
+    {
       "appid": "3d10f32b87b94b769524cd44a12e634a",
       "namespace": "aca2ee0619aa482791f0a71dbf3eeac0",
       "name": "Rustler - Grand Theft Horse",
@@ -2481,16 +2491,6 @@
       "final_price_str": "12,05 €"
     },
     {
-      "appid": "f387a4fe3cee4637a741213657b31dd9",
-      "namespace": "b31dae0dd2a34dcfa4c326936f5fe69c",
-      "name": "Crazy Poke Button",
-      "discount": 30,
-      "orig_cents": 449,
-      "final_cents": 314,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "3,14 €"
-    },
-    {
       "appid": "af0bac92ab4c4c0f9ed6b36025916ded",
       "namespace": "095f6c7801d14240b31e732cc3e87008",
       "name": "Fell in love with coser 15",
@@ -2751,6 +2751,16 @@
       "final_price_str": "3,81 €"
     },
     {
+      "appid": "a8c35b8d2fa44f588209e93a29da2598",
+      "namespace": "061f20118c354f0c8b0970a3e1959871",
+      "name": "Falling in love with stockings 6",
+      "discount": 15,
+      "orig_cents": 449,
+      "final_cents": 381,
+      "orig_price_str": "4,49 €",
+      "final_price_str": "3,81 €"
+    },
+    {
       "appid": "57237655472c422082c06251e5e48b1e",
       "namespace": "fee1c2bb12e5436cac8270f734331a04",
       "name": "Tropico 7",
@@ -2811,5 +2821,5 @@
       "final_price_str": "9,71 €"
     }
   ],
-  "total": 282
+  "total": 283
 }
