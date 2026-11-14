@@ -1041,16 +1041,6 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "1c5c874bddb84ef39a73db4775f7a62b",
-      "namespace": "d2e839fc4fa14081863f8037f056a6e2",
-      "name": "NODE: Der letzte Gesandte der Antarii",
-      "discount": 60,
-      "orig_cents": 2239,
-      "final_cents": 895,
-      "orig_price_str": "22,39 €",
-      "final_price_str": "8,95 €"
-    },
-    {
       "appid": "cb39df28cd994e53a6252194d3683099",
       "namespace": "0e761952669c4b27921a9a83a995d517",
       "name": "Deathless. The Hero Quest",
@@ -2701,5 +2691,5 @@
       "final_price_str": "9,71 €"
     }
   ],
-  "total": 271
+  "total": 270
 }
