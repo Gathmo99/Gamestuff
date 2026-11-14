@@ -691,16 +691,6 @@
       "final_price_str": "14,99 €"
     },
     {
-      "appid": "1cfc3e68b14940719bbc0bce58fae8a4",
-      "namespace": "78683b0edafd4a978a5ab61a7f6b0594",
-      "name": "Tunche",
-      "discount": 75,
-      "orig_cents": 1999,
-      "final_cents": 499,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "4,99 €"
-    },
-    {
       "appid": "b5fd42e064484438b11cebb2991a9c2f",
       "namespace": "de5dba249c30453f86061fe2dcbd5e82",
       "name": "Niche - a genetics survival game",
@@ -831,26 +821,6 @@
       "final_price_str": "23,99 €"
     },
     {
-      "appid": "5cd29ece07374515a9770ed60a5346fe",
-      "namespace": "a3968b24e9064e17b54aa605e4fc9ffc",
-      "name": "There Is No Light",
-      "discount": 70,
-      "orig_cents": 2499,
-      "final_cents": 749,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "7,49 €"
-    },
-    {
-      "appid": "3556f8ab62db457db81a14286cb94d05",
-      "namespace": "93526c99c8d14d708b0c858e55b1aea1",
-      "name": "Jack Move",
-      "discount": 70,
-      "orig_cents": 1999,
-      "final_cents": 599,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "5,99 €"
-    },
-    {
       "appid": "618061bfbbf741c899c1b8cbfbeb94dd",
       "namespace": "7c28c10036b04d78b04f614e21e116e3",
       "name": "Onsen Master",
@@ -929,16 +899,6 @@
       "final_cents": 1199,
       "orig_price_str": "39,99 €",
       "final_price_str": "11,99 €"
-    },
-    {
-      "appid": "0bce0871129140d894da3789e2fe0a7f",
-      "namespace": "8211dc6089af4542926b7a8137b9079e",
-      "name": "Black Book",
-      "discount": 70,
-      "orig_cents": 2499,
-      "final_cents": 749,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "7,49 €"
     },
     {
       "appid": "67679df14cde44fbbf295f60a74954f9",
@@ -1031,16 +991,6 @@
       "final_price_str": "0,91 €"
     },
     {
-      "appid": "e6958dc0e1fe43a38cca9eab6bb96aca",
-      "namespace": "014e225d587d41ea80c0adb3f33041d0",
-      "name": "Stormedge",
-      "discount": 65,
-      "orig_cents": 1499,
-      "final_cents": 524,
-      "orig_price_str": "14,99 €",
-      "final_price_str": "5,24 €"
-    },
-    {
       "appid": "34b04246db5f42ac8b93a1a13ee89208",
       "namespace": "c21d21b921bb4c23bf93ab40b636d69b",
       "name": "Empire of the Gods",
@@ -1049,16 +999,6 @@
       "final_cents": 94,
       "orig_price_str": "2,69 €",
       "final_price_str": "0,94 €"
-    },
-    {
-      "appid": "d0a18192b7ef4c5e962b8fd9858464b1",
-      "namespace": "8618da9904ad41ad951fcc470d1873cb",
-      "name": "SuchArt: Genius Artist Simulator",
-      "discount": 65,
-      "orig_cents": 2499,
-      "final_cents": 874,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "8,74 €"
     },
     {
       "appid": "82c323ee570a4c928a151493804d8e8a",
@@ -1294,16 +1234,6 @@
       "appid": "a0a4e6460d4548b38f100b31764dcacf",
       "namespace": "46abcd0cbb8d49929e8cadd50d666547",
       "name": "Commando:  Hell's Target 3D",
-      "discount": 55,
-      "orig_cents": 89,
-      "final_cents": 40,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,40 €"
-    },
-    {
-      "appid": "d00f4c29c794458580a0855d3543bfb4",
-      "namespace": "4435a2c4b1224ce6b91e4cb182c52f4c",
-      "name": "Commando:  Heart Of Terror",
       "discount": 55,
       "orig_cents": 89,
       "final_cents": 40,
@@ -2221,16 +2151,6 @@
       "final_price_str": "0,89 €"
     },
     {
-      "appid": "e5da2c017d4d4afab9f4c56525b66100",
-      "namespace": "740ba4a6fbed4062a9c43d52c5996b0b",
-      "name": "Nova Lands",
-      "discount": 50,
-      "orig_cents": 1999,
-      "final_cents": 999,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "9,99 €"
-    },
-    {
       "appid": "1dc837b54f2a4b71884f0ce9e27de731",
       "namespace": "f853934fb6874d8783701be12ba6b8b9",
       "name": "Life Changer",
@@ -2259,16 +2179,6 @@
       "final_cents": 1349,
       "orig_price_str": "26,99 €",
       "final_price_str": "13,49 €"
-    },
-    {
-      "appid": "5983c2f9661442d29ae33fd742a25141",
-      "namespace": "301ec0fdbcaf46b3af9322e436ac87bd",
-      "name": "Voidtrain",
-      "discount": 50,
-      "orig_cents": 2999,
-      "final_cents": 1499,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "14,99 €"
     },
     {
       "appid": "0c90d229f27a4251beee8b4776a8fb44",
@@ -2621,16 +2531,6 @@
       "final_price_str": "7,59 €"
     },
     {
-      "appid": "9c9fa19ac55540b0a3a34fb5a04dc878",
-      "namespace": "be2ee7c181224d40a466c6219a27097f",
-      "name": "Football Agent",
-      "discount": 20,
-      "orig_cents": 1225,
-      "final_cents": 980,
-      "orig_price_str": "12,25 €",
-      "final_price_str": "9,80 €"
-    },
-    {
       "appid": "1e09d20cfb7f4687b42f7f59b8ec8b1c",
       "namespace": "38fe2fb2c7954c728d23db52a48b891c",
       "name": "Tale of Beauty",
@@ -2639,16 +2539,6 @@
       "final_cents": 2159,
       "orig_price_str": "26,99 €",
       "final_price_str": "21,59 €"
-    },
-    {
-      "appid": "7d0ce32cee924c30bb72c08a85ebe57b",
-      "namespace": "09018ada7be84adba85480017027d1e7",
-      "name": "Breathedge 2",
-      "discount": 20,
-      "orig_cents": 1999,
-      "final_cents": 1599,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "15,99 €"
     },
     {
       "appid": "67ff263557474b96b1778a3fbef3c320",
@@ -2731,16 +2621,6 @@
       "final_price_str": "24,06 €"
     },
     {
-      "appid": "401f99199c2841f3be7a7b18f963a631",
-      "namespace": "a8674af0df384b16a8b980932ab6e959",
-      "name": "Ballerspiel",
-      "discount": 15,
-      "orig_cents": 449,
-      "final_cents": 381,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "3,81 €"
-    },
-    {
       "appid": "a8c35b8d2fa44f588209e93a29da2598",
       "namespace": "061f20118c354f0c8b0970a3e1959871",
       "name": "Falling in love with stockings 6",
@@ -2821,5 +2701,5 @@
       "final_price_str": "9,71 €"
     }
   ],
-  "total": 283
+  "total": 271
 }

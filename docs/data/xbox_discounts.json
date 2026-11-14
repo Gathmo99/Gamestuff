@@ -201,16 +201,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9NXZ0JNC5ZPR",
-      "name": "Carry The Glass",
-      "discount": 20,
-      "orig_cents": 599,
-      "final_cents": 479,
-      "orig_price_str": "5,99 €",
-      "final_price_str": "4,79 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9P31X50D793N",
       "name": "Outbreak: Dead City",
       "discount": 20,
@@ -249,7 +239,17 @@
       "orig_price_str": "7,49 €",
       "final_price_str": "6,74 €",
       "gamepass": "PC + Xbox"
+    },
+    {
+      "appid": "9N2QMT5KJ917",
+      "name": "Ice Cream Simulator",
+      "discount": 10,
+      "orig_cents": 999,
+      "final_cents": 899,
+      "orig_price_str": "9,99 €",
+      "final_price_str": "8,99 €",
+      "gamepass": ""
     }
   ],
-  "total": 501
+  "total": 494
 }
