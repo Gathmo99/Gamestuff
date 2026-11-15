@@ -1031,16 +1031,6 @@
       "final_price_str": "3,99 €"
     },
     {
-      "appid": "cb39df28cd994e53a6252194d3683099",
-      "namespace": "0e761952669c4b27921a9a83a995d517",
-      "name": "Deathless. The Hero Quest",
-      "discount": 60,
-      "orig_cents": 2239,
-      "final_cents": 895,
-      "orig_price_str": "22,39 €",
-      "final_price_str": "8,95 €"
-    },
-    {
       "appid": "14ebe37d1a34437ea29162bd8684cb97",
       "namespace": "845587cb91e54ce6b682d4c9975c8b07",
       "name": "FINAL FANTASY XVI",
@@ -1194,16 +1184,6 @@
       "appid": "a84b48e0eb1847ac8abc67f3c97495ef",
       "namespace": "074e82d763df4a4d8c5f66f98f2d8178",
       "name": "COMMANDO INFERNO",
-      "discount": 55,
-      "orig_cents": 89,
-      "final_cents": 40,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,40 €"
-    },
-    {
-      "appid": "5e7015b65e174329a90b50fc90194224",
-      "namespace": "bd440f08d4d044dbad86cf12f273f744",
-      "name": "Krogger Skull Killer",
       "discount": 55,
       "orig_cents": 89,
       "final_cents": 40,
@@ -2721,5 +2701,5 @@
       "final_price_str": "9,71 €"
     }
   ],
-  "total": 273
+  "total": 270
 }
