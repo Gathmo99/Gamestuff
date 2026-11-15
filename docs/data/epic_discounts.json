@@ -401,16 +401,6 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "643b7a2210bb4f4f97d5c96b6af3995f",
-      "namespace": "08c03f2a2b794478a6b73c0a3e9b2b29",
-      "name": "Bud Spencer and Terence Hill – Slaps and Beans",
-      "discount": 78,
-      "orig_cents": 1998,
-      "final_cents": 439,
-      "orig_price_str": "19,98 €",
-      "final_price_str": "4,39 €"
-    },
-    {
       "appid": "1f33eb0a73a540aba513bb14ac83a111",
       "namespace": "34307b9984864de38a7d69c2be9a4f67",
       "name": "RAILWAY ISLANDS 2",
@@ -419,6 +409,16 @@
       "final_cents": 112,
       "orig_price_str": "4,49 €",
       "final_price_str": "1,12 €"
+    },
+    {
+      "appid": "fb08eca7e2bf4b9d9ec81741bd4cca7a",
+      "namespace": "a7f4119f59764bfa99910c8f232a6878",
+      "name": "Hot American Dream",
+      "discount": 75,
+      "orig_cents": 179,
+      "final_cents": 44,
+      "orig_price_str": "1,79 €",
+      "final_price_str": "0,44 €"
     },
     {
       "appid": "3c8828ef1eb9429bb143f4b58b5138cc",
@@ -454,16 +454,6 @@
       "appid": "abcfae76a18c401c8ae5b37c759f8e16",
       "namespace": "095bb72741aa4e18a069ce0d2739e941",
       "name": "DOORS OF HORROR",
-      "discount": 75,
-      "orig_cents": 179,
-      "final_cents": 44,
-      "orig_price_str": "1,79 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "8fd0a802ed5748119282bd1bb2a5be34",
-      "namespace": "5da4301570a24f5b866aeae92569e5e4",
-      "name": "MUSHROOMAN",
       "discount": 75,
       "orig_cents": 179,
       "final_cents": 44,
@@ -1321,16 +1311,6 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "a1ef8a92dd8b450ba4472b3cbf424b0c",
-      "namespace": "5ca95d21db94459293b04fe3799945e6",
-      "name": "100 Nights In The Forest",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
       "appid": "2f041cd8ecfe48fca5606b683fe0e91d",
       "namespace": "dcb16ef0b51f4408bc3509553d0c264b",
       "name": "Super Wash Simulator",
@@ -1411,9 +1391,39 @@
       "final_price_str": "0,44 €"
     },
     {
+      "appid": "2b9e9cf8a31a4d97b20e83d78165d2e7",
+      "namespace": "15a55855478c4cc4b308b47b5fcddc83",
+      "name": "Clown Eyes: Dead Park",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
       "appid": "81c8cc0daf724268aea2174c2c386624",
       "namespace": "469a0b93db634bf1850919d8109ced6e",
       "name": "Town Market Simulator 2025",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "fec758a1163641e4b2764e6de6dc2de3",
+      "namespace": "60729ae90fb84063808cac360e5a6c68",
+      "name": "Build From Block",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "b931ef10acf4499f9dffcc3d8b9a2ddf",
+      "namespace": "02a7abe0a4c74a5281b526d92f43ee37",
+      "name": "Neon Driver",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1949,6 +1959,26 @@
       "final_cents": 134,
       "orig_price_str": "2,69 €",
       "final_price_str": "1,34 €"
+    },
+    {
+      "appid": "cdee71d3c2fb45eda38d9299f0e9650d",
+      "namespace": "d8c9fe16edfc483a83f91659f95b5617",
+      "name": "Katana Dragon",
+      "discount": 50,
+      "orig_cents": 899,
+      "final_cents": 449,
+      "orig_price_str": "8,99 €",
+      "final_price_str": "4,49 €"
+    },
+    {
+      "appid": "190db1f7c1d041b997eb01000fb5baf4",
+      "namespace": "4684202932724e268fa1a1cadadc2739",
+      "name": "Sengodai",
+      "discount": 50,
+      "orig_cents": 899,
+      "final_cents": 449,
+      "orig_price_str": "8,99 €",
+      "final_price_str": "4,49 €"
     },
     {
       "appid": "a223b55ac4e342919710676a714489e8",
@@ -2691,5 +2721,5 @@
       "final_price_str": "9,71 €"
     }
   ],
-  "total": 270
+  "total": 273
 }
