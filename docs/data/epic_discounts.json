@@ -1201,6 +1201,16 @@
       "final_price_str": "0,40 €"
     },
     {
+      "appid": "4ec623416d28451597134bcf7f8ed0be",
+      "namespace": "589110469e4348528f797f6e35dc0b1c",
+      "name": "Chess Online: Grandmaster's Table",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
       "appid": "085acd039fec41a29bb61a046e039ef0",
       "namespace": "17e842dd1bc54686bb72b503b8c12a2b",
       "name": "Mini Heroes: Squad Online",
@@ -1981,6 +1991,16 @@
       "final_price_str": "2,24 €"
     },
     {
+      "appid": "1dd7c19f45cc4e919e64662763817771",
+      "namespace": "e406b39e8d4e48ccaaa8873961d51717",
+      "name": "The Lost On The Street: Gold Edition",
+      "discount": 50,
+      "orig_cents": 899,
+      "final_cents": 449,
+      "orig_price_str": "8,99 €",
+      "final_price_str": "4,49 €"
+    },
+    {
       "appid": "ec633294d32445fabb99e5ee96173cf9",
       "namespace": "e641f0204a0e43498f55f89876172fcb",
       "name": "ARC SEED",
@@ -2711,5 +2731,5 @@
       "final_price_str": "9,71 €"
     }
   ],
-  "total": 271
+  "total": 273
 }
