@@ -19,7 +19,7 @@
       "final_price_str": "8,49 €"
     },
     {
-      "appid": "EP6665-PPSA07302_00-VTMS000000000000",
+      "appid": "EP6665-CUSA33241_00-VTMS000000000000",
       "name": "Vampire: The Masquerade - Swansong",
       "discount": 90,
       "orig_cents": 2999,
@@ -28,7 +28,7 @@
       "final_price_str": "2,99 €"
     },
     {
-      "appid": "EP6665-CUSA33241_00-VTMS000000000000",
+      "appid": "EP6665-PPSA07302_00-VTMS000000000000",
       "name": "Vampire: The Masquerade - Swansong",
       "discount": 90,
       "orig_cents": 2999,
@@ -523,7 +523,7 @@
       "final_price_str": "4,99 €"
     },
     {
-      "appid": "EP8026-PPSA06408_00-6769334895654571",
+      "appid": "EP8026-CUSA32095_00-7260435753656631",
       "name": "Trifox",
       "discount": 75,
       "orig_cents": 1999,
@@ -532,7 +532,7 @@
       "final_price_str": "4,99 €"
     },
     {
-      "appid": "EP8026-CUSA32095_00-7260435753656631",
+      "appid": "EP8026-PPSA06408_00-6769334895654571",
       "name": "Trifox",
       "discount": 75,
       "orig_cents": 1999,
@@ -2584,15 +2584,6 @@
       "final_price_str": "5,59 €"
     },
     {
-      "appid": "EP4312-CUSA34426_00-6972559664657494",
-      "name": "Burger Fun",
-      "discount": 30,
-      "orig_cents": 359,
-      "final_cents": 251,
-      "orig_price_str": "3,59 €",
-      "final_price_str": "2,51 €"
-    },
-    {
       "appid": "EP4312-PPSA08370_00-0184769801435278",
       "name": "Burger Fun",
       "discount": 30,
@@ -2600,6 +2591,15 @@
       "final_cents": 244,
       "orig_price_str": "3,49 €",
       "final_price_str": "2,44 €"
+    },
+    {
+      "appid": "EP4312-CUSA34426_00-6972559664657494",
+      "name": "Burger Fun",
+      "discount": 30,
+      "orig_cents": 359,
+      "final_cents": 251,
+      "orig_price_str": "3,59 €",
+      "final_price_str": "2,51 €"
     },
     {
       "appid": "EP0006-CUSA09216_00-TS4GP12000000000",

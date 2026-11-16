@@ -431,16 +431,6 @@
       "final_price_str": "4,99 €"
     },
     {
-      "appid": "0b252197298441ffa1bc91f8f353e443",
-      "namespace": "658d7b77a4d8466a882f0ca7782430fc",
-      "name": "Afterschool: Reel Danger",
-      "discount": 75,
-      "orig_cents": 359,
-      "final_cents": 89,
-      "orig_price_str": "3,59 €",
-      "final_price_str": "0,89 €"
-    },
-    {
       "appid": "904a631b58f9404380fe3264d7a57d07",
       "namespace": "b45f430ecdbf4b9f9c764c0851ad0741",
       "name": "Bodycamera Chase",
@@ -671,6 +661,16 @@
       "final_price_str": "1,49 €"
     },
     {
+      "appid": "cbf39fbbc1394501a5c200d5248c5291",
+      "namespace": "168fc558aeef44a5b9cba5f25b5bb93f",
+      "name": "THE KING OF FIGHTERS XV",
+      "discount": 75,
+      "orig_cents": 2999,
+      "final_cents": 749,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "7,49 €"
+    },
+    {
       "appid": "bb3ce2b4668b4b22aae989f4508f0b71",
       "namespace": "0c321ac6d5fe49139c153253b60702f4",
       "name": "Total War: WARHAMMER",
@@ -809,6 +809,16 @@
       "final_cents": 2399,
       "orig_price_str": "79,99 €",
       "final_price_str": "23,99 €"
+    },
+    {
+      "appid": "4b43b416b82d4043866013f8c606f5e0",
+      "namespace": "50bbaf85f4454b1c88786efeede5b302",
+      "name": "Goat Simulator 3",
+      "discount": 70,
+      "orig_cents": 2999,
+      "final_cents": 899,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "8,99 €"
     },
     {
       "appid": "618061bfbbf741c899c1b8cbfbeb94dd",
@@ -2561,16 +2571,6 @@
       "final_price_str": "7,59 €"
     },
     {
-      "appid": "1e09d20cfb7f4687b42f7f59b8ec8b1c",
-      "namespace": "38fe2fb2c7954c728d23db52a48b891c",
-      "name": "Tale of Beauty",
-      "discount": 20,
-      "orig_cents": 2699,
-      "final_cents": 2159,
-      "orig_price_str": "26,99 €",
-      "final_price_str": "21,59 €"
-    },
-    {
       "appid": "67ff263557474b96b1778a3fbef3c320",
       "namespace": "d77083e05f9542ea87b2dbdc9bd0242e",
       "name": "Warhounds",
@@ -2711,16 +2711,6 @@
       "final_price_str": "26,99 €"
     },
     {
-      "appid": "57acf99d237c4391bc52a1b0d4e780c0",
-      "namespace": "924b42633a79416a8468934606237810",
-      "name": "Cinema Theater Tycoon",
-      "discount": 10,
-      "orig_cents": 1349,
-      "final_cents": 1214,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "12,14 €"
-    },
-    {
       "appid": "2bd5c32fbb914598b8872365439859a2",
       "namespace": "916849adc2fc4f6e974d46d5d87cfb07",
       "name": "Ladies Haven",
@@ -2731,5 +2721,5 @@
       "final_price_str": "9,71 €"
     }
   ],
-  "total": 273
+  "total": 272
 }
