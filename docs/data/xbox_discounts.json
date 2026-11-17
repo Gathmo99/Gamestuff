@@ -11,16 +11,6 @@
       "gamepass": ""
     },
     {
-      "appid": "BNSRQV4C66X9",
-      "name": "Ys Origin",
-      "discount": 90,
-      "orig_cents": 1999,
-      "final_cents": 199,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "1,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9N7TB1SB2M0K",
       "name": "Pumpkin Jack",
       "discount": 90,
@@ -111,16 +101,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9MVMPHF8NKHB",
-      "name": "IXION",
-      "discount": 65,
-      "orig_cents": 3499,
-      "final_cents": 1224,
-      "orig_price_str": "34,99 €",
-      "final_price_str": "12,24 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9NKX70BBCDRN",
       "name": "Forza Horizon 5 Standard Edition",
       "discount": 60,
@@ -151,6 +131,26 @@
       "gamepass": ""
     },
     {
+      "appid": "9N03R8K2VPLB",
+      "name": "Kiosk",
+      "discount": 40,
+      "orig_cents": 399,
+      "final_cents": 239,
+      "orig_price_str": "3,99 €",
+      "final_price_str": "2,39 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9N9K5QP9G3GL",
+      "name": "VOID/BREAKER",
+      "discount": 40,
+      "orig_cents": 2699,
+      "final_cents": 1619,
+      "orig_price_str": "26,99 €",
+      "final_price_str": "16,19 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
       "appid": "9NPZVDCH73SX",
       "name": "PAYDAY 3",
       "discount": 35,
@@ -161,14 +161,14 @@
       "gamepass": ""
     },
     {
-      "appid": "9NJ67TQQ51Z0",
-      "name": "Super Meat Boy 3D",
-      "discount": 30,
-      "orig_cents": 2499,
-      "final_cents": 1749,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "17,49 €",
-      "gamepass": "PC + Xbox"
+      "appid": "9P9Q9QTSG23Q",
+      "name": "Warhammer 40,000: Space Marine 2 - Season Pass 1 + 2",
+      "discount": 25,
+      "orig_cents": 6999,
+      "final_cents": 5249,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "52,49 €",
+      "gamepass": ""
     },
     {
       "appid": "9N431PX143P8",
@@ -211,13 +211,23 @@
       "gamepass": ""
     },
     {
-      "appid": "9PCW6X6ZQP4Z",
-      "name": "Shrek 2 Remastered",
-      "discount": 10,
-      "orig_cents": 2999,
-      "final_cents": 2699,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "26,99 €",
+      "appid": "9P80X661L0QT",
+      "name": "BOMBANANA!",
+      "discount": 20,
+      "orig_cents": 799,
+      "final_cents": 639,
+      "orig_price_str": "7,99 €",
+      "final_price_str": "6,39 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9P31X50D793N",
+      "name": "Outbreak: Dead City",
+      "discount": 20,
+      "orig_cents": 699,
+      "final_cents": 559,
+      "orig_price_str": "6,99 €",
+      "final_price_str": "5,59 €",
       "gamepass": ""
     },
     {
@@ -231,16 +241,6 @@
       "gamepass": "PC + Xbox"
     },
     {
-      "appid": "9P37QQCPTR8M",
-      "name": "SULFUR",
-      "discount": 10,
-      "orig_cents": 2999,
-      "final_cents": 2699,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "26,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9N2QMT5KJ917",
       "name": "Ice Cream Simulator",
       "discount": 10,
@@ -251,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 603
+  "total": 496
 }

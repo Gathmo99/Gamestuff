@@ -51,6 +51,86 @@
       "final_price_str": "0,13 €"
     },
     {
+      "appid": "06842fae9b074c3ca5c15013558806b0",
+      "namespace": "7a91bdd7c9ea41e6b5605baeb399c2ec",
+      "name": "Hell Division",
+      "discount": 95,
+      "orig_cents": 1799,
+      "final_cents": 89,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "0,89 €"
+    },
+    {
+      "appid": "e7d781801f1947e6afc02344a8907d7d",
+      "namespace": "1635e577cf224925a3c0b8e8927c280a",
+      "name": "Shadow of the Matrix: Protocol",
+      "discount": 95,
+      "orig_cents": 1799,
+      "final_cents": 89,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "0,89 €"
+    },
+    {
+      "appid": "ec10c2c159514f649be9536b8dd2c86d",
+      "namespace": "2714efb624174e479ae1d9d3e8d3184f",
+      "name": "Firelight Fantasy: Force Energy",
+      "discount": 95,
+      "orig_cents": 1079,
+      "final_cents": 53,
+      "orig_price_str": "10,79 €",
+      "final_price_str": "0,53 €"
+    },
+    {
+      "appid": "da2244c27ee24759977c8efec26fa659",
+      "namespace": "dcedb432f689463e8ed0d004fb67c5ee",
+      "name": "Dofamine",
+      "discount": 95,
+      "orig_cents": 1349,
+      "final_cents": 67,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "0,67 €"
+    },
+    {
+      "appid": "3dfb61f3a2664c8084e21d5d7a5a5c65",
+      "namespace": "fef01803e2f1468591535ce1709b89b7",
+      "name": "Cybernetic Fault",
+      "discount": 95,
+      "orig_cents": 1799,
+      "final_cents": 89,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "0,89 €"
+    },
+    {
+      "appid": "6e98cd1c12fe47d583301a661e83cc48",
+      "namespace": "18051c2571964edbaeb83f87d12a189c",
+      "name": "Euphoria: Supreme Mechanics",
+      "discount": 95,
+      "orig_cents": 1349,
+      "final_cents": 67,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "0,67 €"
+    },
+    {
+      "appid": "f9417e836f3a432fa7515da1c5d60ecc",
+      "namespace": "8e0b8a0109344a60b68732503eb9c201",
+      "name": "Heavy Burden",
+      "discount": 95,
+      "orig_cents": 1799,
+      "final_cents": 89,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "0,89 €"
+    },
+    {
+      "appid": "34d960ae4b224b1f9a45766db362e530",
+      "namespace": "daed3ae775ab4986a0ce9ec1c3daab83",
+      "name": "The Wraith of the Galaxy",
+      "discount": 95,
+      "orig_cents": 1799,
+      "final_cents": 89,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "0,89 €"
+    },
+    {
       "appid": "77ebe3d0fbd6401999f773a4b9f47b62",
       "namespace": "f02d6ce12fbc4230853a8b067e7e7278",
       "name": "MechDefender",
@@ -89,6 +169,56 @@
       "final_cents": 17,
       "orig_price_str": "3,59 €",
       "final_price_str": "0,17 €"
+    },
+    {
+      "appid": "2995505b91094de6bc91c8ceceb936bc",
+      "namespace": "c3228988620e44fcad49451656a3f5de",
+      "name": "Swords Fantasy: Battlefield",
+      "discount": 94,
+      "orig_cents": 1349,
+      "final_cents": 80,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "0,80 €"
+    },
+    {
+      "appid": "94c5283894184ff58f3e2f63d689019a",
+      "namespace": "23486865955043fa8238874911818e3f",
+      "name": "Synthwave Burnout",
+      "discount": 93,
+      "orig_cents": 899,
+      "final_cents": 62,
+      "orig_price_str": "8,99 €",
+      "final_price_str": "0,62 €"
+    },
+    {
+      "appid": "92884a5b760d4c5faaa5fe912cd5a116",
+      "namespace": "1d8b0901c1794bb3a136a2877b569c5b",
+      "name": "PolyClassic: Wild",
+      "discount": 93,
+      "orig_cents": 899,
+      "final_cents": 62,
+      "orig_price_str": "8,99 €",
+      "final_price_str": "0,62 €"
+    },
+    {
+      "appid": "f83717d25bb14a3c9f5c827a3d2e60da",
+      "namespace": "371b823a2db44deea5ad6467a114abe0",
+      "name": "Never Synth",
+      "discount": 93,
+      "orig_cents": 899,
+      "final_cents": 62,
+      "orig_price_str": "8,99 €",
+      "final_price_str": "0,62 €"
+    },
+    {
+      "appid": "17929458a5b84dcdb443964e84a0920c",
+      "namespace": "d2558c333a3c4f018b8fae8c95ba9e14",
+      "name": "We Are The Dwarves",
+      "discount": 92,
+      "orig_cents": 1079,
+      "final_cents": 86,
+      "orig_price_str": "10,79 €",
+      "final_price_str": "0,86 €"
     },
     {
       "appid": "7c54a54697c143ba8de1f0b13c0c716e",
@@ -2231,6 +2361,16 @@
       "final_price_str": "2,69 €"
     },
     {
+      "appid": "1f5b83084fcb432983c23787ff86ce00",
+      "namespace": "16d039b318c7402094fb574c38b176d6",
+      "name": "RAGDORE",
+      "discount": 40,
+      "orig_cents": 1079,
+      "final_cents": 647,
+      "orig_price_str": "10,79 €",
+      "final_price_str": "6,47 €"
+    },
+    {
       "appid": "157262cd031449628d2bf5a39afd605f",
       "namespace": "bf0ff87e1f254dfcba5268f33036130d",
       "name": "Meganoid 2",
@@ -2591,5 +2731,5 @@
       "final_price_str": "9,71 €"
     }
   ],
-  "total": 259
+  "total": 273
 }
