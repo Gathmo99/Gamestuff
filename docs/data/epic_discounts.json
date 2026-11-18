@@ -2081,6 +2081,16 @@
       "final_price_str": "0,44 €"
     },
     {
+      "appid": "d612327f0d2c46f6ab1b4082876bba0f",
+      "namespace": "36669b93a631455abfc52bbed2c84f8d",
+      "name": "Police Car Escape Simulator",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
       "appid": "1d2caff44e194e028dd2b460c9fc603a",
       "namespace": "8a0536eb35a743da98bbf2ee5fe466ca",
       "name": "Wildacre: Farm Life Simulator",
@@ -2891,6 +2901,16 @@
       "final_price_str": "14,99 €"
     },
     {
+      "appid": "a765dfa2e2284bc5aaeaf6da64a40305",
+      "namespace": "a8a26ebbe8614bcda34e518ff4c74057",
+      "name": "Falling in love with stockings",
+      "discount": 25,
+      "orig_cents": 449,
+      "final_cents": 336,
+      "orig_price_str": "4,49 €",
+      "final_price_str": "3,36 €"
+    },
+    {
       "appid": "be1f65851eaf4ad098bd6937e7bca09c",
       "namespace": "01d3594d0bfe4497a15bc81da2c3f017",
       "name": "Printfarm Simulator",
@@ -2979,27 +2999,7 @@
       "final_cents": 935,
       "orig_price_str": "11,69 €",
       "final_price_str": "9,35 €"
-    },
-    {
-      "appid": "67ff263557474b96b1778a3fbef3c320",
-      "namespace": "d77083e05f9542ea87b2dbdc9bd0242e",
-      "name": "Warhounds",
-      "discount": 20,
-      "orig_cents": 3139,
-      "final_cents": 2511,
-      "orig_price_str": "31,39 €",
-      "final_price_str": "25,11 €"
-    },
-    {
-      "appid": "6290274d41844f50b3a7792661215203",
-      "namespace": "ba735fe6528048b7a4a748c174e40626",
-      "name": "You had a bad dream",
-      "discount": 20,
-      "orig_cents": 499,
-      "final_cents": 399,
-      "orig_price_str": "4,99 €",
-      "final_price_str": "3,99 €"
     }
   ],
-  "total": 417
+  "total": 416
 }
