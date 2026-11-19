@@ -621,16 +621,6 @@
       "final_price_str": "3,05 €"
     },
     {
-      "appid": "7b1ee805e6d1426a8ab1780afaca0718",
-      "namespace": "d107a23c2fef4e429e3a93eb05100bc3",
-      "name": "We Are Not Alone",
-      "discount": 80,
-      "orig_cents": 899,
-      "final_cents": 179,
-      "orig_price_str": "8,99 €",
-      "final_price_str": "1,79 €"
-    },
-    {
       "appid": "21de61702b5842d683ee22fc5dbf80f4",
       "namespace": "1b1c2f4fdabf4227b124d45d3e79d33e",
       "name": "For The Warp",
@@ -909,16 +899,6 @@
       "final_cents": 350,
       "orig_price_str": "11,69 €",
       "final_price_str": "3,50 €"
-    },
-    {
-      "appid": "637b02b5abcc458b9deb85d397facca1",
-      "namespace": "62502c9be51443498f3e4da4a68fc804",
-      "name": "Directive Zero",
-      "discount": 70,
-      "orig_cents": 449,
-      "final_cents": 134,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "1,34 €"
     },
     {
       "appid": "638443031ee54e45865864813e2ce6f0",
@@ -2091,6 +2071,36 @@
       "final_price_str": "0,44 €"
     },
     {
+      "appid": "9e36fc90d9404bce9c00a6f9aca9fa91",
+      "namespace": "028bcd49e55345a5bb0057115154dd6d",
+      "name": "Police Car SUV Simulator",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "570c23e5b3224674a3a0a082644ffb14",
+      "namespace": "81965a5531ee48309b6da807d7fed155",
+      "name": "City Car Parking Simulator",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "d612327f0d2c46f6ab1b4082876bba0f",
+      "namespace": "36669b93a631455abfc52bbed2c84f8d",
+      "name": "Police Car Escape Simulator",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
       "appid": "1d2caff44e194e028dd2b460c9fc603a",
       "namespace": "8a0536eb35a743da98bbf2ee5fe466ca",
       "name": "Wildacre: Farm Life Simulator",
@@ -2951,16 +2961,6 @@
       "final_price_str": "19,99 €"
     },
     {
-      "appid": "a34fa537eb274481b7a32073b77aee01",
-      "namespace": "1933be5c9bd84f1d940c04b9c3e9f73c",
-      "name": "Faraway",
-      "discount": 20,
-      "orig_cents": 949,
-      "final_cents": 759,
-      "orig_price_str": "9,49 €",
-      "final_price_str": "7,59 €"
-    },
-    {
       "appid": "120a513d513c499ba2800c1fe5175f94",
       "namespace": "0c94ba576c16471ebc87f9a969909b27",
       "name": "War Of The Twelve",
@@ -3001,5 +3001,5 @@
       "final_price_str": "9,35 €"
     }
   ],
-  "total": 419
+  "total": 416
 }

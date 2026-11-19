@@ -51,6 +51,16 @@
       "gamepass": ""
     },
     {
+      "appid": "BQ1Q84V1SXCC",
+      "name": "Homefront®: The Revolution 'Freedom Fighter' Bundle",
+      "discount": 90,
+      "orig_cents": 3999,
+      "final_cents": 399,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "3,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "BQ1W1T1FC14W",
       "name": "The Elder Scrolls V: Skyrim Special Edition",
       "discount": 80,
@@ -111,6 +121,16 @@
       "gamepass": ""
     },
     {
+      "appid": "C2WKJJ9F5936",
+      "name": "Fable II",
+      "discount": 67,
+      "orig_cents": 1999,
+      "final_cents": 659,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "6,59 €",
+      "gamepass": "Xbox"
+    },
+    {
       "appid": "9NKX70BBCDRN",
       "name": "Forza Horizon 5 Standard Edition",
       "discount": 60,
@@ -149,16 +169,6 @@
       "orig_price_str": "3,99 €",
       "final_price_str": "2,39 €",
       "gamepass": ""
-    },
-    {
-      "appid": "9N9K5QP9G3GL",
-      "name": "VOID/BREAKER",
-      "discount": 40,
-      "orig_cents": 2699,
-      "final_cents": 1619,
-      "orig_price_str": "26,99 €",
-      "final_price_str": "16,19 €",
-      "gamepass": "PC + Xbox"
     },
     {
       "appid": "9P9Q9QTSG23Q",
@@ -231,16 +241,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9P31X50D793N",
-      "name": "Outbreak: Dead City",
-      "discount": 20,
-      "orig_cents": 699,
-      "final_cents": 559,
-      "orig_price_str": "6,99 €",
-      "final_price_str": "5,59 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9N2QMT5KJ917",
       "name": "Ice Cream Simulator",
       "discount": 10,
@@ -251,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 515
+  "total": 510
 }
