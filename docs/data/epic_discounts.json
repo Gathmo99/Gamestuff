@@ -41,16 +41,6 @@
       "final_price_str": "0,10 €"
     },
     {
-      "appid": "2e1b4da476d9450593a4f966a2f0191f",
-      "namespace": "7b3ddf2a418543d7a29eafb03a0e020e",
-      "name": "Hyper Warehouse Simulator",
-      "discount": 95,
-      "orig_cents": 719,
-      "final_cents": 35,
-      "orig_price_str": "7,19 €",
-      "final_price_str": "0,35 €"
-    },
-    {
       "appid": "c2e1cfa7321d4ca4b619e3e1be8de86f",
       "namespace": "335a2061a040402896e62a5a2c8951b2",
       "name": "Together After Dark",
@@ -1371,16 +1361,6 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "d50e1642b69f4f338f45cf619eecdf45",
-      "namespace": "53523f3916f84e5d9576fa737ecae5e6",
-      "name": "Bunny Battle",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
       "appid": "409d0452a1d14bdc9f2f595429f095d2",
       "namespace": "9facd1d2bb324aab810e28ee63fa6ec5",
       "name": "Flappy Wings Multiplayer",
@@ -2561,6 +2541,16 @@
       "final_price_str": "16,49 €"
     },
     {
+      "appid": "597b5007b7c649998c19e63b6d72bcda",
+      "namespace": "3210382abb4b4b30b18031ff4f712f6d",
+      "name": "Volleyball Coach Simulator 2027",
+      "discount": 40,
+      "orig_cents": 1349,
+      "final_cents": 809,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "8,09 €"
+    },
+    {
       "appid": "46f3bbd4766b466fb6bf1fe4a94d9fcc",
       "namespace": "b167f2d46dab4b64a51f134820f73e59",
       "name": "Perfect Ninja Painter",
@@ -2929,6 +2919,16 @@
       "final_cents": 1999,
       "orig_price_str": "24,99 €",
       "final_price_str": "19,99 €"
+    },
+    {
+      "appid": "9f894ae9114c400890a0e9c6158c3e4b",
+      "namespace": "48ac423ca7b04454ac101084a7323ab4",
+      "name": "Wyrmhold",
+      "discount": 20,
+      "orig_cents": 809,
+      "final_cents": 647,
+      "orig_price_str": "8,09 €",
+      "final_price_str": "6,47 €"
     },
     {
       "appid": "96226e6d53c8470faa333de4c088d3f3",
