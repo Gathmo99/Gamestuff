@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "appid": "EP0002-PPSA02410_00-D2LFBUNDLE000001",
+      "name": "Destiny 2: Lightfall",
+      "discount": 90,
+      "orig_cents": 1999,
+      "final_cents": 199,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "1,99 €"
+    },
+    {
       "appid": "EP2866-PPSA07618_00-TSW3SOUTHHIGHEXT",
       "name": "Train Sim World® 3: Southeastern Highspeed: London St Pancras - Ashford Intl & Faversham",
       "discount": 90,
@@ -55,6 +64,15 @@
       "final_price_str": "0,89 €"
     },
     {
+      "appid": "EP0002-PPSA02410_00-D2WITCHQUEEN0001",
+      "name": "Destiny 2: Die Hexenkönigin",
+      "discount": 90,
+      "orig_cents": 1999,
+      "final_cents": 199,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "1,99 €"
+    },
+    {
       "appid": "EP4008-PPSA02076_00-7745972826179288",
       "name": "Roguebook - Deluxe Edition",
       "discount": 90,
@@ -71,6 +89,15 @@
       "final_cents": 99,
       "orig_price_str": "9,99 €",
       "final_price_str": "0,99 €"
+    },
+    {
+      "appid": "EP0002-PPSA02410_00-D230PACK00000001",
+      "name": "Destiny 2-Paket: 30 Jahre Bungie",
+      "discount": 90,
+      "orig_cents": 1499,
+      "final_cents": 149,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "1,49 €"
     },
     {
       "appid": "EP1018-CUSA04402_00-SOMGOTYSOWDE0000",
@@ -496,7 +523,7 @@
       "final_price_str": "12,49 €"
     },
     {
-      "appid": "EP5938-PPSA07451_00-CLIVENWRENCH0PS5",
+      "appid": "EP5938-CUSA33452_00-CLIVENWRENCH0PS4",
       "name": "Clive 'N' Wrench",
       "discount": 75,
       "orig_cents": 2999,
@@ -505,7 +532,7 @@
       "final_price_str": "7,49 €"
     },
     {
-      "appid": "EP5938-CUSA33452_00-CLIVENWRENCH0PS4",
+      "appid": "EP5938-PPSA07451_00-CLIVENWRENCH0PS5",
       "name": "Clive 'N' Wrench",
       "discount": 75,
       "orig_cents": 2999,
@@ -2672,33 +2699,6 @@
       "final_cents": 629,
       "orig_price_str": "8,99 €",
       "final_price_str": "6,29 €"
-    },
-    {
-      "appid": "EP4136-CUSA25074_00-BSECTORDLCSIEE04",
-      "name": "Warhammer 40,000: Battlesector - Sisters of Battle",
-      "discount": 25,
-      "orig_cents": 1499,
-      "final_cents": 1124,
-      "orig_price_str": "14,99 €",
-      "final_price_str": "11,24 €"
-    },
-    {
-      "appid": "EP0102-CUSA30640_00-CAS2WALLPAPERDLC",
-      "name": "Capcom Arcade 2nd Stadium: Display Frames Set 1",
-      "discount": 25,
-      "orig_cents": 99,
-      "final_cents": 74,
-      "orig_price_str": "0,99 €",
-      "final_price_str": "0,74 €"
-    },
-    {
-      "appid": "EP0102-CUSA30640_00-CAS2INCENTIVEDLC",
-      "name": "Capcom Arcade 2nd Stadium: Special Display Frames Set",
-      "discount": 25,
-      "orig_cents": 99,
-      "final_cents": 74,
-      "orig_price_str": "0,99 €",
-      "final_price_str": "0,74 €"
     }
   ],
   "total": 1701
