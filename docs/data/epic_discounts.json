@@ -441,16 +441,6 @@
       "final_price_str": "6,79 €"
     },
     {
-      "appid": "49f79b03b9b14637b10a1ceb7e17365d",
-      "namespace": "e60e3740ad664323a65ff6d933f3869f",
-      "name": "KeepUp Survival",
-      "discount": 80,
-      "orig_cents": 1479,
-      "final_cents": 295,
-      "orig_price_str": "14,79 €",
-      "final_price_str": "2,95 €"
-    },
-    {
       "appid": "e1479081ced8495e97ea6ba9b6ec0abe",
       "namespace": "d3f636e8c3424609806936603a6e6ba8",
       "name": "Poly Plaza ULTIMATE",
@@ -1179,16 +1169,6 @@
       "final_cents": 980,
       "orig_price_str": "24,50 €",
       "final_price_str": "9,80 €"
-    },
-    {
-      "appid": "5e93c25f14ad43c39bb10fbc91cf4811",
-      "namespace": "b95ce3820e8f43fca6e6af104c326fd9",
-      "name": "SuperStore Simulator",
-      "discount": 60,
-      "orig_cents": 719,
-      "final_cents": 287,
-      "orig_price_str": "7,19 €",
-      "final_price_str": "2,87 €"
     },
     {
       "appid": "5793f45f2da64458aadced69ce94db86",
@@ -2541,6 +2521,16 @@
       "final_price_str": "14,99 €"
     },
     {
+      "appid": "1dc837b54f2a4b71884f0ce9e27de731",
+      "namespace": "f853934fb6874d8783701be12ba6b8b9",
+      "name": "Life Changer",
+      "discount": 50,
+      "orig_cents": 809,
+      "final_cents": 404,
+      "orig_price_str": "8,09 €",
+      "final_price_str": "4,04 €"
+    },
+    {
       "appid": "db23a748500c46459bfb595a1ad745fb",
       "namespace": "46d36b0795de4dacb63e5be1249404eb",
       "name": "Bulbs and Switches",
@@ -2999,7 +2989,17 @@
       "final_cents": 935,
       "orig_price_str": "11,69 €",
       "final_price_str": "9,35 €"
+    },
+    {
+      "appid": "67ff263557474b96b1778a3fbef3c320",
+      "namespace": "d77083e05f9542ea87b2dbdc9bd0242e",
+      "name": "Warhounds",
+      "discount": 20,
+      "orig_cents": 3139,
+      "final_cents": 2511,
+      "orig_price_str": "31,39 €",
+      "final_price_str": "25,11 €"
     }
   ],
-  "total": 409
+  "total": 408
 }
