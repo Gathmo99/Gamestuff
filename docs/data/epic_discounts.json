@@ -641,16 +641,6 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "3c8828ef1eb9429bb143f4b58b5138cc",
-      "namespace": "6ce9cadbab474f07928e3035473289d2",
-      "name": "FATAL FURY: City of the Wolves – Standard Edition",
-      "discount": 75,
-      "orig_cents": 1999,
-      "final_cents": 499,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "4,99 €"
-    },
-    {
       "appid": "4e037f816bfa4e4f9fcfdfa29ad383e6",
       "namespace": "57da9a65dbf54e5c97a60f224393ab2f",
       "name": "Bloodstained: Ritual of the Night",
@@ -2511,6 +2501,16 @@
       "final_price_str": "14,99 €"
     },
     {
+      "appid": "1dc837b54f2a4b71884f0ce9e27de731",
+      "namespace": "f853934fb6874d8783701be12ba6b8b9",
+      "name": "Life Changer",
+      "discount": 50,
+      "orig_cents": 809,
+      "final_cents": 404,
+      "orig_price_str": "8,09 €",
+      "final_price_str": "4,04 €"
+    },
+    {
       "appid": "db23a748500c46459bfb595a1ad745fb",
       "namespace": "46d36b0795de4dacb63e5be1249404eb",
       "name": "Bulbs and Switches",
@@ -3001,5 +3001,5 @@
       "final_price_str": "25,11 €"
     }
   ],
-  "total": 409
+  "total": 408
 }
