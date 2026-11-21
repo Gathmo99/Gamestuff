@@ -171,6 +171,16 @@
       "gamepass": "PC + Xbox"
     },
     {
+      "appid": "9N6J4RNFPKKL",
+      "name": "Halo: Campaign Evolved – Standard Edition",
+      "discount": 40,
+      "orig_cents": 5999,
+      "final_cents": 3599,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "35,99 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
       "appid": "9N4PT8HGCDHQ",
       "name": "Gears of War: E-Day",
       "discount": 30,
@@ -241,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 2773
+  "total": 2767
 }
