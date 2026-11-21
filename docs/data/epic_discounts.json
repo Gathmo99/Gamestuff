@@ -1311,6 +1311,16 @@
       "final_price_str": "0,40 €"
     },
     {
+      "appid": "5b65fe1a95c7491f990621f0006b8d38",
+      "namespace": "e06eaabb7e9c47fe87c7f75d27fddedf",
+      "name": "Red Mission",
+      "discount": 55,
+      "orig_cents": 89,
+      "final_cents": 40,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,40 €"
+    },
+    {
       "appid": "52b6e69a165c4e10ba306f3b29a5579a",
       "namespace": "ce37450ae2f9431cacb23244a0d8ac76",
       "name": "PROTOBOT",
@@ -2501,16 +2511,6 @@
       "final_price_str": "14,99 €"
     },
     {
-      "appid": "1dc837b54f2a4b71884f0ce9e27de731",
-      "namespace": "f853934fb6874d8783701be12ba6b8b9",
-      "name": "Life Changer",
-      "discount": 50,
-      "orig_cents": 809,
-      "final_cents": 404,
-      "orig_price_str": "8,09 €",
-      "final_price_str": "4,04 €"
-    },
-    {
       "appid": "db23a748500c46459bfb595a1ad745fb",
       "namespace": "46d36b0795de4dacb63e5be1249404eb",
       "name": "Bulbs and Switches",
@@ -3001,5 +3001,5 @@
       "final_price_str": "25,11 €"
     }
   ],
-  "total": 408
+  "total": 409
 }
