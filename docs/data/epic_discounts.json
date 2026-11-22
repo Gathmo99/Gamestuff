@@ -281,16 +281,6 @@
       "final_price_str": "2,69 €"
     },
     {
-      "appid": "0f281fee47194253a0472d6d1b7391e0",
-      "namespace": "4b7032faef9f4152afeac58dfe13c3f2",
-      "name": "ART IS RIFLE",
-      "discount": 90,
-      "orig_cents": 1349,
-      "final_cents": 134,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "1,34 €"
-    },
-    {
       "appid": "c5eb5495fb7f44c89a48b0ccc33071e5",
       "namespace": "77961f9557a149a8bf1cf761220d9d24",
       "name": "Need for Speed™ Deluxe Edition",
@@ -1021,14 +1011,14 @@
       "final_price_str": "1,34 €"
     },
     {
-      "appid": "068fcddb77db42639cad653607bde9e3",
-      "namespace": "fe4fbacf140f4fb2a05f074730a3375c",
-      "name": "Angelo and Deemon: One Hell of a Quest",
-      "discount": 70,
-      "orig_cents": 719,
-      "final_cents": 215,
-      "orig_price_str": "7,19 €",
-      "final_price_str": "2,15 €"
+      "appid": "68af95eb3d124cfd976283650cac42c9",
+      "namespace": "f1126797ee1c4bae8ac23df4158f6e4b",
+      "name": "Emerald Burst",
+      "discount": 67,
+      "orig_cents": 809,
+      "final_cents": 266,
+      "orig_price_str": "8,09 €",
+      "final_price_str": "2,66 €"
     },
     {
       "appid": "10dd90b9c2024e0e8bb761003c6bd011",
@@ -1054,16 +1044,6 @@
       "appid": "4341c19d9ad847cfb23e9dd2656d60b2",
       "namespace": "3808a6fabaf642c1b5b8a69c00b165c6",
       "name": "SPACE SMASH",
-      "discount": 66,
-      "orig_cents": 269,
-      "final_cents": 91,
-      "orig_price_str": "2,69 €",
-      "final_price_str": "0,91 €"
-    },
-    {
-      "appid": "1ae24155c53e4c7088283dea51385560",
-      "namespace": "ad1d27353b5a4f49a8aa00853d729fd4",
-      "name": "SPACE ELITE FORCE",
       "discount": 66,
       "orig_cents": 269,
       "final_cents": 91,
@@ -1971,96 +1951,6 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "015c3e164d634ba5ac3a48a0d5e67e2c",
-      "namespace": "ec8a01641ab7453d9abae814727d5171",
-      "name": "Police Car Simulator",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "ae31ea0f9d5549c7a1c94b468831cb5a",
-      "namespace": "5b2c27f1a98b4852bc20317fbee6968e",
-      "name": "Extreme Bus Driver 2024",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "85f549264c4b4b2583d0ceac76880d02",
-      "namespace": "d5f66e10296c4691a21471f41493bef9",
-      "name": "Dirt Bicycle Rider Simulator",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "201fd29e75ce43239b3ebd9d6417f601",
-      "namespace": "50792f6a72e1477a84a73993c85a8392",
-      "name": "Real Motocross Driving Simulator",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "ebde1ff75b644396ab5cbc739bc138b8",
-      "namespace": "8c472e469d214ae19a4a1fdd189c6732",
-      "name": "Real Drift Multiplayer",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "b476a09ea9d0447e99b0343e8f632b4f",
-      "namespace": "1b0c062b3eec43328a5ec66a123bca68",
-      "name": "School Bus Driving Simulator",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "9e36fc90d9404bce9c00a6f9aca9fa91",
-      "namespace": "028bcd49e55345a5bb0057115154dd6d",
-      "name": "Police Car SUV Simulator",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "570c23e5b3224674a3a0a082644ffb14",
-      "namespace": "81965a5531ee48309b6da807d7fed155",
-      "name": "City Car Parking Simulator",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "d612327f0d2c46f6ab1b4082876bba0f",
-      "namespace": "36669b93a631455abfc52bbed2c84f8d",
-      "name": "Police Car Escape Simulator",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
       "appid": "1d2caff44e194e028dd2b460c9fc603a",
       "namespace": "8a0536eb35a743da98bbf2ee5fe466ca",
       "name": "Wildacre: Farm Life Simulator",
@@ -2259,6 +2149,16 @@
       "final_cents": 854,
       "orig_price_str": "17,09 €",
       "final_price_str": "8,54 €"
+    },
+    {
+      "appid": "10b3efb6fac8474caee5426a7b11a8cd",
+      "namespace": "31452ccf6f4c41378c119131f732d079",
+      "name": "Eternal Night - Spooky Solitaire",
+      "discount": 50,
+      "orig_cents": 989,
+      "final_cents": 494,
+      "orig_price_str": "9,89 €",
+      "final_price_str": "4,94 €"
     },
     {
       "appid": "b9f3e7a1af8b400eb946f6e0427c9e3a",
@@ -2489,26 +2389,6 @@
       "final_cents": 199,
       "orig_price_str": "3,99 €",
       "final_price_str": "1,99 €"
-    },
-    {
-      "appid": "076d43395d0c4cfeb98ae05ed6c52638",
-      "namespace": "72714161da094789aec500130c8530fa",
-      "name": "SPACE WAR - INFINITY",
-      "discount": 50,
-      "orig_cents": 179,
-      "final_cents": 89,
-      "orig_price_str": "1,79 €",
-      "final_price_str": "0,89 €"
-    },
-    {
-      "appid": "d754855565354a02b60132d080f9914c",
-      "namespace": "0113dd49216f4f2d995ef9a6eebd67f4",
-      "name": "Stray Gods: The Roleplaying Musical",
-      "discount": 50,
-      "orig_cents": 2999,
-      "final_cents": 1499,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "14,99 €"
     },
     {
       "appid": "db23a748500c46459bfb595a1ad745fb",
@@ -2911,6 +2791,26 @@
       "final_price_str": "4,04 €"
     },
     {
+      "appid": "4416296a17d445ea9587adde810f8324",
+      "namespace": "a17543496ad14e79809aa99ca972d478",
+      "name": "Escape from Duckov",
+      "discount": 25,
+      "orig_cents": 1799,
+      "final_cents": 1349,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "13,49 €"
+    },
+    {
+      "appid": "0c138e8739654d52b243131ef834e4e4",
+      "namespace": "3bdab76bb72641d8b6af7facf6359ba6",
+      "name": "Secret of the Vikings 2 - Der Weltenbaum",
+      "discount": 25,
+      "orig_cents": 989,
+      "final_cents": 741,
+      "orig_price_str": "9,89 €",
+      "final_price_str": "7,41 €"
+    },
+    {
       "appid": "69e7d426a0a5481391adffbc38c6f2bb",
       "namespace": "816040b037f248bdb9c8cc6ba90faef5",
       "name": "Arizona Sunshine®",
@@ -2991,6 +2891,16 @@
       "final_price_str": "9,35 €"
     },
     {
+      "appid": "ec0b7a5dc12b4ff695afe0ef75780e3a",
+      "namespace": "e1ce9afbf2a24931886dc3d7aee437fc",
+      "name": "Eerie Night - Escape From The Funfair - Collectors Edition",
+      "discount": 20,
+      "orig_cents": 1799,
+      "final_cents": 1439,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "14,39 €"
+    },
+    {
       "appid": "67ff263557474b96b1778a3fbef3c320",
       "namespace": "d77083e05f9542ea87b2dbdc9bd0242e",
       "name": "Warhounds",
@@ -2999,7 +2909,97 @@
       "final_cents": 2511,
       "orig_price_str": "31,39 €",
       "final_price_str": "25,11 €"
+    },
+    {
+      "appid": "6290274d41844f50b3a7792661215203",
+      "namespace": "ba735fe6528048b7a4a748c174e40626",
+      "name": "You had a bad dream",
+      "discount": 20,
+      "orig_cents": 499,
+      "final_cents": 399,
+      "orig_price_str": "4,99 €",
+      "final_price_str": "3,99 €"
+    },
+    {
+      "appid": "f4edf28a12704a48aed3b889b3e7cda1",
+      "namespace": "fc8b58ed72a448edadfca2489c1f9043",
+      "name": "Heroes of Egypt – Der Fluch des Sethos - Collectors Edition",
+      "discount": 20,
+      "orig_cents": 1529,
+      "final_cents": 1223,
+      "orig_price_str": "15,29 €",
+      "final_price_str": "12,23 €"
+    },
+    {
+      "appid": "1f6ac8e387424c5f8dbec3568a488201",
+      "namespace": "4811c99970ba4467bde188e58e23b56f",
+      "name": "Hidden Cats in Berlin",
+      "discount": 20,
+      "orig_cents": 359,
+      "final_cents": 287,
+      "orig_price_str": "3,59 €",
+      "final_price_str": "2,87 €"
+    },
+    {
+      "appid": "93fa632bf25b4361abb3a79c86e3f822",
+      "namespace": "302e7fc27b6c4f1987e500aa11b0c35a",
+      "name": "Crimson Desert Enhanced",
+      "discount": 20,
+      "orig_cents": 6999,
+      "final_cents": 5599,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "55,99 €"
+    },
+    {
+      "appid": "2f86ebb9adb64be290ef56b89bc6f24d",
+      "namespace": "9ca7ca53f6894c4d9c8033b06799b6e0",
+      "name": "Hidden Cats in Rome",
+      "discount": 20,
+      "orig_cents": 359,
+      "final_cents": 287,
+      "orig_price_str": "3,59 €",
+      "final_price_str": "2,87 €"
+    },
+    {
+      "appid": "56b4c7afc20f4a22b1f981a11dffd649",
+      "namespace": "0a7500672c114e13bd4e57ea361bd4d2",
+      "name": "The Jackbox Party Pack 11",
+      "discount": 20,
+      "orig_cents": 2999,
+      "final_cents": 2399,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "23,99 €"
+    },
+    {
+      "appid": "b33de24a515b4df0bfbe230cfda9e8b3",
+      "namespace": "d69dea273a294b47b5774117304ab9f7",
+      "name": "Musician Simulator",
+      "discount": 20,
+      "orig_cents": 449,
+      "final_cents": 359,
+      "orig_price_str": "4,49 €",
+      "final_price_str": "3,59 €"
+    },
+    {
+      "appid": "f1570e1782434837aea804a9daa54c6f",
+      "namespace": "6ea014b13ae143b4a71a9ccbe2de4a13",
+      "name": "Adventures and Quests - Der schwarze Kristall – Sammleredition",
+      "discount": 20,
+      "orig_cents": 1799,
+      "final_cents": 1439,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "14,39 €"
+    },
+    {
+      "appid": "a0860bb289954bf3a3f9d04085e0dd74",
+      "namespace": "1560126d50e04b82b96f3b01c89f597d",
+      "name": "Barton Lynch Pro Surfing",
+      "discount": 20,
+      "orig_cents": 4499,
+      "final_cents": 3599,
+      "orig_price_str": "44,99 €",
+      "final_price_str": "35,99 €"
     }
   ],
-  "total": 412
+  "total": 427
 }
