@@ -685,7 +685,7 @@
       "final_price_str": "4,99 €"
     },
     {
-      "appid": "EP8026-CUSA32095_00-7260435753656631",
+      "appid": "EP8026-PPSA06408_00-6769334895654571",
       "name": "Trifox",
       "discount": 75,
       "orig_cents": 1999,
@@ -694,7 +694,7 @@
       "final_price_str": "4,99 €"
     },
     {
-      "appid": "EP8026-PPSA06408_00-6769334895654571",
+      "appid": "EP8026-CUSA32095_00-7260435753656631",
       "name": "Trifox",
       "discount": 75,
       "orig_cents": 1999,
@@ -1378,7 +1378,7 @@
       "final_price_str": "6,64 €"
     },
     {
-      "appid": "EP0290-CUSA26922_00-GODFALLULTIMATE0",
+      "appid": "EP0290-PPSA01349_00-GODFALLULTIMATE0",
       "name": "Godfall Ultimate Edition",
       "discount": 65,
       "orig_cents": 3999,
@@ -1387,7 +1387,7 @@
       "final_price_str": "13,99 €"
     },
     {
-      "appid": "EP0290-PPSA01349_00-GODFALLULTIMATE0",
+      "appid": "EP0290-CUSA26922_00-GODFALLULTIMATE0",
       "name": "Godfall Ultimate Edition",
       "discount": 65,
       "orig_cents": 3999,
@@ -2305,7 +2305,7 @@
       "final_price_str": "17,49 €"
     },
     {
-      "appid": "EP1245-PPSA03800_00-6136687365100688",
+      "appid": "EP1245-CUSA27475_00-3426988227376069",
       "name": "Castle Of Pixel Skulls",
       "discount": 50,
       "orig_cents": 499,
@@ -2314,7 +2314,7 @@
       "final_price_str": "2,49 €"
     },
     {
-      "appid": "EP1245-CUSA27475_00-3426988227376069",
+      "appid": "EP1245-PPSA03800_00-6136687365100688",
       "name": "Castle Of Pixel Skulls",
       "discount": 50,
       "orig_cents": 499,
