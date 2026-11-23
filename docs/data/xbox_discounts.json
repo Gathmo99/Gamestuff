@@ -171,16 +171,6 @@
       "gamepass": "PC + Xbox"
     },
     {
-      "appid": "9N6J4RNFPKKL",
-      "name": "Halo: Campaign Evolved – Standard Edition",
-      "discount": 40,
-      "orig_cents": 5999,
-      "final_cents": 3599,
-      "orig_price_str": "59,99 €",
-      "final_price_str": "35,99 €",
-      "gamepass": "PC + Xbox"
-    },
-    {
       "appid": "9N4PT8HGCDHQ",
       "name": "Gears of War: E-Day",
       "discount": 30,
@@ -248,6 +238,16 @@
       "final_cents": 759,
       "orig_price_str": "9,49 €",
       "final_price_str": "7,59 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NWWNS0C3007",
+      "name": "Call of Duty®: Modern Warfare® 4 - Vault Edition",
+      "discount": 10,
+      "orig_cents": 10999,
+      "final_cents": 9899,
+      "orig_price_str": "109,99 €",
+      "final_price_str": "98,99 €",
       "gamepass": ""
     }
   ],
