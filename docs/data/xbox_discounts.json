@@ -191,26 +191,6 @@
       "gamepass": "PC + Xbox"
     },
     {
-      "appid": "9N4XW3N02MNJ",
-      "name": "Forza Horizon 6 Premium Edition",
-      "discount": 25,
-      "orig_cents": 11999,
-      "final_cents": 8999,
-      "orig_price_str": "119,99 €",
-      "final_price_str": "89,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9P3PT7PQJD0M",
-      "name": "HELLDIVERS™ 2",
-      "discount": 25,
-      "orig_cents": 3999,
-      "final_cents": 2999,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "29,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9P80X661L0QT",
       "name": "BOMBANANA!",
       "discount": 20,
@@ -241,15 +221,35 @@
       "gamepass": ""
     },
     {
+      "appid": "9P36PB4N42GW",
+      "name": "Call of Duty®: Modern Warfare® 4",
+      "discount": 15,
+      "orig_cents": 7999,
+      "final_cents": 6799,
+      "orig_price_str": "79,99 €",
+      "final_price_str": "67,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9NWWNS0C3007",
       "name": "Call of Duty®: Modern Warfare® 4 - Vault Edition",
-      "discount": 10,
+      "discount": 15,
       "orig_cents": 10999,
-      "final_cents": 9899,
+      "final_cents": 9349,
       "orig_price_str": "109,99 €",
-      "final_price_str": "98,99 €",
+      "final_price_str": "93,49 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NPQXS734SZW",
+      "name": "Call of Duty®: Modern Warfare® 4 (Windows)",
+      "discount": 15,
+      "orig_cents": 6999,
+      "final_cents": 5949,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "59,49 €",
       "gamepass": ""
     }
   ],
-  "total": 2768
+  "total": 2771
 }
