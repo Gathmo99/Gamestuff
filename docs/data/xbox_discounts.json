@@ -11,13 +11,33 @@
       "gamepass": ""
     },
     {
-      "appid": "BPQT0CXNCMRK",
-      "name": "Dead Island Definitive Collection",
+      "appid": "9NP9F7WWKRP1",
+      "name": "FINAL FANTASY VII REBIRTH",
       "discount": 85,
-      "orig_cents": 2999,
-      "final_cents": 449,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "4,49 €",
+      "orig_cents": 5999,
+      "final_cents": 899,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "8,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NRLSFM01XTP",
+      "name": "MLB® The Show™ 26 Standard Edition",
+      "discount": 85,
+      "orig_cents": 6999,
+      "final_cents": 1049,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "10,49 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9PH339L3Z99C",
+      "name": "Red Dead Redemption 2: Ultimate Edition",
+      "discount": 80,
+      "orig_cents": 9999,
+      "final_cents": 1999,
+      "orig_price_str": "99,99 €",
+      "final_price_str": "19,99 €",
       "gamepass": ""
     },
     {
@@ -29,6 +49,26 @@
       "orig_price_str": "59,99 €",
       "final_price_str": "14,99 €",
       "gamepass": ""
+    },
+    {
+      "appid": "BPKDQSSFQ9WV",
+      "name": "Gears of War 3",
+      "discount": 75,
+      "orig_cents": 1199,
+      "final_cents": 299,
+      "orig_price_str": "11,99 €",
+      "final_price_str": "2,99 €",
+      "gamepass": "Xbox"
+    },
+    {
+      "appid": "C1SDBNRFXT1D",
+      "name": "Gears of War 2",
+      "discount": 75,
+      "orig_cents": 1199,
+      "final_cents": 299,
+      "orig_price_str": "11,99 €",
+      "final_price_str": "2,99 €",
+      "gamepass": "Xbox"
     },
     {
       "appid": "BX3M8L83BBRW",
@@ -71,16 +111,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9MTLKM2DJMZ2",
-      "name": "Forza Horizon 5 Premium Edition",
-      "discount": 60,
-      "orig_cents": 9999,
-      "final_cents": 3999,
-      "orig_price_str": "99,99 €",
-      "final_price_str": "39,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9P9G5WX8C0VH",
       "name": "Cyberpunk 2077: Ultimate Edition",
       "discount": 60,
@@ -111,6 +141,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9P8RQH67TTT1",
+      "name": "Grand Theft Auto V (Xbox One & Xbox Series X|S)",
+      "discount": 50,
+      "orig_cents": 3999,
+      "final_cents": 1999,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "19,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9NJ6F163VF8C",
       "name": "EA SPORTS™ Madden NFL 27",
       "discount": 50,
@@ -131,13 +171,13 @@
       "gamepass": ""
     },
     {
-      "appid": "9P8RQH67TTT1",
-      "name": "Grand Theft Auto V (Xbox One & Xbox Series X|S)",
+      "appid": "9NXFX68ZNKK0",
+      "name": "Grand Theft Auto V Enhanced (PC)",
       "discount": 50,
-      "orig_cents": 3999,
-      "final_cents": 1999,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "19,99 €",
+      "orig_cents": 2999,
+      "final_cents": 1499,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "14,99 €",
       "gamepass": ""
     },
     {
@@ -161,26 +201,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9NG07QJNK38J",
-      "name": "Among Us",
-      "discount": 40,
-      "orig_cents": 499,
-      "final_cents": 299,
-      "orig_price_str": "4,99 €",
-      "final_price_str": "2,99 €",
-      "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "9N4PT8HGCDHQ",
-      "name": "Gears of War: E-Day",
-      "discount": 30,
-      "orig_cents": 6999,
-      "final_cents": 4899,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "48,99 €",
-      "gamepass": "PC + Xbox"
-    },
-    {
       "appid": "9N431PX143P8",
       "name": "Forza Horizon 6 Standard Edition",
       "discount": 25,
@@ -198,26 +218,6 @@
       "final_cents": 639,
       "orig_price_str": "7,99 €",
       "final_price_str": "6,39 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9NCBL78CG9N7",
-      "name": "Valheim",
-      "discount": 20,
-      "orig_cents": 2999,
-      "final_cents": 2399,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "23,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9MW267200N81",
-      "name": "Content Warning",
-      "discount": 20,
-      "orig_cents": 949,
-      "final_cents": 759,
-      "orig_price_str": "9,49 €",
-      "final_price_str": "7,59 €",
       "gamepass": ""
     },
     {
@@ -251,5 +251,5 @@
       "gamepass": ""
     }
   ],
-  "total": 2771
+  "total": 2886
 }

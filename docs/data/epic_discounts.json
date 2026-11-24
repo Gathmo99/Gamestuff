@@ -291,16 +291,6 @@
       "final_price_str": "2,69 €"
     },
     {
-      "appid": "0f281fee47194253a0472d6d1b7391e0",
-      "namespace": "4b7032faef9f4152afeac58dfe13c3f2",
-      "name": "ART IS RIFLE",
-      "discount": 90,
-      "orig_cents": 1349,
-      "final_cents": 134,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "1,34 €"
-    },
-    {
       "appid": "c5eb5495fb7f44c89a48b0ccc33071e5",
       "namespace": "77961f9557a149a8bf1cf761220d9d24",
       "name": "Need for Speed™ Deluxe Edition",
@@ -309,16 +299,6 @@
       "final_cents": 389,
       "orig_price_str": "29,99 €",
       "final_price_str": "3,89 €"
-    },
-    {
-      "appid": "b7c6449af86c47c4a873a62d0e30c0dc",
-      "namespace": "28b88370465c4c67b583b1b7d5c7e725",
-      "name": "Fell in Love with a California Girl",
-      "discount": 85,
-      "orig_cents": 359,
-      "final_cents": 53,
-      "orig_price_str": "3,59 €",
-      "final_price_str": "0,53 €"
     },
     {
       "appid": "7d13656156b24e81994f5966d9a701f3",
@@ -661,16 +641,6 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "abcfae76a18c401c8ae5b37c759f8e16",
-      "namespace": "095bb72741aa4e18a069ce0d2739e941",
-      "name": "DOORS OF HORROR",
-      "discount": 75,
-      "orig_cents": 179,
-      "final_cents": 44,
-      "orig_price_str": "1,79 €",
-      "final_price_str": "0,44 €"
-    },
-    {
       "appid": "0ac8b843ab8f427a84ce66105a5009c7",
       "namespace": "22c223c810234bd49ced5ba24a503da8",
       "name": "Big Buck Hunter: Ultimate Trophy",
@@ -679,6 +649,16 @@
       "final_cents": 999,
       "orig_price_str": "39,99 €",
       "final_price_str": "9,99 €"
+    },
+    {
+      "appid": "01fc5432d5b04aeeb9d5fbdb68f5643a",
+      "namespace": "eb0ab26d3ef7447baec07084f6b89752",
+      "name": "Survival In The Backrooms",
+      "discount": 75,
+      "orig_cents": 179,
+      "final_cents": 44,
+      "orig_price_str": "1,79 €",
+      "final_price_str": "0,44 €"
     },
     {
       "appid": "5e3e5d3ef7d147b4a20f2494da984168",
@@ -1441,6 +1421,16 @@
       "final_price_str": "0,44 €"
     },
     {
+      "appid": "bed314a7d6fb460e8476bdc1bd9b8da8",
+      "namespace": "45a8ff4db2fc4f7081a5104136b97484",
+      "name": "KOMMUNALKA",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
       "appid": "95972584e56142828408575485879ae4",
       "namespace": "bb4a3d81162f46eba9e61df349b2046c",
       "name": "Steel Shell",
@@ -1514,6 +1504,16 @@
       "appid": "d482b8709de14efebb3a322355cdfea2",
       "namespace": "6fbca956b04c49b98c2deca8af663886",
       "name": "Market Street Tycoon Simulator",
+      "discount": 51,
+      "orig_cents": 89,
+      "final_cents": 44,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "6599ccc2869946d7976a184a4a2e8e3f",
+      "namespace": "ec2c3935293043c7818a92c139225819",
+      "name": "Haunted Forest",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1954,26 +1954,6 @@
       "appid": "7f3940c4b6364d659735b9897069450c",
       "namespace": "77eeeb3089274d4b904a3484a913805d",
       "name": "Ultimate Flight Simulator Pro",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "021d78bb545342f9a2305b1249fe0ef1",
-      "namespace": "49c5373cd1a34f398764a94dce5953a0",
-      "name": "Dirt Bike Racer Simulator",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "015c3e164d634ba5ac3a48a0d5e67e2c",
-      "namespace": "ec8a01641ab7453d9abae814727d5171",
-      "name": "Police Car Simulator",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -2441,6 +2421,16 @@
       "final_price_str": "16,49 €"
     },
     {
+      "appid": "abbc8ba49a024f95bca89a5bf85865dc",
+      "namespace": "b2042e545f1e469b9187ed042ad9b0fc",
+      "name": "Mates and Crates",
+      "discount": 40,
+      "orig_cents": 899,
+      "final_cents": 539,
+      "orig_price_str": "8,99 €",
+      "final_price_str": "5,39 €"
+    },
+    {
       "appid": "597b5007b7c649998c19e63b6d72bcda",
       "namespace": "3210382abb4b4b30b18031ff4f712f6d",
       "name": "Volleyball Coach Simulator 2027",
@@ -2599,6 +2589,16 @@
       "final_cents": 1979,
       "orig_price_str": "29,99 €",
       "final_price_str": "19,79 €"
+    },
+    {
+      "appid": "659ef0e742214018b248bd555dc1857e",
+      "namespace": "3ccc0eec192147068ffd613eaabddef3",
+      "name": "Warrior Cats: Clans of the Forest",
+      "discount": 30,
+      "orig_cents": 2999,
+      "final_cents": 2099,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "20,99 €"
     },
     {
       "appid": "af6b823b8698465f9aedc3bddf2e8686",
@@ -3001,5 +3001,5 @@
       "final_price_str": "14,39 €"
     }
   ],
-  "total": 424
+  "total": 427
 }
