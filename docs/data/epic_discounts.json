@@ -271,6 +271,16 @@
       "final_price_str": "2,69 €"
     },
     {
+      "appid": "0f281fee47194253a0472d6d1b7391e0",
+      "namespace": "4b7032faef9f4152afeac58dfe13c3f2",
+      "name": "ART IS RIFLE",
+      "discount": 90,
+      "orig_cents": 1349,
+      "final_cents": 134,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "1,34 €"
+    },
+    {
       "appid": "c5eb5495fb7f44c89a48b0ccc33071e5",
       "namespace": "77961f9557a149a8bf1cf761220d9d24",
       "name": "Need for Speed™ Deluxe Edition",
@@ -549,6 +559,16 @@
       "final_cents": 89,
       "orig_price_str": "4,49 €",
       "final_price_str": "0,89 €"
+    },
+    {
+      "appid": "eb0c7c1cb11c4689b9a96960b32d420d",
+      "namespace": "c3e57c64bb4a468f8261f4038f3e903e",
+      "name": "Play with Me - Escape Room",
+      "discount": 80,
+      "orig_cents": 269,
+      "final_cents": 53,
+      "orig_price_str": "2,69 €",
+      "final_price_str": "0,53 €"
     },
     {
       "appid": "5f20f2a5f50847fb9aec86de523cc940",
@@ -931,6 +951,26 @@
       "final_price_str": "1,34 €"
     },
     {
+      "appid": "068fcddb77db42639cad653607bde9e3",
+      "namespace": "fe4fbacf140f4fb2a05f074730a3375c",
+      "name": "Angelo and Deemon: One Hell of a Quest",
+      "discount": 70,
+      "orig_cents": 719,
+      "final_cents": 215,
+      "orig_price_str": "7,19 €",
+      "final_price_str": "2,15 €"
+    },
+    {
+      "appid": "22d8864b86cf4b5bae1d077fdbdaeb91",
+      "namespace": "4b9b415b895c405bb3ff2da6d4e332a8",
+      "name": "Beach Invasion 1944",
+      "discount": 70,
+      "orig_cents": 899,
+      "final_cents": 269,
+      "orig_price_str": "8,99 €",
+      "final_price_str": "2,69 €"
+    },
+    {
       "appid": "68af95eb3d124cfd976283650cac42c9",
       "namespace": "f1126797ee1c4bae8ac23df4158f6e4b",
       "name": "Emerald Burst",
@@ -964,6 +1004,16 @@
       "appid": "4341c19d9ad847cfb23e9dd2656d60b2",
       "namespace": "3808a6fabaf642c1b5b8a69c00b165c6",
       "name": "SPACE SMASH",
+      "discount": 66,
+      "orig_cents": 269,
+      "final_cents": 91,
+      "orig_price_str": "2,69 €",
+      "final_price_str": "0,91 €"
+    },
+    {
+      "appid": "1ae24155c53e4c7088283dea51385560",
+      "namespace": "ad1d27353b5a4f49a8aa00853d729fd4",
+      "name": "SPACE ELITE FORCE",
       "discount": 66,
       "orig_cents": 269,
       "final_cents": 91,
@@ -1171,39 +1221,9 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "085acd039fec41a29bb61a046e039ef0",
-      "namespace": "17e842dd1bc54686bb72b503b8c12a2b",
-      "name": "Mini Heroes: Squad Online",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
       "appid": "78508bb355af4feaa025008e8c897363",
       "namespace": "5a189eed71cb44acbf821d3a17397e22",
       "name": "Backrooms Dead Rush",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "9a8a198de3d14907aedf1e862419a4b5",
-      "namespace": "6ec7d089f18f4d1a8698dc490bed3743",
-      "name": "Backrooms The Forest",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "409d0452a1d14bdc9f2f595429f095d2",
-      "namespace": "9facd1d2bb324aab810e28ee63fa6ec5",
-      "name": "Flappy Wings Multiplayer",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1251,19 +1271,9 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "c248fcb3aea741fd81c25cc26412f63d",
-      "namespace": "32b9eb5136424fe0bb3185be3050f4a7",
-      "name": "Bubble Hook Mania",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "7245cf96e83e463bb2f692b3274e91cc",
-      "namespace": "a8ab156bf9cb44128aed5468f2f1a976",
-      "name": "Gold Miner: Return to Glory",
+      "appid": "664dce5999484f8e8009a077aa509c53",
+      "namespace": "b5f163f90f364380a7fbdbba19fd5554",
+      "name": "No I'm not a Voenkom",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1651,16 +1661,6 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "60cea99cf88842a7be40eea25e8ae4c9",
-      "namespace": "34dd87913c1649598cda0ad402740f9d",
-      "name": "Multiplayer Drone Simulator",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
       "appid": "2e76133cf93e401f813a6f06b7988155",
       "namespace": "a72869e83a604578b9f22003c19ba3f8",
       "name": "ATV Offroad Simulator 24",
@@ -1674,16 +1674,6 @@
       "appid": "85b33d6a62f54b228ddde70ef0d70bc6",
       "namespace": "6c6cdd1e895a49ce9ae1bb753980ea98",
       "name": "Forest Offroad Driving Simulator",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "cb07930f33cc471eb8714ceea7f9f4b7",
-      "namespace": "a07e519eee8f47ff8988b233d3983e00",
-      "name": "Neon City Climbing Simulator",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1741,29 +1731,9 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "807383becac04ee8bb55569a2f4df9ee",
-      "namespace": "b656be85ba404c1a8574bc73f61740ec",
-      "name": "Real Drift Multiplayer 2",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
       "appid": "54743436f8ed4c80a87e2cb61029a563",
       "namespace": "be657c5da1ad4bb48cb458c8db67b45e",
       "name": "CATAIRE",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "ce4d0338c58048e095befd1b96628c33",
-      "namespace": "3d98021dc6a74599afbce9bb5cacd017",
-      "name": "Fastest Cars Traffic Racer",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1844,16 +1814,6 @@
       "appid": "065e15a1356548bb85f6f3895be1f6b1",
       "namespace": "3500a341ef3c45668a25495628714aca",
       "name": "Truck Simulator Ultimate 3D",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "5f43bca9042b45388b8ac1441d7020be",
-      "namespace": "a4368659166c4e53aed26aa64f86f9d7",
-      "name": "Sniper Wild West Shooting Simulator",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -2391,6 +2351,36 @@
       "final_price_str": "1,99 €"
     },
     {
+      "appid": "076d43395d0c4cfeb98ae05ed6c52638",
+      "namespace": "72714161da094789aec500130c8530fa",
+      "name": "SPACE WAR - INFINITY",
+      "discount": 50,
+      "orig_cents": 179,
+      "final_cents": 89,
+      "orig_price_str": "1,79 €",
+      "final_price_str": "0,89 €"
+    },
+    {
+      "appid": "d754855565354a02b60132d080f9914c",
+      "namespace": "0113dd49216f4f2d995ef9a6eebd67f4",
+      "name": "Stray Gods: The Roleplaying Musical",
+      "discount": 50,
+      "orig_cents": 2999,
+      "final_cents": 1499,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "14,99 €"
+    },
+    {
+      "appid": "1dc837b54f2a4b71884f0ce9e27de731",
+      "namespace": "f853934fb6874d8783701be12ba6b8b9",
+      "name": "Life Changer",
+      "discount": 50,
+      "orig_cents": 809,
+      "final_cents": 404,
+      "orig_price_str": "8,09 €",
+      "final_price_str": "4,04 €"
+    },
+    {
       "appid": "db23a748500c46459bfb595a1ad745fb",
       "namespace": "46d36b0795de4dacb63e5be1249404eb",
       "name": "Bulbs and Switches",
@@ -2771,6 +2761,26 @@
       "final_price_str": "9,44 €"
     },
     {
+      "appid": "ffe0667128e84deea9b809b475cac5fb",
+      "namespace": "e77f3dc66a514c68bd525d8f418c1be2",
+      "name": "Vectoroids",
+      "discount": 30,
+      "orig_cents": 179,
+      "final_cents": 125,
+      "orig_price_str": "1,79 €",
+      "final_price_str": "1,25 €"
+    },
+    {
+      "appid": "d97e0510a7b5488c961a568567e31260",
+      "namespace": "e97ae982b9d349ecb979266acb98f26d",
+      "name": "Retro Racers 2",
+      "discount": 30,
+      "orig_cents": 89,
+      "final_cents": 62,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,62 €"
+    },
+    {
       "appid": "1293cbf4657c44cab8a8f6ff66b8e7fe",
       "namespace": "4f21ab257af7461484bf84fc1c7fa615",
       "name": "T REX IN BACKROOMS",
@@ -2989,17 +2999,7 @@
       "final_cents": 287,
       "orig_price_str": "3,59 €",
       "final_price_str": "2,87 €"
-    },
-    {
-      "appid": "56b4c7afc20f4a22b1f981a11dffd649",
-      "namespace": "0a7500672c114e13bd4e57ea361bd4d2",
-      "name": "The Jackbox Party Pack 11",
-      "discount": 20,
-      "orig_cents": 2999,
-      "final_cents": 2399,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "23,99 €"
     }
   ],
-  "total": 431
+  "total": 412
 }
