@@ -1,10 +1,16 @@
 {
   "items": [
     {
-      "appid": "1f9a12b06b4f437790b6913ad136a08c",
-      "name": "Mark of the Deep",
-      "orig_cents": 1950,
-      "orig_price_str": "19,50 €"
+      "appid": "0623017cf9f341efbe07557f46beb4e8",
+      "name": "Firestone – Idle Clicker Online RPG",
+      "orig_cents": 0,
+      "orig_price_str": "0,00 €"
+    },
+    {
+      "appid": "f0a333114190492c84a9decd2bb43875",
+      "name": "Bread and Fred",
+      "orig_cents": 1349,
+      "orig_price_str": "13,49 €"
     }
   ]
 }
