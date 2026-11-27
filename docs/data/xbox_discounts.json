@@ -11,6 +11,36 @@
       "gamepass": ""
     },
     {
+      "appid": "BNKDKQXMXRR2",
+      "name": "Skate 3",
+      "discount": 90,
+      "orig_cents": 1999,
+      "final_cents": 199,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "1,99 €",
+      "gamepass": "Xbox"
+    },
+    {
+      "appid": "BTC0L0BW6LWC",
+      "name": "Mortal Kombat 11",
+      "discount": 90,
+      "orig_cents": 4999,
+      "final_cents": 499,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "4,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9MT5NJ5W7B8Z",
+      "name": "Hogwarts Legacy",
+      "discount": 90,
+      "orig_cents": 7499,
+      "final_cents": 749,
+      "orig_price_str": "74,99 €",
+      "final_price_str": "7,49 €",
+      "gamepass": "PC + Xbox"
+    },
+    {
       "appid": "9NP9F7WWKRP1",
       "name": "FINAL FANTASY VII REBIRTH",
       "discount": 85,
@@ -31,6 +61,16 @@
       "gamepass": ""
     },
     {
+      "appid": "9P83GXG3SMZM",
+      "name": "FINAL FANTASY VII REBIRTH Digital Deluxe Edition",
+      "discount": 85,
+      "orig_cents": 7999,
+      "final_cents": 1199,
+      "orig_price_str": "79,99 €",
+      "final_price_str": "11,99 €",
+      "gamepass": ""
+    },
+    {
       "appid": "9PH339L3Z99C",
       "name": "Red Dead Redemption 2: Ultimate Edition",
       "discount": 80,
@@ -39,6 +79,26 @@
       "orig_price_str": "99,99 €",
       "final_price_str": "19,99 €",
       "gamepass": ""
+    },
+    {
+      "appid": "9NQGGN01771Z",
+      "name": "Poppy Playtime: Chapter 1",
+      "discount": 80,
+      "orig_cents": 499,
+      "final_cents": 99,
+      "orig_price_str": "4,99 €",
+      "final_price_str": "0,99 €",
+      "gamepass": ""
+    },
+    {
+      "appid": "9NXVC0482QS5",
+      "name": "It Takes Two – Digitale Version",
+      "discount": 80,
+      "orig_cents": 3999,
+      "final_cents": 799,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "7,99 €",
+      "gamepass": "Xbox"
     },
     {
       "appid": "9N2ZDN7NWQKV",
@@ -91,14 +151,14 @@
       "gamepass": ""
     },
     {
-      "appid": "9NKX70BBCDRN",
-      "name": "Forza Horizon 5 Standard Edition",
+      "appid": "9P9G5WX8C0VH",
+      "name": "Cyberpunk 2077: Ultimate Edition",
       "discount": 60,
-      "orig_cents": 6999,
-      "final_cents": 2799,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "27,99 €",
-      "gamepass": "PC + Xbox"
+      "orig_cents": 7999,
+      "final_cents": 3199,
+      "orig_price_str": "79,99 €",
+      "final_price_str": "31,99 €",
+      "gamepass": ""
     },
     {
       "appid": "9P5B3ZVDK19D",
@@ -108,16 +168,6 @@
       "final_cents": 1999,
       "orig_price_str": "49,99 €",
       "final_price_str": "19,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9P9G5WX8C0VH",
-      "name": "Cyberpunk 2077: Ultimate Edition",
-      "discount": 60,
-      "orig_cents": 7999,
-      "final_cents": 3199,
-      "orig_price_str": "79,99 €",
-      "final_price_str": "31,99 €",
       "gamepass": ""
     },
     {
@@ -161,16 +211,6 @@
       "gamepass": ""
     },
     {
-      "appid": "9N2R753H6WQD",
-      "name": "EA SPORTS™ College Football 27",
-      "discount": 50,
-      "orig_cents": 7999,
-      "final_cents": 3999,
-      "orig_price_str": "79,99 €",
-      "final_price_str": "39,99 €",
-      "gamepass": ""
-    },
-    {
       "appid": "9NXFX68ZNKK0",
       "name": "Grand Theft Auto V Enhanced (PC)",
       "discount": 50,
@@ -181,43 +221,13 @@
       "gamepass": ""
     },
     {
-      "appid": "9PK85WVFH32Q",
-      "name": "NHL 27 Standard Edition XBOX Series X|S",
+      "appid": "9N2R753H6WQD",
+      "name": "EA SPORTS™ College Football 27",
       "discount": 50,
       "orig_cents": 7999,
       "final_cents": 3999,
       "orig_price_str": "79,99 €",
       "final_price_str": "39,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9NQB2BFDD88X",
-      "name": "UFC™ 6",
-      "discount": 40,
-      "orig_cents": 7999,
-      "final_cents": 4799,
-      "orig_price_str": "79,99 €",
-      "final_price_str": "47,99 €",
-      "gamepass": ""
-    },
-    {
-      "appid": "9N431PX143P8",
-      "name": "Forza Horizon 6 Standard Edition",
-      "discount": 25,
-      "orig_cents": 6999,
-      "final_cents": 5249,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "52,49 €",
-      "gamepass": "PC + Xbox"
-    },
-    {
-      "appid": "9P80X661L0QT",
-      "name": "BOMBANANA!",
-      "discount": 20,
-      "orig_cents": 799,
-      "final_cents": 639,
-      "orig_price_str": "7,99 €",
-      "final_price_str": "6,39 €",
       "gamepass": ""
     },
     {
@@ -239,17 +249,7 @@
       "orig_price_str": "109,99 €",
       "final_price_str": "93,49 €",
       "gamepass": ""
-    },
-    {
-      "appid": "9NPQXS734SZW",
-      "name": "Call of Duty®: Modern Warfare® 4 (Windows)",
-      "discount": 15,
-      "orig_cents": 6999,
-      "final_cents": 5949,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "59,49 €",
-      "gamepass": ""
     }
   ],
-  "total": 2804
+  "total": 2823
 }

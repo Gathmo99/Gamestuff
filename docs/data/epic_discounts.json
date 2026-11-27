@@ -271,6 +271,16 @@
       "final_price_str": "2,69 €"
     },
     {
+      "appid": "aad9b8c3f0f7404f94de645a0857fb85",
+      "namespace": "7d9cb4fa8c4b488d86c7e9dec37318d5",
+      "name": "Suicide Guy",
+      "discount": 90,
+      "orig_cents": 719,
+      "final_cents": 71,
+      "orig_price_str": "7,19 €",
+      "final_price_str": "0,71 €"
+    },
+    {
       "appid": "28d1ecb804964fa791a56d87d10c7a89",
       "namespace": "fc70a43a8dec4293ab9243e2d9fb6a41",
       "name": "Dojoran",
@@ -569,16 +579,6 @@
       "final_cents": 53,
       "orig_price_str": "2,69 €",
       "final_price_str": "0,53 €"
-    },
-    {
-      "appid": "35a4e3d573b3400bb0543b1c1164a49f",
-      "namespace": "7db5792a3c524cfba78b1666b7355b7b",
-      "name": "Tear of Time - Lost memory",
-      "discount": 80,
-      "orig_cents": 359,
-      "final_cents": 71,
-      "orig_price_str": "3,59 €",
-      "final_price_str": "0,71 €"
     },
     {
       "appid": "e5cfeb2ef72e4cae8a237317fed902ee",
@@ -1181,6 +1181,26 @@
       "final_price_str": "0,71 €"
     },
     {
+      "appid": "b7bc274aae7b41b29a67ddd6e73120bd",
+      "namespace": "b373c02d39b8470187edd411bd1d36a3",
+      "name": "Magic Patrol Envoy",
+      "discount": 60,
+      "orig_cents": 539,
+      "final_cents": 215,
+      "orig_price_str": "5,39 €",
+      "final_price_str": "2,15 €"
+    },
+    {
+      "appid": "512ceace5844474bb2415d0bc8dab40e",
+      "namespace": "4aeb446ed8044b9bbdf98044832da06a",
+      "name": "Gunshots in the barren hills",
+      "discount": 60,
+      "orig_cents": 179,
+      "final_cents": 71,
+      "orig_price_str": "1,79 €",
+      "final_price_str": "0,71 €"
+    },
+    {
       "appid": "218fced6cc08489fae4f932f347df944",
       "namespace": "1a8cba3402d84f0bad7f7f3ece71d486",
       "name": "Geometric Sniper - Blood in Paris",
@@ -1721,6 +1741,16 @@
       "final_price_str": "1,79 €"
     },
     {
+      "appid": "7477bbf88bae4827879e3e0ce89bf008",
+      "namespace": "67bd9edaa00e4166aecdaebba247b457",
+      "name": "Fxxkbar Kim",
+      "discount": 50,
+      "orig_cents": 179,
+      "final_cents": 89,
+      "orig_price_str": "1,79 €",
+      "final_price_str": "0,89 €"
+    },
+    {
       "appid": "9f7b6388e7634ef9b892b62932065849",
       "namespace": "4b8e02fdfaad4426b9f8caa6dd4493a3",
       "name": "The Jackbox Survey Scramble",
@@ -1831,16 +1861,6 @@
       "final_price_str": "14,99 €"
     },
     {
-      "appid": "1dc837b54f2a4b71884f0ce9e27de731",
-      "namespace": "f853934fb6874d8783701be12ba6b8b9",
-      "name": "Life Changer",
-      "discount": 50,
-      "orig_cents": 809,
-      "final_cents": 404,
-      "orig_price_str": "8,09 €",
-      "final_price_str": "4,04 €"
-    },
-    {
       "appid": "b27b014db6c540a5816556770f1cfd65",
       "namespace": "d8cf97522142452dbe24375a3398cb54",
       "name": "Elven Rivers. The Forgotten Lands Collector's Edition",
@@ -1884,16 +1904,6 @@
       "appid": "46f3bbd4766b466fb6bf1fe4a94d9fcc",
       "namespace": "b167f2d46dab4b64a51f134820f73e59",
       "name": "Perfect Ninja Painter",
-      "discount": 40,
-      "orig_cents": 449,
-      "final_cents": 269,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "2,69 €"
-    },
-    {
-      "appid": "a10b01bb740b405fa6921b711e32826d",
-      "namespace": "f5cbb41110544509abfd6d478dc05598",
-      "name": "Port Solano City: Gangster War",
       "discount": 40,
       "orig_cents": 449,
       "final_cents": 269,
@@ -2321,16 +2331,6 @@
       "final_price_str": "1,25 €"
     },
     {
-      "appid": "1293cbf4657c44cab8a8f6ff66b8e7fe",
-      "namespace": "4f21ab257af7461484bf84fc1c7fa615",
-      "name": "T REX IN BACKROOMS",
-      "discount": 26,
-      "orig_cents": 89,
-      "final_cents": 66,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,66 €"
-    },
-    {
       "appid": "e8ee7c830b4745a4a23de702f901873c",
       "namespace": "68eb3279026c4aa2ab6ec1395d7b7b77",
       "name": "End of Abyss",
@@ -2601,6 +2601,16 @@
       "final_price_str": "3,81 €"
     },
     {
+      "appid": "89373bd5b2cb48ecba23bef9b57c3368",
+      "namespace": "95a504bcb62445569e0e165fdb098c8e",
+      "name": "Falling in love with stockings 5",
+      "discount": 15,
+      "orig_cents": 449,
+      "final_cents": 381,
+      "orig_price_str": "4,49 €",
+      "final_price_str": "3,81 €"
+    },
+    {
       "appid": "382b1c80a04c4324932cb033f510e1a7",
       "namespace": "7a40aa24d4e54df09fa67c25413a57b5",
       "name": "C64 and AMIGA Classix Remakes Sixpack",
@@ -2701,5 +2711,5 @@
       "final_price_str": "12,14 €"
     }
   ],
-  "total": 270
+  "total": 271
 }
