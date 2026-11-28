@@ -241,16 +241,6 @@
       "final_price_str": "1,34 €"
     },
     {
-      "appid": "8463388205154899945e595d9df8ed7c",
-      "namespace": "57d034ab83474d00afcfd349513b03c6",
-      "name": "TETWORD",
-      "discount": 84,
-      "orig_cents": 539,
-      "final_cents": 86,
-      "orig_price_str": "5,39 €",
-      "final_price_str": "0,86 €"
-    },
-    {
       "appid": "c76046dddcdb43619c33ce0395941033",
       "namespace": "639daf403b554ee9b02eee5eedafc302",
       "name": "Luftrausers",
@@ -2309,6 +2299,16 @@
       "final_cents": 722,
       "orig_price_str": "10,79 €",
       "final_price_str": "7,22 €"
+    },
+    {
+      "appid": "b17121187bf14bc0ae673be8a2111218",
+      "namespace": "316bab148f91415fbaf2f61801fa249a",
+      "name": "Dark Hearts",
+      "discount": 30,
+      "orig_cents": 179,
+      "final_cents": 125,
+      "orig_price_str": "1,79 €",
+      "final_price_str": "1,25 €"
     },
     {
       "appid": "21b0be7faa94407899a9f3119f927dd0",
