@@ -1,16 +1,6 @@
 {
   "items": [
     {
-      "appid": "f0a333114190492c84a9decd2bb43875",
-      "namespace": "7e95faaa77054b80828dd7d64bbeb4ff",
-      "name": "Bread and Fred",
-      "discount": 100,
-      "orig_cents": 1349,
-      "final_cents": 0,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "0,00 €"
-    },
-    {
       "appid": "80807913f3274528af425ceef1c5ecbc",
       "namespace": "74ba24576490436b936c1c5fc1e32935",
       "name": "Undead: Rise of the Betrayed King",
@@ -19,16 +9,6 @@
       "final_cents": 89,
       "orig_price_str": "17,99 €",
       "final_price_str": "0,89 €"
-    },
-    {
-      "appid": "6146682c0d6d4b779dbe7ae47c9e4e7a",
-      "namespace": "d17f792933ae482599a9faec4afda35f",
-      "name": "Rustic Farm Life",
-      "discount": 95,
-      "orig_cents": 1349,
-      "final_cents": 67,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "0,67 €"
     },
     {
       "appid": "0b09d98e514b4808a9ba2ff31af8e44f",
@@ -49,106 +29,6 @@
       "final_cents": 89,
       "orig_price_str": "17,99 €",
       "final_price_str": "0,89 €"
-    },
-    {
-      "appid": "da2244c27ee24759977c8efec26fa659",
-      "namespace": "dcedb432f689463e8ed0d004fb67c5ee",
-      "name": "Dofamine",
-      "discount": 95,
-      "orig_cents": 1349,
-      "final_cents": 67,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "0,67 €"
-    },
-    {
-      "appid": "6e98cd1c12fe47d583301a661e83cc48",
-      "namespace": "18051c2571964edbaeb83f87d12a189c",
-      "name": "Euphoria: Supreme Mechanics",
-      "discount": 95,
-      "orig_cents": 1349,
-      "final_cents": 67,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "0,67 €"
-    },
-    {
-      "appid": "f9417e836f3a432fa7515da1c5d60ecc",
-      "namespace": "8e0b8a0109344a60b68732503eb9c201",
-      "name": "Heavy Burden",
-      "discount": 95,
-      "orig_cents": 1799,
-      "final_cents": 89,
-      "orig_price_str": "17,99 €",
-      "final_price_str": "0,89 €"
-    },
-    {
-      "appid": "5959c16f2366492a871c6ba0e0fafaab",
-      "namespace": "d0328a2bc8e04364b1fff1253a986174",
-      "name": "Battlefield™ Hardline Ultimate Edition",
-      "discount": 95,
-      "orig_cents": 3999,
-      "final_cents": 199,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "1,99 €"
-    },
-    {
-      "appid": "0b7c7381501d4eeb9f39d88cd7f41b27",
-      "namespace": "bdefe348a0ae441e84687addee74fd10",
-      "name": "Need for Speed™ Heat Deluxe Edition",
-      "discount": 95,
-      "orig_cents": 6999,
-      "final_cents": 349,
-      "orig_price_str": "69,99 €",
-      "final_price_str": "3,49 €"
-    },
-    {
-      "appid": "630cdb37dad7426aa2ca0d99f583cbf1",
-      "namespace": "a71ff65b058146b88b2562ef447f9fc2",
-      "name": "Battlefield™ 1 Revolution",
-      "discount": 95,
-      "orig_cents": 3999,
-      "final_cents": 199,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "1,99 €"
-    },
-    {
-      "appid": "a2ef263a5e624cc1b0e0e40a1fd90dcf",
-      "namespace": "0a541deb1bbb42c987cb48d695431e18",
-      "name": "Battlefield 4™ Premium Edition",
-      "discount": 95,
-      "orig_cents": 3999,
-      "final_cents": 199,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "1,99 €"
-    },
-    {
-      "appid": "34d960ae4b224b1f9a45766db362e530",
-      "namespace": "daed3ae775ab4986a0ce9ec1c3daab83",
-      "name": "The Wraith of the Galaxy",
-      "discount": 95,
-      "orig_cents": 1799,
-      "final_cents": 89,
-      "orig_price_str": "17,99 €",
-      "final_price_str": "0,89 €"
-    },
-    {
-      "appid": "c4fcf94df63b4db0b6f9c6eff77c1b10",
-      "namespace": "bf5708c386744107b8a8a24ac707dd0e",
-      "name": "Battlefield V Definitive Edition",
-      "discount": 95,
-      "orig_cents": 4999,
-      "final_cents": 249,
-      "orig_price_str": "49,99 €",
-      "final_price_str": "2,49 €"
-    },
-    {
-      "appid": "39fbb5eb69964901853ae9615ded21ac",
-      "namespace": "9fa8b87898c64196aa89daa9d55fc102",
-      "name": "Helheim Hassle",
-      "discount": 95,
-      "orig_cents": 1599,
-      "final_cents": 79,
-      "orig_price_str": "15,99 €",
-      "final_price_str": "0,79 €"
     },
     {
       "appid": "2995505b91094de6bc91c8ceceb936bc",
@@ -181,16 +61,6 @@
       "final_price_str": "0,75 €"
     },
     {
-      "appid": "f83717d25bb14a3c9f5c827a3d2e60da",
-      "namespace": "371b823a2db44deea5ad6467a114abe0",
-      "name": "Never Synth",
-      "discount": 93,
-      "orig_cents": 899,
-      "final_cents": 62,
-      "orig_price_str": "8,99 €",
-      "final_price_str": "0,62 €"
-    },
-    {
       "appid": "17929458a5b84dcdb443964e84a0920c",
       "namespace": "d2558c333a3c4f018b8fae8c95ba9e14",
       "name": "We Are The Dwarves",
@@ -199,6 +69,16 @@
       "final_cents": 86,
       "orig_price_str": "10,79 €",
       "final_price_str": "0,86 €"
+    },
+    {
+      "appid": "843cbe6a2b6a448c8b62f2f4dca06daf",
+      "namespace": "4226a003e0f7413081c2f2dfb13a27c1",
+      "name": "sqwrk",
+      "discount": 91,
+      "orig_cents": 89,
+      "final_cents": 8,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,08 €"
     },
     {
       "appid": "ace6cde6ed5b48f6855fbaa7db19c012",
@@ -231,6 +111,56 @@
       "final_price_str": "1,07 €"
     },
     {
+      "appid": "ed109adce3c042f792f48d629221ac8b",
+      "namespace": "962cf46ed59b42c1a16834193a7cde54",
+      "name": "Styx: Master of Shadows",
+      "discount": 90,
+      "orig_cents": 1999,
+      "final_cents": 199,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "1,99 €"
+    },
+    {
+      "appid": "9b99ffa5a53e4317824f4ccb2b6e68d2",
+      "namespace": "795fdebb6c6e497d98cee43057286743",
+      "name": "Styx: Shards of Darkness - Deluxe Edition",
+      "discount": 90,
+      "orig_cents": 1999,
+      "final_cents": 199,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "1,99 €"
+    },
+    {
+      "appid": "64dcb34ab8794d67a59bbb4bc805d4c6",
+      "namespace": "77882e466fc140cdb20ea0c72fca9f93",
+      "name": "Felix The Reaper",
+      "discount": 90,
+      "orig_cents": 999,
+      "final_cents": 99,
+      "orig_price_str": "9,99 €",
+      "final_price_str": "0,99 €"
+    },
+    {
+      "appid": "b7caa6f6c1c3478ba6cdd60720446416",
+      "namespace": "038e0f9c7a2c4e89839805f25821dd36",
+      "name": "Arcade Flighter!",
+      "discount": 90,
+      "orig_cents": 219,
+      "final_cents": 21,
+      "orig_price_str": "2,19 €",
+      "final_price_str": "0,21 €"
+    },
+    {
+      "appid": "5ad11ae5519b432cbb184ea440101bab",
+      "namespace": "bdffe95a989c4810b5abc0e525eb7a26",
+      "name": "Harry Potter: Quidditch Champions",
+      "discount": 90,
+      "orig_cents": 2999,
+      "final_cents": 299,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "2,99 €"
+    },
+    {
       "appid": "bbed2037da784b5690e4a50826961197",
       "namespace": "b42792c248724e988066e575f59c1df9",
       "name": "Dustborn",
@@ -239,96 +169,6 @@
       "final_cents": 269,
       "orig_price_str": "26,99 €",
       "final_price_str": "2,69 €"
-    },
-    {
-      "appid": "cdab83484ebe44609fc8fe95ad5ec99d",
-      "namespace": "090ac4b263f44ea79418069fddfb0d9b",
-      "name": "Devil's Island",
-      "discount": 90,
-      "orig_cents": 1079,
-      "final_cents": 107,
-      "orig_price_str": "10,79 €",
-      "final_price_str": "1,07 €"
-    },
-    {
-      "appid": "a7b8a3a7da9b42aba9d94d8d2096c1b7",
-      "namespace": "4d7b7a63e2f4443bb29486d8f4db941b",
-      "name": "Lysfanga: The Time Shift Warrior",
-      "discount": 90,
-      "orig_cents": 2499,
-      "final_cents": 249,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "2,49 €"
-    },
-    {
-      "appid": "ce044beae3f1459898d0a43aae80d778",
-      "namespace": "d5309b9c54564b1f9a0b4c6b797cc5f0",
-      "name": "Under The Waves",
-      "discount": 90,
-      "orig_cents": 2699,
-      "final_cents": 269,
-      "orig_price_str": "26,99 €",
-      "final_price_str": "2,69 €"
-    },
-    {
-      "appid": "aad9b8c3f0f7404f94de645a0857fb85",
-      "namespace": "7d9cb4fa8c4b488d86c7e9dec37318d5",
-      "name": "Suicide Guy",
-      "discount": 90,
-      "orig_cents": 719,
-      "final_cents": 71,
-      "orig_price_str": "7,19 €",
-      "final_price_str": "0,71 €"
-    },
-    {
-      "appid": "28d1ecb804964fa791a56d87d10c7a89",
-      "namespace": "fc70a43a8dec4293ab9243e2d9fb6a41",
-      "name": "Dojoran",
-      "discount": 90,
-      "orig_cents": 449,
-      "final_cents": 44,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "4aee28c2e0164e7a90799a66fe64fbeb",
-      "namespace": "cae59d6d2a1341c8b92c89ddf970e1e6",
-      "name": "Trolley Problem, Inc.",
-      "discount": 90,
-      "orig_cents": 899,
-      "final_cents": 89,
-      "orig_price_str": "8,99 €",
-      "final_price_str": "0,89 €"
-    },
-    {
-      "appid": "ca9e038d351d493f91f7823a175c5acf",
-      "namespace": "lavender",
-      "name": "Beyond Two Souls",
-      "discount": 90,
-      "orig_cents": 1990,
-      "final_cents": 199,
-      "orig_price_str": "19,90 €",
-      "final_price_str": "1,99 €"
-    },
-    {
-      "appid": "b1f5e946cb694968849f5b4331f27db5",
-      "namespace": "aster",
-      "name": "Heavy Rain",
-      "discount": 90,
-      "orig_cents": 1990,
-      "final_cents": 199,
-      "orig_price_str": "19,90 €",
-      "final_price_str": "1,99 €"
-    },
-    {
-      "appid": "c5eb5495fb7f44c89a48b0ccc33071e5",
-      "namespace": "77961f9557a149a8bf1cf761220d9d24",
-      "name": "Need for Speed™ Deluxe Edition",
-      "discount": 87,
-      "orig_cents": 2999,
-      "final_cents": 389,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "3,89 €"
     },
     {
       "appid": "f02517c3e83341859d40c43f855d8b10",
@@ -341,6 +181,56 @@
       "final_price_str": "0,94 €"
     },
     {
+      "appid": "ece76f89b8714adaa0f1a307a4942615",
+      "namespace": "693ad55666bf473a81bb9135146b8720",
+      "name": "Extreme Cycling",
+      "discount": 85,
+      "orig_cents": 899,
+      "final_cents": 134,
+      "orig_price_str": "8,99 €",
+      "final_price_str": "1,34 €"
+    },
+    {
+      "appid": "042a37389e104d368d139a398ce8284d",
+      "namespace": "f496524fbf274cd39eb3517408abab72",
+      "name": "Horror Adventure : Zombie Edition",
+      "discount": 85,
+      "orig_cents": 899,
+      "final_cents": 134,
+      "orig_price_str": "8,99 €",
+      "final_price_str": "1,34 €"
+    },
+    {
+      "appid": "5a10c78d4655480b99d561cbfd064323",
+      "namespace": "e2e016b0ce324c7a96def1eb99a8c0e5",
+      "name": "Snowboard Legends",
+      "discount": 85,
+      "orig_cents": 899,
+      "final_cents": 134,
+      "orig_price_str": "8,99 €",
+      "final_price_str": "1,34 €"
+    },
+    {
+      "appid": "0fee500914c544468535844bff041497",
+      "namespace": "ba2f4991f6aa48ac8c7313b7b1dab551",
+      "name": "Realpolitiks 3: Earth and Beyond",
+      "discount": 85,
+      "orig_cents": 2499,
+      "final_cents": 374,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "3,74 €"
+    },
+    {
+      "appid": "cd1610921c934f588d95b7d0d3750730",
+      "namespace": "42c70202dc684966a827bfcb7b49ac5f",
+      "name": "Monster Jam™ Showdown",
+      "discount": 85,
+      "orig_cents": 4999,
+      "final_cents": 749,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "7,49 €"
+    },
+    {
       "appid": "2cbe81ee4a144330b74b11e56bb9e714",
       "namespace": "9929fd534aae43acb7fd6e8016646ab9",
       "name": "The Companion",
@@ -351,86 +241,6 @@
       "final_price_str": "1,34 €"
     },
     {
-      "appid": "5e7a745450084a989e2372e85e2dd08c",
-      "namespace": "0af9f54fedd4457aa7c8d23566036bdb",
-      "name": "Titanfall™ 2: Ultimate Edition",
-      "discount": 85,
-      "orig_cents": 2999,
-      "final_cents": 449,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "4,49 €"
-    },
-    {
-      "appid": "ff8b6307daee4bda86136e17a0e759b2",
-      "namespace": "319f44ad1aa041e58a0c8b4bed868adb",
-      "name": "Need for Speed™ Payback - Deluxe Edition",
-      "discount": 85,
-      "orig_cents": 2999,
-      "final_cents": 449,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "4,49 €"
-    },
-    {
-      "appid": "e83b33daa4944b99b649543c1f608061",
-      "namespace": "1b5b9d7b995d437c9933b053d2ba41f2",
-      "name": "Need for Speed™ Hot Pursuit Remastered",
-      "discount": 85,
-      "orig_cents": 2999,
-      "final_cents": 449,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "4,49 €"
-    },
-    {
-      "appid": "d55742ec89144e559349f28828a43b21",
-      "namespace": "2010b387d2964690a42249ff8c4f9ee4",
-      "name": "THE IMPOSSIBLE",
-      "discount": 85,
-      "orig_cents": 449,
-      "final_cents": 67,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "0,67 €"
-    },
-    {
-      "appid": "2a6f2119c6fc4c1e954bb8a6ce6a0bd7",
-      "namespace": "a558895729e74ef28bc57bdab3cd63f1",
-      "name": "Shop Tycoon - Prepare Your Wallet",
-      "discount": 85,
-      "orig_cents": 539,
-      "final_cents": 80,
-      "orig_price_str": "5,39 €",
-      "final_price_str": "0,80 €"
-    },
-    {
-      "appid": "3ab51cc2601844ef98a36b345bc62b4f",
-      "namespace": "2a535f0e7c754dbe9157bf96adc62d56",
-      "name": "Mass Effect™ Legendary Edition",
-      "discount": 85,
-      "orig_cents": 5999,
-      "final_cents": 899,
-      "orig_price_str": "59,99 €",
-      "final_price_str": "8,99 €"
-    },
-    {
-      "appid": "9cc5be6301b54950a11519fc6c384ba8",
-      "namespace": "9a85a766e38c4013b9e33b225f83ae98",
-      "name": "SYMMETRY",
-      "discount": 85,
-      "orig_cents": 999,
-      "final_cents": 149,
-      "orig_price_str": "9,99 €",
-      "final_price_str": "1,49 €"
-    },
-    {
-      "appid": "3cca0612b6334f5cb610d1379a39ad6c",
-      "namespace": "d66c34349a054c3ea529726a5687520e",
-      "name": "Wargame: Red Dragon",
-      "discount": 85,
-      "orig_cents": 2999,
-      "final_cents": 449,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "4,49 €"
-    },
-    {
       "appid": "8463388205154899945e595d9df8ed7c",
       "namespace": "57d034ab83474d00afcfd349513b03c6",
       "name": "TETWORD",
@@ -439,6 +249,16 @@
       "final_cents": 86,
       "orig_price_str": "5,39 €",
       "final_price_str": "0,86 €"
+    },
+    {
+      "appid": "c76046dddcdb43619c33ce0395941033",
+      "namespace": "639daf403b554ee9b02eee5eedafc302",
+      "name": "Luftrausers",
+      "discount": 80,
+      "orig_cents": 899,
+      "final_cents": 179,
+      "orig_price_str": "8,99 €",
+      "final_price_str": "1,79 €"
     },
     {
       "appid": "af4c34934afe4db0870b8a1d82dceb94",
@@ -471,6 +291,46 @@
       "final_price_str": "0,53 €"
     },
     {
+      "appid": "2ec8009f28a3462abf4f4c58b65eb798",
+      "namespace": "66ab6672b313434e9ab6ba7c36ec7d3e",
+      "name": "Snake Core",
+      "discount": 80,
+      "orig_cents": 499,
+      "final_cents": 99,
+      "orig_price_str": "4,99 €",
+      "final_price_str": "0,99 €"
+    },
+    {
+      "appid": "82bedd87409f432fa5c658400a35cb11",
+      "namespace": "8cd12a47301b435db0aa350310c7b7d8",
+      "name": "Stunt Paradise",
+      "discount": 80,
+      "orig_cents": 719,
+      "final_cents": 143,
+      "orig_price_str": "7,19 €",
+      "final_price_str": "1,43 €"
+    },
+    {
+      "appid": "5ea0c80f094c493a9d726a12b482eda8",
+      "namespace": "6952f77c70cf43e6b61e312d7aa60a82",
+      "name": "001 Game Creator",
+      "discount": 80,
+      "orig_cents": 7199,
+      "final_cents": 1439,
+      "orig_price_str": "71,99 €",
+      "final_price_str": "14,39 €"
+    },
+    {
+      "appid": "b8d5488313d34eb8bef0b7797ba9b287",
+      "namespace": "b3eefb9401454010919b8f9f93c2966e",
+      "name": "Trident's Tale",
+      "discount": 80,
+      "orig_cents": 1799,
+      "final_cents": 359,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "3,59 €"
+    },
+    {
       "appid": "340050a118d74e6582a3005d7283c74d",
       "namespace": "0ee52c80fe5e48a48f5c0d80fa9436cc",
       "name": "DESERTED",
@@ -481,9 +341,49 @@
       "final_price_str": "3,59 €"
     },
     {
-      "appid": "0b03664349b24b30be49a4bb34735493",
-      "namespace": "ff53808bb3b5462283516ab21d09a4dc",
-      "name": "Mass Effect™ 3 N7 Digital Deluxe Edition (2012)",
+      "appid": "7597ecbe85a846a4a0be01b35b587f68",
+      "namespace": "45990201b8d94bb69119bc75b264037c",
+      "name": "Monster Energy Supercross 25 - The Official Video Game",
+      "discount": 80,
+      "orig_cents": 5999,
+      "final_cents": 1199,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "11,99 €"
+    },
+    {
+      "appid": "5764091af1b24779a845cd9c19264df3",
+      "namespace": "73b97c46ae75421f91be8c494978ab94",
+      "name": "Hero of the Kingdom: The Lost Tales 3",
+      "discount": 80,
+      "orig_cents": 629,
+      "final_cents": 125,
+      "orig_price_str": "6,29 €",
+      "final_price_str": "1,25 €"
+    },
+    {
+      "appid": "43878ad1b10c455d8aa2c2bac1a5530a",
+      "namespace": "756ea7cef5ec4ad49abb5b275068a007",
+      "name": "Hero of the Kingdom: The Lost Tales 2",
+      "discount": 80,
+      "orig_cents": 629,
+      "final_cents": 125,
+      "orig_price_str": "6,29 €",
+      "final_price_str": "1,25 €"
+    },
+    {
+      "appid": "4fc4d85db8734e1bb9eea84e51a96a12",
+      "namespace": "0ff213fbaec14c7c89ab968f5ebd2a8a",
+      "name": "Hero of the Kingdom: The Lost Tales 1",
+      "discount": 80,
+      "orig_cents": 629,
+      "final_cents": 125,
+      "orig_price_str": "6,29 €",
+      "final_price_str": "1,25 €"
+    },
+    {
+      "appid": "451154879f9640328f028abcaf438cb5",
+      "namespace": "5ff7ac1fd96b4faaabb55876cf536439",
+      "name": "SteamWorld Heist II",
       "discount": 80,
       "orig_cents": 2999,
       "final_cents": 599,
@@ -491,194 +391,14 @@
       "final_price_str": "5,99 €"
     },
     {
-      "appid": "c015ff4eb31d4fa98257f9e95dbd52ba",
-      "namespace": "cfc9a8bcab134a639f76d7b1646554e7",
-      "name": "Mass Effect™: Andromeda Deluxe Edition",
-      "discount": 80,
-      "orig_cents": 3999,
-      "final_cents": 799,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "7,99 €"
-    },
-    {
-      "appid": "b58b44eea22a40659afd251176e82004",
-      "namespace": "c1cdf99afc8341929e2b1611fc77aa41",
-      "name": "Mass Effect™ 2 (2010 Edition)",
-      "discount": 80,
-      "orig_cents": 2999,
-      "final_cents": 599,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "5,99 €"
-    },
-    {
-      "appid": "8b6d0afc5a3a4396a32beb56a23f46c1",
-      "namespace": "aa0bf256813a423f8705093d696065b4",
-      "name": "Dragon Age™: Origins – Ultimate Edition",
-      "discount": 80,
-      "orig_cents": 2999,
-      "final_cents": 599,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "5,99 €"
-    },
-    {
-      "appid": "2d6da837db1949949d1eba94c663e381",
-      "namespace": "8109d0d7b82f4242bf4cd26108e50f20",
-      "name": "Mass Effect™ (2007 Edition)",
-      "discount": 80,
-      "orig_cents": 2999,
-      "final_cents": 599,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "5,99 €"
-    },
-    {
-      "appid": "8aac2050df7442e6a27aa862f408c246",
-      "namespace": "4e8c0f56bcf948d581e30c58283d183c",
-      "name": "Dragon Age II: Ultimate Edition",
-      "discount": 80,
-      "orig_cents": 2999,
-      "final_cents": 599,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "5,99 €"
-    },
-    {
-      "appid": "4e1a331635b445f58eb3c8a52c5076b3",
-      "namespace": "afe2527e29b94db48b2eef984e34d81a",
-      "name": "Dragon Age: Inquisition – Game of the Year Edition",
-      "discount": 80,
-      "orig_cents": 3999,
-      "final_cents": 799,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "7,99 €"
-    },
-    {
-      "appid": "27564103723d4974ae0fa98315196198",
-      "namespace": "24cebb527f344974902781bd33087ee8",
-      "name": "Pandemic Train",
-      "discount": 80,
-      "orig_cents": 1529,
-      "final_cents": 305,
-      "orig_price_str": "15,29 €",
-      "final_price_str": "3,05 €"
-    },
-    {
-      "appid": "21de61702b5842d683ee22fc5dbf80f4",
-      "namespace": "1b1c2f4fdabf4227b124d45d3e79d33e",
-      "name": "For The Warp",
-      "discount": 80,
-      "orig_cents": 1349,
-      "final_cents": 269,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "2,69 €"
-    },
-    {
-      "appid": "eb0c7c1cb11c4689b9a96960b32d420d",
-      "namespace": "c3e57c64bb4a468f8261f4038f3e903e",
-      "name": "Play with Me - Escape Room",
-      "discount": 80,
-      "orig_cents": 269,
-      "final_cents": 53,
-      "orig_price_str": "2,69 €",
-      "final_price_str": "0,53 €"
-    },
-    {
-      "appid": "e5cfeb2ef72e4cae8a237317fed902ee",
-      "namespace": "75d74aeb36024d95b8a30bad40dc19c3",
-      "name": "Call of the Wild: The Angler™",
-      "discount": 80,
-      "orig_cents": 2999,
-      "final_cents": 599,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "5,99 €"
-    },
-    {
-      "appid": "a9bdee9694964414b14f50a2dcd5ef87",
-      "namespace": "8d1d2207cb184a41aaa59ac26e0ba5a9",
-      "name": "Aces of the Luftwaffe - Extended Edition",
-      "discount": 80,
-      "orig_cents": 2499,
-      "final_cents": 499,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "4,99 €"
-    },
-    {
-      "appid": "7d6810596a844773bf699cd74c6a4f84",
-      "namespace": "fefe1db11f534484987ef50ec1e25225",
-      "name": "STAR WARS™ Battlefront™ Ultimate Edition",
-      "discount": 80,
-      "orig_cents": 1999,
-      "final_cents": 399,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "3,99 €"
-    },
-    {
-      "appid": "ea7721c6c2694e72813d3661bc68a2cb",
-      "namespace": "b156c3365a5b4cb9a01a5e1108b4e3f4",
-      "name": "STAR WARS™ Battlefront™ II: Celebration Edition",
-      "discount": 80,
-      "orig_cents": 3999,
-      "final_cents": 799,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "7,99 €"
-    },
-    {
-      "appid": "5005e6c10c45410a9bc52bca7e1fe960",
-      "namespace": "55d082ca99b64bd9bdb25754eb56a135",
-      "name": "Might and Magic: Heroes VII – Ultimate Edition",
-      "discount": 80,
-      "orig_cents": 4499,
-      "final_cents": 899,
-      "orig_price_str": "44,99 €",
-      "final_price_str": "8,99 €"
-    },
-    {
-      "appid": "9ca2b214a7b0477cb57fb0975f50043c",
-      "namespace": "8432511ef63b489b843d21ff486a0355",
-      "name": "Torchlight II",
-      "discount": 80,
-      "orig_cents": 1899,
-      "final_cents": 379,
-      "orig_price_str": "18,99 €",
-      "final_price_str": "3,79 €"
-    },
-    {
-      "appid": "3dfcf2349c0e4fad8e5c6b33786c407e",
-      "namespace": "78de1f402ddf486ebcbf9ba3009d6198",
-      "name": "Huntdown",
-      "discount": 80,
-      "orig_cents": 1950,
-      "final_cents": 390,
-      "orig_price_str": "19,50 €",
-      "final_price_str": "3,90 €"
-    },
-    {
-      "appid": "cc097232e8584021853adf98adec1b8d",
-      "namespace": "columbine",
-      "name": "Detroit: Become Human",
-      "discount": 80,
-      "orig_cents": 3990,
-      "final_cents": 798,
-      "orig_price_str": "39,90 €",
-      "final_price_str": "7,98 €"
-    },
-    {
-      "appid": "4019722ac05540b69f172d5182468175",
-      "namespace": "d0230ef21b1f4ef29aec0d49946912fc",
-      "name": "Torchlight",
-      "discount": 80,
-      "orig_cents": 1199,
-      "final_cents": 239,
-      "orig_price_str": "11,99 €",
-      "final_price_str": "2,39 €"
-    },
-    {
-      "appid": "5f20f2a5f50847fb9aec86de523cc940",
-      "namespace": "e9573f687fb24b56ba22562657ef1225",
-      "name": "Need for Speed™ Rivals: Complete Edition",
-      "discount": 78,
-      "orig_cents": 1999,
-      "final_cents": 439,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "4,39 €"
+      "appid": "4bb49d141e60411885744bd7b4993a3c",
+      "namespace": "4e4cd4ee98bd4b5fb2de1f05f4a65846",
+      "name": "Fantasy Youth",
+      "discount": 77,
+      "orig_cents": 2239,
+      "final_cents": 514,
+      "orig_price_str": "22,39 €",
+      "final_price_str": "5,14 €"
     },
     {
       "appid": "fb08eca7e2bf4b9d9ec81741bd4cca7a",
@@ -701,6 +421,26 @@
       "final_price_str": "9,99 €"
     },
     {
+      "appid": "b917d5802dd8407fbee1e5cdea1d0698",
+      "namespace": "ec36eca1c206428c8a6c7f52ae2bd9b7",
+      "name": "Viewfinder",
+      "discount": 75,
+      "orig_cents": 2499,
+      "final_cents": 624,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "6,24 €"
+    },
+    {
+      "appid": "5e416c7c1444483e828899b0c30ce2cd",
+      "namespace": "99d8ac4b0cd94611b52bae792d84b0e4",
+      "name": "Make Way",
+      "discount": 75,
+      "orig_cents": 1499,
+      "final_cents": 374,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "3,74 €"
+    },
+    {
       "appid": "904a631b58f9404380fe3264d7a57d07",
       "namespace": "b45f430ecdbf4b9f9c764c0851ad0741",
       "name": "Bodycamera Chase",
@@ -709,6 +449,26 @@
       "final_cents": 44,
       "orig_price_str": "1,79 €",
       "final_price_str": "0,44 €"
+    },
+    {
+      "appid": "42ddee26e77e43c8bee2df7ac6e79e87",
+      "namespace": "aa7d37f1f2354cff8a1e1c25765382dc",
+      "name": "Relicbound",
+      "discount": 75,
+      "orig_cents": 1079,
+      "final_cents": 269,
+      "orig_price_str": "10,79 €",
+      "final_price_str": "2,69 €"
+    },
+    {
+      "appid": "1a2c62dab62443359e127269cf1ea5f2",
+      "namespace": "40351ae7b82b4ad6b815c671e49bf4cf",
+      "name": "Warhammer 40,000: Space Marine - Master Crafted Edition",
+      "discount": 75,
+      "orig_cents": 3999,
+      "final_cents": 999,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "9,99 €"
     },
     {
       "appid": "01fc5432d5b04aeeb9d5fbdb68f5643a",
@@ -731,49 +491,9 @@
       "final_price_str": "0,89 €"
     },
     {
-      "appid": "5124fb01a6564f41bf69e8860cf6c569",
-      "namespace": "e44eb86202844dfe9644e88d0c9c232a",
-      "name": "NINJA KATO 4",
-      "discount": 75,
-      "orig_cents": 449,
-      "final_cents": 112,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "1,12 €"
-    },
-    {
-      "appid": "1c86539b312e4cbfa0fef6a7e09fcf93",
-      "namespace": "45e5366436ed4058ad268d41516c4c0d",
-      "name": "NINJA KATO 3",
-      "discount": 75,
-      "orig_cents": 399,
-      "final_cents": 99,
-      "orig_price_str": "3,99 €",
-      "final_price_str": "0,99 €"
-    },
-    {
-      "appid": "33c9802ccda441c0b36aceb82ad1855c",
-      "namespace": "1690366171dd46809de64fdb4169d17c",
-      "name": "NINJA KATO 2",
-      "discount": 75,
-      "orig_cents": 449,
-      "final_cents": 112,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "1,12 €"
-    },
-    {
-      "appid": "7f3d191e63954e6688d6a0f677647d57",
-      "namespace": "1d712926020a45dc8fe28cb4c963c9ce",
-      "name": "NINJA KATO 1",
-      "discount": 75,
-      "orig_cents": 179,
-      "final_cents": 44,
-      "orig_price_str": "1,79 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "0613000f1d164fc1b5dd3e5ad1376399",
-      "namespace": "964f58c4c2074404bf9c359483ab1a48",
-      "name": "Midnight Ghost Hunt",
+      "appid": "b6aa36af38f941218af37b6fd355093c",
+      "namespace": "c75abc5bf2f54b24ac7bd7aa9628c007",
+      "name": "VED",
       "discount": 75,
       "orig_cents": 1999,
       "final_cents": 499,
@@ -781,29 +501,9 @@
       "final_price_str": "4,99 €"
     },
     {
-      "appid": "bc50264f2f8b4fbdab298773370efdf8",
-      "namespace": "1b7be718900a412696034cbffdc27820",
-      "name": "Kholat",
-      "discount": 75,
-      "orig_cents": 1799,
-      "final_cents": 449,
-      "orig_price_str": "17,99 €",
-      "final_price_str": "4,49 €"
-    },
-    {
-      "appid": "1f1c779fe42c4ac7ae019814ba5adfe4",
-      "namespace": "d3f41883d30045c08314a8c9d1742d03",
-      "name": "My Memory of Us",
-      "discount": 75,
-      "orig_cents": 1619,
-      "final_cents": 404,
-      "orig_price_str": "16,19 €",
-      "final_price_str": "4,04 €"
-    },
-    {
-      "appid": "8694d4fc4af94b889d11a9343fe2ecc9",
-      "namespace": "7bea1a7bb34d408e8ea30487237d2fe0",
-      "name": "Seven - Enhanced Edition",
+      "appid": "96849cf7fda94dd8a305a4d04d68d131",
+      "namespace": "7f983c72f7824a41b5ef591ccc365abd",
+      "name": "Teenage Mutant Ninja Turtles: Splintered Fate",
       "discount": 75,
       "orig_cents": 2799,
       "final_cents": 699,
@@ -811,54 +511,44 @@
       "final_price_str": "6,99 €"
     },
     {
-      "appid": "c2f05f471b6f43cc8e864199f2503bc2",
-      "namespace": "3a18db06dff0465b8a58308aa29020a0",
-      "name": "Songs of Conquest",
+      "appid": "a7e2a44d0e614895bbf0a714bbc6a1ca",
+      "namespace": "a195e51c853d46038d13c49b882a9215",
+      "name": "SONIC X SHADOW GENERATIONS",
       "discount": 75,
-      "orig_cents": 2999,
-      "final_cents": 749,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "7,49 €"
+      "orig_cents": 4999,
+      "final_cents": 1249,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "12,49 €"
     },
     {
-      "appid": "82aa1f0d1e9f426984e7529aae189d10",
-      "namespace": "95cda0d0b9124cc790f3893ac41cc29a",
-      "name": "Imagine Earth",
+      "appid": "f1e2d2a5fd1048369e4483ff70db5ddc",
+      "namespace": "898ae428ada149888c1cdd97aaa29845",
+      "name": "Rogue Waters",
       "discount": 75,
-      "orig_cents": 2499,
-      "final_cents": 624,
-      "orig_price_str": "24,99 €",
-      "final_price_str": "6,24 €"
+      "orig_cents": 2699,
+      "final_cents": 674,
+      "orig_price_str": "26,99 €",
+      "final_price_str": "6,74 €"
     },
     {
-      "appid": "cbf39fbbc1394501a5c200d5248c5291",
-      "namespace": "168fc558aeef44a5b9cba5f25b5bb93f",
-      "name": "THE KING OF FIGHTERS XV",
+      "appid": "68c5ad7f2dd2482d9624824dc99bea61",
+      "namespace": "c5f4b2d8088943caa649112ac8cf14f4",
+      "name": "Chains of Fury",
       "discount": 75,
-      "orig_cents": 2999,
-      "final_cents": 749,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "7,49 €"
+      "orig_cents": 999,
+      "final_cents": 249,
+      "orig_price_str": "9,99 €",
+      "final_price_str": "2,49 €"
     },
     {
-      "appid": "8e407b7130594f55ae16261a1069f83f",
-      "namespace": "a15e35cda898480d8fed214dc889f199",
-      "name": "Trials Evolution: Gold Edition",
+      "appid": "5a5311cbc7c948b48a216d64d169d3c4",
+      "namespace": "ec0adf6692fb49eea0f16dc908008d86",
+      "name": "Yars Rising",
       "discount": 75,
-      "orig_cents": 1999,
-      "final_cents": 499,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "4,99 €"
-    },
-    {
-      "appid": "22390b42e5e947de9cb9621e808e949c",
-      "namespace": "aa102e1c575d42868a11ac8e79af2126",
-      "name": "Partisans 1941",
-      "discount": 71,
-      "orig_cents": 3999,
-      "final_cents": 1159,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "11,59 €"
+      "orig_cents": 2699,
+      "final_cents": 674,
+      "orig_price_str": "26,99 €",
+      "final_price_str": "6,74 €"
     },
     {
       "appid": "6a12c0dba678415fb85ffa0f65d1409c",
@@ -911,6 +601,26 @@
       "final_price_str": "5,39 €"
     },
     {
+      "appid": "fb722544c8314c45bf9a42c66b2a5a73",
+      "namespace": "4ebf21b7761e40cdb180d0604127e4a6",
+      "name": "Bendy and the Ink Machine",
+      "discount": 70,
+      "orig_cents": 1799,
+      "final_cents": 539,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "5,39 €"
+    },
+    {
+      "appid": "7fa72f0f6266433eb5554197ab643388",
+      "namespace": "7449318111cd4bad8d8084a031a707bb",
+      "name": "Hell is Us",
+      "discount": 70,
+      "orig_cents": 4999,
+      "final_cents": 1499,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "14,99 €"
+    },
+    {
       "appid": "f19de693fa62470bbe9dc280a1d80ce2",
       "namespace": "bc73b96738d341d4827244f2d86083b5",
       "name": "Call of Heroes: Tower Defense",
@@ -941,129 +651,19 @@
       "final_price_str": "4,79 €"
     },
     {
-      "appid": "a8a88381c39b45b9875af59a7ade46d4",
-      "namespace": "156c9c9399f940878eec5e83b446198f",
-      "name": "Plants vs. Zombies™ GW2: Deluxe Edition",
+      "appid": "b5866511b3304145b931bb909cfd3bc7",
+      "namespace": "878c47870bdf43d49c1f51d075887857",
+      "name": "CarX Drift Racing Online",
       "discount": 70,
-      "orig_cents": 2999,
-      "final_cents": 899,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "8,99 €"
+      "orig_cents": 1349,
+      "final_cents": 404,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "4,04 €"
     },
     {
-      "appid": "ac42050f7e9c4792a2ead9d0cb0ecdb9",
-      "namespace": "57c1246b353842abb6049c48c39f3430",
-      "name": "Plants vs. Zombies™: SuN Deluxe Edition",
-      "discount": 70,
-      "orig_cents": 2999,
-      "final_cents": 899,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "8,99 €"
-    },
-    {
-      "appid": "699dd06afa27422c91b0abc6254050e5",
-      "namespace": "aa3cf4b6b9d8471fb8474f19ce118ac2",
-      "name": "1001 Jigsaw. World Tour: Australian Puzzles",
-      "discount": 70,
-      "orig_cents": 449,
-      "final_cents": 134,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "1,34 €"
-    },
-    {
-      "appid": "addd1b1e44aa441db583622a58b12113",
-      "namespace": "a7722186eef74d2291599308b18a89c2",
-      "name": "Detective Solitaire. Butler Story",
-      "discount": 70,
-      "orig_cents": 449,
-      "final_cents": 134,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "1,34 €"
-    },
-    {
-      "appid": "3cf0d4a21cb544f49b5849c26e2e9583",
-      "namespace": "12d6ced529194cd583ec2690325036bc",
-      "name": "1001 Jigsaw. World Tour: Great America",
-      "discount": 70,
-      "orig_cents": 449,
-      "final_cents": 134,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "1,34 €"
-    },
-    {
-      "appid": "5e02b729b00b46c8b9d1df922cfaaf08",
-      "namespace": "cb2b40b6713d48768e5950e2d77f9fd8",
-      "name": "Otok",
-      "discount": 70,
-      "orig_cents": 449,
-      "final_cents": 134,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "1,34 €"
-    },
-    {
-      "appid": "1865e9f297af43789cb45218eec1de9b",
-      "namespace": "76e9bc3f4ccd4061b471ee52735daf45",
-      "name": "Entomophobia",
-      "discount": 70,
-      "orig_cents": 449,
-      "final_cents": 134,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "1,34 €"
-    },
-    {
-      "appid": "068fcddb77db42639cad653607bde9e3",
-      "namespace": "fe4fbacf140f4fb2a05f074730a3375c",
-      "name": "Angelo and Deemon: One Hell of a Quest",
-      "discount": 70,
-      "orig_cents": 719,
-      "final_cents": 215,
-      "orig_price_str": "7,19 €",
-      "final_price_str": "2,15 €"
-    },
-    {
-      "appid": "22d8864b86cf4b5bae1d077fdbdaeb91",
-      "namespace": "4b9b415b895c405bb3ff2da6d4e332a8",
-      "name": "Beach Invasion 1944",
-      "discount": 70,
-      "orig_cents": 899,
-      "final_cents": 269,
-      "orig_price_str": "8,99 €",
-      "final_price_str": "2,69 €"
-    },
-    {
-      "appid": "445d5ae358064830883c563e0787b2ad",
-      "namespace": "2d011ba02fff43398db33de14f329bcb",
-      "name": "The Empress of Mahjong",
-      "discount": 70,
-      "orig_cents": 449,
-      "final_cents": 134,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "1,34 €"
-    },
-    {
-      "appid": "4b5ba08363b5472f8c061d92c9a849db",
-      "namespace": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
-      "name": "Ring of Pain",
-      "discount": 70,
-      "orig_cents": 1999,
-      "final_cents": 599,
-      "orig_price_str": "19,99 €",
-      "final_price_str": "5,99 €"
-    },
-    {
-      "appid": "bda41a9f8e36407bbd6b819961830a18",
-      "namespace": "0baeb519c8894d96bf89324a121e2437",
-      "name": "The Tale of Bistun",
-      "discount": 70,
-      "orig_cents": 1399,
-      "final_cents": 419,
-      "orig_price_str": "13,99 €",
-      "final_price_str": "4,19 €"
-    },
-    {
-      "appid": "9ab600601a1e469e8759c5da7a2072be",
-      "namespace": "720cc28ab09b455f8388decfa0ba4796",
-      "name": "MythForce",
+      "appid": "71f1c64e7e41477ca09228c1253c9ce7",
+      "namespace": "524c3386e7e6470a8d8400cc51d92296",
+      "name": "Legion TD 2",
       "discount": 70,
       "orig_cents": 1799,
       "final_cents": 539,
@@ -1071,14 +671,34 @@
       "final_price_str": "5,39 €"
     },
     {
-      "appid": "3e6c501452ff415da6060e52a78fa918",
-      "namespace": "c2c90c5ed3fb4c3280a337f31f79f498",
-      "name": "Planescape: Torment: Enhanced Edition",
+      "appid": "cb4de182f58a4e838296bbab95052804",
+      "namespace": "843074ada4be43cd82187404f21ca7d1",
+      "name": "63 Days",
       "discount": 70,
-      "orig_cents": 1599,
-      "final_cents": 479,
-      "orig_price_str": "15,99 €",
-      "final_price_str": "4,79 €"
+      "orig_cents": 2699,
+      "final_cents": 809,
+      "orig_price_str": "26,99 €",
+      "final_price_str": "8,09 €"
+    },
+    {
+      "appid": "48487d4433194a448e6853536e12022f",
+      "namespace": "6a9a6d51504d4f229068d151d68b75da",
+      "name": "PaintBall War 2",
+      "discount": 70,
+      "orig_cents": 359,
+      "final_cents": 107,
+      "orig_price_str": "3,59 €",
+      "final_price_str": "1,07 €"
+    },
+    {
+      "appid": "ceec555cca31443da27f09423d9eb758",
+      "namespace": "c91b94ecb13244d48fe0e62edd500e5e",
+      "name": "Edge of Sanity",
+      "discount": 70,
+      "orig_cents": 1999,
+      "final_cents": 599,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "5,99 €"
     },
     {
       "appid": "68af95eb3d124cfd976283650cac42c9",
@@ -1091,14 +711,64 @@
       "final_price_str": "2,66 €"
     },
     {
-      "appid": "6a612192c0ed499f8c7db747b3049107",
-      "namespace": "ffe512fa1e594ee6a75d4643d1e21b43",
-      "name": "Totally Accurate Battle Simulator",
-      "discount": 66,
-      "orig_cents": 1679,
-      "final_cents": 570,
-      "orig_price_str": "16,79 €",
-      "final_price_str": "5,70 €"
+      "appid": "c251233190684ea0b2875422a8488f3f",
+      "namespace": "788106ed2233439bbe0df94c27fcef9b",
+      "name": "Ashworld",
+      "discount": 67,
+      "orig_cents": 1499,
+      "final_cents": 494,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "4,94 €"
+    },
+    {
+      "appid": "91beac6ac50a4c6f848153acc6628706",
+      "namespace": "ebdc57c70a3f4c3f96d46e18fa55ebbb",
+      "name": "Interstellar Space: Genesis",
+      "discount": 67,
+      "orig_cents": 2799,
+      "final_cents": 923,
+      "orig_price_str": "27,99 €",
+      "final_price_str": "9,23 €"
+    },
+    {
+      "appid": "a0bfa081c4aa4cacb59e6f512c130dc1",
+      "namespace": "a14a02aa3c8143729605eaf7c93d7501",
+      "name": "Battlefield™ 6",
+      "discount": 67,
+      "orig_cents": 6999,
+      "final_cents": 2309,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "23,09 €"
+    },
+    {
+      "appid": "22dd203197064ba5b186f8a3b860ecf7",
+      "namespace": "6b3b27e8ad4049a082b1b69ff95976cd",
+      "name": "Nachtmahr",
+      "discount": 67,
+      "orig_cents": 1349,
+      "final_cents": 445,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "4,45 €"
+    },
+    {
+      "appid": "3d11f228c8a442318bc17abf13f7db3b",
+      "namespace": "bc51d32ca88b41bda1e50f5876c0b16e",
+      "name": "The Stone of Madness",
+      "discount": 67,
+      "orig_cents": 2699,
+      "final_cents": 890,
+      "orig_price_str": "26,99 €",
+      "final_price_str": "8,90 €"
+    },
+    {
+      "appid": "01aaaeaf3a27462391c6791566d66af3",
+      "namespace": "77d0632b8cf14d4f8b974899928a579d",
+      "name": "Sumerian Six",
+      "discount": 67,
+      "orig_cents": 2999,
+      "final_cents": 989,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "9,89 €"
     },
     {
       "appid": "29278d06c8964176bc46a11aa30485b7",
@@ -1111,6 +781,26 @@
       "final_price_str": "1,57 €"
     },
     {
+      "appid": "e362235bcd7349f6bb6935b15ecad44a",
+      "namespace": "d5e92d90431647c1afff1cde3a9462cf",
+      "name": "Tour de France 2026",
+      "discount": 65,
+      "orig_cents": 3999,
+      "final_cents": 1399,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "13,99 €"
+    },
+    {
+      "appid": "dbdbd402c93d43aa96f3938540c34c99",
+      "namespace": "a35afcd6c769498dbccc3bb4c59eebbf",
+      "name": "Styx: Blades of Greed",
+      "discount": 65,
+      "orig_cents": 3999,
+      "final_cents": 1399,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "13,99 €"
+    },
+    {
       "appid": "8e1229ad94584cc491d97e775341bcbc",
       "namespace": "d23f42b8d4e449f994955e3a153cfffb",
       "name": "Rightfully, Beary Arms",
@@ -1121,14 +811,34 @@
       "final_price_str": "3,14 €"
     },
     {
-      "appid": "f4550b821c34409b8b3ceb0414881d1f",
-      "namespace": "1409385ad20c4ba48849a6cc0973db4a",
-      "name": "Boti - Byteland Overclocked",
+      "appid": "0e9ca65b931943658974ce89b4d940d6",
+      "namespace": "c93ea99c51de4b21958b7207bd16ee6c",
+      "name": "GODBREAKERS",
       "discount": 65,
-      "orig_cents": 1799,
-      "final_cents": 629,
-      "orig_price_str": "17,99 €",
-      "final_price_str": "6,29 €"
+      "orig_cents": 2799,
+      "final_cents": 979,
+      "orig_price_str": "27,99 €",
+      "final_price_str": "9,79 €"
+    },
+    {
+      "appid": "c00374ac6d9b411dbbadb3567d1757f2",
+      "namespace": "147bb3c2351e4737b808af2b0bc65112",
+      "name": "Breakout Beyond",
+      "discount": 65,
+      "orig_cents": 1349,
+      "final_cents": 472,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "4,72 €"
+    },
+    {
+      "appid": "516f558be33b49a1964c3ebae728efd1",
+      "namespace": "c1c3e330c8544064b5d11207ddfb61de",
+      "name": "Hauntbound: The Hollow Book",
+      "discount": 60,
+      "orig_cents": 449,
+      "final_cents": 179,
+      "orig_price_str": "4,49 €",
+      "final_price_str": "1,79 €"
     },
     {
       "appid": "e9bb092228f544c582e2c9395fae96f3",
@@ -1141,6 +851,56 @@
       "final_price_str": "9,80 €"
     },
     {
+      "appid": "417bffc736f14015a50edb54ef9476a0",
+      "namespace": "820d0f5ab41d44cb89280814bd6f4145",
+      "name": "Limsod",
+      "discount": 60,
+      "orig_cents": 499,
+      "final_cents": 199,
+      "orig_price_str": "4,99 €",
+      "final_price_str": "1,99 €"
+    },
+    {
+      "appid": "39dc93d756044dbe81ff7b42247ad392",
+      "namespace": "ce3b73e0ebee401ca8f67b4b0e0f4a57",
+      "name": "MotoGP™26",
+      "discount": 60,
+      "orig_cents": 5999,
+      "final_cents": 2399,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "23,99 €"
+    },
+    {
+      "appid": "dcf3c8cc55854f309c5f32d9a7f60207",
+      "namespace": "17082e3fa470458fb68c4c8eea658dc9",
+      "name": "Screamer",
+      "discount": 60,
+      "orig_cents": 5999,
+      "final_cents": 2399,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "23,99 €"
+    },
+    {
+      "appid": "3084d60748f543a1bb8d3854dde05d30",
+      "namespace": "49f558eae2784de4b462252750c7ec5d",
+      "name": "Wave Gods: Ammo Night",
+      "discount": 60,
+      "orig_cents": 629,
+      "final_cents": 251,
+      "orig_price_str": "6,29 €",
+      "final_price_str": "2,51 €"
+    },
+    {
+      "appid": "66946adaaf634f828d09fcf8c9890bd6",
+      "namespace": "f8764fc7177a4015ad68bcbf0f66297f",
+      "name": "Dealer's Life 2",
+      "discount": 60,
+      "orig_cents": 1499,
+      "final_cents": 599,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "5,99 €"
+    },
+    {
       "appid": "5793f45f2da64458aadced69ce94db86",
       "namespace": "5a32e8d84b7342699a7275f08815a33e",
       "name": "Kaya's Prophecy",
@@ -1149,6 +909,56 @@
       "final_cents": 503,
       "orig_price_str": "12,59 €",
       "final_price_str": "5,03 €"
+    },
+    {
+      "appid": "ba0cf8ad3ab646f9b7e690e1ee57f3ea",
+      "namespace": "f9c8275639794b62a3ef63e0d7903a02",
+      "name": "Sir Questionnaire",
+      "discount": 60,
+      "orig_cents": 499,
+      "final_cents": 199,
+      "orig_price_str": "4,99 €",
+      "final_price_str": "1,99 €"
+    },
+    {
+      "appid": "445dd881a8504f0c8aa8a909aac465db",
+      "namespace": "886cd782adaa4ad6864ea8f603c3e19e",
+      "name": "Space Grunts",
+      "discount": 60,
+      "orig_cents": 999,
+      "final_cents": 399,
+      "orig_price_str": "9,99 €",
+      "final_price_str": "3,99 €"
+    },
+    {
+      "appid": "ed7c822644734c4eae164021513ee73d",
+      "namespace": "44f0f46601994e2b94d3139bf3176759",
+      "name": "Flying Islands",
+      "discount": 60,
+      "orig_cents": 799,
+      "final_cents": 319,
+      "orig_price_str": "7,99 €",
+      "final_price_str": "3,19 €"
+    },
+    {
+      "appid": "cff197e3afc54133ad9b54a641d03eb7",
+      "namespace": "5989c9eb81cb4d61a3fcfd0b313a8059",
+      "name": "Voidsayer",
+      "discount": 60,
+      "orig_cents": 1349,
+      "final_cents": 539,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "5,39 €"
+    },
+    {
+      "appid": "00134eff853e4e7ba8db5ea9395f4c05",
+      "namespace": "0adef0e84daa4abd91ac06fa38836293",
+      "name": "Once Upon A Puppet",
+      "discount": 60,
+      "orig_cents": 2499,
+      "final_cents": 999,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "9,99 €"
     },
     {
       "appid": "d68bc5ec23e74c18b82243048282484f",
@@ -1161,6 +971,26 @@
       "final_price_str": "15,99 €"
     },
     {
+      "appid": "ffd3a86c6d834f1995a91c4095b4ec60",
+      "namespace": "30f0b2714b754c989c49d4852e5d6e69",
+      "name": "Crazy Bus",
+      "discount": 60,
+      "orig_cents": 449,
+      "final_cents": 179,
+      "orig_price_str": "4,49 €",
+      "final_price_str": "1,79 €"
+    },
+    {
+      "appid": "481d118f871f4f63add7158a5cfe5a12",
+      "namespace": "b8b44aa039ef41339e92c3d453da1e80",
+      "name": "Bio Prototyp",
+      "discount": 60,
+      "orig_cents": 449,
+      "final_cents": 179,
+      "orig_price_str": "4,49 €",
+      "final_price_str": "1,79 €"
+    },
+    {
       "appid": "dc8b7f21a868480e9d18cc95c84d415e",
       "namespace": "626ebd2e7da84c2c969ebf0320c818f1",
       "name": "Special Agent Training",
@@ -1169,6 +999,36 @@
       "final_cents": 143,
       "orig_price_str": "3,59 €",
       "final_price_str": "1,43 €"
+    },
+    {
+      "appid": "308288ab36f14db9a6e18b512f9e2ef8",
+      "namespace": "fbbfe0bfd2ba46bd8eaeff0981b6e1e1",
+      "name": "Red Dead Redemption",
+      "discount": 60,
+      "orig_cents": 4999,
+      "final_cents": 1999,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "19,99 €"
+    },
+    {
+      "appid": "b17c5bf6e891428a83df8fa65cfd6371",
+      "namespace": "bb556387682d4fc3b7b4a5c8760a7cca",
+      "name": "Potion Tycoon",
+      "discount": 60,
+      "orig_cents": 1999,
+      "final_cents": 799,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "7,99 €"
+    },
+    {
+      "appid": "14b97c3a059e4f03951ed4d18245945f",
+      "namespace": "c2876cf882574b94b9df57cdf2e2025b",
+      "name": "Gori Cuddly Carnage",
+      "discount": 60,
+      "orig_cents": 1799,
+      "final_cents": 719,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "7,19 €"
     },
     {
       "appid": "1fd927a53bbc4809a7c5aac4a452804e",
@@ -1181,56 +1041,6 @@
       "final_price_str": "0,71 €"
     },
     {
-      "appid": "b7bc274aae7b41b29a67ddd6e73120bd",
-      "namespace": "b373c02d39b8470187edd411bd1d36a3",
-      "name": "Magic Patrol Envoy",
-      "discount": 60,
-      "orig_cents": 539,
-      "final_cents": 215,
-      "orig_price_str": "5,39 €",
-      "final_price_str": "2,15 €"
-    },
-    {
-      "appid": "512ceace5844474bb2415d0bc8dab40e",
-      "namespace": "4aeb446ed8044b9bbdf98044832da06a",
-      "name": "Gunshots in the barren hills",
-      "discount": 60,
-      "orig_cents": 179,
-      "final_cents": 71,
-      "orig_price_str": "1,79 €",
-      "final_price_str": "0,71 €"
-    },
-    {
-      "appid": "218fced6cc08489fae4f932f347df944",
-      "namespace": "1a8cba3402d84f0bad7f7f3ece71d486",
-      "name": "Geometric Sniper - Blood in Paris",
-      "discount": 60,
-      "orig_cents": 269,
-      "final_cents": 107,
-      "orig_price_str": "2,69 €",
-      "final_price_str": "1,07 €"
-    },
-    {
-      "appid": "94fe23e4ef214e79b9e98d8c31dd5e12",
-      "namespace": "57eced1d64e04d7cba6c3528528d81de",
-      "name": "Thanksgiving Day Mosaic",
-      "discount": 60,
-      "orig_cents": 449,
-      "final_cents": 179,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "1,79 €"
-    },
-    {
-      "appid": "e228bbf9d1db48af939ad9bea9e17bfb",
-      "namespace": "44c4d41627104968a7df87b8e33aa481",
-      "name": "PAW Patrol Mighty Pups Save Adventure Bay",
-      "discount": 60,
-      "orig_cents": 2999,
-      "final_cents": 1199,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "11,99 €"
-    },
-    {
       "appid": "a84b48e0eb1847ac8abc67f3c97495ef",
       "namespace": "074e82d763df4a4d8c5f66f98f2d8178",
       "name": "COMMANDO INFERNO",
@@ -1239,6 +1049,16 @@
       "final_cents": 40,
       "orig_price_str": "0,89 €",
       "final_price_str": "0,40 €"
+    },
+    {
+      "appid": "50060df3de144774adedd5f68ef27ab1",
+      "namespace": "9122985eaf524ee2842163424c3790a2",
+      "name": "Aaero2: Black Razor Edition",
+      "discount": 55,
+      "orig_cents": 1799,
+      "final_cents": 809,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "8,09 €"
     },
     {
       "appid": "a0a4e6460d4548b38f100b31764dcacf",
@@ -1271,6 +1091,16 @@
       "final_price_str": "0,40 €"
     },
     {
+      "appid": "9a0f20f47314490990b59b425efb8ea4",
+      "namespace": "056d3906346943db9decfe172ac6184e",
+      "name": "Into the Emberlands",
+      "discount": 55,
+      "orig_cents": 659,
+      "final_cents": 296,
+      "orig_price_str": "6,59 €",
+      "final_price_str": "2,96 €"
+    },
+    {
       "appid": "52b6e69a165c4e10ba306f3b29a5579a",
       "namespace": "ce37450ae2f9431cacb23244a0d8ac76",
       "name": "PROTOBOT",
@@ -1281,14 +1111,14 @@
       "final_price_str": "0,40 €"
     },
     {
-      "appid": "78508bb355af4feaa025008e8c897363",
-      "namespace": "5a189eed71cb44acbf821d3a17397e22",
-      "name": "Backrooms Dead Rush",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
+      "appid": "fe1f6b7823c54deaab23c5814f6dd8e7",
+      "namespace": "23327b2a52e14dde9fdbe9a2e8c085fe",
+      "name": "Uncle Chop's Rocket Shop",
+      "discount": 55,
+      "orig_cents": 1799,
+      "final_cents": 809,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "8,09 €"
     },
     {
       "appid": "19dad91ebd2c4e51b2666ae8179d22d7",
@@ -1321,9 +1151,9 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "664dce5999484f8e8009a077aa509c53",
-      "namespace": "b5f163f90f364380a7fbdbba19fd5554",
-      "name": "No I'm not a Voenkom",
+      "appid": "f0b8a5d294ed488a9eafa2d8fc505ecb",
+      "namespace": "a1c8150f9d2a47deaaa3caa16a6854b1",
+      "name": "My Desktop Girlfriend",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1331,9 +1161,9 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "a7bf7f2c1f3b4dd385ec880f7d5855d4",
-      "namespace": "1a476ee9037e4c66a8c02babc3df844e",
-      "name": "No Im Not A Femboy",
+      "appid": "664dce5999484f8e8009a077aa509c53",
+      "namespace": "b5f163f90f364380a7fbdbba19fd5554",
+      "name": "No I'm not a Voenkom",
       "discount": 51,
       "orig_cents": 89,
       "final_cents": 44,
@@ -1451,84 +1281,24 @@
       "final_price_str": "0,44 €"
     },
     {
-      "appid": "2303c60ff1a94d9b9c945fd328150502",
-      "namespace": "afc92a8312dc47a7b2f09001ff78bd83",
-      "name": "Backrooms Furry",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
+      "appid": "e6a2f923552f4d82b323ea2e03a261e1",
+      "namespace": "e7f4ac33ff3d4ce4b243075f0b5dba84",
+      "name": "EA SPORTS FC™ 27",
+      "discount": 50,
+      "orig_cents": 6999,
+      "final_cents": 3499,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "34,99 €"
     },
     {
-      "appid": "50fc0bf4ed91420d8a3286ce9becb8c7",
-      "namespace": "363d0b06fb134d5b8c2794f488a694b8",
-      "name": "Bulletrooms",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "de05f60752584dc3bbfa89138c12cee2",
-      "namespace": "e1094f6a687543c9ab4543dcba655554",
-      "name": "Street Fighting Simulator",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "459149a14b9243e3b68251b9f6a39fe6",
-      "namespace": "55400d765e13415996d0324bbda143c0",
-      "name": "Serbian Dancing Lady",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "ee8a6e786ac7467e94ae606812d659d4",
-      "namespace": "ba74867ed69a4bb6abd9f81fea647af6",
-      "name": "Eyes Of Memes",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "bb7553e001ec4892b6eb190e5d761467",
-      "namespace": "8ebe0bf06dea45859084c258c74e8bfd",
-      "name": "Backrooms: Eight Levels",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "55150805c6364978b036716739fe8d61",
-      "namespace": "ccece943516546b7ac1fa4e00b2c3944",
-      "name": "THE MEME HUNTER",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
-    },
-    {
-      "appid": "54743436f8ed4c80a87e2cb61029a563",
-      "namespace": "be657c5da1ad4bb48cb458c8db67b45e",
-      "name": "CATAIRE",
-      "discount": 51,
-      "orig_cents": 89,
-      "final_cents": 44,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,44 €"
+      "appid": "2753d4dd4446463085acd008c1a565fe",
+      "namespace": "210e8a076d3340bd914c439f49fb65db",
+      "name": "Black Flower",
+      "discount": 50,
+      "orig_cents": 899,
+      "final_cents": 449,
+      "orig_price_str": "8,99 €",
+      "final_price_str": "4,49 €"
     },
     {
       "appid": "7ed0eb02b2ff494ba63d797583ca2104",
@@ -1581,6 +1351,16 @@
       "final_price_str": "4,49 €"
     },
     {
+      "appid": "eb6ae87e73d94d2c96bab3c4da4dd3de",
+      "namespace": "e64225d40c214f32a71ccf6a7a612d6b",
+      "name": "Warhammer 40K Speed Freeks",
+      "discount": 50,
+      "orig_cents": 1799,
+      "final_cents": 899,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "8,99 €"
+    },
+    {
       "appid": "b0ec295156c44a65a72479cb55b682ae",
       "namespace": "f6cd396127d64fdab847276493634a75",
       "name": "PROHIBEAST",
@@ -1589,6 +1369,26 @@
       "final_cents": 1349,
       "orig_price_str": "26,99 €",
       "final_price_str": "13,49 €"
+    },
+    {
+      "appid": "6d99eae44d724baf84d6261a7a0f05d2",
+      "namespace": "36074aa6badf45698cced1a44e837fa2",
+      "name": "Mechabellum",
+      "discount": 50,
+      "orig_cents": 1479,
+      "final_cents": 739,
+      "orig_price_str": "14,79 €",
+      "final_price_str": "7,39 €"
+    },
+    {
+      "appid": "6d87cf7bc4044dee9bf2e39188e9b926",
+      "namespace": "03c58a85bafd41ff85707c01dc78d2cd",
+      "name": "Cubin",
+      "discount": 50,
+      "orig_cents": 799,
+      "final_cents": 399,
+      "orig_price_str": "7,99 €",
+      "final_price_str": "3,99 €"
     },
     {
       "appid": "cf3c1664ed4e4cf6b31db1cb84c265d1",
@@ -1631,6 +1431,16 @@
       "final_price_str": "6,74 €"
     },
     {
+      "appid": "1dcbcd6f1ce842dca1f02a7eb4f2267f",
+      "namespace": "48178cccbb65479194ec3bda2ecc8784",
+      "name": "RIDE 6",
+      "discount": 50,
+      "orig_cents": 5999,
+      "final_cents": 2999,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "29,99 €"
+    },
+    {
       "appid": "621d967cc4564b41aac30d1d92d2d64c",
       "namespace": "07ae13db6ccd4294ab395f2e94c07718",
       "name": "Market Simulator",
@@ -1661,6 +1471,56 @@
       "final_price_str": "9,99 €"
     },
     {
+      "appid": "e0722b6bd70643c09e889f6de1786d4c",
+      "namespace": "195babba4ee143cab291ed109668d10d",
+      "name": "Space Grunts 2",
+      "discount": 50,
+      "orig_cents": 999,
+      "final_cents": 499,
+      "orig_price_str": "9,99 €",
+      "final_price_str": "4,99 €"
+    },
+    {
+      "appid": "350a60ca86394b79866246dd10073520",
+      "namespace": "cfa7e897dac9476088da985e69a6815d",
+      "name": "Blood: Refreshed Supply",
+      "discount": 50,
+      "orig_cents": 2699,
+      "final_cents": 1349,
+      "orig_price_str": "26,99 €",
+      "final_price_str": "13,49 €"
+    },
+    {
+      "appid": "50abbc2db9484afab762e9f98631228c",
+      "namespace": "1370d5c73fa4438da24c595ea3338456",
+      "name": "Heroes of Loot",
+      "discount": 50,
+      "orig_cents": 499,
+      "final_cents": 249,
+      "orig_price_str": "4,99 €",
+      "final_price_str": "2,49 €"
+    },
+    {
+      "appid": "74a29377ec184d98956e4ca9ed6e44ec",
+      "namespace": "24f77395564745068e4759e77bc847cb",
+      "name": "Neoteria",
+      "discount": 50,
+      "orig_cents": 399,
+      "final_cents": 199,
+      "orig_price_str": "3,99 €",
+      "final_price_str": "1,99 €"
+    },
+    {
+      "appid": "c4a1a8b23b454ea986577e24cbade37d",
+      "namespace": "0a7d996b90c34ce69bee6e62f1c89367",
+      "name": "INC.",
+      "discount": 50,
+      "orig_cents": 399,
+      "final_cents": 199,
+      "orig_price_str": "3,99 €",
+      "final_price_str": "1,99 €"
+    },
+    {
       "appid": "76255eb34f774ad3bfd4cfa1614f72a7",
       "namespace": "fc21e09a22074d40a41be99d5751e08d",
       "name": "Ambrosia Sky",
@@ -1669,6 +1529,36 @@
       "final_cents": 1119,
       "orig_price_str": "22,39 €",
       "final_price_str": "11,19 €"
+    },
+    {
+      "appid": "519b248b9e8c4708bcbd27ebb6cd4428",
+      "namespace": "2deb07a2b4d14dfd960f71156db9ec11",
+      "name": "Beneath",
+      "discount": 50,
+      "orig_cents": 1799,
+      "final_cents": 899,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "8,99 €"
+    },
+    {
+      "appid": "0f0b3f1bedd748f79586291ce23de9e8",
+      "namespace": "nemesia",
+      "name": "Vampire: The Masquerade® - Bloodlines™ 2",
+      "discount": 50,
+      "orig_cents": 5999,
+      "final_cents": 2999,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "29,99 €"
+    },
+    {
+      "appid": "e6d0ec8901fa4b27a37e553fa814c0c3",
+      "namespace": "0053d655ec6d4565b935142a366e763d",
+      "name": "Frozen Skylands",
+      "discount": 50,
+      "orig_cents": 449,
+      "final_cents": 224,
+      "orig_price_str": "4,49 €",
+      "final_price_str": "2,24 €"
     },
     {
       "appid": "4d4ab0a971004b14b11b922677f6c8eb",
@@ -1691,6 +1581,76 @@
       "final_price_str": "4,94 €"
     },
     {
+      "appid": "766815324c364ec4bc7bce8abb68a161",
+      "namespace": "da1c2c6e190147019e4188f24687a17c",
+      "name": "Sonic Racing: CrossWorlds",
+      "discount": 50,
+      "orig_cents": 3999,
+      "final_cents": 1999,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "19,99 €"
+    },
+    {
+      "appid": "ee7e658dea5d4289bd153e126dce5efb",
+      "namespace": "e70d9cb116cf4eb2b3940d8d47dc29ef",
+      "name": "REMATCH",
+      "discount": 50,
+      "orig_cents": 2499,
+      "final_cents": 1249,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "12,49 €"
+    },
+    {
+      "appid": "2f5e315a02564ffd9c6c496c2301615d",
+      "namespace": "024e99e2bdbe49a6bd291d6789239561",
+      "name": "Dying Light: The Beast",
+      "discount": 50,
+      "orig_cents": 5999,
+      "final_cents": 2999,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "29,99 €"
+    },
+    {
+      "appid": "2c75bb68cfa84aabbea3504f57197611",
+      "namespace": "de2550653b9146cbbabbc4c628870d51",
+      "name": "Formula Legends",
+      "discount": 50,
+      "orig_cents": 1799,
+      "final_cents": 899,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "8,99 €"
+    },
+    {
+      "appid": "0e36b6c361784674b56b58446cfb8593",
+      "namespace": "4e00072a641f4d839f220614dccd1c0a",
+      "name": "Borderlands®4",
+      "discount": 50,
+      "orig_cents": 6999,
+      "final_cents": 3499,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "34,99 €"
+    },
+    {
+      "appid": "d3deb0b1a74d44a59b3fe2c6ea33077f",
+      "namespace": "438f0dfdc1a2432b99005457b60e319f",
+      "name": "Residual",
+      "discount": 50,
+      "orig_cents": 1999,
+      "final_cents": 999,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "9,99 €"
+    },
+    {
+      "appid": "d27b87422bc04fd89aaf4b408ff72a52",
+      "namespace": "ffcdeab5458448fd9c0a053f5b7821fb",
+      "name": "Undying Flower",
+      "discount": 50,
+      "orig_cents": 899,
+      "final_cents": 449,
+      "orig_price_str": "8,99 €",
+      "final_price_str": "4,49 €"
+    },
+    {
       "appid": "0a6c2c86617d47048debef948c98cca6",
       "namespace": "bf0814bd02064c27b4b4a7fa59494d02",
       "name": "Pure Instinct Katana",
@@ -1699,6 +1659,66 @@
       "final_cents": 1119,
       "orig_price_str": "22,39 €",
       "final_price_str": "11,19 €"
+    },
+    {
+      "appid": "ef6401578b1642fb9c4655f2bdb4e12e",
+      "namespace": "312a1e4f0c8e479e97d92a587dd52a33",
+      "name": "Killing Floor 3",
+      "discount": 50,
+      "orig_cents": 3599,
+      "final_cents": 1799,
+      "orig_price_str": "35,99 €",
+      "final_price_str": "17,99 €"
+    },
+    {
+      "appid": "7ae00c3e89174012b175cc73b4737723",
+      "namespace": "a90f2381d7aa48c09b4080515a9541cd",
+      "name": "System Shock 2: 25th Anniversary Remaster",
+      "discount": 50,
+      "orig_cents": 2699,
+      "final_cents": 1349,
+      "orig_price_str": "26,99 €",
+      "final_price_str": "13,49 €"
+    },
+    {
+      "appid": "bb036e0fd1cb4f6983b509f8b382089a",
+      "namespace": "0babdb9f56884a8587c25b574644c8ba",
+      "name": "Boxville 2",
+      "discount": 50,
+      "orig_cents": 809,
+      "final_cents": 404,
+      "orig_price_str": "8,09 €",
+      "final_price_str": "4,04 €"
+    },
+    {
+      "appid": "8a594746c7e14b41a74b5fc0a43baffc",
+      "namespace": "ebda47c0b4204a448e810558d15d2d26",
+      "name": "Soulstone Survivors",
+      "discount": 50,
+      "orig_cents": 1349,
+      "final_cents": 674,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "6,74 €"
+    },
+    {
+      "appid": "e9875475a85e497d9b15d4408c48eff5",
+      "namespace": "9aad94b5754846fbb06ba6818201fab1",
+      "name": "FBC: Firebreak",
+      "discount": 50,
+      "orig_cents": 1799,
+      "final_cents": 899,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "8,99 €"
+    },
+    {
+      "appid": "88c63727a48b459ca9ebd91ef9bbbdb9",
+      "namespace": "b72f8398191a41f79f1fbb30f4facfd0",
+      "name": "Empyreal",
+      "discount": 50,
+      "orig_cents": 1499,
+      "final_cents": 749,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "7,49 €"
     },
     {
       "appid": "8f973e9b72a94bd2b6d3aa4013cefa5d",
@@ -1711,6 +1731,36 @@
       "final_price_str": "4,49 €"
     },
     {
+      "appid": "90a4c0529fc34638af0c76884f33d841",
+      "namespace": "68cfa7087b5349818b17a3c62b7c4e03",
+      "name": "Steel Seed",
+      "discount": 50,
+      "orig_cents": 3999,
+      "final_cents": 1999,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "19,99 €"
+    },
+    {
+      "appid": "4d36c431c7ad4b0fa692a95a5c30ff55",
+      "namespace": "8cdc2ba3cc134e4cb3f77c22f9a32a78",
+      "name": "Chains of Freedom",
+      "discount": 50,
+      "orig_cents": 2499,
+      "final_cents": 1249,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "12,49 €"
+    },
+    {
+      "appid": "331226ba7c944720baa99103cb1fe80c",
+      "namespace": "b0cd075465c44f87be3b505ac04a2e46",
+      "name": "Grand Theft Auto V Enhanced",
+      "discount": 50,
+      "orig_cents": 2999,
+      "final_cents": 1499,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "14,99 €"
+    },
+    {
       "appid": "f6b7c291f1114ac1a6c164406f9d0b05",
       "namespace": "837d902a50ee4f9295d5f7d324306f1a",
       "name": "Lunar Axe",
@@ -1719,6 +1769,36 @@
       "final_cents": 269,
       "orig_price_str": "5,39 €",
       "final_price_str": "2,69 €"
+    },
+    {
+      "appid": "7a78d757308c4c40b7090df9b841a418",
+      "namespace": "a931073c475e493aba83a2d190f010c6",
+      "name": "Mautix: Immersive Galerie",
+      "discount": 50,
+      "orig_cents": 219,
+      "final_cents": 109,
+      "orig_price_str": "2,19 €",
+      "final_price_str": "1,09 €"
+    },
+    {
+      "appid": "65afe1bae0f5449191d28d5ef63caa32",
+      "namespace": "eb9cdf6dbe4b47fc8ba474017023476a",
+      "name": "Sid Meier's Civilization® VII",
+      "discount": 50,
+      "orig_cents": 6999,
+      "final_cents": 3499,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "34,99 €"
+    },
+    {
+      "appid": "9de7e073abf94a34b75ba34397cddb23",
+      "namespace": "283988bcb09342d3901d99f3cc22ca77",
+      "name": "Citizen Sleeper 2: Starward Vector",
+      "discount": 50,
+      "orig_cents": 2239,
+      "final_cents": 1119,
+      "orig_price_str": "22,39 €",
+      "final_price_str": "11,19 €"
     },
     {
       "appid": "6cea69ba27ae42169d0067702637c4ac",
@@ -1741,6 +1821,26 @@
       "final_price_str": "1,79 €"
     },
     {
+      "appid": "094d562fdbf143e896ffeaee8592db58",
+      "namespace": "db6d869788bd4aa59f9ccb26c91a0153",
+      "name": "KILL KNIGHT",
+      "discount": 50,
+      "orig_cents": 1349,
+      "final_cents": 674,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "6,74 €"
+    },
+    {
+      "appid": "6af8861f6ba74aa2b320db986abaa254",
+      "namespace": "4a5ba7e5cb24448485c7eff0076be187",
+      "name": "Hanoi Puzzles - Flip Match",
+      "discount": 50,
+      "orig_cents": 269,
+      "final_cents": 134,
+      "orig_price_str": "2,69 €",
+      "final_price_str": "1,34 €"
+    },
+    {
       "appid": "7477bbf88bae4827879e3e0ce89bf008",
       "namespace": "67bd9edaa00e4166aecdaebba247b457",
       "name": "Fxxkbar Kim",
@@ -1759,6 +1859,26 @@
       "final_cents": 499,
       "orig_price_str": "9,99 €",
       "final_price_str": "4,99 €"
+    },
+    {
+      "appid": "b78dd42213fa4b5c9f5fbc1395cdd4f7",
+      "namespace": "952df933162b4007b4b07d38b1998f3b",
+      "name": "AWAKEN – Astral Blade",
+      "discount": 50,
+      "orig_cents": 1950,
+      "final_cents": 975,
+      "orig_price_str": "19,50 €",
+      "final_price_str": "9,75 €"
+    },
+    {
+      "appid": "9b48f1e5596e419389206ce2c8ab208d",
+      "namespace": "4bbdc84ecd234d5d8d94b8a350ad17c0",
+      "name": "Hands of Necromancy II",
+      "discount": 50,
+      "orig_cents": 599,
+      "final_cents": 299,
+      "orig_price_str": "5,99 €",
+      "final_price_str": "2,99 €"
     },
     {
       "appid": "0ac51d3f5e874d93a1dfa918e098e3bc",
@@ -1781,49 +1901,9 @@
       "final_price_str": "8,99 €"
     },
     {
-      "appid": "6438c9a9ff3945d4ad0f51edb4b4201c",
-      "namespace": "c24ab01828c74414b185dea9f87a88f8",
-      "name": "Demonheart",
-      "discount": 50,
-      "orig_cents": 1799,
-      "final_cents": 899,
-      "orig_price_str": "17,99 €",
-      "final_price_str": "8,99 €"
-    },
-    {
-      "appid": "faaa627d3b674e6ea90f127c9d0b7c32",
-      "namespace": "24ca9ace6b504caa9417f0802c3e67ec",
-      "name": "Hidden Shapes - Cat Realm",
-      "discount": 50,
-      "orig_cents": 179,
-      "final_cents": 89,
-      "orig_price_str": "1,79 €",
-      "final_price_str": "0,89 €"
-    },
-    {
-      "appid": "8c23c35f96e040f6b60d2fab4c136e9a",
-      "namespace": "09d5ec77740e470993122a1a16f508aa",
-      "name": "Hidden Shapes Lovely Cats",
-      "discount": 50,
-      "orig_cents": 179,
-      "final_cents": 89,
-      "orig_price_str": "1,79 €",
-      "final_price_str": "0,89 €"
-    },
-    {
-      "appid": "85cf6a1aaf404316a2893fca4dd3f200",
-      "namespace": "3ed7af6401204c9aa6b2adf9e9ea23b8",
-      "name": "Roads of Time 2: Odyssey Collector's Edition",
-      "discount": 50,
-      "orig_cents": 449,
-      "final_cents": 224,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "2,24 €"
-    },
-    {
-      "appid": "dbe8cba8a32443b3969df0637738205e",
-      "namespace": "38931bb693204b7289689de85a8e4b44",
-      "name": "Quiplash 2 InterLASHional",
+      "appid": "a42007c822094cf5aafee9ba9e0130f3",
+      "namespace": "642decefed8c445db1386aa546728140",
+      "name": "MoonFire: A Seeker's Saga",
       "discount": 50,
       "orig_cents": 899,
       "final_cents": 449,
@@ -1831,54 +1911,64 @@
       "final_price_str": "4,49 €"
     },
     {
-      "appid": "c990d82d370c4a52b2c8fd2220a5520e",
-      "namespace": "5df187678f8f4dafad03f5cf8ed47c67",
-      "name": "Gnomes Garden. Return Of The Queen",
-      "discount": 50,
-      "orig_cents": 449,
-      "final_cents": 224,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "2,24 €"
+      "appid": "9c5ab335b1d2455b8c78d493c17a203f",
+      "namespace": "a39b5c89fbcb44278924f9cab93dd234",
+      "name": "ASYLUM",
+      "discount": 47,
+      "orig_cents": 2239,
+      "final_cents": 1186,
+      "orig_price_str": "22,39 €",
+      "final_price_str": "11,86 €"
     },
     {
-      "appid": "0c008738854146c29f77eb028df9899f",
-      "namespace": "88feec140a2f41c3954365c24393be14",
-      "name": "We Were Here Expeditions: The FriendShip",
-      "discount": 50,
-      "orig_cents": 399,
-      "final_cents": 199,
-      "orig_price_str": "3,99 €",
-      "final_price_str": "1,99 €"
+      "appid": "e9178000fa8c4e2ab6d54e63313003b7",
+      "namespace": "059219b5334940bbbf06e995c6b74e21",
+      "name": "NORSE: Oath of Blood",
+      "discount": 45,
+      "orig_cents": 3399,
+      "final_cents": 1869,
+      "orig_price_str": "33,99 €",
+      "final_price_str": "18,69 €"
     },
     {
-      "appid": "d754855565354a02b60132d080f9914c",
-      "namespace": "0113dd49216f4f2d995ef9a6eebd67f4",
-      "name": "Stray Gods: The Roleplaying Musical",
-      "discount": 50,
-      "orig_cents": 2999,
-      "final_cents": 1499,
-      "orig_price_str": "29,99 €",
-      "final_price_str": "14,99 €"
+      "appid": "f1f747c4c9fd4209843b9171ac281334",
+      "namespace": "36432102a1f84218954540441690bf08",
+      "name": "Outlaws Handful of Missions Remaster",
+      "discount": 45,
+      "orig_cents": 2699,
+      "final_cents": 1484,
+      "orig_price_str": "26,99 €",
+      "final_price_str": "14,84 €"
     },
     {
-      "appid": "b27b014db6c540a5816556770f1cfd65",
-      "namespace": "d8cf97522142452dbe24375a3398cb54",
-      "name": "Elven Rivers. The Forgotten Lands Collector's Edition",
-      "discount": 50,
-      "orig_cents": 1169,
-      "final_cents": 584,
-      "orig_price_str": "11,69 €",
-      "final_price_str": "5,84 €"
+      "appid": "ca32ee8755ce408297e39de6df7b7bdb",
+      "namespace": "91570f2d1ab241f3aeeaa54998ee031b",
+      "name": "KARMA: The Dark World",
+      "discount": 45,
+      "orig_cents": 2239,
+      "final_cents": 1231,
+      "orig_price_str": "22,39 €",
+      "final_price_str": "12,31 €"
     },
     {
-      "appid": "a95fc18c1d7846b2833f9d42d5d9c658",
-      "namespace": "daisy",
-      "name": "Drawful 2",
-      "discount": 50,
-      "orig_cents": 999,
-      "final_cents": 499,
-      "orig_price_str": "9,99 €",
-      "final_price_str": "4,99 €"
+      "appid": "a383ffcef7004a099d12292eea69022a",
+      "namespace": "fe870cd6ecac4382a8cd9c974f1638f0",
+      "name": "Escape From Mystwood Mansion",
+      "discount": 45,
+      "orig_cents": 1529,
+      "final_cents": 840,
+      "orig_price_str": "15,29 €",
+      "final_price_str": "8,40 €"
+    },
+    {
+      "appid": "8ee010c579db4aa690fd5553c07dcc40",
+      "namespace": "a9ad9b9c5b0546b1860c870d2cea9ee3",
+      "name": "Super Meat Boy 3D",
+      "discount": 44,
+      "orig_cents": 2499,
+      "final_cents": 1399,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "13,99 €"
     },
     {
       "appid": "abbc8ba49a024f95bca89a5bf85865dc",
@@ -1911,6 +2001,136 @@
       "final_price_str": "2,69 €"
     },
     {
+      "appid": "f114a520af424f149424d49ec7ced301",
+      "namespace": "d525960335e248cab5ec90847f5ef96a",
+      "name": "Crown of Ruin: The Parkour Game",
+      "discount": 40,
+      "orig_cents": 289,
+      "final_cents": 173,
+      "orig_price_str": "2,89 €",
+      "final_price_str": "1,73 €"
+    },
+    {
+      "appid": "5efaf3bbf0884ce2912123fc320ca2e4",
+      "namespace": "069fc8c2095349d197e64c5449b1d9de",
+      "name": "Thomas & seine Freunde™: Die Wunder von Sodor",
+      "discount": 40,
+      "orig_cents": 3499,
+      "final_cents": 2099,
+      "orig_price_str": "34,99 €",
+      "final_price_str": "20,99 €"
+    },
+    {
+      "appid": "13a8d4db81fd4719a1793df9bfaaa960",
+      "namespace": "3de216e51e574cd38ba3563b5bc5ea28",
+      "name": "Disciples: Domination",
+      "discount": 40,
+      "orig_cents": 4499,
+      "final_cents": 2699,
+      "orig_price_str": "44,99 €",
+      "final_price_str": "26,99 €"
+    },
+    {
+      "appid": "66763a05b21e435da8382d5d87268514",
+      "namespace": "cfc873292b2f4df1a94949ed72109f2b",
+      "name": "Stardash",
+      "discount": 40,
+      "orig_cents": 499,
+      "final_cents": 299,
+      "orig_price_str": "4,99 €",
+      "final_price_str": "2,99 €"
+    },
+    {
+      "appid": "f86d6f01b51742859feb22b71d6800e1",
+      "namespace": "f9e77015826848ff9ae0963752320e05",
+      "name": "Glacier Trail: The Parkour Game",
+      "discount": 40,
+      "orig_cents": 459,
+      "final_cents": 275,
+      "orig_price_str": "4,59 €",
+      "final_price_str": "2,75 €"
+    },
+    {
+      "appid": "855a903d4f694353ac20f74321f6e400",
+      "namespace": "969bbfac9e7840a986c1d594ccd55c01",
+      "name": "Botany Manor",
+      "discount": 40,
+      "orig_cents": 2239,
+      "final_cents": 1343,
+      "orig_price_str": "22,39 €",
+      "final_price_str": "13,43 €"
+    },
+    {
+      "appid": "63b1823e71134cc693cee6149ff2835a",
+      "namespace": "b62be681e4ee4d0b9829709e70455db9",
+      "name": "Heroes Of Loot: Gauntlet Of Power",
+      "discount": 40,
+      "orig_cents": 1499,
+      "final_cents": 899,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "8,99 €"
+    },
+    {
+      "appid": "bb990b2e554a409fb03c29597ef93f15",
+      "namespace": "594281c3f8ba4469a843235675451726",
+      "name": "Regulators",
+      "discount": 40,
+      "orig_cents": 1499,
+      "final_cents": 899,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "8,99 €"
+    },
+    {
+      "appid": "92ef0dbf85b74aa2acb3c025b87cc4dd",
+      "namespace": "26ee7f06000b4d20862afb07ba44e09f",
+      "name": "Dark Hours",
+      "discount": 40,
+      "orig_cents": 1499,
+      "final_cents": 899,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "8,99 €"
+    },
+    {
+      "appid": "c3ad3a47322c426eb08a4cf13a6b8b3a",
+      "namespace": "4fd8ab38c14c4d91ba07aae139723027",
+      "name": "Lethal Honor - Order of the Apocalypse",
+      "discount": 40,
+      "orig_cents": 2499,
+      "final_cents": 1499,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "14,99 €"
+    },
+    {
+      "appid": "1af24f22edb9429d897343f10948b6f6",
+      "namespace": "3a3992672bb141b1967bb14343c9fd22",
+      "name": "STORROR Parkour Pro",
+      "discount": 40,
+      "orig_cents": 2499,
+      "final_cents": 1499,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "14,99 €"
+    },
+    {
+      "appid": "f7f3578282a145dc98de6036c201c115",
+      "namespace": "4cca948a5ae2401588bd3d3c5b1b3b50",
+      "name": "Truck Life Simulator",
+      "discount": 40,
+      "orig_cents": 249,
+      "final_cents": 149,
+      "orig_price_str": "2,49 €",
+      "final_price_str": "1,49 €"
+    },
+    {
+      "appid": "1eb05b912ea7490a9fb1946dc65268c6",
+      "namespace": "833ef2482db54a19a83c264f5371f550",
+      "name": "Eriksholm: The Stolen Dream",
+      "discount": 40,
+      "orig_cents": 3999,
+      "final_cents": 2399,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "23,99 €"
+    },
+    {
       "appid": "2703e1324f2240faa0d373dc44df8278",
       "namespace": "6ce2defbb51541a9af4f94d10a777fc7",
       "name": "Bibel-Puzzle: Christliches Spiel",
@@ -1931,6 +2151,36 @@
       "final_price_str": "5,39 €"
     },
     {
+      "appid": "d0578d54d48e4446ad737364c6b2c72c",
+      "namespace": "13ccdbe4cb8148b2b965957d4ec441f5",
+      "name": "Moon Mystery",
+      "discount": 40,
+      "orig_cents": 1999,
+      "final_cents": 1199,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "11,99 €"
+    },
+    {
+      "appid": "320642f337214e3eaf8d984207ef0a95",
+      "namespace": "9cdcb83442bd412fa8d0c47704e358b7",
+      "name": "Promise Mascot Agency",
+      "discount": 40,
+      "orig_cents": 2239,
+      "final_cents": 1343,
+      "orig_price_str": "22,39 €",
+      "final_price_str": "13,43 €"
+    },
+    {
+      "appid": "7d570f6b94b54f8c81b05dfd9d4e4d66",
+      "namespace": "d9d79f35d883467ca7886d443087b602",
+      "name": "G.I. Joe: Wrath of Cobra",
+      "discount": 40,
+      "orig_cents": 2239,
+      "final_cents": 1343,
+      "orig_price_str": "22,39 €",
+      "final_price_str": "13,43 €"
+    },
+    {
       "appid": "a0378b930623469f8af82ef9bfb1a5c9",
       "namespace": "64d8cc2fb5cc4798a6db9796b7e73e3f",
       "name": "Alien Paradise",
@@ -1941,14 +2191,24 @@
       "final_price_str": "2,15 €"
     },
     {
-      "appid": "99938c7aad1b44d7a446ae57e2839ece",
-      "namespace": "7e2ec8a47b8d41528eb6dd2efd2b1abc",
-      "name": "Disney Dreamlight Valley",
-      "discount": 40,
-      "orig_cents": 3999,
-      "final_cents": 2399,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "23,99 €"
+      "appid": "c656667e76d948beaa06d2211ab2df75",
+      "namespace": "88b0139423e44627b0db0547bd646aad",
+      "name": "The Mound: Omen of Cthulhu",
+      "discount": 35,
+      "orig_cents": 2999,
+      "final_cents": 1949,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "19,49 €"
+    },
+    {
+      "appid": "55ebd4c50235470ca3fd81d8613073af",
+      "namespace": "5e3377fe4ff34650bfbd8dbea9b3a222",
+      "name": "The Sinking City 2",
+      "discount": 35,
+      "orig_cents": 4999,
+      "final_cents": 3249,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "32,49 €"
     },
     {
       "appid": "37067b8b96a8416a905fe059989d2aef",
@@ -1981,6 +2241,26 @@
       "final_price_str": "7,59 €"
     },
     {
+      "appid": "210b0b33050644d883f475520327efce",
+      "namespace": "ac6dfcaac4b44a5ab139745fa8009406",
+      "name": "Bubsy 4D",
+      "discount": 35,
+      "orig_cents": 1799,
+      "final_cents": 1169,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "11,69 €"
+    },
+    {
+      "appid": "3de66633e42f47d0b84ae270bfac7c23",
+      "namespace": "0b6dd6d231d64d398781166974e279fb",
+      "name": "Heroes of Mount Dragon",
+      "discount": 35,
+      "orig_cents": 1799,
+      "final_cents": 1169,
+      "orig_price_str": "17,99 €",
+      "final_price_str": "11,69 €"
+    },
+    {
       "appid": "b4d5827c687044f6ae25bc532dafe300",
       "namespace": "6955df656a56486aa3cd6ae1d415dab6",
       "name": "Tiny Terraces",
@@ -1989,6 +2269,16 @@
       "final_cents": 408,
       "orig_price_str": "6,29 €",
       "final_price_str": "4,08 €"
+    },
+    {
+      "appid": "21b55c8614c24ae795988fe9d017105e",
+      "namespace": "6e471c62b43346d99b6ad0d288fc9255",
+      "name": "Space Grunts: Chrono Shard",
+      "discount": 34,
+      "orig_cents": 1499,
+      "final_cents": 989,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "9,89 €"
     },
     {
       "appid": "716e9172299a4b708464bf2507a728b6",
@@ -2001,6 +2291,36 @@
       "final_price_str": "9,03 €"
     },
     {
+      "appid": "77d7a23f7bd3419cb6ec4802f941d905",
+      "namespace": "4a6492c90e394cc189002b0cf0ae776b",
+      "name": "Two Point Museum",
+      "discount": 33,
+      "orig_cents": 2999,
+      "final_cents": 2009,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "20,09 €"
+    },
+    {
+      "appid": "38cabfc258b7463685400a9237c40415",
+      "namespace": "ab99a8d5e3c4447380ea741ab9bcbdad",
+      "name": "Bang Average Football",
+      "discount": 33,
+      "orig_cents": 1079,
+      "final_cents": 722,
+      "orig_price_str": "10,79 €",
+      "final_price_str": "7,22 €"
+    },
+    {
+      "appid": "21b0be7faa94407899a9f3119f927dd0",
+      "namespace": "0479e1c4af404e3f86bcb3de81af75fe",
+      "name": "The Last Tuesday",
+      "discount": 30,
+      "orig_cents": 539,
+      "final_cents": 377,
+      "orig_price_str": "5,39 €",
+      "final_price_str": "3,77 €"
+    },
+    {
       "appid": "659ef0e742214018b248bd555dc1857e",
       "namespace": "3ccc0eec192147068ffd613eaabddef3",
       "name": "Warrior Cats: Clans of the Forest",
@@ -2011,6 +2331,16 @@
       "final_price_str": "20,99 €"
     },
     {
+      "appid": "b26770b5c90941c9bb308bafec5eeec9",
+      "namespace": "ce1fd06f06be43be95d6eb73bbd4b55e",
+      "name": "CyberSushi",
+      "discount": 30,
+      "orig_cents": 719,
+      "final_cents": 503,
+      "orig_price_str": "7,19 €",
+      "final_price_str": "5,03 €"
+    },
+    {
       "appid": "af6b823b8698465f9aedc3bddf2e8686",
       "namespace": "bfb80547289b477193ce3b14d83cd292",
       "name": "TerraScape",
@@ -2019,6 +2349,36 @@
       "final_cents": 1070,
       "orig_price_str": "15,29 €",
       "final_price_str": "10,70 €"
+    },
+    {
+      "appid": "12b4d1ade84749a798a6a03f7b7dafeb",
+      "namespace": "e83bf748d3ce4f0f8ccdedbb726afb6f",
+      "name": "Dealer's Life Legend",
+      "discount": 30,
+      "orig_cents": 1499,
+      "final_cents": 1049,
+      "orig_price_str": "14,99 €",
+      "final_price_str": "10,49 €"
+    },
+    {
+      "appid": "f5191651154445f7a581e9c37e50f3c6",
+      "namespace": "fba19781558b4439992b2d0776d90a9c",
+      "name": "HOT WHEELS™ Infinite Rush",
+      "discount": 30,
+      "orig_cents": 4999,
+      "final_cents": 3499,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "34,99 €"
+    },
+    {
+      "appid": "d593b4f23ee54370b7b07978d9b17f1f",
+      "namespace": "2b94efd8454a4d34846aa9cc157e0a82",
+      "name": "Liminal Shroud",
+      "discount": 30,
+      "orig_cents": 1169,
+      "final_cents": 818,
+      "orig_price_str": "11,69 €",
+      "final_price_str": "8,18 €"
     },
     {
       "appid": "1b6255df54154a378a2cc6e2dcd8c57f",
@@ -2041,6 +2401,46 @@
       "final_price_str": "6,29 €"
     },
     {
+      "appid": "d390596334494df993249139dfb980ee",
+      "namespace": "b880f11dc71c4f309ddef026b8d7dbbc",
+      "name": "LEGO® Batman™: Das Vermächtnis des Dunklen Ritters",
+      "discount": 30,
+      "orig_cents": 6999,
+      "final_cents": 4899,
+      "orig_price_str": "69,99 €",
+      "final_price_str": "48,99 €"
+    },
+    {
+      "appid": "8837ecf6a4ba404d95230a36a55f79d7",
+      "namespace": "7e38a02aad914870b548868b32fad684",
+      "name": "The Occultist",
+      "discount": 30,
+      "orig_cents": 2699,
+      "final_cents": 1889,
+      "orig_price_str": "26,99 €",
+      "final_price_str": "18,89 €"
+    },
+    {
+      "appid": "b912a44649734cd3a1e8738b1bc6ad76",
+      "namespace": "9115f084108944d88395a8e2e8566b3f",
+      "name": "Star Trek: Voyager - Across the Unknown",
+      "discount": 30,
+      "orig_cents": 3499,
+      "final_cents": 2449,
+      "orig_price_str": "34,99 €",
+      "final_price_str": "24,49 €"
+    },
+    {
+      "appid": "cdd6999ce88c4e698e5608e55a7701ff",
+      "namespace": "fa429a8cafcc4c11b5d2fd548e76c9ea",
+      "name": "Heart of the Forest",
+      "discount": 30,
+      "orig_cents": 1169,
+      "final_cents": 818,
+      "orig_price_str": "11,69 €",
+      "final_price_str": "8,18 €"
+    },
+    {
       "appid": "0500ec35d1bb45dc8813dd87781a26ac",
       "namespace": "b9228be932df4202b462d49bd9dc5949",
       "name": "Elven Rivers 2 New Horizons",
@@ -2054,6 +2454,26 @@
       "appid": "b60bb7794d064b088c885665291b505b",
       "namespace": "f2d689f4ef4040db96a5f4a71b9882ee",
       "name": "New Lands 2. Collector's Edition",
+      "discount": 30,
+      "orig_cents": 1349,
+      "final_cents": 944,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "9,44 €"
+    },
+    {
+      "appid": "72e66065db084e69ac59c5bd1b93a479",
+      "namespace": "5502f6060b214aeca752e7991cc0c642",
+      "name": "BLACKHAT espionage",
+      "discount": 30,
+      "orig_cents": 89,
+      "final_cents": 62,
+      "orig_price_str": "0,89 €",
+      "final_price_str": "0,62 €"
+    },
+    {
+      "appid": "12a761bebc8a403d97dc99b2a835a954",
+      "namespace": "5362cbac521c4051856269139b527d56",
+      "name": "Dead Reset",
       "discount": 30,
       "orig_cents": 1349,
       "final_cents": 944,
@@ -2081,6 +2501,16 @@
       "final_price_str": "0,62 €"
     },
     {
+      "appid": "a3c6e762c73d4b5e9e8637c0c87506c3",
+      "namespace": "b852dd8a3ca34d1caaba0a50c1857e7d",
+      "name": "Plambra Dash: The Parkour Game Part II",
+      "discount": 30,
+      "orig_cents": 199,
+      "final_cents": 139,
+      "orig_price_str": "1,99 €",
+      "final_price_str": "1,39 €"
+    },
+    {
       "appid": "5284bbdea101419fbb0cb5c76d43da08",
       "namespace": "cac94ef220c44773a29ebc3804c26d39",
       "name": "The Dream Within",
@@ -2089,6 +2519,36 @@
       "final_cents": 440,
       "orig_price_str": "6,29 €",
       "final_price_str": "4,40 €"
+    },
+    {
+      "appid": "daa1e6882a224a2fa913db00747a5e64",
+      "namespace": "7c64b0352fb7449082d7331141b36d97",
+      "name": "Commandos: Origins",
+      "discount": 30,
+      "orig_cents": 4999,
+      "final_cents": 3499,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "34,99 €"
+    },
+    {
+      "appid": "058e1bc5ca274e27ad065c796fa66908",
+      "namespace": "9bba70fad897401d8ca7096c7674faa5",
+      "name": "FATE: Reawakened",
+      "discount": 30,
+      "orig_cents": 2499,
+      "final_cents": 1749,
+      "orig_price_str": "24,99 €",
+      "final_price_str": "17,49 €"
+    },
+    {
+      "appid": "b8645445e5374c3291f554771548c36b",
+      "namespace": "5a5665ab559249c8a012b04acfb4a7c9",
+      "name": "Go Home Annie: An SCP Game",
+      "discount": 30,
+      "orig_cents": 1999,
+      "final_cents": 1399,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "13,99 €"
     },
     {
       "appid": "275daa4dca49471089ccc7f2bf53cac8",
@@ -2111,224 +2571,24 @@
       "final_price_str": "27,29 €"
     },
     {
-      "appid": "b611ac52bcbd460eb8428ca011e9a3f2",
-      "namespace": "de3ed17d886342a998ea8b187c656f15",
-      "name": "Micro Tanks",
-      "discount": 30,
-      "orig_cents": 89,
-      "final_cents": 62,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,62 €"
+      "appid": "fe35cade7e5d4847b4ddee88f5ffc2c8",
+      "namespace": "ab824bf50a1d4647ab74eadfeb410cfa",
+      "name": "Peripeteia",
+      "discount": 28,
+      "orig_cents": 2450,
+      "final_cents": 1764,
+      "orig_price_str": "24,50 €",
+      "final_price_str": "17,64 €"
     },
     {
-      "appid": "94750e4019544b8e91082e2273290b69",
-      "namespace": "512b8b46fc5d4a31816c0fba4ff80a3a",
-      "name": "Retro Racers",
-      "discount": 30,
-      "orig_cents": 89,
-      "final_cents": 62,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,62 €"
-    },
-    {
-      "appid": "6b629a2ab76a4a9180bf935eedbb2a19",
-      "namespace": "55e58062efd94787992a36c5ed9b44d4",
-      "name": "Chess Club Valley",
-      "discount": 30,
-      "orig_cents": 809,
-      "final_cents": 566,
-      "orig_price_str": "8,09 €",
-      "final_price_str": "5,66 €"
-    },
-    {
-      "appid": "ffe0667128e84deea9b809b475cac5fb",
-      "namespace": "e77f3dc66a514c68bd525d8f418c1be2",
-      "name": "Vectoroids",
-      "discount": 30,
-      "orig_cents": 179,
-      "final_cents": 125,
-      "orig_price_str": "1,79 €",
-      "final_price_str": "1,25 €"
-    },
-    {
-      "appid": "d97e0510a7b5488c961a568567e31260",
-      "namespace": "e97ae982b9d349ecb979266acb98f26d",
-      "name": "Retro Racers 2",
-      "discount": 30,
-      "orig_cents": 89,
-      "final_cents": 62,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,62 €"
-    },
-    {
-      "appid": "82ff8794884a48b5a54d80ef2c85d722",
-      "namespace": "1421a0ed5cb14f0999cc115d2f0f7377",
-      "name": "Brick Breaker Premium 3",
-      "discount": 30,
-      "orig_cents": 89,
-      "final_cents": 62,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,62 €"
-    },
-    {
-      "appid": "2fcfcd27f76b408a94ed3de178ec921c",
-      "namespace": "52f01e9ec9454a24abaae68620d9e369",
-      "name": "Video Game Trivia",
-      "discount": 30,
-      "orig_cents": 89,
-      "final_cents": 62,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,62 €"
-    },
-    {
-      "appid": "8b7ff7190f0c4294a329973e17a3853c",
-      "namespace": "47992822501440c2b8773895e0d7f100",
-      "name": "Television Trivia",
-      "discount": 30,
-      "orig_cents": 89,
-      "final_cents": 62,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,62 €"
-    },
-    {
-      "appid": "6268db169e8d4eddb038b4b3fe7eb716",
-      "namespace": "f0ef89978ffb450cbeb974a01d8f7bbe",
-      "name": "Super Arcade Boy in Goodbye Greenies",
-      "discount": 30,
-      "orig_cents": 179,
-      "final_cents": 125,
-      "orig_price_str": "1,79 €",
-      "final_price_str": "1,25 €"
-    },
-    {
-      "appid": "83db6143dc7e43f4964c3427e46bc0d8",
-      "namespace": "510e448ae26b474fadbc5e691c9c5750",
-      "name": "Movie Actor Trivia",
-      "discount": 30,
-      "orig_cents": 89,
-      "final_cents": 62,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,62 €"
-    },
-    {
-      "appid": "001bc3a6ac6346eb981d92b54d92fad5",
-      "namespace": "a3dafcfbe71246d98d152c13b1040f27",
-      "name": "The Sports Trivia Challenge",
-      "discount": 30,
-      "orig_cents": 89,
-      "final_cents": 62,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,62 €"
-    },
-    {
-      "appid": "83d4ec2400924b39bdac7a08d424156f",
-      "namespace": "ba379411990446cc90d33093ac594c66",
-      "name": "Martian Invaders",
-      "discount": 30,
-      "orig_cents": 89,
-      "final_cents": 62,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,62 €"
-    },
-    {
-      "appid": "36da68e3b6d84ef394ab7f9ecd366686",
-      "namespace": "2ff17af973164d8b897f27050627f9b6",
-      "name": "The Music Trivia Challenge",
-      "discount": 30,
-      "orig_cents": 89,
-      "final_cents": 62,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,62 €"
-    },
-    {
-      "appid": "af7599840cbb4348a76c614e391d9def",
-      "namespace": "311f087b092342bc84393e9d1f9c3294",
-      "name": "Insectipede",
-      "discount": 30,
-      "orig_cents": 89,
-      "final_cents": 62,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,62 €"
-    },
-    {
-      "appid": "cb43c84c835a42f7953677a2e90da095",
-      "namespace": "50f0b849556a4e22acb18bbfc04a8c62",
-      "name": "The Movie Trivia Challenge",
-      "discount": 30,
-      "orig_cents": 89,
-      "final_cents": 62,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,62 €"
-    },
-    {
-      "appid": "2c27e46d8e8442e581891cb94fb26b50",
-      "namespace": "342e32c0b4c74b909ff99a6aa8f1f075",
-      "name": "Brick Breaker Premium 2",
-      "discount": 30,
-      "orig_cents": 89,
-      "final_cents": 62,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,62 €"
-    },
-    {
-      "appid": "674cc2b7d4a4431f9c9f57fc117e89ed",
-      "namespace": "25163a0f3c9d47d38afe753d53fd27bb",
-      "name": "Island Farmer",
-      "discount": 30,
-      "orig_cents": 179,
-      "final_cents": 125,
-      "orig_price_str": "1,79 €",
-      "final_price_str": "1,25 €"
-    },
-    {
-      "appid": "3215fdc6680b43618816a6f5fe429482",
-      "namespace": "590fecfbde11448f8aa3334449fc7465",
-      "name": "Trivia King",
-      "discount": 30,
-      "orig_cents": 89,
-      "final_cents": 62,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,62 €"
-    },
-    {
-      "appid": "efdee69870d2451e966c707aa2f51ec1",
-      "namespace": "ee536353cc504f92bc392af91aea0ddb",
-      "name": "Super Arcade Boy in Defender of Planet Earth",
-      "discount": 30,
-      "orig_cents": 179,
-      "final_cents": 125,
-      "orig_price_str": "1,79 €",
-      "final_price_str": "1,25 €"
-    },
-    {
-      "appid": "15a309fb744b4e789f02b4c39b2d7f66",
-      "namespace": "17821d25b37d41f5986120708995fd32",
-      "name": "Brick Breaker Premium",
-      "discount": 30,
-      "orig_cents": 89,
-      "final_cents": 62,
-      "orig_price_str": "0,89 €",
-      "final_price_str": "0,62 €"
-    },
-    {
-      "appid": "0e8e7f4775154487bc6943d665edef76",
-      "namespace": "9ace0bae889f45cc97fd30dac8e9321f",
-      "name": "The Ultimate Trivia Challenge",
-      "discount": 30,
-      "orig_cents": 449,
-      "final_cents": 314,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "3,14 €"
-    },
-    {
-      "appid": "bc881105be6c4cbab89085eb2568418a",
-      "namespace": "dbab40e0469a4565bfd04135208ef092",
-      "name": "Spaceman Defender",
-      "discount": 30,
-      "orig_cents": 179,
-      "final_cents": 125,
-      "orig_price_str": "1,79 €",
-      "final_price_str": "1,25 €"
+      "appid": "1f43c828798441a5b705f9ce89df21e4",
+      "namespace": "4d3d2b9aec6b4015bb6b6b3b620989ca",
+      "name": "Woodo",
+      "discount": 25,
+      "orig_cents": 1699,
+      "final_cents": 1274,
+      "orig_price_str": "16,99 €",
+      "final_price_str": "12,74 €"
     },
     {
       "appid": "e8ee7c830b4745a4a23de702f901873c",
@@ -2339,6 +2599,16 @@
       "final_cents": 2249,
       "orig_price_str": "29,99 €",
       "final_price_str": "22,49 €"
+    },
+    {
+      "appid": "54dd7805ed354915b5806f42bbb53baa",
+      "namespace": "58eb386001624553a5c2c6fdd9b47fd5",
+      "name": "Train Sim World® 7: Standard Edition",
+      "discount": 25,
+      "orig_cents": 4999,
+      "final_cents": 3749,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "37,49 €"
     },
     {
       "appid": "52cef33b572745339916ff8d10ef1cb0",
@@ -2361,6 +2631,36 @@
       "final_price_str": "26,99 €"
     },
     {
+      "appid": "1eb4fd25a53e49efa387f689d78708dd",
+      "namespace": "06eb7dab6d2d4bde8e6cd5c374811a96",
+      "name": "Cubin II",
+      "discount": 25,
+      "orig_cents": 799,
+      "final_cents": 599,
+      "orig_price_str": "7,99 €",
+      "final_price_str": "5,99 €"
+    },
+    {
+      "appid": "aeadd8b351f144aea5dce92ee58c0347",
+      "namespace": "19e0483ec6694be6913d83b87c79fde2",
+      "name": "NITRO GEN OMEGA",
+      "discount": 25,
+      "orig_cents": 2999,
+      "final_cents": 2249,
+      "orig_price_str": "29,99 €",
+      "final_price_str": "22,49 €"
+    },
+    {
+      "appid": "6dcdd4e9296e40d4964ef4a9fbbaab28",
+      "namespace": "d24ec7c4c61c42c3ae7379af08254c54",
+      "name": "Magin: The Rat Project Stories",
+      "discount": 25,
+      "orig_cents": 1999,
+      "final_cents": 1499,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "14,99 €"
+    },
+    {
       "appid": "a765dfa2e2284bc5aaeaf6da64a40305",
       "namespace": "a8a26ebbe8614bcda34e518ff4c74057",
       "name": "Falling in love with stockings",
@@ -2369,6 +2669,36 @@
       "final_cents": 336,
       "orig_price_str": "4,49 €",
       "final_price_str": "3,36 €"
+    },
+    {
+      "appid": "238bbfdb72dd48f196c3835fba2e1842",
+      "namespace": "099a5ae11e914547af1c0cca4c9ffde2",
+      "name": "REANIMAL",
+      "discount": 25,
+      "orig_cents": 3999,
+      "final_cents": 2999,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "29,99 €"
+    },
+    {
+      "appid": "43cf22db59274574b1042f76e9ce3244",
+      "namespace": "ffe59d108e3541b694f0d7e230a1e492",
+      "name": "Garden Gingdom",
+      "discount": 25,
+      "orig_cents": 1025,
+      "final_cents": 768,
+      "orig_price_str": "10,25 €",
+      "final_price_str": "7,68 €"
+    },
+    {
+      "appid": "db23532054d740b69050a0a253c916f6",
+      "namespace": "0ea7eefdd7eb470a8ec78c5f3bb28999",
+      "name": "Shrine's Legacy",
+      "discount": 25,
+      "orig_cents": 1999,
+      "final_cents": 1499,
+      "orig_price_str": "19,99 €",
+      "final_price_str": "14,99 €"
     },
     {
       "appid": "4416296a17d445ea9587adde810f8324",
@@ -2381,6 +2711,16 @@
       "final_price_str": "13,49 €"
     },
     {
+      "appid": "f7eeb8cad6164322992f4a37a4ef0f95",
+      "namespace": "42e41966e08f45bf8687353f59fadc05",
+      "name": "Swordhaven: Iron Conspiracy",
+      "discount": 25,
+      "orig_cents": 2239,
+      "final_cents": 1679,
+      "orig_price_str": "22,39 €",
+      "final_price_str": "16,79 €"
+    },
+    {
       "appid": "0c138e8739654d52b243131ef834e4e4",
       "namespace": "3bdab76bb72641d8b6af7facf6359ba6",
       "name": "Secret of the Vikings 2 - Der Weltenbaum",
@@ -2391,14 +2731,14 @@
       "final_price_str": "7,41 €"
     },
     {
-      "appid": "a789f71af3c04c99a3fb191e9886ee3c",
-      "namespace": "8ae3c382222c462492f25bab4800b77d",
-      "name": "Travellers Rest",
+      "appid": "9b6d6cc0e10a42a3a0aa4fe02f5dbee5",
+      "namespace": "a4e77bc04aa440a096962c14b63a41e8",
+      "name": "Vampire Survivors",
       "discount": 25,
-      "orig_cents": 1799,
-      "final_cents": 1349,
-      "orig_price_str": "17,99 €",
-      "final_price_str": "13,49 €"
+      "orig_cents": 449,
+      "final_cents": 336,
+      "orig_price_str": "4,49 €",
+      "final_price_str": "3,36 €"
     },
     {
       "appid": "69e7d426a0a5481391adffbc38c6f2bb",
@@ -2411,14 +2751,14 @@
       "final_price_str": "19,99 €"
     },
     {
-      "appid": "9f894ae9114c400890a0e9c6158c3e4b",
-      "namespace": "48ac423ca7b04454ac101084a7323ab4",
-      "name": "Wyrmhold",
+      "appid": "d9c78b77d2b7495f94747a0ab90bc9c0",
+      "namespace": "4a29cc273c1548b2921241c447ed4d8f",
+      "name": "Fangtopia",
       "discount": 20,
-      "orig_cents": 809,
-      "final_cents": 647,
-      "orig_price_str": "8,09 €",
-      "final_price_str": "6,47 €"
+      "orig_cents": 1299,
+      "final_cents": 1039,
+      "orig_price_str": "12,99 €",
+      "final_price_str": "10,39 €"
     },
     {
       "appid": "59e6c81526eb46d4a502b9d69f7f4ed0",
@@ -2441,6 +2781,46 @@
       "final_price_str": "2,15 €"
     },
     {
+      "appid": "4bfc72918d354f459cf1c49c7a44bd2c",
+      "namespace": "a3bc6d2109d541ecb37a646d6add1db3",
+      "name": "STAR WARS: Galactic Racer™",
+      "discount": 20,
+      "orig_cents": 5999,
+      "final_cents": 4799,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "47,99 €"
+    },
+    {
+      "appid": "53b4a3953efd4a0cb496148319aec741",
+      "namespace": "2db42190f5704065809661fb9e4216ea",
+      "name": "CONTROL Resonant",
+      "discount": 20,
+      "orig_cents": 5999,
+      "final_cents": 4799,
+      "orig_price_str": "59,99 €",
+      "final_price_str": "47,99 €"
+    },
+    {
+      "appid": "b322422183d3499299fc0ba170fbb8bc",
+      "namespace": "e152d0d1625548649caf26b58f81c4d4",
+      "name": "Halloween: The Game",
+      "discount": 20,
+      "orig_cents": 3599,
+      "final_cents": 2879,
+      "orig_price_str": "35,99 €",
+      "final_price_str": "28,79 €"
+    },
+    {
+      "appid": "a0bba087181f4109abf45f859c979a6d",
+      "namespace": "40026c75b79340d1be01fecbf139eb16",
+      "name": "Dispatch",
+      "discount": 20,
+      "orig_cents": 2899,
+      "final_cents": 2319,
+      "orig_price_str": "28,99 €",
+      "final_price_str": "23,19 €"
+    },
+    {
       "appid": "ec0b7a5dc12b4ff695afe0ef75780e3a",
       "namespace": "e1ce9afbf2a24931886dc3d7aee437fc",
       "name": "Eerie Night - Escape From The Funfair - Collectors Edition",
@@ -2459,6 +2839,36 @@
       "final_cents": 399,
       "orig_price_str": "4,99 €",
       "final_price_str": "3,99 €"
+    },
+    {
+      "appid": "810b95a69ffd4b41bbee65165aaa60cf",
+      "namespace": "c3315769c3a4402b8f778dc7adc187db",
+      "name": "The Crimson Maid",
+      "discount": 20,
+      "orig_cents": 1349,
+      "final_cents": 1079,
+      "orig_price_str": "13,49 €",
+      "final_price_str": "10,79 €"
+    },
+    {
+      "appid": "020d849e2ac047b3bf5dd561a920aaa6",
+      "namespace": "2661f476c01a4807aacb5c275ece4876",
+      "name": "Warhammer 40,000: Mechanicus II",
+      "discount": 20,
+      "orig_cents": 3999,
+      "final_cents": 3199,
+      "orig_price_str": "39,99 €",
+      "final_price_str": "31,99 €"
+    },
+    {
+      "appid": "690c253e4a6b43f2bd39d07a5e5dce1a",
+      "namespace": "bfc8fbfd0bcb4e73847527e71b15ce3a",
+      "name": "The Greenening",
+      "discount": 20,
+      "orig_cents": 449,
+      "final_cents": 359,
+      "orig_price_str": "4,49 €",
+      "final_price_str": "3,59 €"
     },
     {
       "appid": "5f22c6f6c9d24916bbc178c2b34816e8",
@@ -2481,6 +2891,46 @@
       "final_price_str": "12,23 €"
     },
     {
+      "appid": "fa9c45c5272445329079d83b955498fc",
+      "namespace": "8f500b576fb64161b9ec814e69c304e5",
+      "name": "Everything is Crab",
+      "discount": 20,
+      "orig_cents": 999,
+      "final_cents": 799,
+      "orig_price_str": "9,99 €",
+      "final_price_str": "7,99 €"
+    },
+    {
+      "appid": "dc0570f9560c4cb4bd31fb12434d108d",
+      "namespace": "c3ff77f974e74fb29df62680f6248590",
+      "name": "Sudden Strike 5",
+      "discount": 20,
+      "orig_cents": 4999,
+      "final_cents": 3999,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "39,99 €"
+    },
+    {
+      "appid": "0b5545086fcc402a9f59458124edaab4",
+      "namespace": "81154c0e154e49259d34a1195b185cbe",
+      "name": "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors",
+      "discount": 20,
+      "orig_cents": 999,
+      "final_cents": 799,
+      "orig_price_str": "9,99 €",
+      "final_price_str": "7,99 €"
+    },
+    {
+      "appid": "4a85dcf0e571453f8964fa4df2b4bb13",
+      "namespace": "c2b9a96f930a4652bcd4f1310eb9a88a",
+      "name": "Rags to Riches",
+      "discount": 20,
+      "orig_cents": 899,
+      "final_cents": 719,
+      "orig_price_str": "8,99 €",
+      "final_price_str": "7,19 €"
+    },
+    {
       "appid": "93fa632bf25b4361abb3a79c86e3f822",
       "namespace": "302e7fc27b6c4f1987e500aa11b0c35a",
       "name": "Crimson Desert Enhanced",
@@ -2499,6 +2949,16 @@
       "final_cents": 2399,
       "orig_price_str": "29,99 €",
       "final_price_str": "23,99 €"
+    },
+    {
+      "appid": "dcc31f8cf33344268d3348dbb69466b8",
+      "namespace": "75eac821bed84a60a775f075aaed123c",
+      "name": "Super Cauldron",
+      "discount": 20,
+      "orig_cents": 899,
+      "final_cents": 719,
+      "orig_price_str": "8,99 €",
+      "final_price_str": "7,19 €"
     },
     {
       "appid": "b33de24a515b4df0bfbe230cfda9e8b3",
@@ -2521,6 +2981,16 @@
       "final_price_str": "14,39 €"
     },
     {
+      "appid": "888a57dadb374345ab77cd8c7b94f985",
+      "namespace": "fd04af72ea0f437aad3a15acd9ed5508",
+      "name": "Clair Obscur: Expedition 33",
+      "discount": 20,
+      "orig_cents": 4999,
+      "final_cents": 3999,
+      "orig_price_str": "49,99 €",
+      "final_price_str": "39,99 €"
+    },
+    {
       "appid": "a0860bb289954bf3a3f9d04085e0dd74",
       "namespace": "1560126d50e04b82b96f3b01c89f597d",
       "name": "Barton Lynch Pro Surfing",
@@ -2529,197 +2999,7 @@
       "final_cents": 3599,
       "orig_price_str": "44,99 €",
       "final_price_str": "35,99 €"
-    },
-    {
-      "appid": "fd42d093b99f4b85a33eea46c8fd9fa8",
-      "namespace": "aaa3a072db214fa4ac07589dbe362010",
-      "name": "Last Caveman",
-      "discount": 20,
-      "orig_cents": 1259,
-      "final_cents": 1007,
-      "orig_price_str": "12,59 €",
-      "final_price_str": "10,07 €"
-    },
-    {
-      "appid": "83e260bd1cc44730b8b95adb72b1ce1c",
-      "namespace": "5a3d9085a5f94bec83d0e871c9e486af",
-      "name": "Royal Class Poker",
-      "discount": 20,
-      "orig_cents": 989,
-      "final_cents": 791,
-      "orig_price_str": "9,89 €",
-      "final_price_str": "7,91 €"
-    },
-    {
-      "appid": "f41019848ab64fea9ddddd2776c8e7e3",
-      "namespace": "f7e7afad1a1549a69dd02d825dedf998",
-      "name": "Darkwood Tales - Beast in the Shadows",
-      "discount": 20,
-      "orig_cents": 989,
-      "final_cents": 791,
-      "orig_price_str": "9,89 €",
-      "final_price_str": "7,91 €"
-    },
-    {
-      "appid": "3fe7eaeca2fa474187fc338a5324ae11",
-      "namespace": "3b391953ce4b42bb9a28a2fee249154b",
-      "name": "Brotato",
-      "discount": 20,
-      "orig_cents": 499,
-      "final_cents": 399,
-      "orig_price_str": "4,99 €",
-      "final_price_str": "3,99 €"
-    },
-    {
-      "appid": "34986e5f725a454ca11b38e3fb806268",
-      "namespace": "4b562eb9baa5482ea14bdff1af498af1",
-      "name": "Psychiatrist Simulator",
-      "discount": 20,
-      "orig_cents": 420,
-      "final_cents": 336,
-      "orig_price_str": "4,20 €",
-      "final_price_str": "3,36 €"
-    },
-    {
-      "appid": "a8c35b8d2fa44f588209e93a29da2598",
-      "namespace": "061f20118c354f0c8b0970a3e1959871",
-      "name": "Falling in love with stockings 6",
-      "discount": 15,
-      "orig_cents": 449,
-      "final_cents": 381,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "3,81 €"
-    },
-    {
-      "appid": "629eacbc56494960a2a50868cf1c6da8",
-      "namespace": "5c7d04e2a1ab49f3b98d93f3683d76c6",
-      "name": "Habitus",
-      "discount": 15,
-      "orig_cents": 449,
-      "final_cents": 381,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "3,81 €"
-    },
-    {
-      "appid": "89373bd5b2cb48ecba23bef9b57c3368",
-      "namespace": "95a504bcb62445569e0e165fdb098c8e",
-      "name": "Falling in love with stockings 5",
-      "discount": 15,
-      "orig_cents": 449,
-      "final_cents": 381,
-      "orig_price_str": "4,49 €",
-      "final_price_str": "3,81 €"
-    },
-    {
-      "appid": "382b1c80a04c4324932cb033f510e1a7",
-      "namespace": "7a40aa24d4e54df09fa67c25413a57b5",
-      "name": "C64 and AMIGA Classix Remakes Sixpack",
-      "discount": 15,
-      "orig_cents": 809,
-      "final_cents": 687,
-      "orig_price_str": "8,09 €",
-      "final_price_str": "6,87 €"
-    },
-    {
-      "appid": "c0f1738ae0dc42858e88b961b2a66afa",
-      "namespace": "a88655839ba04461bb4f1eea2aa18f58",
-      "name": "C64 and AMIGA Classix Remakes Sixpack 2",
-      "discount": 15,
-      "orig_cents": 809,
-      "final_cents": 687,
-      "orig_price_str": "8,09 €",
-      "final_price_str": "6,87 €"
-    },
-    {
-      "appid": "016c2a66899d44b2b33c7b4a91b6872a",
-      "namespace": "3b068fc8d6604b598010916018e5b47e",
-      "name": "2 in 1 Erlebnis Wimmelbilder",
-      "discount": 15,
-      "orig_cents": 989,
-      "final_cents": 840,
-      "orig_price_str": "9,89 €",
-      "final_price_str": "8,40 €"
-    },
-    {
-      "appid": "bdc75a5968894f46b1a0ed51fded6d84",
-      "namespace": "3daa3e92eb884f35bc9ad904ac7a6f2b",
-      "name": "2 in 1 Wimmelbild Welten",
-      "discount": 15,
-      "orig_cents": 989,
-      "final_cents": 840,
-      "orig_price_str": "9,89 €",
-      "final_price_str": "8,40 €"
-    },
-    {
-      "appid": "eb0a34142d2d49629ff85d154feaa25f",
-      "namespace": "adc42fab929d4fd5b975791a33cd4a6a",
-      "name": "Heroes of Rome 3 - Die Bruderschaft",
-      "discount": 15,
-      "orig_cents": 999,
-      "final_cents": 849,
-      "orig_price_str": "9,99 €",
-      "final_price_str": "8,49 €"
-    },
-    {
-      "appid": "57237655472c422082c06251e5e48b1e",
-      "namespace": "fee1c2bb12e5436cac8270f734331a04",
-      "name": "Tropico 7",
-      "discount": 10,
-      "orig_cents": 5499,
-      "final_cents": 4949,
-      "orig_price_str": "54,99 €",
-      "final_price_str": "49,49 €"
-    },
-    {
-      "appid": "81820e258bbd4dc593afc7f83b944fac",
-      "namespace": "4312a6c998a34b6698ecd9730b80f5a9",
-      "name": "STAGE TOUR",
-      "discount": 10,
-      "orig_cents": 3999,
-      "final_cents": 3599,
-      "orig_price_str": "39,99 €",
-      "final_price_str": "35,99 €"
-    },
-    {
-      "appid": "fe5bb7ef3b0b4e42a6e42448077cd78b",
-      "namespace": "1f70d37413ce4fb6a8314e0f43f3d52d",
-      "name": "Happy Catgirl",
-      "discount": 10,
-      "orig_cents": 359,
-      "final_cents": 323,
-      "orig_price_str": "3,59 €",
-      "final_price_str": "3,23 €"
-    },
-    {
-      "appid": "713dd5a349fb40108f396cffc8438982",
-      "namespace": "7f29cab084694253972d243b98bd11ae",
-      "name": "MiniHero: Wonderbound",
-      "discount": 10,
-      "orig_cents": 519,
-      "final_cents": 467,
-      "orig_price_str": "5,19 €",
-      "final_price_str": "4,67 €"
-    },
-    {
-      "appid": "9248cf30d40f4a54945e956e7793339e",
-      "namespace": "bffa16d5a67c472290aa04976f7191bb",
-      "name": "DERELIKT",
-      "discount": 10,
-      "orig_cents": 1799,
-      "final_cents": 1619,
-      "orig_price_str": "17,99 €",
-      "final_price_str": "16,19 €"
-    },
-    {
-      "appid": "e210137010294d2c89366345040d245c",
-      "namespace": "a6b874a0dbd14c76947ea0c6a52e4d61",
-      "name": "Trivia Murder Party 3",
-      "discount": 10,
-      "orig_cents": 1349,
-      "final_cents": 1214,
-      "orig_price_str": "13,49 €",
-      "final_price_str": "12,14 €"
     }
   ],
-  "total": 272
+  "total": 949
 }
